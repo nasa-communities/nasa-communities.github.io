@@ -21,12 +21,12 @@ layout: default
   {% for club in site.clubs %}
   <div class="feature col">
     <div class="card">
-      <img src="images/earth.png" class="card-img-top" alt="...">
+      <img src="images/{{ club.thumbnail }}" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">{{ club.name }}</h5>
-        <h6 class="card-subtitle mb-2 text-body-secondary">Pithy Slogan!</h6>    
+        <h6 class="card-subtitle mb-2 text-body-secondary">{{ club.slogan }}</h6>    
         <p class="card-text">
-          <em>Lorem ipsum dolor sit amet consectetur adipiscing elit. Semper vel class aptent taciti sociosqu ad litora.</em>
+          <em>{{ club.description }}</em>
         </p>
       </div>
       <div class="card-footer text-body-secondary">
