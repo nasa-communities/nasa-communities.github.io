@@ -1,0 +1,3 @@
+---
+name: Stamp Collecting (Philately)
+---
