@@ -20,19 +20,21 @@ layout: default
 <div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
   {% for club in site.clubs %}
   <div class="feature col">
-    <div class="card">
-      <img src="images/{{ club.thumbnail }}" class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title">{{ club.name }}</h5>
-        <h6 class="card-subtitle mb-2 text-body-secondary">{{ club.slogan }}</h6>    
-        <p class="card-text">
-          <em>{{ club.description }}</em>
-        </p>
+    <a href="{{ club.url }}" title="The {{ club.name }} Club!" class="link-underline-light">
+      <div class="card text-bg-light">
+        <img src="images/{{ club.thumbnail }}" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">{{ club.name }}</h5>
+          <h6 class="card-subtitle mb-2 text-body-secondary">{{ club.slogan }}</h6>    
+          <p class="card-text">
+            <em>{{ club.description }}</em>
+          </p>
+        </div>
+        <div class="card-footer text-body-secondary">
+          <em>Lorem ipsum</em>
+        </div>
       </div>
-      <div class="card-footer text-body-secondary">
-        <em>Lorem ipsum</em>
-      </div>
-    </div>
+    </a>
   </div>
   {% endfor %}
 </div>

@@ -2,4 +2,57 @@
 layout: default
 ---
 
+<div class="container col-xl-10 col-xxl-8 px-4 py-4">
+  <div class="row align-items-center g-lg-5 py-5">
+    <div class="col-lg-7 text-center text-lg-start">
+      <h1 class="display-4 fw-bold lh-1 mb-3">{{ page.name }}</h1>
+      <p class="col-lg-10 fs-4"><strong>{{ page.slogan }}</strong></p>
+      <p class="col-lg-10 fs-4"><em>{{ page.description }}</em></p>
+    </div>
+    <div class="col-md-10 mx-auto col-lg-5">
+      <small class="fs-4 text-muted"><em>If you'd like to learn more or get involved...</em></small>
+      <a href="mailto:{{ page.contact }}?subject=The%20{{ page.name }}%20Club%21&body=Hello%21%0A%0AI%27d%20like%20to%20learn%20more%20or%20get%20involved%20with%20the%20{{ page.name }}%20club%21%0A%0AThanks%21" class="w-100 btn btn-lg btn-outline-primary my-4" type="submit">Get in touch! <i class="fa-solid fa-envelope fa-fw"></i></a>
+      
+      <ul class="list-inline text-center fs-4">
+        {% if page.socials.github %}
+        <li class="list-inline-item">
+          <a href="{{ page.socials.github }}" target="_blank">
+            <i class="fa-brands fa-github"></i>
+          </a>
+        </li>
+        {% endif %}
+        {% if page.socials.facebook %}
+        <li class="list-inline-item">
+          <a href="{{ page.socials.facebook }}" target="_blank">
+            <i class="fa-brands fa-facebook"></i>
+          </a>
+        </li>
+        {% endif %}
+        {% if page.socials.instagram %}
+        <li class="list-inline-item">
+          <a href="{{ page.socials.instagram }}" target="_blank">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+        </li>
+        {% endif %}
+        {% if page.socials.twitter %}
+        <li class="list-inline-item">
+          <a href="{{ page.socials.twitter }}" target="_blank">
+            <i class="fa-brands fa-twitter"></i>
+          </a>
+        </li>
+        {% endif %}
+        {% if page.socials.youtube %}
+        <li class="list-inline-item">
+          <a href="{{ page.socials.youtube }}" target="_blank">
+            <i class="fa-brands fa-youtube"></i>
+          </a>
+        </li>
+        {% endif %}
+      </ul>
+    </div>
+  </div>
+</div>
+
 {{ content }}
+
