@@ -25,13 +25,12 @@ layout: default
         <img src="/images/{{ club.thumbnail }}" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title">{{ club.name }}</h5>
-          <h6 class="card-subtitle mb-2 text-body-secondary">{{ club.slogan }}</h6>    
           <p class="card-text">
             <em>{{ club.description }}</em>
           </p>
         </div>
         <div class="card-footer text-body-secondary">
-          <em>Lorem ipsum</em>
+          <em>{{ club.slogan }}</em>
         </div>
       </div>
     </a>
