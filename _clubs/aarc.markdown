@@ -1,6 +1,6 @@
 ---
 name: Ames Amateur Radio
-acronym: AARC
+title: AARC
 slogan: Become Radio Active!
 description: Interested in amateur radio? Join us to ask questions, tinker, and learn all about the tech, equipment, and opportunities to get involved!
 thumbnail: aarc.png
