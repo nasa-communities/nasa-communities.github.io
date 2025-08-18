@@ -1,0 +1,72 @@
+---
+layout: default
+---
+
+<div class="container col-xl-10 col-xxl-8 px-4 py-4">
+  <div class="row align-items-center g-lg-5 py-5">
+    <div class="col-lg-4">
+      <img src="/images/{{ page.thumbnail }}" class="card-img-top" alt="...">
+    </div>
+    <div class="col-lg-8 text-center text-lg-start">
+      <h1>
+        <strong class="display-4">{{ page.name }}</strong><br>
+        <small class="text-body-secondary"><em>{{ page.slogan }}</em></small>
+      </h1>
+      <p class="lead text-start">
+        <em>{{ page.description }}</em>
+        {% if page.contact-email %}
+        <a href="mailto:{{ page.contact-email }}?subject=The%20{{ page.name }}%20Club%21&body=Hello%21%0A%0AI%27d%20like%20to%20learn%20more%20or%20get%20involved%20with%20the%20{{ page.name }}%20club%21%0A%0AThanks%21" class="w-100 btn btn-lg btn-outline-primary my-4" type="submit">Get in touch! <i class="fa-solid fa-envelope fa-fw"></i></a>
+        {% endif %}
+      </p>
+      
+      <!-- Socials -->
+      <ul class="list-inline text-center fs-4">
+        {% if page.socials.github %}
+        <li class="list-inline-item">
+          <a href="{{ page.socials.github }}" target="_blank">
+            <i class="fa-brands fa-github"></i>
+          </a>
+        </li>
+        {% endif %}
+        {% if page.socials.facebook %}
+        <li class="list-inline-item">
+          <a href="{{ page.socials.facebook }}" target="_blank">
+            <i class="fa-brands fa-facebook"></i>
+          </a>
+        </li>
+        {% endif %}
+        {% if page.socials.instagram %}
+        <li class="list-inline-item">
+          <a href="{{ page.socials.instagram }}" target="_blank">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+        </li>
+        {% endif %}
+        {% if page.socials.twitter %}
+        <li class="list-inline-item">
+          <a href="{{ page.socials.twitter }}" target="_blank">
+            <i class="fa-brands fa-twitter"></i>
+          </a>
+        </li>
+        {% endif %}
+        {% if page.socials.youtube %}
+        <li class="list-inline-item">
+          <a href="{{ page.socials.youtube }}" target="_blank">
+            <i class="fa-brands fa-youtube"></i>
+          </a>
+        </li>
+        {% endif %}
+      </ul>
+
+    </div>
+  </div>
+</div>
+
+<div class="container pb-5">
+  <div class="row">
+    <div class="col-xl-12">
+    {{ content }}
+    </div>
+  </div>
+</div>
+

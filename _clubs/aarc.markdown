@@ -13,7 +13,7 @@ contact-email: mark.r.allard@nasa.gov
 #   instagram: /
 #   youtube: /
   
-layout: page
+layout: club
 ---
 
 The Ames Amateur Radio Club (AARC), chartered in 1984, exists to provide a matrix of services, technologies, skills, equipment, opportunities, and resources for those at NASA-Ames Research Center, on the Moffett Federal Airfield, and in the local community, who are interested in amateur radio, related communication technologies, associated special events, and morale, welfare, and recreational (MWR) activities supporting and promoting NASA, Ames Research Center, and their interfaces to the local Amateur Radio community.
