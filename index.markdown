@@ -10,7 +10,7 @@ layout: default
   <div class="row align-items-center g-lg-5 py-5">
     <div class="col-lg-7 text-center text-lg-start">
       <h1 class="display-4 fw-bold lh-1 mb-3">Hello, world!</h1>
-      <p class="col-lg-10 fs-4">Welcome to NASA Communities. A landing spot for employee and alumni clubs and such. Browse around and have a look!</p>
+      <p class="col-lg-10 fs-4">Welcome to NASA Communities. A landing spot (and launchpad!) for employee and alumni clubs and such. Browse around and have a look!</p>
     </div>
   </div>
 </div>
