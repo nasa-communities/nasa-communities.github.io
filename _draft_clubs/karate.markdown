@@ -2,7 +2,7 @@
 name: Cuong Nhu Karate Club
 slogan: Pithy slogan!
 description: Biweekly Cuong Nhu karate training classes at NASA/GSFC in Greenbelt, Maryland.
-thumbnail: mars.png
+thumbnail: cnhu.gif
 
 contact-email: james.c.olsen@nasa.gov
 socials:
