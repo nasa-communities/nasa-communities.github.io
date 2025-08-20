@@ -1,10 +1,10 @@
 ---
-name: Karate
+name: Cuong Nhu Karate Club
 slogan: Pithy slogan!
-description: Lorem ipsum dolor sit amet consectetur adipiscing elit. Semper vel class aptent taciti sociosqu ad litora.
+description: Biweekly Cuong Nhu karate training classes at NASA/GSFC in Greenbelt, Maryland.
 thumbnail: mars.png
 
-contact-email: jane.doe@gmail.gov
+contact-email: james.c.olsen@nasa.gov
 socials:
   twitter: /
   github: /
@@ -15,17 +15,38 @@ socials:
 layout: page
 ---
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Leo eu aenean sed diam urna tempor pulvinar. Semper vel class aptent taciti sociosqu ad litora. Mus donec rhoncus eros lobortis nulla molestie mattis. 
+[**Cuong Nhu**](https://www.cuongnhu.com/) was founded in 1965 by **Grand Master Ngo Dong** in Vietnam. Cuong Nhu combines the hard-style blocks, punches, and kicks of Japanese **Shotokan** karate with the softer, more circular movements of arts such as **Judo**, **Aikido**, **Wing Chun**, **Tai Chi Chuan**, and **Vovinam** (a Vietnamese art). A few of the elements of **Boxing** can also be found in Cuong Nhu. It is this blending of hard and soft styles from which Cuong Nhu derives its name, which is Vietnamese for Hard (Cuong) - Soft (Nhu).
 
-Blandit quis suspendisse aliquet nisi sodales consequat magna. Ac tincidunt nam porta elementum a enim euismod. Cras eleifend turpis fames primis vulputate ornare sagittis. Netus suscipit auctor curabitur facilisi cubilia curae hac. Sem placerat in id cursus mi pretium tellus. Egestas iaculis massa nisl malesuada lacinia integer nunc. Orci varius natoque penatibus et magnis dis parturient. 
+In 1971, Grand Master Dong came to the United States to pursue a Ph.D. in entomology at the University of Florida. In September 1971, he opened the first Cuong Nhu Karate club in the United States. Within two years, this club grew into the largest intramural club on campus, with over two hundred students participating. Many of those early students went on to establish their own Cuong Nhu schools after leaving the University of Florida, thus spreading the style all over the United States and around the world.
 
-## Upcoming Events
+**Am Duong** (Yin-Yang in Vietnamese) club was formed in 1987 at the NASA/Goddard Space Flight Center. **[Classes](#classes) are held on Mondays and Thursdays from 5:30 to 7:00 pm.** The normal Am Duong dojo (training place) is located in the **Building 28 Atrium**.
 
-### 2025-10-10 - Non purus est efficitur 
+In addition to learning empty-hand techniques, students train with weapons such as **Tambo** (short stick) and **Bo** (long stick).
 
-Laoreet mauris pharetra vestibulum. Finibus facilisis dapibus etiam interdum tortor ligula congue. Dignissim velit aliquam imperdiet mollis nullam volutpat porttitor. Proin libero feugiat tristique accumsan maecenas potenti ultricies. Sit amet consectetur adipiscing elit quisque faucibus ex. Sed diam urna tempor pulvinar vivamus fringilla lacus. Aptent taciti sociosqu ad litora torquent per conubia. Eros lobortis nulla molestie mattis scelerisque maximus eget. 
+## Instructors
 
-### 2026-01-01 - Aliquet nisi sodales 
+* Jim Thieman, 301.286.9790 (Sandan)
+* Felix Noreiga, 301.614.6917 (Nidan)
+* Alex Pavlov, 301.614.5945 (Black Belt)
+* Alex Nguyen (Black Belt)
 
-Consequat magna ante condimentum neque. Porta elementum a enim euismod quam justo lectus. Fames primis vulputate ornare sagittis vehicula praesent dui. Curabitur facilisi cubilia curae hac habitasse platea dictumst. Id cursus mi pretium tellus duis convallis tempus. Nisl malesuada lacinia integer nunc posuere ut hendrerit.
+## Officers
 
+* Acting President: James Olsen, 301.286.4844
+* Vice President: Dylan Baker, 301.286.0083
+* Treasurer/Secretary: Alex Pavlov, 301.614.5945
+
+## Dues
+$40 twice a year
+
+## Classes
+
+* Mondays and Thursdays, 5:30-7:00 pm
+* Building 28, Atrium, NASA/GSFC
+* Contact Alex Pavlov for more information at [301.614.5945](tel:3016145945)
+
+## Videos
+
+* Master Bao's Tiger Form
+* Master Lap's Tiger Form
+* Tom Panton's Tiger Form
