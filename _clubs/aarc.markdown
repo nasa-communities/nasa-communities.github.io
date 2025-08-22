@@ -4,6 +4,7 @@ title: AARC
 slogan: Become Radio Active!
 description: Interested in amateur radio? Join us to ask questions, tinker, and learn all about the tech, equipment, and opportunities to get involved!
 thumbnail: aarc.png
+categories: ames
 
 contact-email: mark.r.allard@nasa.gov
 # socials:
@@ -16,13 +17,13 @@ contact-email: mark.r.allard@nasa.gov
 layout: club
 ---
 
-The Ames Amateur Radio Club (AARC), chartered in 1984, exists to provide a matrix of services, technologies, skills, equipment, opportunities, and resources for those at NASA-Ames Research Center, on the Moffett Federal Airfield, and in the local community, who are interested in amateur radio, related communication technologies, associated special events, and morale, welfare, and recreational (MWR) activities supporting and promoting NASA, Ames Research Center, and their interfaces to the local Amateur Radio community.
+The **Ames Amateur Radio Club (AARC)**, chartered in 1984, exists to provide a matrix of services, technologies, skills, equipment, opportunities, and resources for those at NASA-Ames Research Center, on the Moffett Federal Airfield, and in the local community, who are interested in amateur radio, related communication technologies, associated special events, and morale, welfare, and recreational (MWR) activities supporting and promoting NASA, Ames Research Center, and their interfaces to the local Amateur Radio community.
 
 Members of the club are available to guide newcomers and enjoy sharing their knowledge about Amateur Radio.
 
-The club station, NA6MF, is affiliated with the Amateur Radio Relay League (ARRL) http://www.arrl.com.
+The club station, NA6MF, is affiliated with the [Amateur Radio Relay League (ARRL)](https://www.arrl.com).
 
-The AARC is coordinated with the Silicon Valley Emergency Communications System (SVECS at http://www.svecs.net), an ARES/RACES association, and provides an ARES/RACES point of presence on Moffett Field available to provide Auxiliary Communications Service (ACS) support as may be requested; http://www.scc-ares-races.org.
+The AARC is coordinated with the [Silicon Valley Emergency Communications System (SVECS)](https://www.svecs.net), an ARES/RACES association, and provides an ARES/RACES point of presence on Moffett Field available to provide Auxiliary Communications Service (ACS) support as may be requested; [https://www.scc-ares-races.org](https://www.scc-ares-races.org).
 
 Club members support a wide variety of HF, VHF, and UHF communications modes for educational and recreational purposes as well as provide voluntary public service and emergency communications support to Ames, Santa Clara County, and special events occurring on the Moffett Field complex.
 
