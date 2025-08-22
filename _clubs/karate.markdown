@@ -3,16 +3,17 @@ name: Cuong Nhu Karate Club
 slogan: Pithy slogan!
 description: Biweekly Cuong Nhu karate training classes at NASA/GSFC in Greenbelt, Maryland.
 thumbnail: cnhu.gif
+categories: goddard
 
 contact-email: james.c.olsen@nasa.gov
-socials:
-  twitter: /
-  github: /
-  facebook: /
-  instagram: /
-  youtube: /
+#socials:
+#  twitter: /
+#  github: /
+#  facebook: /
+#  instagram: /
+#  youtube: /
   
-layout: page
+layout: club
 ---
 
 [**Cuong Nhu**](https://www.cuongnhu.com/) was founded in 1965 by **Grand Master Ngo Dong** in Vietnam. Cuong Nhu combines the hard-style blocks, punches, and kicks of Japanese **Shotokan** karate with the softer, more circular movements of arts such as **Judo**, **Aikido**, **Wing Chun**, **Tai Chi Chuan**, and **Vovinam** (a Vietnamese art). A few of the elements of **Boxing** can also be found in Cuong Nhu. It is this blending of hard and soft styles from which Cuong Nhu derives its name, which is Vietnamese for Hard (Cuong) - Soft (Nhu).
