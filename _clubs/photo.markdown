@@ -1,11 +1,8 @@
 ---
 name: Goddard Photo Club
-slogan: Pithy slogan!
 description: Lorem ipsum dolor sit amet consectetur adipiscing elit. Semper vel class aptent taciti sociosqu ad litora.
 thumbnail: mars.png
 categories: goddard
-sub-pages:
- - officers
 
 contact-email: jane.doe@gmail.gov
 socials:
