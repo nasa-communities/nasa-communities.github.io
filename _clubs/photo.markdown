@@ -1,10 +1,11 @@
 ---
 name: Goddard Photo Club
-description: Lorem ipsum dolor sit amet consectetur adipiscing elit. Semper vel class aptent taciti sociosqu ad litora.
-thumbnail: mars.png
+description: Field trips, workshops, events, presentations, and social events for all who enjoy photography.
+thumbnail: photoclub_logo.png
 categories: goddard
 
 contact-email: jane.doe@gmail.gov
+
 socials:
 #  twitter: /
 #  github: /
@@ -20,9 +21,7 @@ The **Goddard Photo Club** is for employees of Goddard and their families and pr
 
 Potential members may browse our site to assist them with their photographic needs, to find information about the club, and they are welcome at any Club meeting.
 
-If you have questions regarding the club, check the [Officers & Contacts]() page to assist you in reaching the correct person.
-
-
+If you have questions regarding the club, check the [Officers & Contacts]() section to assist you in reaching the correct person.
 
 ## Upcoming Events
 

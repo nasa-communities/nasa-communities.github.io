@@ -6,14 +6,23 @@ thumbnail: GCAC_logo.jpg
 categories: goddard
 
 contact-email: Minlin.H.Chang@nasa.gov
-socials:
-  twitter: /
-  github: /
-  facebook: /
-  instagram: /
-  youtube: /
-  
-layout: club
+
+#socials:
+#  twitter: /
+#  github: /
+#  facebook: /
+#  instagram: /
+#  youtube: /
+
+anchors:
+  - { text: Upcoming Events, anchor: upcoming-events }
+  - { text: Memberships & Benefits, anchor: memberships-benefits }
+  - { text: Past Activities, anchor: past-activities }
+  - { text: Newsletters, anchor: newsletters }
+  - { text: Officials, anchor: officials }
+  - { text: Bylaws, anchor: bylaws }
+
+layout: club-with-nav
 ---
 
 The **Goddard Chinese American Club (GCAC)** was founded in 1987. The primary objective of the club is to promote and provide professional, social, and cultural activities among the club members and in the GSFC community. 
@@ -191,7 +200,7 @@ Please contact the [club president](#officials) for rosters of past club officia
 OF<br/>
 GODDARD CHINESE AMERICAN CLUB<br/>
 AT<br/>
-NASA GODDARD SPACE FLIGHT CENTER</b><br/></center>
+NASA GODDARD SPACE FLIGHT CENTER</b><br/></center><br/>
 
 
 Adopted July 24, 1987  

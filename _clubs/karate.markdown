@@ -5,6 +5,7 @@ thumbnail: cnhu.gif
 categories: goddard
 
 contact-email: james.c.olsen@nasa.gov
+
 #socials:
 #  twitter: /
 #  github: /
@@ -24,14 +25,12 @@ In 1971, Grand Master Dong came to the United States to pursue a Ph.D. in entomo
 In addition to learning empty-hand techniques, students train with weapons such as **Tambo** (short stick) and **Bo** (long stick).
 
 ## Instructors
-
 * Jim Thieman, 301.286.9790 (Sandan)
 * Felix Noreiga, 301.614.6917 (Nidan)
 * Alex Pavlov, 301.614.5945 (Black Belt)
 * Alex Nguyen (Black Belt)
 
 ## Officers
-
 * Acting President: James Olsen, 301.286.4844
 * Vice President: Dylan Baker, 301.286.0083
 * Treasurer/Secretary: Alex Pavlov, 301.614.5945
@@ -40,13 +39,11 @@ In addition to learning empty-hand techniques, students train with weapons such 
 $40 twice a year
 
 ## Classes
-
 * Mondays and Thursdays, 5:30-7:00 pm
 * Building 28, Atrium, NASA/GSFC
 * Contact Alex Pavlov for more information at [301.614.5945](tel:3016145945)
 
 ## Videos
-
 * Master Bao's Tiger Form
 * Master Lap's Tiger Form
 * Tom Panton's Tiger Form
