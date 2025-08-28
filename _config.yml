@@ -26,4 +26,4 @@ markdown: kramdown
 collections:
   clubs:
     output: true
-    permalink: /:collection/:slugified_categories/:slug/
+    permalink: /:collection/:slug/
