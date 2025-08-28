@@ -36,3 +36,12 @@ body > .container {
 code {
   font-size: 80%;
 }
+
+.header-light {
+  background-color: #ffffff;
+  opacity: 0.95;
+}
+
+.sidebar-nav {
+  /* background-color: #ffffff; */
+}

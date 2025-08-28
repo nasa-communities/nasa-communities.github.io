@@ -1,0 +1,21 @@
+<div class="d-flex flex-column mb-auto p-3 h-100 sidebar-nav">
+  <a href="/" class="d-flex link-dark text-decoration-none"> <span
+      class="fs-4">Hop to <i class="fa-solid fa-rabbit-running"></i></span>
+  </a>
+  <hr>
+  <ul class="nav flex-column mb-auto">
+    {% for anchor in page.anchors %}
+    <li class="nav-item">
+      <a href="#{{ anchor.anchor }}" class="nav-link link-dark">
+        {{ anchor.text }}
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+  <hr>
+  <div>
+    <a href="#" class="d-flex link-dark text-decoration-none">
+      <strong>Top <i class="fa-regular fa-rocket-vertical"></i></strong>
+    </a>
+  </div>
+</div>
