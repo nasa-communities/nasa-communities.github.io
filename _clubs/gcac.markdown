@@ -16,7 +16,7 @@ contact-email: Minlin.H.Chang@nasa.gov
 
 anchors:
   - { text: Upcoming Events, anchor: upcoming-events }
-  - { text: Memberships & Benefits, anchor: memberships-benefits }
+  - { text: Memberships & Benefits, anchor: memberships--benefits }
   - { text: Past Activities, anchor: past-activities }
   - { text: Newsletters, anchor: newsletters }
   - { text: Officials, anchor: officials }
