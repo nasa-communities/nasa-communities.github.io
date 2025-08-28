@@ -2,7 +2,7 @@
 name: Sailing
 slogan: Pithy slogan!
 description: Lorem ipsum dolor sit amet consectetur adipiscing elit. Semper vel class aptent taciti sociosqu ad litora.
-thumbnail: moon.png
+thumbnail: GSA_logo.jpg
 
 contact-email: jane.doe@gmail.gov
 socials:
