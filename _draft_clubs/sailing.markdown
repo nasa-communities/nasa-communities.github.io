@@ -1,7 +1,7 @@
 ---
 name: Goddard Sailing Association
-slogan: Pithy slogan!
-description: Lorem ipsum dolor sit amet consectetur adipiscing elit. Semper vel class aptent taciti sociosqu ad litora.
+slogan: Sail away with us!
+description: GSA offers NASA employees and their families the opportunity to sail Flying Scots and a cabin cruiser on the Chesapeake Bay at substantially lower-than-market rates, with instruction classes, social activities, and convenient access from the DC area.
 thumbnail: GSA_logo.jpg
 
 contact-email: tamas.varnai@nasa.gov
@@ -90,6 +90,147 @@ All Goddard employees (civil servants and contractors) and family members are we
 - Sign up for a sailing class or, if you already know to sail, arrange for a qualification test with [Doug Frantz](mailto:douglas.e.frantz@nasa.gov).
 - Once qualified, enjoy sailing from sometime in April to late October.
 - Contact [our officers and volunteers](#points-of-contact) with any questions.
+
+---
+
+## Sailing classes
+
+To sign up for sailing classes, please fill out this [class registration form]() and return it to Doug Frantz (Code 606). You may also sign up for the basic sailing class using the [annual membership form](). You can also sign up for any class in person at the annual membership meeting.
+
+With questions about the classes, please contact [Doug Frantz](mailto:douglas.e.frantz@nasa.gov) (301-286-1866).
+
+### 2024 Course Schedule
+
+#### GSA Basic Sailing
+
+**Dates:**
+- Session 1 - Six online classes on Saturdays, from April 13 to June 1. Classes run from 10:00 AM to 12:00 PM.
+- Session 2 - Six online classes on Saturdays, from June 29 to August 10. Classes run from 10:00 AM to 12:00 PM.
+
+**Location:** MS Teams
+
+**Prerequisites:** None. All club members in good standing are eligible for taking the class.
+
+**Cost:** $110.00
+
+This course is intended for beginning sailors and teaches the basic fundamentals of sailing using the clubs two Flying Scots. Topics covered during this course include rigging the Flying Scots, tacking, jibing, points of sail, weather, docking, righting a capsized vessel and trailering. This course consists of some classroom lessons and four on water lessons. Students who successfully complete this course will be qualified to charter the Flying Scots.
+
+#### GSA Cruiser Sailing
+
+If interested, please contact [Doug Frantz](mailto:douglas.e.frantz@nasa.gov)
+
+**Prerequisites:** Membership in good standing for at least one year, Flying Scot qualification*, at least five successful (no accident) Flying Scot charters, participation in at least one working party or some other contribution to the club.
+
+**Cost:** $75.00
+
+This course is intended for experienced Flying Scot skippers who wish to learn to handle larger sailing vessels. Topics covered during this course include rules of the road, navigation, ATONs and maneuvering under power. This course also includes a basic introduction to chart work including dead reckoning, two and three bearing fixes, and set and drift. This course consists of four classroom lessons and three on water lessons. Students who successfully complete this course will be qualified to charter the cruiser boat.
+
+*By law, persons born after July 1, 1972 must have a Maryland safe boating certificate or a state-approved equivalent to legally operate a power vessel (First Light under power) in Maryland waters. One can take the class and the exam online, or at one of the frequently taught classes in the area. The fee for the online exam is $29.50. More information is available at: [https://www.boat-ed.com/maryland/](https://www.boat-ed.com/maryland/)
+
+---
+
+## Fee Information
+
+### Membership fees
+
+| | |
+|---|---:|
+| 2025 Annual membership fee<br>(includes $50 sailing credits valid for the year) | $160 |
+
+### Sailing class fees
+
+| | |
+|---|---:|
+| Basic sailing class (includes book and materials) | $110 |
+| Advanced sailing class | $75 |
+
+### Boat chartering fees from May to September
+
+| | Flying Scots | Cruising boat |
+|---|---:|---:|
+| Monday to Friday, half day | $15 | $40 |
+| Monday to Friday, full day | $25 | $60 |
+| Weekend, half day | $25 | $60 |
+| Weekend, full day | $40 | $90 |
+
+### Boat chartering fees in March-April and October-November
+
+| | Flying Scots | Cruising boat |
+|---|---:|---:|
+| Monday to Friday, half day | $10 | $30 |
+| Monday to Friday, full day | $20 | $50 |
+| Weekend, half day | $15 | $50 |
+| Weekend, full day | $30 | $80 |
+
+**Notes:**
+- Morning charters run from sun-up to 2:00 p.m.
+- Afternoon charters run from 2:00 p.m. to sun-down.
+- Government holidays count as weekends.
+- Members can purchase Salty Dog packages: $150 in charter credits for $100 paid in advance of sailing.
+
+### Special event fees
+
+| | Night sails | All-day sails |
+|---|---:|---:|
+| Club sails | $10 | $10 |
+
+---
+
+## Club Calendar
+
+| Date | Time | Location | Event |
+|---|---|---|---|
+| Sunday, September 22, 2024 | 11:30 | Selby Bay | Season finale picnic: potluck followed by a sail |
+| August 9-11, 2024 | All day | Rock Hall, MD | Pirates and Wenches weekend |
+| Saturday, TBA, 2024 | TBA | Selby Bay | Postponed: Sunset sail to dinner |
+| Saturday, June 29, 2023 | 10 AM-12 PM | MS Teams | Second session of basic sailing class begins |
+| Saturday, June, 22, 2024 | Bef. 8 AM - 8 PM<br>in two shifts | Selby Bay | Circumnavigate Kent Island with lunch on the Eastern Shore |
+| Sunday, May 19, 2024 | 11:30 | Selby Bay | Season opener picnic, followed by sailing |
+| Saturday, April 13, 2023 | 10 AM-12 PM | MS Teams | Basic sailing class begins |
+| Thursday, April 11, 2024 | 11:30-1:00 | MS Teams | 2024 Annual membership meeting |
+
+---
+
+## Club Reference Book
+
+Coming soon
+
+---
+
+## Points of Contact
+
+### Contact Information
+
+| Topic | Contact | Office phone |
+|---|---|---|
+| General club information | [Robin Clemente](mailto:robin.clemente@nasa.gov) | 301-614-5034 |
+| Sailing class information | [Doug Frantz](mailto:douglas.e.frantz@nasa.gov) | 301-286-1866 |
+| Social events | [Jeremy Goldstein/Tyler Williams](mailto:Jgolds1@hotmail.com,williamstyler075@gmail.com) | 571-499-0482 |
+| Club website and mailing lists | [Tamás Várnai](mailto:tamas.varnai@nasa.gov) | 301-614-6408 |
+| Membership information | [Theo Muench](mailto:ttmuench@hotmail.com) | |
+| Boat charters | [Stephan Klene](mailto:Stephan.A.Klene@nasa.gov) | 301-867-2015 |
+| Boat maintenance | [John Panek](mailto:john.s.panek@nasa.gov) | 301-286-6593 |
+| Racing information and instruction | [Peter Dunn](mailto:Peterdunn2000@gmail.com) | 240-242-9833 |
+
+### Club officers
+
+| Position | Name | Office phone |
+|---|---|---|
+| Commodore | [Robin Clemente](mailto:robin.clemente@nasa.gov) | 301-614-5034 |
+| Vice-commodore (education) | [Doug Frantz](mailto:douglas.e.frantz@nasa.gov) | 301-286-1866 |
+| Rear-commodore (social events) | [Jeremy Goldstein](mailto:Jgolds1@hotmail.com) | 571-499-0482 |
+| Treasurer | [Theo Muench](mailto:ttmuench@hotmail.com) | |
+| Fleet captain | [John Panek](mailto:john.s.panek@nasa.gov) | 301-286-6593 |
+| Secretary | [Tamás Várnai](mailto:tamas.varnai@nasa.gov) | 301-614-6408 |
+
+### Club volunteers
+
+| Role | Name | Office phone |
+|---|---|---|
+| Membership | [Theo Muench](mailto:ttmuench@hotmail.com) | |
+| Charter rep | [Stephan Klene](mailto:Stephan.A.Klene@nasa.gov) | 301-867-2015 |
+| Alternate charter rep | [Robin Clemente](mailto:robin.clemente@nasa.gov) | 410-919-3086 |
+| Racing coordinator | [Peter Dunn](mailto:Peterdunn2000@gmail.com) | 240-242-9833 |
 
 ---
 
