@@ -24,6 +24,10 @@ In 1971, Grand Master Dong came to the United States to pursue a Ph.D. in entomo
 
 In addition to learning empty-hand techniques, students train with weapons such as **Tambo** (short stick) and **Bo** (long stick).
 
+<img src="/images/karate_back_stance.jpg" width="600px" alt="From left to right: Stela Ishitani, Alex Nguyen, and Emily Beckman, demonstrating a back stance" />
+
+_From left to right: Stela Ishitani, Alex Nguyen, and Emily Beckman, demonstrating a back stance_
+
 ## Instructors
 * Jim Thieman, 301.286.9790 (Sandan)
 * Felix Noreiga, 301.614.6917 (Nidan)
@@ -42,8 +46,3 @@ $40 twice a year
 * Mondays and Thursdays, 5:30-7:00 pm
 * Building 28, Atrium, NASA/GSFC
 * Contact Alex Pavlov for more information at [301.614.5945](tel:3016145945)
-
-## Videos
-* Master Bao's Tiger Form
-* Master Lap's Tiger Form
-* Tom Panton's Tiger Form
