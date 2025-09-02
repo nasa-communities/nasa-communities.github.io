@@ -35,11 +35,11 @@ anchors:
 
 Welcome to the **Goddard Sailing Association (GSA)**. Founded in 1973, the association owns 3 boats: Wavelength, a 19' centerboard flying Scot; See Breeze, also a flying Scot; and a 27' cabin cruiser named Take Luck. The flying scots are kept on a trailer and the cruiser in a slip at Selby Bay Sailing Center off the South River, south of Annapolis. Members may charter these boats at the lowest rates on the bay. The club also offers instruction at several levels, opportunities to socialize and sail with other club members, and opportunities to race in the Scots.
 
-In addition to classes, the club sponsors day-long sails to destinations such as Galesville, Annapolis, and the Eastern Shore. There are evening sails where both beginners and salty helmsmen enjoy a sunset on the bay and an occasional astronomy lesson a bit later. We have periodic (sometimes spontaneous) happy hours, lunches, and dinner parties. Contact the [Rear Commodore (or anybody in the club)](points-of-contact) for tips about what activities you might enjoy.
+In addition to classes, the club sponsors day-long sails to destinations such as Galesville, Annapolis, and the Eastern Shore. There are evening sails where both beginners and salty helmsmen enjoy a sunset on the bay and an occasional astronomy lesson a bit later. We have periodic (sometimes spontaneous) happy hours, lunches, and dinner parties.
 
-All Goddard employees (civil servants and contractors, current or retired) and family members are welcome to [join GSA](why-and-how-to-join).
+All Goddard employees (civil servants and contractors, current or retired) and family members are welcome to [join GSA](#why-and-how-to-join). Please [contact us](#points-of-contact) if you have any questions.
 
-<button name="button" onclick="https://www.aircraftclubs.com/?top=no">Boat Reservations</button>   
+:sailboat: [**Boat Reservations**](https://www.aircraftclubs.com/?top=no)
 
    
 ---
@@ -193,7 +193,7 @@ This course is intended for experienced Flying Scot skippers who wish to learn t
 
 ## Club Reference Book
 
-Coming soon
+Coming soon.
 
 ---
 
@@ -234,3 +234,203 @@ Coming soon
 
 ---
 
+## Phone Book
+
+Membership list as of March 22, 2023.
+
+**Phone prefixes:**
+- 4 - phone prefix for 'east' campus: 614-xxxx
+- 6 - phone prefix for 'west' campus: 286-xxxx
+
+**Qualifications:**
+- n - Student
+- q - Qualifier
+- s - Scot qualified
+- c - Cruiser qualified
+- no - no chartering privileges - contact Tom Spitzer
+- 
+| Last name | First name | Qualifications | Code | Office phone | Renewed or joined in 2023 |
+|---|---|---|---|---|---|
+| Ames | Troy | qcs | 588 | 6-5673 | |
+| Bass | Stephen | n | 555 | | |
+| Basu | Sourish | s | 610.1 | | |
+| Bennett | Chris | n | 553 | | |
+| Bertone | Stefano | s | 698 | | |
+| Betterhausen | Corey | s | | 4-5383 | |
+| Bleacher | Jacob | n | 698 | 4-6455 | |
+| Bleacher | Lora | n | 130 | 6-2009 | |
+| Boehmler | Jayne | n | 614 | | |
+| Boller | Ryan | qsc | 423 | 6-8049 | |
+| Bromberg | Bruce | s | | | |
+| Burgess | Ryan | n | 250 | 6-4726 | |
+| Calabrese | Mike | qsc | 670 | 6-7287 | |
+| Cale | Steven | s | 540 | 6-2691 | |
+| Campola | Michael | s | 561.4 | 6-5427 | |
+| Carroll | Ian | n | | | |
+| Clagett | Charles | s | 596 | 6-2438 | |
+| Clagett | Maura | s | | | |
+| Clemente | Robin | sc | 423 | 4-5034 | |
+| Cohen | Alan | s | | | |
+| Colley | John | n | 606 | 6-4562 | |
+| Cousler | Kim | sc | 549 | 6-4901 | |
+| Coy | Alex | n | | | |
+| Coy | Lawrence | n | 610.1 | 4-6178 | |
+| Daehn | Matthew | n | 564 | 6-8313 | |
+| Dela Rosa | Darrell | n | 279 | 6-0691 | |
+| Dobrin | Calvin | n | 444 | 6-5557 | |
+| Dorodnitsyn | Anton | s | 662 | 6-7229 | |
+| Dunn | Peter | sc | | | |
+| Eichmann | Andrew | sc | 610.1 | 4-5855 | |
+| Emeterio | Juan | n | | | |
+| Foster | Sydney | s | | 301-616-5374 | |
+| Gaeng | Tom | qsc | 606 | 301-352-4623 | |
+| Glass | Gil | s | 480 | 6-6121 | |
+| Glocer | Alex | s | 673 | 6-9475 | |
+| Griffis | Daniel | n | | | |
+| Gunter | Elaine | s | 372 | 4-5841 | |
+| Haber | Adrian | n | 590 | 617-448-3632 | |
+| Hanaoka | Brian | sc | 549 | 6-6945 | |
+| Harrison | Russel | s | | | |
+| Hawbecker | David | n | | 6-9214 | |
+| Hayden | Joe | qsc | 550 | 6-9654 | |
+| Hays-Wehle | James | sc | 660 | 6-5317 | |
+| Heymsfield | Gerald | qsc | 612 | 4-6369 | |
+| Hicks | Brian | s | 667 | 6-1927 | |
+| Hoffman | Kurt | n | | | |
+| Hovis | Clark | n | 551 | 6-2352 | |
+| Huegel | Fred | qsc | 420 | 6-8536 | |
+| Jackson | Tamara | n | 120 | 6-1091 | |
+| Jones | Andrew | n | | | |
+| Jurotich | Matt | sc | | | |
+| Keller | Maria | s | 560 | 6-8795 | |
+| Klene | Stephan | s | 423 | 301-867-2015 | |
+| Kline | Matthew | s | 480 | 6-0189 | |
+| Kotsiaros | Stavros | s | 695.0 | 6-1527 | |
+| Lake | Rhonda | s | | 6-4737 | |
+| Lang | Stephen | s | 612 | 4-6331 | |
+| Leduc | Dominic | n | 5510 | | |
+| Li | Xiaowen | sc | 612 | 4-6319 | |
+| Lindboe | Wendy | n | 440.8 | 6-6001 | |
+| Lolachi | Ramin | s | | | |
+| Lorenz | Blake | s | | | |
+| Mast | William | n | | | |
+| Merka | Jan | qsc | 672 | 6-8751 | |
+| Merkova | Dagmar | sc | | | |
+| Meyer | David | n | | | |
+| Muench | Theo | s | | | |
+| Mulcahy | Kevin | s | | 6-8844 | |
+| Nicholls | Steven | sc | 612 | 4-6337 | |
+| Ohl | Ray | s | 443.2 | 6-8368 | |
+| Ojha | Roopesh | n | 661 | 6-2972 | |
+| Okajima | Takashi | s | 662 | 6-1037 | |
+| Olsen | Kristoffer | s | 551 | 6-8826 | |
+| Ong | Lawrence | qsc | 618 | 4-6679 | |
+| Or | Tak | s | | | |
+| Packard | Ed | s | 547 | 6-8374 | |
+| Paganini | Lucas | n | 693 | 6-8151 | |
+| Panek | John | n | 599 | 6-6593 | |
+| Petrick | Dave | s | 587 | 6-9727 | |
+| Petrie | Andrew | n | 459 | 6-4647 | |
+| Phipps | Phillip | s | 695 | 4-6523 | |
+| Petty | Alek | n | 615 | 4-6120 | |
+| Poole | Eric | s | 450 | 6-0426 | |
+| Rahman | Zareen | s | 580 | 4-5276 | |
+| Rice | Zachary | s | 580 | 4-5276 | |
+| Ridenhour | Bill | n | 224.0 | 6-2656 | |
+| Ridgway | Bill | qcs | 613 | | |
+| Rizzo | Maxime | s | | 6-0163 | |
+| Roberson | Kendall | sc | 583 | 6-1367 | |
+| Root | Jonathan | n | 3820 | | |
+| Rosenbaum | Nancy | n | 400 | 6-5197 | |
+| Russell | Anne | n | | | |
+| Schattschneider | Eric | n | | | |
+| Schattschneider | Erica | n | | | |
+| Shakoorzadeh | Kamdin | n | 564 | 6-9854 | |
+| Shakoorzadeh | Payum | n | 568 | 6-7567 | |
+| Smith | Elizabeth | n | 382 | 6-8014 | |
+| Smith | Jay | sc | 441 | 6-1262 | |
+| Smith | Michael | s | 770 | 6-3930 | |
+| Snyder | Mark | n | 474 | 4-0524 | |
+| Soldo | Yan | sc | 615 | 4-6489 | |
+| Spalsbury | Lori | n | 695 | 4-6413 | |
+| Sparr | Leroy | c | 492 | 6-8060 | |
+| Spitzer | Tom | qsc | 563 | 6-1899 | |
+| Staguhn | Johannes | s | 665 | 6-7840 | |
+| Stansberry | Scott | s | 561 | 301-741-0719 | |
+| Subbarao | Mark | n | 6064 | | |
+| Sullivan | Dan | s | 553 | 6-6543 | |
+| Swearingen | Jason | s | 617 | 4-5659 | |
+| Thayer | Guy | sc | 428 | 4-5158 | |
+| Toal | Liam | s | 480 | 6-2376 | |
+| Vassiliadis | Dimitrios | s | 692 | | |
+| Vatne | James | s | 140 | 6-1411 | |
+| Várnai | Tamás | sc | 613 | 4-6408 | |
+| Venti | Regis | n | 545 | 6-0066 | |
+| Voskanian | Norvik | n | 553 | 6-9615 | |
+| Weigle | Glenn | sc | 599 | 301-902-1174 | |
+| Yang | Runhua | n | | | |
+| Zajczyk | Anna | n | 662 | | |
+| Zipper | Matthew | n | 710 | 6-5594 | |
+
+--- 
+
+## Photos and Videos
+
+Coming soon.
+
+---
+
+## Club Library
+
+Members in good standing are welcome to borrow titles from the club's collection of sailing books. For more information, please contact [Robin Clemente](mailto:robin.clemente@nasa.gov) (301-614-5034).
+
+At present, the following books are available:
+
+| Author | Title | Year | Pages |
+|---|---|---:|---:|
+| American Red Cross | Basic sailing, small craft safety | 1966 | 122 |
+| Clifford Ashley | The Ashley book of knots | 1944 | 620 |
+| Bob Bond | The handbook of sailing. A complete guide to all sailing techniques and procedures for the beginner and the experienced sailor | 1992 | 352 |
+| Bob Bond | The handbook of sailing. A complete guide to all sailing techniques and procedures for the beginner and the experienced sailor | 1988 | 352 |
+| Alan Brown | Invitation to sailing | 1962 | 224 |
+| H. A. Calahan | Learning to sail | 1999 | 345 |
+| Nigel Calder | How to read a nautical chart | 2003 | 237 |
+| Steve Colgate | Colgate's basic sailing | 1991 | 136 |
+| Steve Colgate | Colgate's basic sailing theory | 1987 | 123 |
+| David Dellenbaugh and Brad Dellenbaugh | Sports Illustrated: Small boat sailing, A complete guide | 1990 | 243 |
+| Dave Franzel | Sailing—The basics | 2003 | 132 |
+| Tony Gibbs | Advanced sailing—The design, rigging, handling, trailering, equipping, and maintenance of modern sailboats | 1975 | 151 |
+| Di Goodman and Ian Brodie | Learning to sail | 1994 | 104 |
+| Brothers Gougeon | The Gougeon brothers on boat construction: Wood and west system materials | 1985 | 297 |
+| Raoul Graumont and John Hensel | Encyclopedia of knots and fancy ropework | 2000 | 689 |
+| Stan Grayson | Sailing small | 2004 | 197 |
+| Gary Jobson | Sailing fundamentals (Official learn-to-sail manual of USSA) | 1998 | 219 |
+| Elberts Maloney | Chapman piloting—Seamanship and small boat handling | 1994 | 656 |
+| Elberts Maloney | Chapman piloting—Seamanship and small boat handling | 1989 | 652 |
+| Des Pawson | The handbook of knots | 1998 | 160 |
+| Wallace Ross | Sail Power—The complete guide to sails and sail handling | 1987 | 514 |
+| John Rousmaniere | The Annapolis book of seamanship | 1999 | 403 |
+| John Rousmaniere | The Annapolis book of seamanship | 1989 | 402 |
+| John Rousmaniere | The Annapolis book of seamanship | 1983 | 347 |
+| Dick Tillman | The complete book of Laser sailing | 2000 | 150 |
+| Sailing Association and American Red Cross | Start sailing right | 1997 | 112 |
+| US Sailing Association | Teaching and coaching fundamentals for sailing | 1999 | |
+
+---
+
+## Daysail Destinations
+
+This section is to help club members benefit from each other's knowledge of the waters and land around Selby Bay. **Please contact [Tamás Várnai](mailto:tamas.varnai@nasa.gov) (301-614-6408) to share your knowledge with fellow sailors.** Any piece of information is appreciated, such as attractions, good landing spots and marinas, restaurants, anchorages, or hazards.
+
+Additional resources available include [free nautical charts](#links-and-resources) and [commercially available books](http://www.amazon.com/s/ref=nb_ss_gw/103-7941116-6088656?url=search-alias%3Daps&field-keywords=Cruising+the+Chesapeake&Go.x=0&Go.y=0&Go=Go).
+
+(Map of daysail destinations coming soon)
+
+| Symbol | Description |
+|---|---|
+| 1 | **[Selby Bay Sailing Center](http://www.selbybay.com/)**<br>In addition to the Goddard sailboats, the [NIH sailing club](http://www.recgov.org/sail/) and the Flying Scot [Fleet 42](http://fs42.org) are also located here. |
+| 2 | **[Pirate's Cove Restaurant and Marina](http://www.piratescovemd.com)**<br>Additional information that would be welcome include: where exactly to tie up a boat, how long it typically takes to sail there, whether the restaurant is often crowded or requires a long wait, etc. |
+| 3 | **[Thomas Point Shoal Lighthouse](http://www.thomaspointlighthouse.org/)**<br>The lighthouse was built in 1875 and switched to automatic operations in 1986. It is a National Historic Landmark—one of only nine lighthouses in the US to receive this highest honor afforded to buildings. The lighthouse is in excellent condition and will be open to public tours once parts of its interior will be restored to represent their state in the early 20th Century. It reaches 43 feet above water and operates a foghorn and a white flashing light visible from up to 11 miles, as well as an automated weather station. [Current weather at lighthouse](http://www.ndbc.noaa.gov/station_page.php?station=tplm2), [Photo from a club sailboat](IMAGES/PHOTO_ALBUM/REASONS_TO_JOIN/Thomas_Point_lighthouse.jpg). |
+| 4 | **[Quiet Waters Park](http://www.aacounty.org/RecParks/parks/quiet_waters_park/)**<br>A big park with attractions such as walking/biking trails through fields and woods, an art pavillion, fountains, gardens, and a playground. Visible from the South River are two gazebos and a dog beach where only dogs are allowed to swim. The South River is quite shallow in front of the park, but a scenic inlet (Harness Creek) on the West side of the park is deep enough for sailboats—though trees may block the wind. [Additional information about the park.](http://www.friendsofquietwaterspark.homestead.com/)<br>Photos: [Dog beach](IMAGES/MAPS/QUIET_WATERS_PARK/Dog_beach_1.jpg), [View from the park across the South River toward Selby Bay (center) and the Chesapeake Bay (left).](IMAGES/MAPS/QUIET_WATERS_PARK/Gazebo_1.jpg) |
+| 5 | **Rhode River**<br>A scenic body of water with little human presence along its shores. The river hosts two islands and the remnants of a third one. These are, clockwise from South-West: *Big Island* (private land), *Flat Island* (great for exploration), and *High Island* (almost entirely washed away by the waves). Excellent location for overnight anchorage (for example next to Big Island), with services available at nearby marinas. Highly recommended to stick to the marked channel, even in the Scots. From Turkey Point to Mayo Beach to Dutchman Point, the waters inshore of the channel are crowded with crab pots and shoals. Route is approx. 8 miles following the marks.<br>Photos taken from the North shore: [View to Southwest, with Big Island at the center](IMAGES/MAPS/RHODE_RIVER/Big_Island_sailboat.jpg), [View to East, toward the Chesapeake Bay](IMAGES/MAPS/RHODE_RIVER/View_to_East_1.jpg), [Another view to East](IMAGES/MAPS/RHODE_RIVER/View_to_East_2.jpg), [The sandbar that is left of High Island](IMAGES/MAPS/RHODE_RIVER/High_Island.jpg), [Flat Island](IMAGES/MAPS/RHODE_RIVER/Flat_Island_sailboat.jpg), [Another view to Flat Island](IMAGES/MAPS/RHODE_RIVER/Flat_Island.jpg) |
+| 6 | **[Kentmorr Restaurant](http://www.kentmorr.com/)**<br>Kentmorr is a marina and restaurant on Kent Island, about 4 miles East of the Thomas Point Lighthouse. In light winds and using the cruiser motor, the trip from Selby Bay takes about 3 hours each way. The chart says the bearing is about 75 degree. There is a brown cone-like silo, such as for road salt, which makes an excellent land reference point for navigation. The entrance to the marina is 20+ feet wide, and there is plently of water for First Light's 4ft draft.<br><br>The restaurant is almost directly on the dockside. There are almost a dozen perpendicular slips specifically for diners to the east of the arrow, barely 10 feet from the front door. "2 hour free docking while dining" says the website. Several slips are available, but one can also point the bow out to the bay and make fast on the wharf at the green arrow in the image below.<br><br>Dining: Casual dining both oudoor and indoor (air conditioning), good food ($12-20 for seafood entree), good staff, we'd go back, check out the specials. [Restaurant menu](http://www.kentmorr.com/menu.php)<br><br>[View of Kentmorr from above](IMAGES/MAPS/Kentmorr.jpg), [Kentmorr in Google Maps](http://maps.google.com/?ie=UTF8&ll=38.914636,-76.36417&spn=0.003147,0.005316&t=h&z=18) |
