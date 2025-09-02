@@ -434,3 +434,21 @@ Additional resources available include [free nautical charts](#links-and-resourc
 | 4 | **[Quiet Waters Park](http://www.aacounty.org/RecParks/parks/quiet_waters_park/)**<br>A big park with attractions such as walking/biking trails through fields and woods, an art pavillion, fountains, gardens, and a playground. Visible from the South River are two gazebos and a dog beach where only dogs are allowed to swim. The South River is quite shallow in front of the park, but a scenic inlet (Harness Creek) on the West side of the park is deep enough for sailboats—though trees may block the wind. [Additional information about the park.](http://www.friendsofquietwaterspark.homestead.com/)<br>Photos: [Dog beach](IMAGES/MAPS/QUIET_WATERS_PARK/Dog_beach_1.jpg), [View from the park across the South River toward Selby Bay (center) and the Chesapeake Bay (left).](IMAGES/MAPS/QUIET_WATERS_PARK/Gazebo_1.jpg) |
 | 5 | **Rhode River**<br>A scenic body of water with little human presence along its shores. The river hosts two islands and the remnants of a third one. These are, clockwise from South-West: *Big Island* (private land), *Flat Island* (great for exploration), and *High Island* (almost entirely washed away by the waves). Excellent location for overnight anchorage (for example next to Big Island), with services available at nearby marinas. Highly recommended to stick to the marked channel, even in the Scots. From Turkey Point to Mayo Beach to Dutchman Point, the waters inshore of the channel are crowded with crab pots and shoals. Route is approx. 8 miles following the marks.<br>Photos taken from the North shore: [View to Southwest, with Big Island at the center](IMAGES/MAPS/RHODE_RIVER/Big_Island_sailboat.jpg), [View to East, toward the Chesapeake Bay](IMAGES/MAPS/RHODE_RIVER/View_to_East_1.jpg), [Another view to East](IMAGES/MAPS/RHODE_RIVER/View_to_East_2.jpg), [The sandbar that is left of High Island](IMAGES/MAPS/RHODE_RIVER/High_Island.jpg), [Flat Island](IMAGES/MAPS/RHODE_RIVER/Flat_Island_sailboat.jpg), [Another view to Flat Island](IMAGES/MAPS/RHODE_RIVER/Flat_Island.jpg) |
 | 6 | **[Kentmorr Restaurant](http://www.kentmorr.com/)**<br>Kentmorr is a marina and restaurant on Kent Island, about 4 miles East of the Thomas Point Lighthouse. In light winds and using the cruiser motor, the trip from Selby Bay takes about 3 hours each way. The chart says the bearing is about 75 degree. There is a brown cone-like silo, such as for road salt, which makes an excellent land reference point for navigation. The entrance to the marina is 20+ feet wide, and there is plently of water for First Light's 4ft draft.<br><br>The restaurant is almost directly on the dockside. There are almost a dozen perpendicular slips specifically for diners to the east of the arrow, barely 10 feet from the front door. "2 hour free docking while dining" says the website. Several slips are available, but one can also point the bow out to the bay and make fast on the wharf at the green arrow in the image below.<br><br>Dining: Casual dining both oudoor and indoor (air conditioning), good food ($12-20 for seafood entree), good staff, we'd go back, check out the specials. [Restaurant menu](http://www.kentmorr.com/menu.php)<br><br>[View of Kentmorr from above](IMAGES/MAPS/Kentmorr.jpg), [Kentmorr in Google Maps](http://maps.google.com/?ie=UTF8&ll=38.914636,-76.36417&spn=0.003147,0.005316&t=h&z=18) |
+
+---
+
+## Flying Scot FAQ
+
+Coming soon.
+
+---
+
+## Directions to Marina
+
+Coming soon.
+
+---
+
+## Resources and Links
+
+Coming soon.
