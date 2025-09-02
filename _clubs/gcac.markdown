@@ -52,11 +52,11 @@ No upcoming events listed.
 ### Discounts
 As a member of GCAC, you will enjoy many benefits, including:
 * Discounts at all GCAC events
-* 10% discount at [The House of Hunan at Annapolis]() (2311 E Forest Drive, Annapolis, MD 21401, 410-266-1680)
-* 10% off any meal at [East Pearl Asian Bistro]() (7701 Greenbelt Rd, Suite 101, Greenbelt, MD 20770, 301-982-4888 or 301-982-8880)
+* 10% discount at [The House of Hunan at Annapolis](https://www.houseofhunanmd.com/) (2311 E Forest Drive, Annapolis, MD 21401, 410-266-1680)
+* 10% off any meal at [East Pearl Asian Bistro](http://eastpearlgreenbelt.com/) (7701 Greenbelt Rd, Suite 101, Greenbelt, MD 20770, 301-982-4888 or 301-982-8880)
 * 10% discount at [Hulu Skewer House](https://huluskewerhouse.kwickmenu.com) (1488 Rockville Pike, Rockville MD 20850, 301 302-8989)
 * 10% discount or 20% discount for seniors at [Asian Palace Restaurant & Bar](https://www.asianpalacecolumbiamd.com/) (10801 Hickory Ridge Road, Columbia, MD 21044, 410-772-8888)
-* 10% discount (excluding Specials, Lunch Special and Dim Sum) at [Wang Dynasty Restaurant (former Pacific Café Owner)]() (4929 Bethesda Ave, Bethesda, MD 20814, 301-654-1188)
+* 10% discount (excluding Specials, Lunch Special and Dim Sum) at [Wang Dynasty Restaurant (former Pacific Café Owner)](https://wangdynastymd.com/) (4929 Bethesda Ave, Bethesda, MD 20814, 301-654-1188)
 * 10% discount at [Gah Rham Korean BBQ Restaurant](https://www.gahrham.com) (5027 Garrett Ave, Beltsville, MD 20705)
 
 ---
@@ -117,6 +117,7 @@ Please email the [club president](#officials) for copies of past GCAC newsletter
 
 ## Officials
 
+   
 ### 2025 GCAC Officials
 
 | Role | Details |
@@ -135,8 +136,9 @@ Please email the [club president](#officials) for copies of past GCAC newsletter
 | | Mei Han<br>Code 612, Phone: (301)614-6336<br>Email: [mei.han-1@nasa.gov](mailto:mei.han-1@nasa.gov) |
 | | Yihua Zheng<br>Code 674, Phone: (301)286-0111<br>Email: [yihua.zheng@nasa.gov](mailto:yihua.zheng@nasa.gov) |
 | | Jane Liu<br>Phone: (301)318-8146<br>Email: [loyingliu@gmail.com](mailto:loyingliu@gmail.com) |
-| **Lifetime At Large:** | |
+| **Lifetime At Large:** | None listed|
 
+   
 ### Officer Responsibilities
 
 *Revised on: 02/27/2018*
