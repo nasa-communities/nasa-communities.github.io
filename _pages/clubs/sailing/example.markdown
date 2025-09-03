@@ -3,6 +3,8 @@ layout: page-with-nav
 title:  "Example Sailing Page"
 categories: goddard
 
+parent_club: sailing
+
 anchors:
   - { text: News, anchor: news }
   - { text: Why and How to Join, anchor: why-and-how-to-join }
