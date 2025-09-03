@@ -33,7 +33,7 @@ anchors:
   - { text: Resources and Links, anchor: resources-and-links }
 ---
 
-{{ club.id }}
+{{ clubs.id }}
 
 Welcome to the **Goddard Sailing Association (GSA)**. Founded in 1973, the association owns 3 boats: Wavelength, a 19' centerboard flying Scot; See Breeze, also a flying Scot; and a 27' cabin cruiser named Take Luck. The flying scots are kept on a trailer and the cruiser in a slip at Selby Bay Sailing Center off the South River, south of Annapolis. Members may charter these boats at the lowest rates on the bay. The club also offers instruction at several levels, opportunities to socialize and sail with other club members, and opportunities to race in the Scots.
 
