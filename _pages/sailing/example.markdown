@@ -1,8 +1,6 @@
 ---
-layout: page
+layout: page-with-nav
 title:  "Example Sailing Page"
-club: sailing
-slug: example-page
 categories: goddard
 
 anchors:
@@ -21,4 +19,5 @@ anchors:
   - { text: Directions to Marina, anchor: directions-to-marina }
   - { text: Resources and Links, anchor: resources-and-links }
 ---
+
 Testing an example page.
