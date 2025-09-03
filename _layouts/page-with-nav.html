@@ -25,7 +25,12 @@
             <h1>
               <strong class="display-4"><a href="{{ club.permalink }}">{{ club.name }}</a>: {{ page.title }}</strong><br>
             </h1>
-
+{% if club %}
+      <p>Club: {{ club.name }}</p>
+      <p>Permalink: {{ club.permalink }}</p>
+    {% else %}
+      <p>Club not found.</p>
+    {% endif %}</p>
           </div>
         </div>
       </div>
