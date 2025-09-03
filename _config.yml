@@ -27,3 +27,6 @@ collections:
   clubs:
     output: true
     permalink: /:collection/:slug/
+  pages:
+    output: true
+    permalink: /clubs/:club/:slug/

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+
+  {% include header.html %}
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3 ms-sm-auto col-lg-2">
+      {% include sidebar-nav.html %}
+      </div>
+
+      <div class="col-md-9 ms-sm-auto col-lg-10">
+      <div class="container px-5 my-5 rounded-3 bg-body-tertiary">
+        <div class="row align-items-center g-lg-5 py-5">
+          <div class="col-lg-4">
+            <img src="/images/{{ page.thumbnail }}" class="card-img-top" alt="...">
+          </div>
+          <div class="col-lg-8 text-center text-lg-start">
+            <h1>
+              <strong class="display-4">{{ page.name }}</strong><br>
+            </h1>
+
+          </div>
+        </div>
+      </div>
+
+      <div class="container pb-5">
+        <div class="row">
+          <div class="col-xl-12">
+          {{ content }}
+          </div>
+        </div>
+      </div>
+      </div>
+    </div>
+  </div>
+
+  {% include footer.html %}
+
+</body>
+
+{% include scripts.html %}
+
+</html>
