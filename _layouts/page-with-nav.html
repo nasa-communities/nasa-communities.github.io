@@ -19,7 +19,7 @@
       <div class="container px-5 my-5 rounded-3 bg-body-tertiary">
         <div class="row align-items-center g-lg-5 py-5">
           <div class="col-lg-4">
-            <img src="/images/{{ page.thumbnail }}" class="card-img-top" alt="...">
+            <img src="/images/{{ club.thumbnail }}" class="card-img-top" alt="...">
           </div>
           <div class="col-lg-8 text-center text-lg-start">
             <h1>
@@ -28,7 +28,8 @@
 <p>Parent Club: {{ page.parent-club }}</p>
 {% if club %}
       <p>Club: {{ club.name }}</p>
-      <p>Permalink: {{ club.permalink }}</p>
+            <p>Path: {{ club.path }}</p>
+      <p>Permalink: {% link club.path %}</p>
     {% else %}
       <p>Club not found.</p>
     {% endif %}</p>
