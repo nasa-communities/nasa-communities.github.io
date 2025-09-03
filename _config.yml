@@ -31,4 +31,4 @@ collections:
     permalink: /:collection/:slug/
   pages:
     output: true
-    permalink: /:path/:slug/
+    permalink: /:path/
