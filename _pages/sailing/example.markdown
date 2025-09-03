@@ -2,7 +2,6 @@
 layout: page-with-nav
 title:  "Example Sailing Page"
 categories: goddard
-permalink: /clubs/sailing/example/
 
 anchors:
   - { text: News, anchor: news }

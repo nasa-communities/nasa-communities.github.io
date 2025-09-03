@@ -29,4 +29,3 @@ collections:
     permalink: /:collection/:slug/
   pages:
     output: true
-    permalink: /test/:slug/
