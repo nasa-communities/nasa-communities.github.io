@@ -3,7 +3,7 @@ layout: page-with-nav
 title:  "Example Sailing Page"
 categories: goddard
 
-parent_club: sailing
+parent-club: Goddard Sailing Association
 
 anchors:
   - { text: News, anchor: news }
