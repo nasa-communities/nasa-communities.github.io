@@ -18,20 +18,17 @@
       <div class="col-md-9 ms-sm-auto col-lg-10">
       <div class="container px-5 my-5 rounded-3 bg-body-tertiary">
         <div class="row align-items-center g-lg-5 py-5">
-          <div class="col-lg-4">
-            <img src="/images/{{ club.thumbnail }}" class="card-img-top" alt="...">
+          <div class="col-lg-3">
+            {% if club %}
+              <img src="/images/{{ club.thumbnail }}" class="card-img-top" alt="...">
+            {% endif %}
           </div>
-          <div class="col-lg-8 text-center text-lg-start">
-            <h1>
-              <strong class="display-4"><a href="https://www.nasa-communities.org{{ club.url }}">{{ club.name }}</a>: {{ page.title }}</strong><br>
+          <div class="col-lg-9 text-lg-start">
+            {% if club %}
+              <a href="https://www.nasa-communities.org{{ club.url }}" class="text-uppercase small mb-1 link-underline link-underline-opacity-0 link-underline-opacity-75-hover">{{ club.name }}</a><br/>
+            {% endif %}
+            <h1><strong class="display-4">{{ page.title }}</strong>
             </h1>
-<p>Parent Club: {{ page.parent-club }}</p>
-{% if club %}
-      <p>Club: {{ club.name }}</p>
-            <p>Path: {{ club.url }}</p>
-    {% else %}
-      <p>Club not found.</p>
-    {% endif %}</p>
           </div>
         </div>
       </div>
