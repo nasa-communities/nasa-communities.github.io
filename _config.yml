@@ -29,4 +29,4 @@ collections:
     permalink: /:collection/:slug/
   pages:
     output: true
-    permalink: /clubs/:club/:slug/
+    permalink: /:path/:slug/
