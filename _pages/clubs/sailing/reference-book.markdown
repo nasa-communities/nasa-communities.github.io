@@ -42,7 +42,7 @@ Welcome to the Goddard Sailing Association. The association owns 3 boats: Wavele
 
 ## Membership [↑](#index)
 
-GSA follows the GEWA rules for membership. Briefly, any present or retired civil servant, contractor, and immediate family of the above can be members. In addition up to 10 people can be associate members, if they are approved by the Executive Committee. Detailed information on how to join is posted [here](Reasons_to_join.htm).
+GSA follows the GEWA rules for membership. Briefly, any present or retired civil servant, contractor, and immediate family of the above can be members. In addition up to 10 people can be associate members, if they are approved by the Executive Committee. Detailed information on how to join is posted [here](https://nasa-communities.org/clubs/sailing/#why-and-how-to-join).
 
 <a name="Activities"></a>
 
@@ -60,7 +60,7 @@ The Goddard Sailing Association began in 1973 with the purchase of the Flying Sc
 
 ## Organization and participation [↑](#index)
 
-The Executive Committee meets as announced to discuss club business. All members are invited to attend. In addition, various committees are formed and always need help. To volunteer, call the Commodore. The entire club has a Spring Meeting in March and a Fall Meeting and Elections in January. Members should stay informed by reading our web pages, calendar, and Email announcements. The list of current officers and volunteers can be found [here](Contact_information.htm).
+The Executive Committee meets as announced to discuss club business. All members are invited to attend. In addition, various committees are formed and always need help. To volunteer, call the Commodore. The entire club has a Spring Meeting in March and a Fall Meeting and Elections in January. Members should stay informed by reading our web pages, calendar, and Email announcements. The list of current officers and volunteers can be found [here](https://nasa-communities.org/clubs/sailing/#points-of-contact).
 
 <a name="Starting"></a>
 
@@ -74,11 +74,11 @@ For beginners, the Basic Sailing Course is recommended. For experienced sailors 
 
 ### BASIC SAILING CLASS
 
-This class teaches beginners how to sail. All club members in good standing are eligible for taking the class. The class fee of $110 includes 4 lectures, 4 boat lessons, and the qualification test on the Flying Scot. There are typically two class sessions offered during the season. Classes are announced in Dateline and are posted [here](Classes.htm).
+This class teaches beginners how to sail. All club members in good standing are eligible for taking the class. The class fee of $110 includes 4 lectures, 4 boat lessons, and the qualification test on the Flying Scot. There are typically two class sessions offered during the season. Classes are announced in Dateline and are posted [here](https://nasa-communities.org/clubs/sailing/#sailing-classes).
 
 ### ADVANCED SAILING CLASS
 
-This class teaches club members how to sail the club cruiser. Prerequisites: Membership in good standing for at least one year, Flying Scot qualification, at least five successful (no accident) Flying Scot charters, participation in at least one working party or some other contribution to the club. By law, persons born after July 1, 1972 must have a Maryland safe boating certificate. The class fee of $75 includes 4 lectures and some boat lessons, and the qualification test on the cruiser. Classes are announced to the membership by email and are posted [here](Classes.htm).
+This class teaches club members how to sail the club cruiser. Prerequisites: Membership in good standing for at least one year, Flying Scot qualification, at least five successful (no accident) Flying Scot charters, participation in at least one working party or some other contribution to the club. By law, persons born after July 1, 1972 must have a Maryland safe boating certificate. The class fee of $75 includes 4 lectures and some boat lessons, and the qualification test on the cruiser. Classes are announced to the membership by email and are posted [here](https://nasa-communities.org/clubs/sailing/#sailing-classes).
 
 ### SATURDAY MORNING OPEN SAIL
 
@@ -100,35 +100,49 @@ For information about racing opportunities, contact the Racing Coordinator. Ther
 
 ### FLYING SCOT HELMSMEN
 
-| **To qualify** | Either six classroom lessons, a brief written exam, and three-four water lessons, or equivalent experience<br><br>Test by a qualifier |
-|---|---|
-| **Restrictions** | Can sail a Flying Scot during the day in area 3.<br><br>New graduates for with no other experience are required to stay in area 1 for 2 charters, then in area 2 for another 3 charters. |
-{.table}
+**To qualify:** 
+*  Either six classroom lessons, a brief written exam, and three-four water lessons, or equivalent experience
+*  Test by a qualifier
+
+**Restrictions:**
+*  Can sail a Flying Scot during the day in area 3.
+*  New graduates for with no other experience are required to stay in area 1 for 2 charters, then in area 2 for another 3 charters.
 
 ### CRUISER HELMSMEN
 
-| **To qualify** | Three lessons or equivalent experience<br><br>Test by a qualifier |
-|---|---|
-| **Restrictions** | Can sail the cruiser during the day in area 3.<br><br>Those newly qualified on this boat with no other experience are required to stay in area 1 for 2 charters, then in area 2 for another 3 charters.<br><br>By law, persons born after July 1, 1972 must have a Maryland safe boating certificate to legally operate a power vessel (First Light under power) in Maryland waters. One can take the class and the exam online, or at one of the frequently taught classes in the area. The fee for the online exam is $15.00. More information is available at: [http://www.boat-ed.com/md/md_internet.htm](http://www.boat-ed.com/md/md_internet.htm) |
+**To qualify:**
+*  Three lessons or equivalent experience
+*  Test by a qualifier
+
+**Restrictions:**
+*  Can sail the cruiser during the day in area 3.
+*  Those newly qualified on this boat with no other experience are required to stay in area 1 for 2 charters, then in area 2 for another 3 charters.
+*  By law, persons born after July 1, 1972 must have a Maryland safe boating certificate to legally operate a power vessel (First Light under power) in Maryland waters. One can take the class and the exam online, or at one of the frequently taught classes in the area. The fee for the online exam is $15.00. More information is available at: [https://www.boat-ed.com/md/md_internet.htm](https://www.boat-ed.com/md/md_internet.htm)
 
 ### ADVANCED CRUISER HELMSMEN
 
-| **To qualify** | Cruiser helmsman rating<br><br>7 Cruiser charters as helmsman<br><br>4 night lessons on cruiser<br><br>Passing a practical test by Qualifier |
-|---|---|
-| **Restrictions** | Can sail the cruiser day or night in area 4. |
+**To qualify:**
+*  Cruiser helmsman rating
+*  7 Cruiser charters as helmsman
+*  4 night lessons on cruiser
+*  Passing a practical test by Qualifier 
+
+**Restrictions:** 
+*  Can sail the cruiser day or night in area 4.
 
 ### QUALIFIER
 
-| **To qualify** | Appointment by executive committee. Water instructors are awarded sailing credits; the current rate is $5 credit per student per lesson. This credit is available throughout the year but cannot be carried over to the next year and cannot be used for buying salty dogs. |
-|---|---|
+**To qualify:**
+*  Appointment by executive committee. Water instructors are awarded sailing credits; the current rate is $5 credit per student per lesson. This credit is available throughout the year but cannot be carried over to the next year and cannot be used for buying salty dogs. 
 
 ### DEFINITIONS OF SAILING AREAS
 
-| **Area 1** | South River |
-|---|---|
-| **Area 2** | North to Severn River, Annapolis Harbor Channel Lighted Buoy "2" (2 ½ nm north of Thomas Point Light); East to shipping channel; South to West River Lighted Buoy "1" (2 nm south of Thomas Point light) |
-| **Area 3** | All of the northern Chesapeake and its tributaries, south to Solomons Island |
-| **Area 4** | The Chesapeake and its tributaries |
+**Area 1:** South River 
+
+**Area 2:** North to Severn River, Annapolis Harbor Channel Lighted Buoy "2" (2 ½ nm north of Thomas Point Light); East to shipping channel; South to West River Lighted Buoy "1" (2 nm south of Thomas Point light)
+
+**Area 3:** All of the northern Chesapeake and its tributaries, south to Solomons Island
+**Area 4:** The Chesapeake and its tributaries
 
 <a name="Charters"></a>
 
@@ -136,9 +150,9 @@ For information about racing opportunities, contact the Racing Coordinator. Ther
 
 ### POINTS OF CONTACT
 
-| **Charter rep.** | [Robin Clemente](mailto:susan.r.broaddus@nasa.gov) | Office phone: 301-614-5034 |
-|---|---|---|
-| **Alt. charter rep.** | Vacant | |
+**Charter rep:** [Robin Clemente](mailto:susan.r.broaddus@nasa.gov) (office phone: 301-614-5034)
+
+***Alt. charter rep:** Vacant
 
 ### ELIGIBILITY
 
@@ -150,7 +164,7 @@ Scheduling is now being done through the web site at [https://www.AircraftClubs.
 
 ### FEES
 
-Current rates for all charters are listed at the [page on fee information](Fees.htm). Morning charters run from sun-up to 2:00 pm. Afternoon charters run from 2:00 pm to sun-down. Government holidays count as weekends. You can also purchase a "Salty Dog Package" of $150 in charter credits for $100, paid in advance of sailing.
+Current rates for all charters are listed at the [page on fee information](https://nasa-communities.org/clubs/sailing/#fee-information). Morning charters run from sun-up to 2:00 pm. Afternoon charters run from 2:00 pm to sun-down. Government holidays count as weekends. You can also purchase a "Salty Dog Package" of $150 in charter credits for $100, paid in advance of sailing.
 
 All charter fees are non-refundable and due one week after you schedule the charter. Pay the club treasurer with a check made out to the Goddard Sailing Association. Please indicate the charter date, time (a.m. or p.m.), and boat on the check (or for a Salty Dog, if appropriate). Excess payments (charter fees paid by a member but not used before the end of the sailing season) will be carried over to the next season.
 
@@ -186,9 +200,9 @@ The charter skipper is responsible for returning the boat to the dock before the
 
 ## Map of the water near Selby Bay [↑](#index)
 
-![Map of water near Selby Bay](IMAGES/MAPS/guidebook_chart.jpg)
+![Map of water near Selby Bay](/images/sailing_guidebook_chart.jpg "Map of water near Selby Bay")
 
-Free downloadable nautical charts and other information about nearby areas can be found at the pages on [Daysail destinations](Destinations.htm) and [Sailing links](Links.htm).
+Free downloadable nautical charts and other information about nearby areas can be found at the pages on [Daysail destinations](https://nasa-communities.org/clubs/sailing/#daysail-destinations) and [Sailing links](https://nasa-communities.org/clubs/sailing/#resources-and-links).
 
 <a name="Safety"></a>
 
@@ -232,7 +246,7 @@ If the boat is involved in an accident while you were chartering it: (1) See tha
 - Unclip the docking lines from the boat and remember where they clip onto the boat. Do not untie the other ends of the docking lines.
 - Paddle, pole, or pull your way with ropes to the end of the pier. Tie the painter to a post with a clove hitch. It is VERY IMPORTANT that the boat be downwind of this post in open water, so the boat is not banging against anything (even if the wind is light). In other words, the boat is on the leeward side of the pier. If the wind is from the direction of the South River and strong and you are concerned about having enough water to turn in, tie up at one of the posts where the big boats are docked. Do not attempt to sail out of the slip or to raise the sails in the middle of the water.
 
-![Leaving diagram](IMAGES/MAPS/guidebook_leaving.jpg)
+![Leaving diagram](/images/sailing_guidebook_leaving.jpg "Leaving diagram")
 
 ### RAISE SAILS
 
@@ -272,7 +286,7 @@ If the boat is involved in an accident while you were chartering it: (1) See tha
 - Sail to a point 2 boat lengths downwind of the post on the pier, turn up into irons, drift to a stop with the bow at the post, and tie the painter onto the post. Make sure you land on the leeward side of the pier. See Figure. Land softly so you don't damage the boat or pier. If you aim at the end of the pier as in the Figure, you can easily turn aside at the last minute if you are moving too fast. The Figure shows one approach: come in on a beam reach two boat lengths (more in light wind) downwind of the pier, when directly downwind, turn into irons and drift to a stop. A second approach is to come in SLOWLY on a close reach, trimming sails to gain speed, luffing sails to slow down, and turn into irons half a boat length from the pier. Tie the painter to a post with a clove hitch.
 - Raise the centerboard.
 
-![Returning diagram](IMAGES/MAPS/guidebook_returning.jpg)
+![Returning diagram](/images/sailing_guidebook_returning.jpg "Returning diagram")
 
 ### DROP SAILS
 
