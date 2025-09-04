@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+{% assign club = site.clubs | where: "name", page.parent-club | first %}
+
+{% include head.html %}
+
+<body>
+
+  {% include header.html %}
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3 ms-sm-auto col-lg-2">
+      {% include sidebar-nav.html %}
+      </div>
+
+      <div class="col-md-9 ms-sm-auto col-lg-10">
+      <div class="container px-5 my-5 rounded-3 bg-body-tertiary">
+        <div class="row align-items-center g-lg-5 py-3">
+          <div class="col-lg-3">
+            {% if club %}
+              <img src="/images/{{ club.thumbnail }}" class="card-img-top" alt="...">
+            {% endif %}
+          </div>
+          <div class="col-lg-9 text-lg-start">
+            {% if club %}
+              <a href="https://www.nasa-communities.org{{ club.url }}" class="text-uppercase small mb-1 link-underline link-underline-opacity-0 link-underline-opacity-75-hover">{{ club.name }}</a><br/>
+            {% endif %}
+            <h1><strong class="display-4">{{ page.title }}</strong></h1>
+          </div>
+        </div>
+      </div>
+
+      <div class="container pb-5">
+        <div class="row">
+          <div class="col-xl-12">
+          {{ content }}
+          </div>
+        </div>
+      </div>
+      </div>
+    </div>
+  </div>
+
+  {% include footer.html %}
+
+</body>
+
+{% include scripts.html %}
+
+</html>

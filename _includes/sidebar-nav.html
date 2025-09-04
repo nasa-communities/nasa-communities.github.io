@@ -6,7 +6,7 @@
   <ul class="nav flex-column mb-auto">
     {% for anchor in page.anchors %}
     <li class="nav-item">
-      <a href="#{{ anchor.anchor }}" class="nav-link link-dark">
+      <a href="{{ anchor.anchor }}" class="nav-link link-dark">
         {{ anchor.text }}
       </a>
     </li>

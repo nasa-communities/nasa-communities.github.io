@@ -1,10 +1,22 @@
+h2 {
+  padding: 16px 0;
+}
+
+h3 {
+  padding: 12px 0;
+}
+
+h4 {
+  padding: 10px 0;
+}
+
 h1.anchor, h2.anchor, h3.anchor, h4.anchor {
   padding-top: 80px;
   margin-top: -80px;
 }
 
-p{
-  text-align: justify;
+table {
+  @extend .table
 }
 
 .navbar-brand{
@@ -30,8 +42,4 @@ p{
 
 .popover > .arrow {
   visibility: hidden;
-}
-
-th, td{
-  font-family: "Share Tech Mono";
 }

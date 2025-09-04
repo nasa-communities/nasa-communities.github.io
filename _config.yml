@@ -22,8 +22,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
+plugins:
+  - jekyll-sitemap
 
 collections:
   clubs:
     output: true
     permalink: /:collection/:slug/
+  pages:
+    output: true
+    permalink: /:path/
