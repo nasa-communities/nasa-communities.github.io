@@ -27,7 +27,7 @@ anchors:
   - { text: Phone Book, anchor: "#phone-book" }
   - { text: Photos and Videos, anchor: "#photos-and-videos" }
   - { text: Club Library, anchor: "#club-library" }
-  - { text: Daysail Destinations, anchor: "#daysail-destination"s" }
+  - { text: Daysail Destinations, anchor: "#daysail-destinations" }
   - { text: Flying Scot FAQ, anchor: "#flying-scot-faq" }
   - { text: Directions to Marina, anchor: "#irections-to-marina" }
   - { text: Resources and Links, anchor: "#resources-and-links" }
