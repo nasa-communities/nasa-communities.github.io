@@ -1,13 +1,13 @@
 h2 {
-  padding: 15px 0;
+  padding: 16px 0;
 }
 
 h3 {
-  padding: 10px 0;
+  padding: 12px 0;
 }
 
 h4 {
-  padding: 5px 0;
+  padding: 10px 0;
 }
 
 h1.anchor, h2.anchor, h3.anchor, h4.anchor {
@@ -15,8 +15,8 @@ h1.anchor, h2.anchor, h3.anchor, h4.anchor {
   margin-top: -80px;
 }
 
-p{
-  text-align: justify;
+table {
+  @extend .table
 }
 
 .navbar-brand{
