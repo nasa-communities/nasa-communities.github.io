@@ -142,6 +142,7 @@ For information about racing opportunities, contact the Racing Coordinator. Ther
 **Area 2:** North to Severn River, Annapolis Harbor Channel Lighted Buoy "2" (2 ½ nm north of Thomas Point Light); East to shipping channel; South to West River Lighted Buoy "1" (2 nm south of Thomas Point light)
 
 **Area 3:** All of the northern Chesapeake and its tributaries, south to Solomons Island
+
 **Area 4:** The Chesapeake and its tributaries
 
 <a name="Charters"></a>
@@ -152,7 +153,7 @@ For information about racing opportunities, contact the Racing Coordinator. Ther
 
 **Charter rep:** [Robin Clemente](mailto:susan.r.broaddus@nasa.gov) (office phone: 301-614-5034)
 
-***Alt. charter rep:** Vacant
+**Alt. charter rep:** Vacant
 
 ### ELIGIBILITY
 
@@ -220,9 +221,9 @@ Free downloadable nautical charts and other information about nearby areas can b
 
 **USE OF CLUB BOATS IS BY THE FOLLOWING DISCLAIMER. A CHECKOUT SHEET WITH THE DISCLAIMER MUST BE SIGNED FOR EACH CHARTER. THIS IS THE TEXT OF THE GSA LIABILITY RELEASE FORM:**
 
-*I hereby acknowledge and agree that the decision to sail is at all times my sole responsibility, and I assume full responsibility for any and all actions I take and decisions I make while sailing. Whether or not I charter a boat from the GSA, I hereby release the GSA from any and all liability and agree that neither the GSA nor any of its officers, directors, and/or members shall be liable to me or to any other party for any act, occurrence, or failure to act in connection with my sailing, including but not limited to: the decision to sail at any time; the evaluation of weather conditions; the condition of any boat in which I sail and equipment used in connection with the boat; the decision of where to sail; and any injury or damage to any person or property in or out of any boat.*
-
-*I also hereby acknowledge and agree that I take full responsibility and assume all liability for any injuries to myself and my party while on or around the boats, slip, dock area, parking area, and all property owned by the owner of the slips. I understand I am responsible for damage or loss of club equipment that I am using, or expenses incurred, up to the insurance deductible limit.*
+> *I hereby acknowledge and agree that the decision to sail is at all times my sole responsibility, and I assume full responsibility for any and all actions I take and decisions I make while sailing. Whether or not I charter a boat from the GSA, I hereby release the GSA from any and all liability and agree that neither the GSA nor any of its officers, directors, and/or members shall be liable to me or to any other party for any act, occurrence, or failure to act in connection with my sailing, including but not limited to: the decision to sail at any time; the evaluation of weather conditions; the condition of any boat in which I sail and equipment used in connection with the boat; the decision of where to sail; and any injury or damage to any person or property in or out of any boat.*
+> 
+> *I also hereby acknowledge and agree that I take full responsibility and assume all liability for any injuries to myself and my party while on or around the boats, slip, dock area, parking area, and all property owned by the owner of the slips. I understand I am responsible for damage or loss of club equipment that I am using, or expenses incurred, up to the insurance deductible limit.*
 
 ### ACCIDENTS
 
