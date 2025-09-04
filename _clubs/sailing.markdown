@@ -135,6 +135,7 @@ This course is intended for experienced Flying Scot skippers who wish to learn t
 | | |
 |---|---:|
 | 2025 Annual membership fee<br>(includes $50 sailing credits valid for the year) | $160 |
+{: .table .table-stripe}
 
 ### Sailing class fees
 
@@ -142,6 +143,7 @@ This course is intended for experienced Flying Scot skippers who wish to learn t
 |---|---:|
 | Basic sailing class (includes book and materials) | $110 |
 | Advanced sailing class | $75 |
+{: .table .table-stripe}
 
 ### Boat chartering fees from May to September
 
@@ -151,6 +153,7 @@ This course is intended for experienced Flying Scot skippers who wish to learn t
 | Monday to Friday, full day | $25 | $60 |
 | Weekend, half day | $25 | $60 |
 | Weekend, full day | $40 | $90 |
+{: .table .table-stripe}
 
 ### Boat chartering fees in March-April and October-November
 
@@ -160,6 +163,7 @@ This course is intended for experienced Flying Scot skippers who wish to learn t
 | Monday to Friday, full day | $20 | $50 |
 | Weekend, half day | $15 | $50 |
 | Weekend, full day | $30 | $80 |
+{: .table .table-stripe}
 
 **Notes:**
 - Morning charters run from sun-up to 2:00 p.m.
@@ -172,6 +176,7 @@ This course is intended for experienced Flying Scot skippers who wish to learn t
 | | Night sails | All-day sails |
 |---|---:|---:|
 | Club sails | $10 | $10 |
+{: .table .table-stripe}
 
 ---
 
@@ -187,6 +192,7 @@ This course is intended for experienced Flying Scot skippers who wish to learn t
 | Sunday, May 19, 2024 | 11:30 | Selby Bay | Season opener picnic, followed by sailing |
 | Saturday, April 13, 2023 | 10 AM-12 PM | MS Teams | Basic sailing class begins |
 | Thursday, April 11, 2024 | 11:30-1:00 | MS Teams | 2024 Annual membership meeting |
+{: .table .table-stripe}
 
 ---
 
@@ -210,6 +216,7 @@ This course is intended for experienced Flying Scot skippers who wish to learn t
 | Boat charters | [Stephan Klene](mailto:Stephan.A.Klene@nasa.gov) | 301-867-2015 |
 | Boat maintenance | [John Panek](mailto:john.s.panek@nasa.gov) | 301-286-6593 |
 | Racing information and instruction | [Peter Dunn](mailto:Peterdunn2000@gmail.com) | 240-242-9833 |
+{: .table .table-stripe}
 
 ### Club officers
 
@@ -221,6 +228,7 @@ This course is intended for experienced Flying Scot skippers who wish to learn t
 | Treasurer | [Theo Muench](mailto:ttmuench@hotmail.com) | |
 | Fleet captain | [John Panek](mailto:john.s.panek@nasa.gov) | 301-286-6593 |
 | Secretary | [Tamás Várnai](mailto:tamas.varnai@nasa.gov) | 301-614-6408 |
+{: .table .table-stripe}
 
 ### Club volunteers
 
@@ -230,6 +238,7 @@ This course is intended for experienced Flying Scot skippers who wish to learn t
 | Charter rep | [Stephan Klene](mailto:Stephan.A.Klene@nasa.gov) | 301-867-2015 |
 | Alternate charter rep | [Robin Clemente](mailto:robin.clemente@nasa.gov) | 410-919-3086 |
 | Racing coordinator | [Peter Dunn](mailto:Peterdunn2000@gmail.com) | 240-242-9833 |
+{: .table .table-stripe}
 
 ---
 
@@ -247,7 +256,7 @@ Membership list as of March 22, 2023.
 - s - Scot qualified
 - c - Cruiser qualified
 - no - no chartering privileges - contact Tom Spitzer
-- 
+
 | Last name | First name | Qualifications | Code | Office phone | Renewed or joined in 2023 |
 |---|---|---|---|---|---|
 | Ames | Troy | qcs | 588 | 6-5673 | |
@@ -370,6 +379,7 @@ Membership list as of March 22, 2023.
 | Yang | Runhua | n | | | |
 | Zajczyk | Anna | n | 662 | | |
 | Zipper | Matthew | n | 710 | 6-5594 | |
+{: .table .table-sm}
 
 --- 
 
@@ -414,7 +424,7 @@ At present, the following books are available:
 | Dick Tillman | The complete book of Laser sailing | 2000 | 150 |
 | Sailing Association and American Red Cross | Start sailing right | 1997 | 112 |
 | US Sailing Association | Teaching and coaching fundamentals for sailing | 1999 | |
-{: .table}
+{: .table .table-stripe}
 
 ---
 
@@ -434,6 +444,7 @@ Additional resources available include [free nautical charts](#links-and-resourc
 | 4 | **[Quiet Waters Park](https://www.aacounty.org/RecParks/parks/quiet_waters_park/)**<br>A big park with attractions such as walking/biking trails through fields and woods, an art pavillion, fountains, gardens, and a playground. Visible from the South River are two gazebos and a dog beach where only dogs are allowed to swim. The South River is quite shallow in front of the park, but a scenic inlet (Harness Creek) on the West side of the park is deep enough for sailboats—though trees may block the wind. [Additional information about the park.](https://www.friendsofquietwaterspark.homestead.com/)<!--<br>Photos: [Dog beach](IMAGES/MAPS/QUIET_WATERS_PARK/Dog_beach_1.jpg), [View from the park across the South River toward Selby Bay (center) and the Chesapeake Bay (left).](IMAGES/MAPS/QUIET_WATERS_PARK/Gazebo_1.jpg)--> |
 | 5 | **Rhode River**<br>A scenic body of water with little human presence along its shores. The river hosts two islands and the remnants of a third one. These are, clockwise from South-West: *Big Island* (private land), *Flat Island* (great for exploration), and *High Island* (almost entirely washed away by the waves). Excellent location for overnight anchorage (for example next to Big Island), with services available at nearby marinas. Highly recommended to stick to the marked channel, even in the Scots. From Turkey Point to Mayo Beach to Dutchman Point, the waters inshore of the channel are crowded with crab pots and shoals. Route is approx. 8 miles following the marks.<!--<br>Photos taken from the North shore: [View to Southwest, with Big Island at the center](IMAGES/MAPS/RHODE_RIVER/Big_Island_sailboat.jpg), [View to East, toward the Chesapeake Bay](IMAGES/MAPS/RHODE_RIVER/View_to_East_1.jpg), [Another view to East](IMAGES/MAPS/RHODE_RIVER/View_to_East_2.jpg), [The sandbar that is left of High Island](IMAGES/MAPS/RHODE_RIVER/High_Island.jpg), [Flat Island](IMAGES/MAPS/RHODE_RIVER/Flat_Island_sailboat.jpg), [Another view to Flat Island](IMAGES/MAPS/RHODE_RIVER/Flat_Island.jpg)--> |
 | 6 | **[Kentmorr Restaurant](https://www.kentmorr.com/)**<br>Kentmorr is a marina and restaurant on Kent Island, about 4 miles East of the Thomas Point Lighthouse. In light winds and using the cruiser motor, the trip from Selby Bay takes about 3 hours each way. The chart says the bearing is about 75 degree. There is a brown cone-like silo, such as for road salt, which makes an excellent land reference point for navigation. The entrance to the marina is 20+ feet wide, and there is plently of water for First Light's 4ft draft.<br><br>The restaurant is almost directly on the dockside. There are almost a dozen perpendicular slips specifically for diners to the east of the arrow, barely 10 feet from the front door. "2 hour free docking while dining" says the website. Several slips are available, but one can also point the bow out to the bay and make fast on the wharf at the green arrow in the image below.<br><br>Dining: Casual dining both oudoor and indoor (air conditioning), good food ($12-20 for seafood entree), good staff, we'd go back, check out the specials. [Restaurant menu](https://www.kentmorr.com/menu.php)<br><br><!--[View of Kentmorr from above](IMAGES/MAPS/Kentmorr.jpg), -->[Kentmorr in Google Maps](http://maps.google.com/?ie=UTF8&ll=38.914636,-76.36417&spn=0.003147,0.005316&t=h&z=18) |
+{: .table}
 
 ---
 
@@ -467,6 +478,7 @@ Additional resources available include [free nautical charts](#links-and-resourc
 ---
 
 <a name="question_01"></a>
+
 ### What is the Flying Scot? [↑](#index)
 
 The Flying Scot is a large (19' LOA), beamy (6' 9") centerboard dinghy that is sailed throughout North America. It was designed in 1957 by Sandy Douglass, who also designed the Highlander and Thistle, and made important contributions to the development of the International 14. The boat was designed with young families in mind: it is easily trailered, wide and stable, with a big cockpit for taking the children sailing, but with enough performance for tight, competitive racing.
@@ -487,8 +499,10 @@ New Flying Scots are identically constructed by a single builder, and fairly str
 | Sail area (spinnaker) | 200 sq. feet | 18.6 sq. m |
 | Displacement | 830 lbs | 376.5 kg |
 | Crew: 2-3, capacity: ~6 adults | | |
+{: .table .table-stripe}
 
 <a name="question_02"></a>
+
 ### Why would I want to sail one? [↑](#index)
 
 - The boat is an outstanding daysailer or gunkhole cruiser.
@@ -503,11 +517,13 @@ New Flying Scots are identically constructed by a single builder, and fairly str
 Think of it as an overgrown College 420 with an attitude. Or as a cross between a JY-15 and a J/24. Or as a miniature 30 footer that you can trailer -- and actually afford. Better yet, come out and try one; you'll enjoy it!
 
 <a name="question_03"></a>
+
 ### Why is it called the Flying Scot? [↑](#index)
 
 "Believe it or not, my biggest problem in designing the Flying Scot was in deciding on a good name for the class and then in designing a suitable emblem because with some 600 'classes' already on record [as of 1957], the field had become somewhat restricted. 'Flying Scot' has been the name of the famous London-to-Edinburgh express, and there also was a famous yacht of the [Eighteen] Nineties by that name. It seemed to be a good choice." -- Sandy Douglass
 
 <a name="question_04"></a>
+
 ### What is that funny squiggle in the class logo? [↑](#index)
 
 Sandy's original idea for the class logo involved the words "Flying S" with the S slightly above and to the right...
@@ -517,6 +533,7 @@ Sandy's original idea for the class logo involved the words "Flying S" with the 
 ...but that would have made the emblem very difficult for a sailmaker to reliably reproduce, so the rest of the word "Flying" was filled in with a solid color, and became the familiar squiggle.
 
 <a name="question_05"></a>
+
 ### How was the Flying Scot designed? [↑](#index)
 
 "While my years of experience had given me a pretty definite conception of the planing family racing boat which was needed in the 19-foot field, I had not introduced such a boat because for many years, the Lightning had dominated that field; and it wasn't until 1956 that I thought that her hold could be challenged....
@@ -534,6 +551,7 @@ Sandy's original idea for the class logo involved the words "Flying S" with the 
 "The boat had to have flotation.... The solution to the problem we found to be to use fiberglass straps, but to insulate them from the styrofoam with strips of waxed paper which protect the foam until the resin has cured." -- Sandy Douglass
 
 <a name="question_06"></a>
+
 ### Why doesn't the Flying Scot have... [↑](#index)
 
 #### ...hiking straps?
@@ -583,6 +601,7 @@ Sandy briefly considered one *(and I've since lost the quote...)* but rejected i
 For the reasons outlined above: simplicity and expense.
 
 <a name="question_07"></a>
+
 ### Has anyone famous sailed in Flying Scots? [↑](#index)
 
 Sandy Douglass, Greg Fisher, Andy Fox, Larry Klein, Tom Ehman... (I know I'm forgetting quite a few - PTD)
@@ -590,16 +609,19 @@ Sandy Douglass, Greg Fisher, Andy Fox, Larry Klein, Tom Ehman... (I know I'm for
 And, maybe... you?
 
 <a name="question_08"></a>
+
 ### Is there a fleet near me? [↑](#index)
 
-Yes, [Fleet 42](http://www.fs42.org/) is based at the same marina as the Goddard Sailing Association, at [Selby Bay Sailing Center](http://www.selbybay.com/). Goddard sailors can join Fleet 42 and participate at fleet events.
+Yes, [Fleet 42](https://www.fs42.org/) is based at the same marina as the Goddard Sailing Association, at [Selby Bay Sailing Center](https://www.selbybay.com/). Goddard sailors can join Fleet 42 and participate at fleet events.
 
 <a name="question_09"></a>
+
 ### Where can I find more information? [↑](#index)
 
-You may find more information, among others, at the [Flying Scot Sailing Association](http://www.fssa.com), at the [Flying Scot company](http://www.flyingscot.com/) or at [flyingscotracing.com](http://www.flyingscotracing.com/).
+You may find more information, among others, at the [Flying Scot Sailing Association](https://www.fssa.com), at the [Flying Scot company](https://www.flyingscot.com/) or at [flyingscotracing.com](https://www.flyingscotracing.com/).
 
 <a name="question_10"></a>
+
 ### What do I need to do to get my boat ready to race? [↑](#index)
 
 Here's what we did during our first racing season on FS 4340, which had been extensively daysailed but never raced before 1995:
@@ -640,6 +662,7 @@ And we're also possibly considering the following:
 So far, we've improved from consistently dead last (at the start of the '95 season) to consistently middle-of-the-fleet. Hopefully, by the end of next season, we'll be in a position to actually contend....
 
 <a name="question_11"></a>
+
 ### I'm getting killed upwind! What am I doing wrong? [↑](#index)
 
 One of the Scot's little quirks is that the jib fairleads are in a spot that causes them to sheet the sail about four degrees too far outboard. (the Collegiate 420 has the same problem.) To fix the problem, tie your jib sheets together about eight inches off the clew, and put enough tension on the weather jib sheet to bring the upper jib batten parallel to the boom. The clew will wind up roughly in the middle of the leeward seat, as a rule of thumb. A main with a window in the upper part of the luff that lets you see the upper jib batten can be very helpful.
@@ -647,11 +670,13 @@ One of the Scot's little quirks is that the jib fairleads are in a spot that cau
 What you don't want to do is overtrim the weather sheet, which stalls the jib leech and closes the slot; you can tell when that is happening by the backwind that you get in the main luff. The more you weather sheet, the narrower the "groove" gets, which can actually be helpful -- the Scot's groove is unnaturally wide to begin with, and it's easy to be fooled into sailing too low or to miss shifts. However, in light air, heavy chop, or if you're having trouble holding the boat in the groove, the weather sheet can profitably be eased or left off.
 
 <a name="question_12"></a>
+
 ### What about cruising? [↑](#index)
 
 Since there's so much room aboard a Flying Scot, including enough storage space for camping gear and supplies, many fleets organize cruises up and down coastlines or among groups of islands. A week-long cruise through the Thousand Islands is planned following this year's North American Championships, for example. Information about organized Flying Scot cruises frequently appears in the class newsletter, Scots 'n Water.
 
 <a name="question_13"></a>
+
 ### Raising and lowering the mast is a major pain! [↑](#index)
 
 Getting the mast up and down on older boats can be a trying process, involving a good deal of trial and error and fumbling. Fortunately, on newer boats, there is a pin on a hinge just aft of the mast step that greatly simplifies stepping and unstepping the mast. With the mast hinge, you just hook up the sidestays, slide the mast into the pin on the hinge, attach the jib halyard to your trailer winch, and have one person in the boat guiding the mast to prevent it falling sideways while the other cranks the mast up to vertical. Hook up the forestay, and you're done! Reverse the process when taking down.
@@ -661,6 +686,7 @@ Older boats can have the mast hinge retrofitted fairly easily. The hinge only co
 If you have an older boat with no mast hinge, you can simulate the effect of having a hinge by placing the butt of the mast in the tabernacle and following the above procedure, either using the trailer winch or walking forward from stern to midships while holding the mast overhead. The tabernacle will prevent the mast from falling over sideways while you're bringing it to vertical (which is the reason why it's there). Once the mast is vertical, hook up the jib halyard to the bow plate (not the tack shackle), and lift the mast from the tabernacle up to the mast step. Then hook up the forestay, and you're all set.
 
 <a name="question_14"></a>
+
 ### What about safety in a capsize? [↑](#index)
 
 Because the Flying Scot is so beamy and has a very heavy centerboard that provides a good deal of counterweight, capsizes are rare. In fact, it can be difficult to intentionally capsize the Flying Scot to leeward when the centerboard is down, since the boat develops uncontrollable weather helm as it heels over, which heads the boat into the wind until the sails stall. Most Flying Scot capsizes occur during downwind legs of races in heavy, puffy air, when the centerboard is up, the boat is not being sailed conservatively, and the spinnaker is almost doubling the boat's total sail area.
@@ -671,10 +697,77 @@ If you do capsize, the most important tip is to act quickly. The seats raise the
 
 ## Directions to Marina
 
-Coming soon.
+Our boats are based at:
+
+[**Selby Bay Sailing Center**](https://www.selbybay.com/)
+1032 Old Turkey Point Road
+Edgewater, MD 21037-4027
+(410) 798-4146
+
+Directions to marina from any location: [Google Maps](https://local.google.com/maps?f=q&hl=en&q=1032+Old%20Turkey%20Point+Road,+Edgewater,+Maryland,+21037&ie=UTF8&z=15&ll=38.9025,-76.5132&spn=0.016218,0.043259&om=1&iwloc=addr)
+
+**Directions from US-50, heading eastward from the DC area:**
+*  Leave US-50 at Exit 16, turn onto MD-424 South.
+*  Travel 3.7 mi on MD-424.
+*  Turn left at the stoplight, onto MD-214.
+*  Travel 7 mi on MD-214, well past Riva Road and Rte 2.
+*  Turn left onto Turkey Point Road (shortly after a Sam's Market).
+*  PLEASE DRIVE SLOWLY ON THE NARROW LOCAL ROADS!!!
+*  Immediately turn left again, onto Old Turkey Point Road.
+*  Turn sharply to the right where the road forks.
+*  Turn left at the second driveway: 1032 Old Turkey Point Road
+*  Park with other cars on the left side of the driveway.
+*  The dock is straight ahead, past the Flying Scots on trailers.
 
 ---
 
 ## Resources and Links
 
-Coming soon.
+### Resources (links will be updated soon)
+
+- [Flying Scot checklist](BASIC_SAILING_CLASS/Scot_Checklist.pdf)
+- [List for preparing boats to sail](BASIC_SAILING_CLASS/Preparing_Boat_to_Sail.pdf)
+- [Cruiser checklist](FORMS/Hunter_Checklist.pdf)
+- [NOAA-NASA cloud chart](IMAGES/MISCELLANEOUS/CloudChart.pdf)
+- [Night Sail](RESOURCES/Night_Sail.pdf) (A story by GSA member Drew Jones that appeared in the January 2004 issue of the Chesapeake Bay Magazine)
+- [Frequently used knots](BASIC_SAILING_CLASS/Knots.ppt) (800kB, PPT)
+- [Physics of sailing](RESOURCES/Physics_of_sailing.pdf), an article from Physics Today (5.8 MB, PDF)
+- [2020 Sailing flyer](FORMS/Sailing_Flyer.pdf) to advertise the Goddard Sailing Association
+- [Logo of the Goddard Sailing Association](/images/GSA_logo.jpg)
+
+### Selby Bay
+
+- [Selby Bay Sailing Center](https://www.selbybay.com/)
+- [Fleet 42](https://fs42.org)
+- [NIH sailing club](https://www.nihsail.org)
+
+### Chesapeake Bay
+
+- [Chesapeake Bay Guide](https://www.thebayguide.com/)
+
+### Nautical charts
+
+- [Region around Selby Bay](https://www.charts.noaa.gov/OnLineViewer/12270.shtml)
+- [North America](https://www.charts.noaa.gov/InteractiveCatalog/nrnc.shtml)
+- [OpenSeaMap: Worldwide online nautical chart](https://map.openseamap.org)
+
+## Sailing magazines
+
+- [Spinsheet](https://www.spinsheet.com/)
+- [Sail](https://www.sailmagazine.com)
+- [Sailing World](https://www.sailingworld.com)
+
+### Other links
+
+- [US Sailing Association](https://www.ussailing.org)
+- [Flying Scot Sailing Association](https://www.fssa.com)
+- [Flying Scot Racing](https://www.flyingscotracing.com/)
+- [Nautic Expo](https://www.nauticexpo.com/)
+- [Boat cleaning and maintenance resources](https://www.bbcleaningservice.com/cleaning-maintaining-boat.html)
+- [Chesapeake Region Accessible Boating](https://www.crabsailing.org)
+- [Sailing links at *Action Donation* website](https://www.actiondonation.org/articles/a-windfall-of-sailing-links.html)
+- [Links on weather hazards](https://www.cruisedirect.com/cyclones-typhoons-and-hurricanes)
+- [A kid's guide to sailing boats](https://www.seattleyachts.com/kids-guide-to-sailing-boats)
+- [TripBuzz sailing resource guide](https://www.tripbuzz.com/sailing-guide/)
+- [Boating safety info and links](https://www.worldwideboat.com/knowledgebase/boat-safety)
+- [Boating safety resources](https://www.buyrope.co.uk/boat-safety-resources)
