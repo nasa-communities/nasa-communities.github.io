@@ -103,6 +103,7 @@ For information about racing opportunities, contact the Racing Coordinator. Ther
 | **To qualify** | Either six classroom lessons, a brief written exam, and three-four water lessons, or equivalent experience<br><br>Test by a qualifier |
 |---|---|
 | **Restrictions** | Can sail a Flying Scot during the day in area 3.<br><br>New graduates for with no other experience are required to stay in area 1 for 2 charters, then in area 2 for another 3 charters. |
+{.table}
 
 ### CRUISER HELMSMEN
 
