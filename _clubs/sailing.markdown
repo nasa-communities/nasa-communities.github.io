@@ -414,6 +414,7 @@ At present, the following books are available:
 | Dick Tillman | The complete book of Laser sailing | 2000 | 150 |
 | Sailing Association and American Red Cross | Start sailing right | 1997 | 112 |
 | US Sailing Association | Teaching and coaching fundamentals for sailing | 1999 | |
+{: .table}
 
 ---
 
