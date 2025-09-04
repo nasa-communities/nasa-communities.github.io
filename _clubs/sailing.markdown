@@ -22,7 +22,7 @@ anchors:
   - { text: Sailing Classes, anchor: "#sailing-classes" }
   - { text: Fee Information, anchor: "#fee-information" }
   - { text: Club Calendar, anchor: "#club-calendar" }
-  - { text: Club Reference Book, anchor: "#club-reference-book" }
+  - { text: Club Reference Book, anchor: "/clubs/sailing/reference-book/" }
   - { text: Points of Contact, anchor: "#points-of-contact" }
   - { text: Phone Book, anchor: "#phone-book" }
   - { text: Photos and Videos, anchor: "#photos-and-videos" }
@@ -85,7 +85,7 @@ All Goddard employees (civil servants and contractors) and family members are we
 * **Flexible, convenient online boat chartering and self-service at marina.**
 
 ### How to get started:
-- To join, simply fill out the [membership form]() and (a) scan it and send the PDF file by email to [Theo Muench and Robin Clemente](mailto:ttmuench@hotmail.com,robin.clemente@nasa.gov), plus make a payment through Venmo, OR (b) send a hardcopy and a check to Theo Muench.
+- To join, simply fill out the [membership form](FORMS/Sailing_membership_form.pdf) and (a) scan it and send the PDF file by email to [Theo Muench and Robin Clemente](mailto:ttmuench@hotmail.com,robin.clemente@nasa.gov), plus make a payment through Venmo, OR (b) send a hardcopy and a check to Theo Muench.
 - Sign up for a sailing class or, if you already know to sail, arrange for a qualification test with [Doug Frantz](mailto:douglas.e.frantz@nasa.gov).
 - Once qualified, enjoy sailing from sometime in April to late October.
 - Contact [our officers and volunteers](#points-of-contact) with any questions.
@@ -94,7 +94,7 @@ All Goddard employees (civil servants and contractors) and family members are we
 
 ## Sailing classes
 
-To sign up for sailing classes, please fill out this [class registration form]() and return it to Doug Frantz (Code 606). You may also sign up for the basic sailing class using the [annual membership form](). You can also sign up for any class in person at the annual membership meeting.
+To sign up for sailing classes, please fill out this [class registration form](FORMS/Classes_form.pdf) and return it to Doug Frantz (Code 606). You may also sign up for the basic sailing class using the [annual membership form](FORMS/Sailing_membership_form.pdf). You can also sign up for any class in person at the annual membership meeting.
 
 With questions about the classes, please contact [Doug Frantz](mailto:douglas.e.frantz@nasa.gov) (301-286-1866).
 
@@ -192,7 +192,7 @@ This course is intended for experienced Flying Scot skippers who wish to learn t
 
 ## Club Reference Book
 
-Coming soon.
+<a href="/clubs/sailing/reference-book" class="btn btn-primary">Club Reference Book</a>
 
 ---
 
@@ -375,7 +375,7 @@ Membership list as of March 22, 2023.
 
 ## Photos and Videos
 
-Coming soon.
+Links coming soon.
 
 ---
 
@@ -423,16 +423,16 @@ This section is to help club members benefit from each other's knowledge of the 
 
 Additional resources available include [free nautical charts](#links-and-resources) and [commercially available books](http://www.amazon.com/s/ref=nb_ss_gw/103-7941116-6088656?url=search-alias%3Daps&field-keywords=Cruising+the+Chesapeake&Go.x=0&Go.y=0&Go=Go).
 
-(Map of daysail destinations coming soon)
+![Daysail destinations](/images/sailing_daysail_destinations.jpg)
 
 | Symbol | Description |
 |---|---|
-| 1 | **[Selby Bay Sailing Center](http://www.selbybay.com/)**<br>In addition to the Goddard sailboats, the [NIH sailing club](http://www.recgov.org/sail/) and the Flying Scot [Fleet 42](http://fs42.org) are also located here. |
-| 2 | **[Pirate's Cove Restaurant and Marina](http://www.piratescovemd.com)**<br>Additional information that would be welcome include: where exactly to tie up a boat, how long it typically takes to sail there, whether the restaurant is often crowded or requires a long wait, etc. |
-| 3 | **[Thomas Point Shoal Lighthouse](http://www.thomaspointlighthouse.org/)**<br>The lighthouse was built in 1875 and switched to automatic operations in 1986. It is a National Historic Landmark—one of only nine lighthouses in the US to receive this highest honor afforded to buildings. The lighthouse is in excellent condition and will be open to public tours once parts of its interior will be restored to represent their state in the early 20th Century. It reaches 43 feet above water and operates a foghorn and a white flashing light visible from up to 11 miles, as well as an automated weather station. [Current weather at lighthouse](http://www.ndbc.noaa.gov/station_page.php?station=tplm2), [Photo from a club sailboat](IMAGES/PHOTO_ALBUM/REASONS_TO_JOIN/Thomas_Point_lighthouse.jpg). |
-| 4 | **[Quiet Waters Park](http://www.aacounty.org/RecParks/parks/quiet_waters_park/)**<br>A big park with attractions such as walking/biking trails through fields and woods, an art pavillion, fountains, gardens, and a playground. Visible from the South River are two gazebos and a dog beach where only dogs are allowed to swim. The South River is quite shallow in front of the park, but a scenic inlet (Harness Creek) on the West side of the park is deep enough for sailboats—though trees may block the wind. [Additional information about the park.](http://www.friendsofquietwaterspark.homestead.com/)<br>Photos: [Dog beach](IMAGES/MAPS/QUIET_WATERS_PARK/Dog_beach_1.jpg), [View from the park across the South River toward Selby Bay (center) and the Chesapeake Bay (left).](IMAGES/MAPS/QUIET_WATERS_PARK/Gazebo_1.jpg) |
-| 5 | **Rhode River**<br>A scenic body of water with little human presence along its shores. The river hosts two islands and the remnants of a third one. These are, clockwise from South-West: *Big Island* (private land), *Flat Island* (great for exploration), and *High Island* (almost entirely washed away by the waves). Excellent location for overnight anchorage (for example next to Big Island), with services available at nearby marinas. Highly recommended to stick to the marked channel, even in the Scots. From Turkey Point to Mayo Beach to Dutchman Point, the waters inshore of the channel are crowded with crab pots and shoals. Route is approx. 8 miles following the marks.<br>Photos taken from the North shore: [View to Southwest, with Big Island at the center](IMAGES/MAPS/RHODE_RIVER/Big_Island_sailboat.jpg), [View to East, toward the Chesapeake Bay](IMAGES/MAPS/RHODE_RIVER/View_to_East_1.jpg), [Another view to East](IMAGES/MAPS/RHODE_RIVER/View_to_East_2.jpg), [The sandbar that is left of High Island](IMAGES/MAPS/RHODE_RIVER/High_Island.jpg), [Flat Island](IMAGES/MAPS/RHODE_RIVER/Flat_Island_sailboat.jpg), [Another view to Flat Island](IMAGES/MAPS/RHODE_RIVER/Flat_Island.jpg) |
-| 6 | **[Kentmorr Restaurant](http://www.kentmorr.com/)**<br>Kentmorr is a marina and restaurant on Kent Island, about 4 miles East of the Thomas Point Lighthouse. In light winds and using the cruiser motor, the trip from Selby Bay takes about 3 hours each way. The chart says the bearing is about 75 degree. There is a brown cone-like silo, such as for road salt, which makes an excellent land reference point for navigation. The entrance to the marina is 20+ feet wide, and there is plently of water for First Light's 4ft draft.<br><br>The restaurant is almost directly on the dockside. There are almost a dozen perpendicular slips specifically for diners to the east of the arrow, barely 10 feet from the front door. "2 hour free docking while dining" says the website. Several slips are available, but one can also point the bow out to the bay and make fast on the wharf at the green arrow in the image below.<br><br>Dining: Casual dining both oudoor and indoor (air conditioning), good food ($12-20 for seafood entree), good staff, we'd go back, check out the specials. [Restaurant menu](http://www.kentmorr.com/menu.php)<br><br>[View of Kentmorr from above](IMAGES/MAPS/Kentmorr.jpg), [Kentmorr in Google Maps](http://maps.google.com/?ie=UTF8&ll=38.914636,-76.36417&spn=0.003147,0.005316&t=h&z=18) |
+| 1 | **[Selby Bay Sailing Center](https://www.selbybay.com/)**<br>In addition to the Goddard sailboats, the [NIH sailing club](https://www.recgov.org/sail/) and the Flying Scot [Fleet 42](https://fs42.org) are also located here. |
+| 2 | **[Pirate's Cove Restaurant and Marina](https://www.piratescovemd.com)**<br>Additional information that would be welcome include: where exactly to tie up a boat, how long it typically takes to sail there, whether the restaurant is often crowded or requires a long wait, etc. |
+| 3 | **[Thomas Point Shoal Lighthouse](https://www.thomaspointlighthouse.org/)**<br>The lighthouse was built in 1875 and switched to automatic operations in 1986. It is a National Historic Landmark—one of only nine lighthouses in the US to receive this highest honor afforded to buildings. The lighthouse is in excellent condition and will be open to public tours once parts of its interior will be restored to represent their state in the early 20th Century. It reaches 43 feet above water and operates a foghorn and a white flashing light visible from up to 11 miles, as well as an automated weather station. [Current weather at lighthouse](https://www.ndbc.noaa.gov/station_page.php?station=tplm2)<!--, [Photo from a club sailboat](IMAGES/PHOTO_ALBUM/REASONS_TO_JOIN/Thomas_Point_lighthouse.jpg)-->. |
+| 4 | **[Quiet Waters Park](https://www.aacounty.org/RecParks/parks/quiet_waters_park/)**<br>A big park with attractions such as walking/biking trails through fields and woods, an art pavillion, fountains, gardens, and a playground. Visible from the South River are two gazebos and a dog beach where only dogs are allowed to swim. The South River is quite shallow in front of the park, but a scenic inlet (Harness Creek) on the West side of the park is deep enough for sailboats—though trees may block the wind. [Additional information about the park.](https://www.friendsofquietwaterspark.homestead.com/)<!--<br>Photos: [Dog beach](IMAGES/MAPS/QUIET_WATERS_PARK/Dog_beach_1.jpg), [View from the park across the South River toward Selby Bay (center) and the Chesapeake Bay (left).](IMAGES/MAPS/QUIET_WATERS_PARK/Gazebo_1.jpg)--> |
+| 5 | **Rhode River**<br>A scenic body of water with little human presence along its shores. The river hosts two islands and the remnants of a third one. These are, clockwise from South-West: *Big Island* (private land), *Flat Island* (great for exploration), and *High Island* (almost entirely washed away by the waves). Excellent location for overnight anchorage (for example next to Big Island), with services available at nearby marinas. Highly recommended to stick to the marked channel, even in the Scots. From Turkey Point to Mayo Beach to Dutchman Point, the waters inshore of the channel are crowded with crab pots and shoals. Route is approx. 8 miles following the marks.<!--<br>Photos taken from the North shore: [View to Southwest, with Big Island at the center](IMAGES/MAPS/RHODE_RIVER/Big_Island_sailboat.jpg), [View to East, toward the Chesapeake Bay](IMAGES/MAPS/RHODE_RIVER/View_to_East_1.jpg), [Another view to East](IMAGES/MAPS/RHODE_RIVER/View_to_East_2.jpg), [The sandbar that is left of High Island](IMAGES/MAPS/RHODE_RIVER/High_Island.jpg), [Flat Island](IMAGES/MAPS/RHODE_RIVER/Flat_Island_sailboat.jpg), [Another view to Flat Island](IMAGES/MAPS/RHODE_RIVER/Flat_Island.jpg)--> |
+| 6 | **[Kentmorr Restaurant](https://www.kentmorr.com/)**<br>Kentmorr is a marina and restaurant on Kent Island, about 4 miles East of the Thomas Point Lighthouse. In light winds and using the cruiser motor, the trip from Selby Bay takes about 3 hours each way. The chart says the bearing is about 75 degree. There is a brown cone-like silo, such as for road salt, which makes an excellent land reference point for navigation. The entrance to the marina is 20+ feet wide, and there is plently of water for First Light's 4ft draft.<br><br>The restaurant is almost directly on the dockside. There are almost a dozen perpendicular slips specifically for diners to the east of the arrow, barely 10 feet from the front door. "2 hour free docking while dining" says the website. Several slips are available, but one can also point the bow out to the bay and make fast on the wharf at the green arrow in the image below.<br><br>Dining: Casual dining both oudoor and indoor (air conditioning), good food ($12-20 for seafood entree), good staff, we'd go back, check out the specials. [Restaurant menu](https://www.kentmorr.com/menu.php)<br><br><!--[View of Kentmorr from above](IMAGES/MAPS/Kentmorr.jpg), -->[Kentmorr in Google Maps](http://maps.google.com/?ie=UTF8&ll=38.914636,-76.36417&spn=0.003147,0.005316&t=h&z=18) |
 
 ---
 
@@ -511,7 +511,7 @@ Think of it as an overgrown College 420 with an attitude. Or as a cross between 
 
 Sandy's original idea for the class logo involved the words "Flying S" with the S slightly above and to the right...
 
-![Flying Scot logo squiggle](IMAGES/FS_logo_squiggle.gif)
+<!--![Flying Scot logo squiggle](IMAGES/FS_logo_squiggle.gif)-->
 
 ...but that would have made the emblem very difficult for a sailmaker to reliably reproduce, so the rest of the word "Flying" was filled in with a solid color, and became the familiar squiggle.
 
