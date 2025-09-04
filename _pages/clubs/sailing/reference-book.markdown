@@ -5,28 +5,7 @@ categories: goddard
 
 parent-club: Goddard Sailing Association
 
-anchors:
-  - { text: Club description, anchor: "#Description" }
-  - { text: Membership, anchor: "#Membership" }
-  - { text: Activities, anchor: "#Activities" }
-  - { text: History, anchor: "#History" }
-  - { text: Organization & participation, anchor: "#Organization" }
-  - { text: How to get started, anchor: "#Starting" }
-  - { text: Instructional program, anchor: "#Instruction" }
-  - { text: Racing, anchor: "#Racing" }
-  - { text: Ratings, anchor: "#Ratings" }
-  - { text: Charters, anchor: "#Charters" }
-  - { text: Etiquette at dock, anchor: "#Etiquette" }
-  - { text: Late returns, anchor: "#Late" }
-  - { text: Map of the water, anchor: "#Water_map" }
-  - { text: Safety and accidents, anchor: "#Safety" }
-  - { text: Flying Scot: Leaving, anchor: "#FS_leaving" }
-  - { text: Flying Scot: Returning, anchor: "#FS_returning" }
-  - { text: Hoisting the Flying Scots, anchor: "#Hoist" }
-  - { text: Cruiser motor, anchor: "#Cruiser_motor" }
-  - { text: Cruiser electrical systems, anchor: "#Cruiser_electrical_systems" }
-  - { text: Cruiser sails and rigging, anchor: "#Cruiser_sails_and_rigging" }
-  - { text: Cruiser procedures, anchor: "#Cruiser_procedures" }
+
 
 ---
 
