@@ -19,7 +19,7 @@ layout: club-with-nav
 anchors:
   - { text: News, anchor: "#news" }
   - { text: Why and How to Join, anchor: "#why-and-how-to-join" }
-  - { text: Sailing Classes, anchor: "#sailing-classes }
+  - { text: Sailing Classes, anchor: "#sailing-classes" }
   - { text: Fee Information, anchor: "#fee-information" }
   - { text: Club Calendar, anchor: "#club-calendar" }
   - { text: Club Reference Book, anchor: "#club-reference-book" }
