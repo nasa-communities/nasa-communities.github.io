@@ -1,7 +1,7 @@
 ---
 name: Cuong Nhu Karate Club
 description: Biweekly Cuong Nhu karate training classes at NASA/GSFC in Greenbelt, Maryland.
-thumbnail: cnhu.gif
+thumbnail: CuongNhu_Logo.png
 categories: goddard
 
 contact-email: james.c.olsen@nasa.gov
