@@ -1,0 +1,678 @@
+---
+layout: page-with-nav
+title:  "Observer's Page"
+categories: goddard
+
+parent-club: Goddard Astronomy Club
+
+anchors:
+  - { text: For Beginners, anchor: "#for-beginners" }
+  - { text: For Everyone, anchor: "#for-everyone" }
+  - { text: Amateur Astronomy Info, anchor: "#amateur-astronomy-info" }
+  - { text: Amateur Astronomy Orgs, anchor: "#amateur-astronomy-orgs" }
+  - { text: Archeoastronomy, anchor: "#archeoastronomy" }
+  - { text: Astrobiology, anchor: "#astrobiology" }
+  - { text: Basics of Astronomy, anchor: "#basics-of-astronomy" }
+  - { text: Beyond the Solar System, anchor: "#beyond-the-solar-system" }
+  - { text: Cosmology and Miscellaneous Info, anchor: "#cosmology-and-miscellaneous-info" }
+  - { text: History of Astronomy, anchor: "#history-of-astronomy" }
+  - { text: Humor, anchor: "#humor" }
+  - { text: K-12 Teachers, anchor: "#k-12-teachers" }
+  - { text: Observatories, et al., anchor: "#observatories-et-al" }
+  - { text: Online 'Scopes the Public Can Use, anchor: "#online-scopes-the-public-can-use" }
+  - { text: Other Instruments, anchor: "#other-instruments" }
+  - { text: Radio Astronomy, anchor: "#radio-astronomy" }
+  - { text: Research Astronomy, anchor: "#research-astronomy" }
+  - { text: Solar System Topics, anchor: "#solar-system-topics" }
+  - { text: Space Art, anchor: "#space-art" }
+  - { text: Spacecraft/Satellite Info, anchor: "#spacecraftsatellite-info" }
+  - { text: Terrestrial Events, anchor: "#terrestrial-events" }
+  - { text: Weather Resources, anchor: "#weather-resources" }
+
+---
+
+*Last updated 3/9/2015; information may be outdated and links may be broken.*
+
+## For Beginners
+- [Astronomy Resources](https://www.surveillance-video.com/astronomy-sept-2009.html) - Resources and links for beginning amateur astronomers.
+- [Astronomy Boy](https://www.astronomyboy.com/) - Resources and tools for amateur astronomers.
+- [Astronomy Cafe](https://www.astronomycafe.net/) - Hundreds of questions answered by a working-in-the field Astrophysicist.
+- [Bad astronomy](https://www.badastronomy.com/index.html) - Points out and corrects bad astronomy in the news, on TV, etc.
+- [Basic facts about the Sun](https://www.mjjsales.com/articles/basic-facts-about-the-sun.html) - Basic facts about the Sun.
+- [Do you think alien abductions are real?](https://www.pbs.org/wgbh/nova/aliens/carlsagan.html) - Then, be more skeptical, by Carl Sagan.
+- [How to become an Astronaut](https://www.nasa.gov/audience/forstudents/postsecondary/features/f_astronaut_requirements.html) - A beginning set of guidelines to get you into the astronaut program.
+- [So you want to buy a telescope...](https://www.scopereviews.com/begin.html) - Advice for beginners.
+- [Space and Astronomy for Kids](https://space.about.com/od/educationastronomyspace/a/kidsastronomy.htm) - Lots of cool stuff for kids to learn about astronomy. ***duplicate***
+- [World's largest model of the solar system](https://www.mnn.com/earth-matters/space/blogs/worlds-largest-scale-model-solar-system-spans-11-different-swedish-cities) - Find out how big the solar system is in terms of the internet.
+
+## For Everyone
+- [Ask the Astronomer](https://sten.astronomycafe.net/the-astronomy-cafe/) - 3001 questions answered. For new questions see next link.
+- [Astronomy picture of the day](https://antwrp.gsfc.nasa.gov/apod/astropix.html) - Something new every day!!
+- [Astronomy picture of the day Archive](https://antwrp.gsfc.nasa.gov/apod/archivepix.html) - All the old APODs, too.
+- [Basic facts about the Sun](https://www.mjjsales.com/articles/basic-facts-about-the-sun.html) - Basic facts about the Sun. ***duplicate***
+- [CNN News, Science, Technology, Space](https://www.cnn.com/tech/space/) - The latest news reports about space stuff. ***duplicate***
+- [Did MEN land on the Moon? Yes](https://www.badastronomy.com/bad/tv/foxapollo.html) - Go here for a debunking of the Fox tv show.
+- [Donald Simanek's Page](https://www.lockhaven.edu/~dsimanek/) - Lots of links for skeptics, philosophers, about de-hoaxing hoaxes, etc.
+- [Hobby Space](https://www.hobbyspace.com/) - A web guide to space activities and hobbies.
+- [Hubble Images](https://hubble.stsci.edu/gallery/) - A plethora of pictures since 1994.
+- [JPL News Flashes](https://www.jpl.nasa.gov/news/) - A lot of astronomy related news, press releases, etc. ***duplicate***
+- [More Hubble Stuff](https://hubble.stsci.edu/) - More info about Hubble Space Telescope, as well as education and games.
+- [NASA's Planetary Photojournal](https://photojournal.jpl.nasa.gov/) - Provides easy access to publicly released images of the planets, etc.
+- [Science at NASA/Marshall Space Flight Center](https://science.msfc.nasa.gov/) - Science headlines from Marshall Space Flight Center.
+- [SETI@Home](https://setiathome.ssl.berkeley.edu/) - Search for extraterrestrials yourself in your own home. ***duplicate***
+- [Skywatching Center](https://www.earthsky.org/interviewhome/space) - An index of something to look for in the sky each night.
+- [Starry sky com](https://www.star.gs/indexe1.htm) - What's up in the sky at this instant. Customize for your location.
+- [The Star Gazer (Jack Horkheimer)](https://www.starhustler.com/) - If you can't see the show, you can read it here.
+- [The Sky at a Glance](https://www.skyandtelescope.com/observing/ataglance) - Updated weekly about what's up in the sky.
+- [World Wide Telescope](https://www.worldwidetelescope.org/webclient/) - Explore, take guided tours, without leaving your computer. ***duplicate***
+- [Wiki Sky](https://www.wikisky.org/) - A growing list of stellar objects to look at, etc.
+
+## Amateur Astronomy Info
+- [Amateur Telescope Making](https://www.atmsite.org/) - Resources and techniques for the amateur...
+- [Aurora Page](https://www.geo.mtu.edu/weather/aurora/) - Forecasts, links and images Of the 'Northern Lights.'
+- [Current Comets](https://cometography.com/current_comets.html) - Current comets that are visible and other comet information.
+- [Comets and Meteor Showers](https://osr.org/en-us/articles/comet-and-meteor-showers/) - Information on Comets, Meteor Showers and Asteroids.
+- [Expanding Universe](https://vrl.tpl.toronto.on.ca/expanding_universe/) - A classified search tool for amateur astronomy.
+- [Eclipse home page](https://www.mreclipse.com/) - New and improved web page for solar and lunar eclipses.
+- [Heavens Above](https://www.heavens-above.com/) - Locate satellItes visually in Maryland. ***duplicate***
+- [Humans in Space](https://spaceflight.nasa.gov/) - Links to the latest info on the space shuttle and space station. ***duplicate***
+- [IAU Circulars](https://www.cfa.harvard.edu/iauc/recentiaucs.html) - Home page of he Central Bureau for Astronomical Telegrams.
+- [ISS Visibility](https://www.heavens-above.com/) - The naked-eye visibility of the International Space Station. ***duplicate***
+- [Learn What's Up](https://www.learnwhatsup.com/astro/index1.shtml) - Updated on or before the first of every month.
+- [Lunar Info for Amateur Astronomers](https://obs.nineplanets.org/psc/lunam.html) - Some links about the Moon including fictional stories.
+- [The Messier Catalog](https://seds.org/messier/) - There's a lot of info on the Messier objects here. ***duplicate***
+- [Meteor Showers Online](https://meteorshowersonline.com/) - Contains information on how to observe meteors and when. ***duplicate***
+- [The Moon](https://www.solarviews.com/eng/moon.htm) - Almost anything you want to know about the Moon can be found here. ***duplicate***
+- [Moon Phases](https://aa.usno.navy.mil/data/docs/moonphase.html) - See images of what the moon will look like on a certain date. ***duplicate***
+- [Nearby Star Observers](https://www.nbso.org/) - Exchanging info about stars within 20 parsecs (65.2 light years).
+- [Noctilucent Cloud Observer's Homepage](https://www.kersland.plus.com/) - How to observe and report noctilucent cloud observations.
+- [Phases of the Moon](https://aa.usno.navy.mil/data/docs/moonphase.html) - See images of what the moon will look like on a certain date. ***duplicate***
+- [Planetary Nebula Observer's Home Page](https://www.blackskies.org/) - Mucho info on PNs and links, too.
+- [Satellite Overpasses](https://www-air.larc.nasa.gov/tools/predict.htm) - Can predict the times a satellite will pass overhead and where.
+- [SETI@Home](https://setiathome.ssl.berkeley.edu/) - Search for extraterrestrials yourself in your own home. ***duplicate***
+- [Skyeye at Obliquity](https://www.obliquity.com/skyeye/) - A guide to this month's celestial events.
+- [Sky Maps](https://www.skymaps.com/) - Free sky maps for the northern or southern hemisphere.
+- [Sky Watch](https://www.sky-watch.com/) - Personalized sky calendar that sends emails about events to look for from you location.
+- [Space Shuttle Sightings](https://spaceflight.nasa.gov/realdata/sightings/) - Want to see the Space shuttle, and other spacecraft naked eye? Go here.
+- [Sunrise, sunset times](https://aa.usno.navy.mil/data/docs/rs_oneyear.php) - Sunrise and sunset times from the USNO. And more info.
+- [Supernovae, The Latest Visible](https://www.rochesterastronomy.org/supernova.html) - A list of currently observable supernovae.
+- [Terry's Hunt of the Month](https://www.geocities.com/tlt284@flash.net/) - Contains 5 monthly observing lists from the Messier, Herschel, Herschel II, FWAS Favorites, and the Beyond Messier lists.
+- [Unisys Weather](https://weather.unisys.com/) - Make your own forecastes with these maps. ***duplicate***
+- [Virtual Telescope](https://skyview.gsfc.nasa.gov/) - The Internet's Virtual Telescope. Pictures at any wavelength.
+- [Visual Satellite Observer's Home Page](https://www.satobs.org/satintro.html) - Why, when and what satellites to look for.
+- [What satellites are visible from the ground?](https://www.heavens-above.com/) - Find out what time and which satellites are passing overhead. ***duplicate***
+- [World Wide Telescope](https://www.worldwidetelescope.org/webclient/) - Explore, take guided tours, without leaving your computer. ***duplicate***
+
+## Amateur Astronomy Orgs
+- [American Association of Amateur Astronomers](https://www.astromax.com/) - The Astronomical League's Internet Astronomy Club.
+- [American Assoc. of Variable Star Observers](https://www.aavso.org/) - Founded in 1911 with members in over 40 countries.
+- [American Meteor Society](https://www.amsmeteors.org/) - Observers with a common goal of studying meteors.
+- [Antique Telescope Society](https://www.webari.com/oldscope/) - Interested in antique astronomical telescopes, books, binoculars, etc? Check this site.
+- [Assoc. of Lunar & Planetary Observers](https://alpo-astronomy.org/) - This website is for communications and efficiency of observing.
+- [The AUDINE Project](https://www.astrosurf.com/audine/english/index_en.htm) - A CCD camera for everybody.
+- [Center for Backyard Astrophysics](https://cbastro.org/) - A global network of small telescopes dedicated to photometry of cataclysmic variables.
+- [Eclipse Chasers](https://www.mreclipse.com/) - Info for Solar Eclipse Chasers, travel, experiences, photography. ***duplicate***
+- [International Assoc. of Astronomical Artists](https://www.iaaa.org/) - Membership is not restricted to artists. Anyone can join. ***duplicate***
+- [International Meteor Organization](https://www.imo.net/) - A network setup for amateur meteor observers and observations.
+- [International Occultation Timing Assoc](https://www.anomalies.com/iotaweb/index.htm) - Measuring the shape of asteroids, etc.
+- [International Supernovae Network](https://www.sai.msu.su/mirrors/isn/isn.htm) - To share info worldwide among amateurs and professionals. ***duplicate***
+- [NAMN - North American Meteor Network](https://www.namnmeteors.org/) - For training meteor observers and coordinating North American observations.
+- [San Francisco Sidewalk Astronomers](https://www.sfsidewalkastronomers.org/) - Many objects can be seen even from light-polluted cities.
+- [Sidewalk Astronmers Home Page](https://www.sidewalkastronomers.us/) - A non-profit org. dedicated to public service in astronomy.
+- [Society of Amateur Radio Astronomers](https://www.radio-astronomy.org/) - A world-wide organization of radio astronomers. ***duplicate***
+- [TASS (The Amateur Sky Survey)](https://www.tass-survey.org/) - Using low-cost drift-scan cameras to monitor bright objects across a large section of sky.
+- [Visual Satellite Observer's Home Page](https://www.satobs.org/) - Gives an idea of why, when and what satellites to look for in the night sky. ***duplicate***
+
+## Archeoastronomy
+- [Aboriginal Star Knowledge](https://www.kstrom.net/isk/stars/starmenu.html) - Many topics dealing with Native American Astronomy.
+- [Ancient Astronomical Cosmology](https://www.astronomy.pomona.edu/archeo/intro.html) - Notes on ancient cosmology and links to other archeoastronomy sites.
+- [Archeoastronomy](https://www.archaeoastronomy.com/) - Contains many archeoastronomy links.
+- [Center for Archeoastronomy](https://www.wam.umd.edu/~tlaloc/archastro/) - A non-profit center with some Native American archeoastronomy.
+- [Comets - The Delivery System](https://www.panspermia.com/comets.htm) - Did comets deliver the beginnings of life to the Earth?
+- [History of Astronomy](https://www.astro.uni-bonn.de/%7Epbrosche/hist_astr/ha_items_archaeo.html) - Including archeoastronomy, ancient astronomy, and ethnoastronomy.
+- [Nabta](https://www.ancient-wisdom.co.uk/egyptnabta.htm) - Oldest known astronomical megalith in the Sahara Desert in Egypt.
+- [The Prehistoric web index](https://www.megalithic.co.uk/mm/database/index.htm) - Links to pages of megaliths and prehistoric sites.
+- [Stone Circle Webring](https://www.webring.org/hub/stonecircle) - Stonehenge isn't the only circle of rocks around.
+- [Stonehenge](https://www.stonepages.com/england/stonehenge.html) - That famous site in southern England.
+- [Winter Solstice Sunset 1998-2004 at Orkney Island, Scotland](https://www.iol.ie/~geniet/maeshowe/) - Built by Neolithic humans. Maes Howe was partly clouded out in 1997.
+
+## Astrobiology
+- [Astrobiology 101](https://www.astrobiology.com/adastra/astrobiology.101.html) - Exploring the Universe.
+- [The Astrobiology Institute](https://nai.arc.nasa.gov/) - A cooperation among many institutions.
+- [The Astrobiology Web](https://www.astrobiology.com/) - Many links to various astrobiology related sites.
+
+## Basics of Astronomy
+- [Astronomical Spectroscopy](https://fuse.pha.jhu.edu/~wpb/spectroscopy/spec_home.html) - What is and what does a spectrum tell us.
+- [Basic facts about the Sun](https://www.mjjsales.com/articles/basic-facts-about-the-sun.html) - Basic facts about the Sun. ***duplicate***
+- [Basics of Radio Astronomy](https://www.jpl.nasa.gov/radioastronomy/) - Trying to make Radio Astronomy less esoteric for laypeople. ***duplicate***
+- [Basics of Space Flight](https://www.jpl.nasa.gov/basics/) - A Learner's Workbook set up by the Jet propulsion Laboratory.
+- [Cosmic Rays](https://imagine.gsfc.nasa.gov/docs/features/topics/snr_group/cosmic_rays.html) - What are they and how are people trying to figure out what they are.
+- [Cosmology Tutorial](https://www.astro.ucla.edu/~wright/cosmolog.htm) - A brief intro to cosmology, by Ned Wright.
+- [Dark Matter](https://chandra.harvard.edu/xray_astro/dark_matter/) - A brief intoduction to dark matter. ***duplicate***
+- [General Relativity Tutorial](https://math.ucr.edu/home/baez/gr/gr.html) - A tutorial designed to demistify General relativity.
+- [Imagine the Universe](https://imagine.gsfc.nasa.gov/docs/homepage.html) - Imagine science, lots of educational stuff, ask a NASA scientist, etc, for 14 and up. ***duplicate***
+- [Interacting and Merging Galaxies](https://www.astr.ua.edu/keel/galaxies/mergers.html) - Lecture notes from Prof Barnes of U of Hawaii.
+- [Starchild](https://starchild.gsfc.nasa.gov/) - Learning center for young astronomers, 4-14 years old. ***duplicate***
+- [Wolf-Rayet Stars](https://praxis.pha.jhu.edu/astro2/astro2_science/wr.html) - A brief intro and description of Wolf-Rayet (massive) stars.
+
+## Beyond the Solar System
+- [Canadian Galactic Plane Survey](https://www.ras.ucalgary.ca/cgps/) - Mapping interstellar matter in a large swath in the Milky Way. ***duplicate***
+- [Kepler Mission, The](https://www.kepler.arc.nasa.gov/) - Searching for extraterrestrial planets.
+- [Messier Objects](https://seds.org/messier/) - Data, and resolutions to aim (dream?) for. ***duplicate***
+- [Multi-wavelength views of the Milky Way](https://mwmw.gsfc.nasa.gov/) - Similar to the poster and more.
+- [Nearby Field Galaxy Survey](https://www.astro.rug.nl/~nfgs/) - To construct a photometric and spectrometric atlas of 200 nearby galaxies.
+- [North American Skies](https://home.comcast.net/~sternmann/index.htm) - Info on stars, planets, eclipses, etc., visible in the sky.
+- [Planetary Nebulae](https://www.seds.org/messier/planetar.html) - Pictures and discussion of how they are formed.
+- [Stars and Constellations](https://www.astro.wisc.edu/~dolan/constellations/constellations.html) - Maps, info, photos, etc.
+- [Supernovae](https://www.supernovae.net/supernova.html) - A partial list of recent supernovae.
+
+## Cosmology and Miscellaneous Info
+- [Cosmological Constant](https://super.colorado.edu/~michaele/lambda/lambda.html) - A discussion of the role of the cosmological constant in modern cosmology.
+- [Cosmology in a computer map](https://www.ncsa.uiuc.edu/cyberia/expo/cosmos_nav.html) - List of links about various aspects of cosmology.
+- [Cycles in the Universe](https://ray.tomes.biz/) - There are cycles in everything. is the Universe cyclical?
+- [Dark Matter](https://chandra.harvard.edu/xray_astro/dark_matter.html) - A brief introduction to dark matter from Harvard Univ. ***duplicate***
+- [Gamma-ray burst sky map](https://www.batse.msfc.nasa.gov/data/grb/skymap/) - The latest sky map of the location of gamma ray bursts.
+- [High Energy Astronomy](https://www.cv.nrao.edu/fits/www/yp_high_energy.html) - Links to a lot of other sites dealing with High Energy Astronomy.
+- [Lyman Alpha Forest](https://www.astro.ucla.edu/~wright/lyman-alpha-forest.html) - A Lyman Alpha Forest web site with publications, animations and images.
+- [The MACHO Project](https://wwwmacho.mcmaster.ca/) - A search for MAssive Compact Halo Objects.
+- [Magnetars](https://www.sciam.com/article.cfm?articleid=0006e08d-c754-1e1c-8b3b809ec588eedf) - A Scientific American article on Magnetars.
+- [Neutron Stars](https://www.astro.umd.edu/~miller/nstar.html) - A brief introduction to neutron stars.
+- [Spacetime Wrinkles](https://www.ncsa.uiuc.edu/cyberia/numrel/numrelhome.html) - Einstein's Spacetime theory.
+- [Stellar Evolution](https://www.stellar-database.com/evolution.html) - Brief description of the evolution of stars.
+- [Stephen Hawking's Universe](https://www.pbs.org/wnet/hawking/html/home.html) - Strange stuff, etc., explained by Stephen Hawking.
+- [Virtual trips to black holes and neutron stars](https://antwrp.gsfc.nasa.gov/htmltest/rjn_bht.html) - Travel to a black hole.
+
+## History of Astronomy
+- [20th Century Women](https://cwp.library.ucla.edu/) - Contributions of 20th century women to physics.
+- [4000 Years of Women in Science](https://www.astr.ua.edu/4000ws/) - A listing by discipline of women involved in science in the past.
+- [Astronaut Connection](https://nauts.com/) - History of space exploration, and other cool stuff.
+- [Bios of famous Astronomers](https://www.astro.uni-bonn.de/~pbrosche/hist_astr/ha_pers.html) - A history of astronomy in terms of persons, not just astronomers.
+- [Bios of Women Mathematicians](https://www.agnesscott.edu/lriddle/women/women.htm) - Including the first PhDs in Mathematics by women before 1930.
+- [Brahe, Tycho](https://es.rice.edu/es/humsoc/galileo/people/tycho_brahe.html) - (1546-1601) Catalogued over 1000 stars, among other things.
+- [Chronology of Space Exploration](https://www.solarviews.com/eng/craft2.htm) - Timeline of spacecrafts sent into the solar system, listed by celestial body.
+- [The Galileo Project](https://galileo.rice.edu/) - A source of info on Galileo Galilei (1564-1642).
+- [The Greatest Women in Science History](https://www.usa-people-search.com/content-the-greatest-women-in-science-history.aspx) - A source of info on woemn scientists that you may not have heard of before.
+- [History of the Apollo lunar exploration missions](https://www.solarviews.com/history/sp-4214/) - Where no man has gone before.
+- [History Topics Index](https://www-groups.dcs.st-and.ac.uk/~history/indexes/historytopics.html) - A modeern history of mathematics as well as ancient history.
+- [Kepler, Johannes](https://www.johanneskepler.com/) - Studied under Tyvho Brahe and espoused similar views as Galileo.
+- [Space Discovery](https://spacediscovery.8m.com/) - A history of space discovery and info about the planets, etc.
+- [Women in Science](https://www.onlineuniversity.net/history/women-in-science/) - Some women scientists from the past.
+
+## Humor
+- [How many astronomers does it take to change a lightbulb?](astrobulb.htm) ***internal link***
+- [Stone Trek](https://www.angelfire.com/fl/sapringer/stonetrek.html) - A parody of Star Trek and the Flintstones.
+- [Sucker Holes](https://www.angelfire.com/fl/sapringer/suckerholes.html) - Amateur astronomy jokes.
+
+## K-12 Teachers
+- [Allstar Network](https://www.allstar.fiu.edu/) - Teaching resources for middle & high school, and early college students.
+- [Amazing Space](https://amazing-space.stsci.edu/) - A set of web-based activities designed for classroom use, but all can enjoy them.
+- [Assoc of Science-technology Centers](https://www.astc.org/) - This link represents more than 400 hands-on science museums.
+- [Astronomy course](https://www.darkskyinstitute.org/) - for students using the internet.
+- [Cosmic Adventures](https://cosmic-adventures.com/) - A portable planetarium and digital projector to teach people of all ages about astronomy. ***duplicate***
+- [Educational Hotlists](https://www.fi.edu/tfi/hotlists/hotlists.html) - Many links to educational resources on the net from the [Franklin Institute](https://www.fi.edu/tfi/welcome.html) of Philadelphia.
+- [Frank Potter's Science Gems](https://www.sciencegems.com/) - Science resources sorted by category, sub-category and grade level.
+- [From Stargazers to Starships](https://www-spof.gsfc.nasa.gov/stargaze/sintro.htm) - High school level material with a lot of history.
+- [Hands-On Universe](https://www.handsonuniverse.org/) - Enables secondary school students to investigate the universe.
+- [HESSI - High Energy Solar Spectroscopic Imager](https://hesperia.gsfc.nasa.gov/hessi/) - The purpose of this site is to peak the interest of young scientists.
+- [Imagine the Universe](https://imagine.gsfc.nasa.gov/docs/homepage.html) - Imagine science, lots of educational stuff, ask a NASA scientist, etc, for 14 and up. ***duplicate***
+- [Leicester University's Educational Guide to Space and Astronomy](https://www2.le.ac.uk/departments/physics/research/xroa/astronomical-facilities-1/educational-guide) - It is what it says.
+- [NASA's Education Program](https://www.nasa.gov/audience/foreducators/index.html) - Stuff for teachers and students to learn and enlighten inquisitive minds.
+- [NASA for Students](https://www.nasa.gov/audience/forstudents/index.html) - Stuff for teachers and students to learn and enlighten inquisitive minds.
+- [NASA Kid's Club](https://www.nasa.gov/audience/forkids/kidsclub/flash/index.html) - An aeronautics and space resource for kids.
+- [The Nine Planets for Kids](https://kids.nineplanets.org/) - Info on the planets and its moons for kids.
+- [Orbit Xplorer](https://www.ottisoft.com/orbit_x.htm) - Physics education software for high school and college students and teachers.
+- [The Particle Adventure](https://particleadventure.org/) - An interactive tour of the inner workings of the atom.
+- [Project ASTRO](https://www.astrosociety.org/education/astro/project_astro.html) - Bringing astronomers and teachers together.
+- [Space and Astronomy for Kids](https://kidsastronomy.about.com/kids/kidsastronomy/mbody.htm) - Lots of cool stuff for kids to learn about astronomy. ***duplicate***
+- [Space Explorers](https://www.space-explorers.com/) - Bringing Space into the Classroom.
+- [Space Link](https://spacelink.msfc.nasa.gov/home.index.html) - An aeronautics and space resource for educators.
+- [Space Science Group, The](https://www.spacesciencegroup.nsula.edu/) - Using the space program to motivate students to study math and science.
+- [Starchild](https://starchild.gsfc.nasa.gov/) - Learning center for young astronomers, 4-14 years old. ***duplicate***
+
+## Observatories, et al.
+- [Allegheny Observatory](https://www.pitt.edu/~aobsvtry/) - At the University of Pittsburgh.
+- [Armagh Observatory](https://www.arm.ac.uk/home.html) - Founded in 1790, but still doing research today.
+- [Australian Astronomical Observatory](https://www.aao.gov.au/) - A world-class observing facility for British and Australian astronomers.
+- [Australia Telescope National Facility](https://www.atnf.csiro.au/) - Has 4 telescopes, mostly for radio astronomy.
+- [BREC, LSU, BRAS Highland Road Park Observatory](https://www.brec.org/index.cfm/park/detail/190) - A astronomical observatory for education and recreation in Louisana.
+- [Chinese Academy of Science - National Astronomical Observatories](https://english.nao.cas.cn/) - The HQ of the NAOC are located in Beijing, China.
+- [Cangaroo (Collaboration of Australia and Nippon (Japan) for a Gamma Ray Observatory in the Outback)](https://icrhp9.icrr.u-tokyo.ac.jp/) - To study gamma rays in the southern sky.
+- [DOT - Dutch Open Telescope](https://www.astro.uu.nl/~rutten/dot/) - Monitoring the Sun from La Palma.
+- [Earth Observatory](https://earthobservatory.nasa.gov/) - You can monitor regional and global changes as they happen, almost.
+- [European Southern Observatory](https://www.eso.org/) - A intergovernmental European astronomical observatory in Chile, South America.
+- [Gettysburg College Observatory](https://www3.gettysburg.edu/~marschal/clea/obshome.html) - Mainly looking for asteroids.
+- [Griffith Observatory](https://www.griffithobs.org/) - Located in Los Angeles.
+- [Hartebeesthoek Radio Astronomy Observatory](https://www.hartrao.ac.za/) - Some 65 km NW of Johannesburg, South Africa.
+- [Howard Astronomical League Observatory](https://www.howardastro.org/watson/observatory.php) - was built at Alpha Ridge Park in Marriottsville, MD, just north of I-70.
+- [Keck Observatory](https://www.keckobservatory.org/) - Located on Mauna Kea, Hawaii.
+- [Kitt Peak National Observatory](https://www.noao.edu/kpno/kpno.html) - Home of 22 optical and 2 radio telescopes above the Sonoran desert.
+- [Lick Observatory](https://www.ucolick.org/) - On the Santa Cruz campus of the University of California.
+- [Lowell Observatory](https://www.lowell.edu/) - Near Flagstaff, Arizona.
+- [Meyer-Womble Observatory](https://mysite.du.edu/~rstencel/mtevans/) - Located on top of Mt Evans, the highest elevation of any observatory.
+- [National Air & Space Museum](https://www.nasm.si.edu/) - You don't have to go to DC to see the exhibits, but its worth it to go at least once. ***duplicate***
+- [Pan-STARRS (Panoramic Survey Telescope & Rapid Response System)](https://pan-starrs.ifa.hawaii.edu/public/) - To discover and characterize Earth-approaching objects. ***duplicate***
+- [Royal Observatory Greenwich](https://www.nmm.ac.uk/places/royal-observatory/) - Home of the Prime Meridian of the world.
+- [South African Astronomical Observatory](https://www.saao.ac.za/) - Located on the high arid Karoo plateau.
+- [Subaru telescope](https://www.naoj.org/) - The newest telescope on Mauna Kea, HI, with the largest single piece mirror also.
+- [Sudbury Neutrino Observatory](https://www.sno.phy.queensu.ca/) - The observatory is still uder construction, but is proceeding well.
+- [Univ of Maryland Observatory](https://www.astro.umd.edu/openhouse/) - Open to the public on the 5th and 20th of every month. ***duplicate***
+- [U.S. Naval Observatory](https://www.usno.navy.mil/usno) - Provides data to measure the Earth's rotation and maintains the Master Clock for the U.S.
+- [Very Large Telescope Array](https://www.eso.org/paranal/) - The Very Large Telescope Array is located at the European Southern Observatory in nothern Chile.
+- [Whipple Observatory](https://linmax.sao.arizona.edu/help/flwo/whipple.html) - Located near Amado, AZ on Mount Hopkins.
+
+## Online 'Scopes the Public Can Use
+- [Robosky.com](https://www.robosky.com/) - Control professional observatories in real-time.
+- [Bradford Robotic Telescope Observatory](https://www.telescope.org/) - A 46 cm autonomous 'scope located in West Yorkshire, England.s
+- [Micro Observatory](https://mo-www.harvard.edu/microobservatory/) - Explore the Universe with telescopses that YOU control.
+- [The Robotically Controlled Telescope Consortium](https://rct.wku.edu/) - A consortium of universities have taken control of the 1.3 m Kitt Peak Observatory.
+- [Robotic Telescopes](https://gtn.sonoma.edu/resources/telescope_resources/rt_materials/the_list.html) - A general resources list for robotic telescope developers.
+- [Univ of Iowa Automated Telescope Facility](https://phobos.physics.uiowa.edu/rigel/) - Currently offline to increase security measures.
+
+## Other Instruments
+- [AMANDA](https://icecube.berkeley.edu/www/amanda.html) - Antarctic Muon and Neutrino Detector Array to observe high energy (10^12 eV) neutrinos.
+- [BOOMERanG](https://cmb.phys.cwru.edu/boomerang/) - Balloon observations of millimetric extragalactic radiation and geophysics.
+- [CHIMERA (Caltech HIgh-speed Multi-colar camERA)](https://www.tauceti.caltech.edu/chimera/) - Looking for objects in the Kuiper Belt.
+- [COLLIDE (Collision Into Dust Experiment)](https://lasp.colorado.edu/collide/) - To be used to study planetary ring dynamics.
+- [GONG](https://gong.nso.edu/) - The Global Oscillation Network Group studying solar internal structure using helioseismology.
+- [ISOMAX](https://ida1.physik.uni-siegen.de/isomax.html) - Isotope Magnet experiment launched on a balloon from the ground.
+- [Leonid Mulit-Instrument Aircraft Campaign](https://leonid.arc.nasa.gov/) - Flew above the clouds and most of water vapor in the atmosphere.
+- [LIGO - Laser Interometer Gravitational Wave Observatory](https://www.ligo.caltech.edu/) - Looking for gravity waves.
+- [MAXIMA](https://cfpa.berkeley.edu/group/cmb/) - Millimeter Anisotropy Experiment Imaging Array.
+- [NEAT - Near-Earth Asteroid Tracking](https://neat.jpl.nasa.gov/) - Doing a comprehensive search for near-Earth asteroids and comets.
+- [ROTSE - Robotic Optical Transient Search Experiment](https://www.umich.edu/~rotse/) - To search for optical counterparts to gamma-ray bursts.
+- [SETI home page](https://www.seti.org/) - SETI was designed to answer the question: Are we alone in the Universe?
+- [SOFIA - Stratospheric Observatory for Infrared Astronomy](https://www.nasa.gov/mission_pages/sofia/) - Performing infrared observations of the universe.
+- [Southwest Ultraviolet Imaging System (SWUIS)](https://www.boulder.swri.edu/swuis/) - Looking at comets and asteroids, etc.
+- [Stratospheric Balloons](https://www.cnes.fr/web/cnes-en/3641-stratospheric-balloons.php) - Making measurements in the stratosphere for 40 years.
+- [VIRGO](https://www.virgo.infn.it/) - Interferometer telescopes for gravitational wave observation by the Europeans.
+
+## Radio Astronomy
+- [Amateur Radio Astronomy](https://www.nitehawk.com/rasmit/ws1_4.html) - Lots of links to radio observatories, radio resources and people.
+- [ARISS](https://www.arrl.org/ariss/) - Amateur Radio on the International Space Station.
+- [Basics of Radio Astronomy](https://www.jpl.nasa.gov/radioastronomy/) - Trying to make Radio Astronomy less esoteric for lay people. ***duplicate***
+- [Radio Astronomy web sites](https://www.bambi.net/sara/sites_list.html) - A list of web sites from the Society of Amateur Radio Astronomers (SARA).
+- [SERENDIP](https://seti.ssl.berkeley.edu/serendip/serendip.html) - The UC Berkeley search for extraterrestrial civilizations.
+- [Society of Amateur Radio Astronomers](https://www.bambi.net/sara.html) - A world-wide organization of radio astronomers.
+- [National Radio Astronomy Observatory](https://www.nrao.edu/) - Including VLA, VLBA, Greenbank,WV and Atacama in Chile.
+
+## Research Astronomy
+- [2dF Galaxy Redshift Survey](https://www.mso.anu.edu.au/2dfgrs/) - To get spectra and redshifts for 250,000 galaxies.
+- [2MASS: 2 Micron All Sky Survey](https://pegasus.phast.umass.edu/) - Imaging the whole sky in the infrared.
+- [Astronomer's Bazaar](https://cdsarc.u-strasbg.fr/cats/cats.htx) - A CDS service for astronomical catalogues.
+- [Astronomical Data Center](https://nssdc.gsfc.nasa.gov/) - For astronomical catalogues and journal data. ***duplicate***
+- [Astronomy Resources](https://www.stsci.edu/resources/) - Astronomy resources at the Space Telescope Science Institute.
+- [BATSE - Burst and Transient Source Experiment](https://cossc.gsfc.nasa.gov/cossc/batse/) - Was on board Compton Gamma Ray Observatory.
+- [Canadian Galactic Plane Survey](https://www.ras.ucalgary.ca/cgps/) - Mapping interstellar matter in a large swath of the Milky Way. ***duplicate***
+- [Chianti](https://www.ukssdc.ac.uk/solar/chianti/applications/) - No not a wine. An atomic database for spectroscopic diagnostics of astrophysical plasmas.
+- [Clementine Data Archive](https://www.cmf.nrl.navy.mil/clementine/clementine.html) - Gravity and Topography data of the Moon from the Clementine satellite. ***duplicate***
+- [Energetic Particle Data](https://leadbelly.lanl.gov/lanl_ep_data/) - Geosynchronous energetic particle data from Los Alamos Nat'l Lab.
+- [Gamma-ray Catalog](https://cossc.gsfc.nasa.gov/gamcat/) - A catalog of the entire gamma ray sky as we know it.
+- [Heasarc](https://heasarc.gsfc.nasa.gov/w3browse/) - High energy astrophysics science archive research center.
+- [Hubble Heritage Project](https://heritage.stsci.edu/) - A page that disseminates Hubble images for research.
+- [IAU Circulars (recent)](https://www.cfa.harvard.edu/iauc/recentiauc.html) - 200 of the most recent IAU Circulars.
+- [IPAC](https://www.ipac.caltech.edu/) - Infrared Processing and Analysis Center.
+- [Infrared Space Observatory U.S. Science Support Center](https://www.ipac.caltech.edu/iso/iso.html) - Was operated in the range of 2.5-240 microns November 1995 to April 1998. ***duplicate***
+- [International Supernovae Network](https://www.sai.msu.su/mirrors/isn/isn.htm) - To share info worldwide among amateurs and professionals. ***duplicate***
+- [Legacy Archive for Microwave Background Data Analysis](https://lambda.gsfc.nasa.gov/) - NASA's data center for Cosmic Microwave Background research..
+- [Landsat Data Access](https://geo.arc.nasa.gov/sge/landsat/daccess.html) - To access information about or obtain Landsat satellite data.
+- [Multimission Archive at STScI](https://archive.stsci.edu/) - A variety of astronomical data archives, primarily in the optical, UV and near-IR parts of the spectrum.
+- [National Space Science Data Center](https://nssdc.gsfc.nasa.gov/) - Can retireve NASA and non-NASA data. ***duplicate***
+- [Pan-STARRS (Panoramic Survey Telescope & Rapid Response System)](https://pan-starrs.ifa.hawaii.edu/public/) - To discover and characterize Earth-approaching objects. ***duplicate***
+- [SAO/NASA Astrophysics Data System](https://adsabs.harvard.edu/) - An digital library portal for researchers in astronomy and physics. Contains more than 8.1 million records.
+- [Sloan Digital Sky Survey](https://www.sdss.org/sdss.html) - Will get detailed digital images of 1/4 of the sky.
+- [Small Bodies Node](https://pdssbn.astro.umd.edu/) - Archive of data related to comets, asteroids and interplanetary dust.
+- [Small Satellite Home Page](https://centaur.sstl.co.uk/sshp/) - Provides up to date info, resources, references and links for researchers.
+- [Space Telescope Institute](https://www.stsci.edu/) - Hubble stuff and other Astronomy resources for research Astronomers. ***duplicate***
+- [Webstars](https://legacy.gsfc.nasa.gov/docs/www_info/webstars.html) - Links to high quality astronomy on the web.
+
+## Solar System Topics
+- [Asteroids](https://www.nineplanets.org/asteroids.html) - A web page describing asteroids, their types, etc.
+- [Asteroids (by NASA)](https://nssdc.gsfc.nasa.gov/planetary/planets/asteroidpage.html) - Photos, missions, and other resources about asteroids.
+- [Center for Mars Exploration](https://cmex.ihmc.us/cmex/) - News, information, maps and educational resources concerning Mars.
+- [Dr. SOHO's FAQ](https://sohowww.nascom.nasa.gov/explore/faq.html) - Many questions about the Sun answered using SOHO data.
+- [Helioseismology](https://soi.stanford.edu/results/heliowhat.html) - The science of studying vave oscillations of the Sun.
+- [Hitchhiker's guide to the Moon](https://www.shallowsky.com/moon/hitchhiker.html) - Contains phases and maps of the Moon, links to other Lunar stuff.
+- [The Moon](https://www.solarviews.com/eng/moon.htm) - Almost anything you want to know about the Moon can be found here. ***duplicate***
+- [Nine Planets, The](https://nineplanets.org/) - Info on the planets and its moons.
+- [Oort Cloud, The](https://www.windows.umich.edu/comets/oort_cloud.html) - Where do comets come from?
+- [Planetary Image Atlas](https://pds-imaging.jpl.nasa.gov/search/search.html#quicksearch) - You can search, display and download images from many planetary missions.
+- [Planet Quest](https://library.thinkquest.org/27322/) - Interactive site using the full capabilities of the Internet.
+- [Solar System Live!](https://www.fourmilab.to/solar/) - An orrery of the solar system on the web.
+- [Solar System Simulator](https://space.jpl.nasa.gov/) - Want to ride on Voyager? See what you would see here.
+- [Space Watch](https://xlr8.lpl.arizona.edu/spacewatch/) - Studying the statistics of comets and asteroids to understand the evolution of collisions in the solar system.
+- [Views of the Solar System](https://www.solarviews.com/eng/homepage.htm) - And much info about the Solar System.
+- [Windows to the Universe](https://www.windows.ucar.edu/) - An innovative approach to learn about the Earth and the Space Sciences.
+
+## Space Art
+- [ars astronautica](https://www.arsastronautica.com/) - Developing a cultural dimension to the space endeavor.
+- [Dreams of Space](https://dreamsofspace.nfshost.com/) - Space Art in children's books 1950's to 1970's.
+- [Greg Mort](https://www.gregmort.com/greg_mort_home/greg_mort_home.html) - Recruited for NASA's "American Artist and the Space Shuttle" program.
+- [International Assoc. of Astronomical Artists](https://www.iaaa.org/) - Links to many space artists under membership. ***duplicate***
+- [Space Art Gallery](https://www.novaspace.com/) - The world's first and largest gallery devoted to space art.
+- [Rick Costello Space Art](https://www.costellospaceart.com/) - Rick is an amateur astronomer and artist and is just starting to show his art.
+- [Slawek's Ultimate Guide](https://www.slawcio.com/artsf.html) - Slawek's utlimate guide to sci-fi/fantasy/space and surreal art on the Net.
+- [Solar Voyager](https://www.solarvoyager.com/) - To educate visitors on the solar system and show fantastic visions outside the Earth through art.
+
+## Spacecraft/Satellite Info
+
+### Past Missions
+- [AcrimSat - Active Cavity Radiometer Irradiance Monitor](https://acrim.jpl.nasa.gov/) - Will measure the solar radiation incident on the Earth's atmosphere.
+- [Apollo](https://science.ksc.nasa.gov/history/apollo/apollo.html) - Info and pictures about all the Apollo spacecraft.
+- [ASCA (Astro-D)](https://www.isas.jaxa.jp/e/enterp/missions/asca/index.shtml) - The fourth x-ray satellite launched by the Japanese.
+- [Beacon C](https://ilrs.gsfc.nasa.gov/satellite_missions/list_of_satellites/beac_general.html) - Recorded observations of electron content between the earth and the satellite. ***duplicate***
+- [Beagle 2](https://www.beagle2.com/index.htm) - British led effort to land on Mars as part of ESA's Mars Express Mission.
+- [BLITS - (Ball Lens in The Space)](https://ilrs.gsfc.nasa.gov/satellite_missions/list_of_satellites/blit_general.html) - Experimental verification of the spherical glass retroreflector satellite concept.
+- [Chang'e-1](https://www.cnsa.gov.cn/n615709/n772514/n772543/93747.html) - China's first satellite to the Moon.
+- [Clementine](https://www.cmf.nrl.navy.mil/clementine/clementine.html) - DoD does space science also. ***duplicate***
+- [COBE](https://lambda.gsfc.nasa.gov/product/cobe/) - Legacy Archive for Microwave Background Data Analysis.
+- [Compton Gamma-Ray Observatory](https://cossc.gsfc.nasa.gov/) - NASA's second great observatory, measuring from 30keV to 30Gev.
+- [Constellation](https://www.nasa.gov/mission_pages/constellation/main/) - Developiong new rocket engines for future space exploration.
+- [Contour](https://nasascience.nasa.gov/missions/contour) - Contact was lost when trying to leave Earth orbit.
+- [COS-B](https://heasarc.gsfc.nasa.gov/docs/cosb/cosb.html) - All aspects of COS-B mission in a nutshell. Gamma-rays survey of the galaxy.
+- [Daichi (ALOS)](https://www.jaxa.jp/projects/sat/alos/index_e.html) - Japan's contribution to Pakistan Flood Rescue Activities.
+- [Darwin](https://www.esa.int/esasc/120382_index_0_m.html) - A study to search for Earth-like planets.
+- [Deep Impact](https://solarsystem.nasa.gov/deepimpact/index.cfm) - Will got o comet Temple 1 and impact the surface of the comet.
+- [Deep Space 1](https://nmp.jpl.nasa.gov/ds1/) - Not another Star Trek show, but a real spacecraft testing new technology.
+- [Deep Space 2](https://nmp.jpl.nasa.gov/ds2/) - This Deep Space craft is going to Mars to look for clues of life.
+- [EUVE - Extreme Ultraviolet Explorer](https://www.ssl.berkeley.edu/euve/) - To study the wavelength range of 70-760 Angstroms in the universe.
+- [EXOSAT](https://heasarc.gsfc.nasa.gov/docs/exosat/exosat.html) - ESA's first X-ray observatory mission.
+- [Explorer](https://www.nasa.gov/mission_pages/explorer/) - America's first spacecraft.
+- [FAST - Fast Auroral Snapshot Explorer](https://sprg.ssl.berkeley.edu/fast/intro.html) - Studying the Earth's aurora.
+- [FUSE - Far Ultraviolet Spectroscopic Explorer](https://fuse.pha.jhu.edu/) - To study the origin and evolution of Hydrogen and Deuterium.
+- [FUYO-1 (JERS-1)](https://www.jaxa.jp/projects/sat/jers1/index_e.html) - Japanese Earth Resources Satellite.
+- [Galileo](https://nssdc.gsfc.nasa.gov/planetary/galileo.html) - Orbiting Jupiter and its satellites.
+- [Gemini](https://www.skyimagelab.com/gemini-missions.html) - Info on past missions, the Russian counterpart and more.
+- [Genesis](https://genesismission.jpl.nasa.gov/) - Will take a piece of the Sun and return to Earth for analysis.
+- [GIOTTO](https://sci.esa.int/science-e/www/area/index.cfm?fareaid=15) - Flew by Comets Halley and Grigg-Skjellerup.
+- [GLONASS (Global Navigation Satellite System)](https://ilrs.gsfc.nasa.gov/satellite_missions/list_of_satellites/g102_general.html) - An active constellation of Russian satellites for GPS. ***duplicate***
+- [Glory](https://glory.gsfc.nasa.gov/) - Observing the Earth's aerosols ad solar irradiance.
+- [GPS (Global Positioning System)](https://ilrs.gsfc.nasa.gov/satellite_missions/list_of_satellites/g102_general.html) - An active constellation of 24 satellites for GPS. ***duplicate***
+- [GRANAT](https://hea.iki.rssi.ru/granat/granat.html) - A Russian satellite taking pictures in the X- and gamma-ray regimes.
+- [Gravity Probe B](https://einstein.stanford.edu/index.html) - To test 2 unverified predictions of General Relativity.
+- [Halca (Muses-B)](https://www.isas.ac.jp/e/enterp/missions/halca/index.shtml) - Acts like an antenna for VLBI (very long baseline interferometry).
+- [Hayabusa Project](https://www.isas.jaxa.jp/e/enterp/missions/hayabusa/index.shtml) - Spacecraft with ion engine at 1.5 AU from Earth.
+- [HETE-II (High Energy Transient Explorer)](https://space.mit.edu/hete/) - To carry out a multiwavelength study of gamma ray bursts.
+- [HIPPARCOS](https://sci.esa.int/science-e/www/area/index.cfm?fareaid=20) - Measured the positions, distances, motions, brightness and colors of stars.
+- [Hiten (Muses-A)](https://www.isas.ac.jp/e/enterp/missions/hiten.shtml) - Demonstrated a lunar orbiting technique.
+- [IMAGE](https://image.gsfc.nasa.gov/) - Imager for Magnetopause-to-Aurora Global Exploration to study the Earth's magnetosphere.
+- [Infrared Space Observatory](https://www.ipac.caltech.edu/iso/iso.html) - Was operated in the range of 2.5-240 microns. ***duplicate***
+- [Infrared Telescope in Space (IRTS)](https://www.ir.isas.ac.jp/irts/irts_e.html) - First Japanese orbiting telescope for IR astronomy.
+- [IUE (International Ultraviolet Explorer)](https://sci.esa.int/science-e/www/area/index.cfm?fareaid=22) - Analyzed ultraviolet of stars that are blocked by the Earth's ozone layer.
+- [Jason-1](https://topex-www.jpl.nasa.gov/missions/jason1/) - An oceanography mission to discover the tie between oceans and atmosphere, etc.
+- [JAWSAT](https://space.skyrocket.de/index_frame.htm?https://space.skyrocket.de/doc_sdat/jawsat.htm) - A Joint Air Force Academy Weber State Univ. Satellite project.
+- [Kaguya](https://www.jaxa.jp/projects/sat/selene/index_e.html) - Also called SELenological and ENgineeing Explorer (SELENE - a hyperspectral instrument looking at the Moon. ***duplicate***
+- [Lageos (LAser GEOdynamics Satellite-1)](https://ilrs.gsfc.nasa.gov/satellite_missions/list_of_satellites/lag1_general.html) - First spacecraft dedicated to laser-ranging.
+- [Lageos (LAser GEOdynamics Satellite-2)](https://ilrs.gsfc.nasa.gov/satellite_missions/list_of_satellites/lag2_general.html) - Lageos-2 was built by the Italian Space Agency based on the Lageos-1 design.
+- [Landsat Program](https://geo.arc.nasa.gov/sge/landsat/landsat.html) - To search for, access information about or obtain Landsat satellite data.
+- [LCROSS](https://www.nasa.gov/mission_pages/lcross/main/) - Lunar Crater Observation and Sensing Satellite. Crashed into the Moon's south pole and found water.
+- [Lunar Prospector](https://lunar.arc.nasa.gov/) - Scientists hoping to determine the resources, structure and origins of the Moon.
+- [Magellan - Venus Radar Mapper](https://nasascience.nasa.gov/missions/magellan) - Mapped 98% of the surface of Venus.
+- [MAP (Microwave Anisotropy Probe)](https://map.gsfc.nasa.gov/) - Will answer 3 fundamental questions of cosmology.
+- [Mariners 1-2](https://www.jpl.nasa.gov/missions/index.cfm?mission=mariner1and2) - Mariner 1 blown up on launch failuer. Mariner 2 visited Venus in 1962.
+- [Mariners 3-4](https://www.jpl.nasa.gov/missions/index.cfm?mission=mariner3and4) - Mariner 3 failed to open properly. Mariner 4 visited Venus in 1965. First Mars flyby.
+- [Mariners 5](https://www.jpl.nasa.gov/missions/index.cfm?mission=mariner5) - Mariner 5 was originally a backup Mars spacecraft was sent on a Venus flyby in 1967.
+- [Mariners 6-7](https://www.jpl.nasa.gov/missions/index.cfm?mission=mariner6and7) - Mariners 6 and 7 completed first dual mission to Mars in 1969.
+- [Mariners 8-9](https://www.jpl.nasa.gov/missions/index.cfm?mission=mariner8and9) - Mariner 8 failed on launch. Mariner 9 made it to Mars in 1971.
+- [Mariner 10](https://pds.jpl.nasa.gov/planets/welcome/m10.htm) - Visited Mercury in 1973-74 using Venus' gravity to get there.
+- [Mariner Missions](https://nasascience.nasa.gov/missions/mariner-missions) - A summary of theplanetary Mariner missions.
+- [Mars Climate Orbiter](https://mars.jpl.nasa.gov/programmissions/missions/past/climorb/) - Instruments will map mineralogy, morphology and elemental compostion of the surface. Also to study radiation risks to humans.
+- [Mars Global Surveyor](https://mars.jpl.nasa.gov/programmissions/missions/past/globalsurveyor/) - Instruments will map mineralogy, morphology and elemental compostion of the surface. Also to study radiation risks to humans. ***duplicate***
+- [Mars Observer](https://mars.jpl.nasa.gov/programmissions/missions/past/observer/) - Instruments will map mineralogy, morphology and elemental compostion of the surface. Also to study radiation risks to humans. ***duplicate***
+- [Mars Pathfinder](https://mars.jpl.nasa.gov/programmissions/missions/past/pathfinder/) - Landed July 4, 1997. Investigated the structure of the atmosphere and composition of rocks and soil, etc.
+- [Mars Polar Lander](https://mars.jpl.nasa.gov/programmissions/missions/past/polarlander/) - Searching for water on Mars.
+- [Mars Exploration Program](https://mars.jpl.nasa.gov/) - Images, science reports, mission status.
+- [Mercury Program](https://www.hq.nasa.gov/office/pao/history/sp-4201/toc.htm) - A history of Project Mercury.
+- [MIR](https://www.russianspaceweb.com/mir.html) - Get the latest info on the Mir Space station here.
+- [MOS - Modular Optoelectronic Scanner](https://gcmd.nasa.gov/records/gcmd_dfd-moms_02.html) - An imaging spectrometer for the 400-1010 nm range.
+- [Near Earth Asteroid Rendevous](https://sd-www.jhuapl.edu/near/) - Passing Eros, getting ready for a controlled crash landing.
+- [Nozomi (Planet B)](https://www.isas.jaxa.jp/e/enterp/missions/nozomi/) - Also known as Planet B, is to study the upper atmosphere of Mars.
+- [NSCAT](https://winds.jpl.nasa.gov/missions/nscat/index.cfm) - A microwave radar scatterometer that measured near-surface wind vectors over the oceans.
+- [Orbiting Carbon Observatory](https://www.nasa.gov/mission_pages/oco/main/) - Mission failed when the payload failed to separate from the launch vehicle.
+- [Phoenix](https://phoenix.lpl.arizona.edu/index.php) - A Mars lander that studied a Martian arctic site.
+- [PHOBOS GRUNT](https://smsc.cnes.fr/phobos/) - Probing the origins of Mars' small moon.
+- [Pioneer 3-4](https://www.jpl.nasa.gov/missions/index.cfm?mission=pioneer3and4) - Pioneer 3 failed to reach the Moon. Pioneer 4 flewby the Moon (now orbiting the Sun).
+- [Pioneer Venus Orbiter](https://heasarc.nasa.gov/docs/heasarc/missions/pvo.html) - Consisted of 2 spacecraft to study Venus, the Orbiter and the Multiprobe.
+- [POAM (Polar Ozone and Aerosol Measurements)](https://wvms.nrl.navy.mil/poam/poam.html) - Used to study the ozone hole.
+- [POLDER (Polarization and Directionality of Earth Reflectance)](https://smsc.cnes.fr/polder/) - Provided spectral, directional and polarized properties of solar radiation reflected by the Earth.
+- [QuikSCAT](https://winds.jpl.nasa.gov/missions/quikscat/index.cfm) - Will collect important information of ocean winds.
+- [Ranger](https://nssdc.gsfc.nasa.gov/planetary/lunar/ranger.html) - Designed to crash into the Moon and send back close-up pictures.
+- [SAMPEX](https://sunland.gsfc.nasa.gov/smex/sampex/) - The Solar Anomalous, and Magnetospheric Particle Explorer satellite.
+- [Seasat](https://www.jpl.nasa.gov/missions/index.cfm?mission=seasat) - Seasat flight-tested 4 instrumnents that used radar to study Earth and its seas.
+- [SELENE](https://www.jaxa.jp/projects/sat/selene/index_e.html) - Also called SELenological and ENgineeting Explorer "Kaguya" (SELENE - a hyperspectral instrument looking at the Moon. ***duplicate***
+- [SIR-C/X-SAR Missions](https://www.jpl.nasa.gov/radar/sircxsar/) - These flew on the space shuttle to provied multifrequency and multipolarization radar data.
+- [Skylab](https://heasarc.gsfc.nasa.gov/docs/heasarc/missions/images/skylab_images.html) - An overview of the mission and access to data/pictures.
+- [SMART-1](https://sci.esa.int/science-e/www/area/index.cfm?fareaid=10) - Tested solar electric propulsion and other deep space technologies while observing the Moon.
+- [SNOE - Student Nitric Oxide Explorer](https://lasp.colorado.edu/snoe/) - Measuring parameters that affect the density of nitric oxide (NO) in the Earth's upper atmosphere.
+- [Sojourner - Mars Rover](https://mars.jpl.nasa.gov/mpf/mpf/rover.html) - Primarily built to demonstrate that it could be done.
+- [Solar Mesosphere Explorer](https://www.jpl.nasa.gov/missions/index.cfm?mission=sme) - Studied ozone in the Earth's upper atmosphere.
+- [Soviet Lunar Missions](https://nssdc.gsfc.nasa.gov/planetary/lunar/lunarussr.html) - Data on 20 successful Soviet missions to the Moon.
+- [Space Shuttle](https://www.nasa.gov/mission_pages/shuttle/main/) - Shuttle home page for the current mission and past missions.
+- [Space Technology 5](https://www.nasa.gov/mission_pages/st-5/main/) - 3 micro-satellites explored the Earth's magnetic fields.
+- [Space Technology 6](https://nmp.jpl.nasa.gov/st6/index.html) - To gather science info without human interaction.
+- [Spartan](https://umbra.nascom.nasa.gov/spartan/) - Studying the Sun's corona after launching by the space shuttle.
+- [SPOT (Systeme Pour l'Observation de la Terre)](https://smsc.cnes.fr/spot/) - System for observing the Earth. ***duplicate***
+- [Stardust](https://www.nasa.gov/mission_pages/stardust/main/) - This satellite will probe the comets and bring back some cametary material.
+- [Stardust-NExT](https://nasascience.nasa.gov/missions/stardust-next) - Follow-on to [Stardust](https://www.nasa.gov/mission_pages/stardust/main/). No web page yet. ***duplicate***
+- [Starshine 2 & 3](https://www.azinet.com/starshine/) - An optically reflective spherical spacecraft for students to observe upper atmospheric densities.
+- [Surveyors to the Moon](https://www.jpl.nasa.gov/missions/index.cfml?mission=surveyor) - The first Earth instrument to reach the Moon.
+- [SWAS - Submillimeter Wave Astronomy Satellite](https://sunland.gsfc.nasa.gov/smex/swas/) - To investigate the coposition of dense interstellar clouds.
+- [TacSat-2](https://www.nasa.gov/mission_pages/tacsat-2/main/) - 11 on-board experiments were conducted during the mission.
+- [TERRIERS - Tomographic Experiment using Radiative Recombinative Ionospheric EUV and Radios Sources](https://www.bu.edu/satellite/) - To study ionospheric/thermospheric processes.
+- [Three Corner Satellite](https://ai.jpl.nasa.gov/public/projects/3cs/) - Will be controlled by an artificial intelligence brain for several months.
+- [TOMS - Total Ozone Mapping Spectrometer](https://jwocky.gsfc.nasa.gov/) - Studying ozone, ultraviolet light, aerosols and more.
+- [Topex/Poseidon](https://sealevel.jpl.nasa.gov/) - Trying to understand the oceans and climate from space.
+- [Trace](https://trace.lmsal.com/) - Transition Region and Corona explorer, exploring the Sun's upper atmosphere.
+- [UARS - Upper Atmosphere Research Satellite](https://umpgal.gsfc.nasa.gov/) - Studying global ozone change.
+- [Ulysses](https://ulysses.jpl.nasa.gov/) - Polar orbit around the Sun.
+- [Virtual Space Museum](https://vsm.host.ru/) - An index for information on the Soviet space program.
+- [Viking 1 & 2](https://nssdc.gsfc.nasa.gov/planetary/viking.html) - The first missions to Mars.
+- [WMAP (Wilkinson Microwave Anisotropy Probe)](https://map.gsfc.nasa.gov/) - Making fundamental measurements of cosmology. ***duplicate***
+- [WIRE - Wide-Field Infrared Explorer](https://sunland.gsfc.nasa.gov/smex/wire/wire.html) - WIRE will perfrom a 4-month survey at 12 and 25 microns.
+- [Yohkoh](https://www.isas.jaxa.jp/e/enterp/missions/yohkoh/index.shtml) - Japanese X-ray telescope focusing on the Sun.
+
+### Operational Missions
+- [ACE - Advanced Composition Explorer](https://www.srl.caltech.edu/ace/) - Providing 24 hr coverage of solar wind and energetic particles.
+- [AIM - Aeronomy of Ice in the Mesosphere](https://www.nasa.gov/mission_pages/aim/) - To study noctilucent clouds.
+- [AJISAI (EGS)](https://www.jaxa.jp/projects/sat/egs/index_e.html) - Experimental Geodetic Satellite.
+- [Akari (Astro-F)](https://www.jaxa.jp/projects/sat/astro_f/index_e.html) - Japanese infrared imaging satellite.
+- [Akebono (EXOS-D)](https://www.jaxa.jp/projects/sat/akebono/index_e.html) - Aurora observation satellite.
+- [ALOS-2](https://www.jaxa.jp/projects/sat/alos2/index_e.html) - Advanced Land Observing Satellite - 2.
+- [AMOS 2-5](https://www.amos-spacecom.com/content.cfm?page=amos-2) - By Spacecom provides internet and cable for customers.
+- [Aqua](https://aqua.nasa.gov/) - More Earth studies in the afternoon.
+- [Aquarius](https://aquarius.nasa.gov/) - Focused on measureing Sea Surface Salinity.
+- [Argos](https://www.argos-system.org/html/system/enhancements_en.html) - French weather satellites since 1978.
+- [ArianeSpace](https://www.arianespace.com/) - Contains info about Ariane 4 and 5.
+- [Astro-E2/Suzaku](https://www.nasa.gov/mission_pages/astro-e2/main/) - Observing x-rays from the universe in low Earth orbit.
+- [Aura](https://aura.gsfc.nasa.gov/) - Will enable new research into how the Earth's ozone, air quality and climate.
+- [Beacon C](https://ilrs.gsfc.nasa.gov/satellite_missions/list_of_satellites/beac_general.html) - Used passively now for satellite laser ranging. ***duplicate***
+- [BeiDou](https://ilrs.gsfc.nasa.gov/satellite_missions/list_of_satellites/com1_general.html) - The first space-based navigation and positioning network developed by China.
+- [BeppoSAX](https://www.asdc.asi.it/bepposax/) - Covering X-ray astronomy from .1 to over 200 keV.
+- [CALIPSO - Cloud-Aerosol Lidar and Infrared Patherfinder Satellite Observations](https://www.nasa.gov/mission_pages/calipso/main/) - To study the role of clouds and aerosols in regulatin Earth's weather.
+- [Cassini](https://www.jpl.nasa.gov/cassini/) - on its way to Saturn via Venus and Earth.
+- [Chandra X-ray Observatory](https://chandra.harvard.edu/) - Looking at the universe in X-rays better than ever before.
+- [Chandrayaan-1](https://www.isro.org/chandrayaan/htmls/home.htm) - India's first scientific mission to the Moon.
+- [CHIPS](https://chips.ssl.berkeley.edu/index.html) - Cosmic Hot Interstellar Plasma Spectrometer. Studying the "Local Bubble" of our Solar System at ultraviolet wavelengths.
+- [CINDI - Coupled Ion Neutral Dynamic Investigation](https://www.nasa.gov/mission_pages/cindi/) - To study the elements that influence space weather near the equator.
+- [CloudSat](https://www.nasa.gov/mission_pages/cloudsat/main/) - Revealing the inner secrets of clouds.
+- [Cluster](https://sci.esa.int/science-e/www/area/index.cfm?fareaid=8) - Two satellites studying the Earth's magnetic environment and the solar wind.
+- [DAWN](https://dawn.jpl.nasa.gov/) - Going to visit the asteroid Vesta, among other things. ***duplicate***
+- [COROT (Convection, Rotation and planetary Transits)](https://www.esa.int/esami/corot/) - To search for rocky planets around near-by stars.
+- [Cryosat](https://www.esa.int/specials/cryosat/semrq4908be_0.html) - A synthetic aperture radar designed to measure ice-sheet elevation and sea-ice height protruding the water. ***duplicate***
+- [Cryosat-2](https://www.esa.int/specials/cryosat/semrq4908be_0.html) - Follow-on to Cryosat. A synthetic aperture radar designed to measure ice-sheet elevation and sea-ice height protruding the water. ***duplicate***
+- [DAWN](https://dawn.jpl.nasa.gov/) - Going to visit the asteroid Vesta, among other things. ***duplicate***
+- [Dragon](https://www.spacex.com/dragon.php) - A spacecraft that will resupply the ISS space station when the space shuttle is shut down.
+- [DSCOVR](https://en.wikipedia.org/wiki/deep_space_climate_observatory) - Deep Space Climate Observatory will go to the Lagrange-1 point (L-1) and look at the earth.
+- [Elektro-L](https://en.wikipedia.org/wiki/elektro-l) - Will fly past Comet Hartly 2 in November 2010.
+- [Elisa](https://www.cnes.fr/web/cnes-en/5940-elisa.php) - 4 microsatellites will map the positions of radar and other transmitters and their characteristics.
+- [Envisat](https://envisat.esa.int/earth/www/area/index.cfm?fareaid=6) - Observing Europe from space.
+- [EO-1 (Earth Observing)](https://eo1.usgs.gov/) - The first Earth Observing Mission of the New Millenium Program.
+- [Epoxi](https://www.nasa.gov/mission_pages/epoxi/) - The first Russian meteorological satellite in geostationary oribit.
+- [Etalon 1](https://ilrs.gsfc.nasa.gov/satellite_missions/list_of_satellites/eta1_general.html) - The first geodynamic satellite launched byt the former Soviet Union.
+- [Etalon 2](https://ilrs.gsfc.nasa.gov/satellite_missions/list_of_satellites/eta2_general.html) - Etalon are a Russian family of geodetic satellites dedicated to satellite laser ranging.
+- [Falcon 9](https://www.spacex.com/falcon9.php) - This is actually a launch vehicle not a spacecraft commercially built.
+- [Fermi - Gamma-ray Space Telescope](https://fermi.gsfc.nasa.gov/) - The next generation high energy gamma-ray observatory.
+- [GAIA](https://sci.esa.int/science-e/www/area/index.cfm?fareaid=26) - To create the largest and most precise 3-D chart of our Galaxy.
+- [GALEX - Galaxy Evolution Explorer](https://www.galex.caltech.edu/) - Exploring the universe in ultraviolet light.
+- [Galileo](https://ilrs.gsfc.nasa.gov/satellite_missions/list_of_satellites/gioa_general.html) - Galileo achieved In-Orbit Validation Element preparing for a European satellite navigation system.
+- [GOES-O](https://www.nasa.gov/mission_pages/goes-o/main/) - The latest weather satellite developed by NASA to aid meteorologists and climate scientists.
+- [GEOTAIL](https://www.jaxa.jp/projects/sat/geotail/index_e.html) - Magnetospheric observation satellite.
+- [GIOVE-A](https://ilrs.gsfc.nasa.gov/satellite_missions/list_of_satellites/gioa_general.html) - Galileo In-Orbit Validation Element testing a European satellite navigation system. ***duplicate***
+- [GIOVE-B](https://ilrs.gsfc.nasa.gov/satellite_missions/list_of_satellites/giob_general.html) - Galileo In-Orbit Validation Element testing a European satellite navigation system.
+- [GLONASS (Global Navigation Satellite System)](https://ilrs.gsfc.nasa.gov/satellite_missions/list_of_satellites/g102_general.html) - An active constellation of Russian satellites for GPS. ***duplicate***
+- [GOCE](https://earth.esa.int/goce/) - Dedicated to measuring Earth's gravitational field and modeling the geoid.
+- [GOES 8-10](https://www.goes.noaa.gov/) - Observing the Earth from space.
+- [GOSAT](https://www.jaxa.jp/projects/sat/gosat/index_e.html) - Measuring carbon dioxide on the Earth from space.
+- [GPM](https://www.jaxa.jp/projects/sat/gpm/index_e.html) - Global precipitation measurement satellite.
+- [GRACE (Gravity Recovery and Climate Experiment)](https://www.csr.utexas.edu/grace/) - Twin satellites measuring Earth's gravitational field.
+- [GRAIL - Gravity Recovery and Interior Laboratory](https://moon.mit.edu/) - Twin spacecrafts orbiting the Moon to measure it's gravity.
+- [GSTB-V2/A](https://ilrs.gsfc.nasa.gov/satellite_missions/list_of_satellites/gioa_general.html) - Has been renamed to GIOVE-A. ***duplicate***
+- [GSTB-V2/B](https://ilrs.gsfc.nasa.gov/satellite_missions/list_of_satellites/giob_general.html) - Has been renamed to GIOVE-B. ***duplicate***
+- [Helios](https://www.cnes.fr/web/cnes-en/2744-helios.php) - Surveillance for prevention, deterrence and peacekeeping purposes.
+- [Herschel FIRST - Far Infra-Red and Submillimetre Telescope](https://sci.esa.int/first/) - Designed to observe the birth of stars and galaxies throughout the universe.
+- [HINODE (Solar-B)](https://solarb.msfc.nasa.gov/) - This is the follow-on mission to the Japanese Yohkoh (Solar-A) mission.
+- [Hubble Space Telescope](https://hubble.nasa.gov/) - The first space-based observatory.
+- [HY-2A](https://directory.eoportal.org/web/eoportal/satellite_missions/h/hy-2ageneral.html) - A Chinese satellite for marine remote sensing.
+- [IASI](https://smsc.cnes.fr/iasi/) - Designed to provide more detailed data about atmospheric humidity and temperature profiles.
+- [IBEX - The Interstellar Boundary Explorer](https://www.nasa.gov/mission_pages/ibex/) - Exploring the Galactic frontier.
+- [Ibuki(GOSAT)](https://www.jaxa.jp/projects/sat/gosat/index_e.html) - Measuring carbon dioxide on the Earth from space. ***duplicate***
+- [ICESat](https://icesat.gsfc.nasa.gov/) - An [EOS](https://eospso.gsfc.nasa.gov/) mission for measuring ice sheet mass balance, cloud and aerosol heights, vegetation and land canopy.
+- [Ikaros](https://www.jaxa.jp/projects/sat/ikaros/index_e.html) - Small solar power sail demonstration.
+- [INTEGRAL](https://www.esa.int/esami/integral/) - For gamma-ray spectroscopy in the 15 keV-10MeV range with X-ray (3-35 keV) and optical (V-band, 550 nm) bands.
+- [INTERBALL](https://www.iki.rssi.ru/interball/iki/interball.html) - Aimed to study various plasma processes in the Earth's magnetosphere.
+- [International Space Station](https://www.nasa.gov/mission_pages/station/main/) - Keep up with the latest developments the ISS.
+- [Jason-2](https://topex-www.jpl.nasa.gov/missions/ostmjason2/) - An oceanography mission to discover the tie between oceans and atmosphere, etc.
+- [JUNO](https://www.nasa.gov/mission_pages/juno/main/) - Unlocking Jupiter's mysteries, i.e., clues about our early solar system. Launched 8/5/2011.
+- [Kepler](https://www.nasa.gov/mission_pages/kepler/overview/) - Searching for habitable planets.
+- [KIKU No. 8 (ETS-VIII)](https://www.jaxa.jp/projects/sat/ets8/index_e.html) - Engineering Test Satellite VIII testing mobile communications.
+- [KIZUNA (WINDS)](https://www.jaxa.jp/projects/sat/winds/index_e.html) - Wideband InterNetworking engineering test and Demonstration Satellite.
+- [KODAMA (DRTS)](https://www.jaxa.jp/projects/sat/drts/index_e.html) - Data Relay Test Satellite performing inter-satellire communications.
+- [KOMPSAT-5](https://ilrs.gsfc.nasa.gov/missions/satellite_missions/current_missions/kom5_general.html) - A Korean for all-weather day/night monitoring of the Korean peninsula.
+- [LADEE - Lunar Atmosphere and Dust Environment Explorer](https://nasascience.nasa.gov/missions/ladee) - Will orbit to Moon to characterize it's atmosphere.
+- [Lageos-3 (LAser GEOdynamics Satellite)](https://ilrs.gsfc.nasa.gov/satellite_missions/list_of_satellites/lag3_general.html) - Lageos-3 would be used to measure the gravitational magnetic dipole moment.
+- [Landsat](https://geo.arc.nasa.gov/sge/landsat/l7.html) - Low-cost, multipurpose land remote sensing data of the Earth.
+- [LARES (LAser RElativity Satellite)](https://www.lares-mission.com/) - A small satellite that will measure the Earth's gravitomagnetic field and the [Lense-Thirring effect](https://en.wikipedia.org/wiki/lense-thirring_precession/).
+- [LRO - Lunar Reconnaissance Orbiter](https://www.nasa.gov/mission_pages/lro/main/) - Gathering data to assist with long-term missions in the future.
+- [Mars Exploration Rovers](https://marsrovers.nasa.gov/home/) - Both Opportunity and Spirit are still working; looking at rocks and soils on Mars.
+- [Mars Express](https://nasascience.nasa.gov/missions/mars-express) - Searching for sub-surface water from orbit.
+- [Mars Global Surveyor](https://mpfwww.jpl.nasa.gov/mgs/index.html) - Returning lots of cool pictures, but no Face on Mars.
+- [Mars Odyssey](https://mars.jpl.nasa.gov/odyssey/) - On a search that water existed on Mars for a long period of time.
+- [Mars Reconnaissance Orbiter](https://mars.jpl.nasa.gov/mro/) - On a search that water existed on Mars for a long period of time. ***duplicate***
+- [Mars Science Laboratory](https://mars.jpl.nasa.gov/msl/) - Will study the early environmental history of Mars.
+- [Megha Tropiques](https://www.cnes.fr/web/cnes-en/5503-megha-tropiques.php) - Will provide scientific data on the contribution of the water cycle to the tropical atmosphere.
+- [MESSENGER](https://sd-www.jhuapl.edu/messenger/) - Mercury Surface Space environment Geochemistry and Ranging mission. To study Mercury.
+- [MICHIBIKI](https://www.jaxa.jp/projects/sat/qzss/index_e.html) - Quasi-zenith satellite - 1, to enhance GPS availability over Japan. ***duplicate***
+- [Mission and Spacecraft Library](https://space.jpl.nasa.gov/msl/home.html) - To find those spacecraft not listed here.
+- [MSG (Meteosat Second Generation)](https://www.esa.int/specials/msg/sembyg56jgg_0.html) - Dedicated to operational metrology to monitor climate and improve weather forecasting.
+- [NASA/s Discovery Program](https://discovery.nasa.gov/index.cfml) - Designed to enhance our understanding of the solar system.
+- [New Horizons](https://pluto.jhuapl.edu/) - The first satellite to flyby Pluto. It's already more than halfway there.
+- [NOAA-N](https://www.nasa.gov/mission_pages/noaa-n/main/) - 15th is in a series of polar-orbiting satellites dating back to 1978.
+- [NOAA-N-Prime](https://www.nasa.gov/mission_pages/noaa-n-prime/main/) - 16th is in a series of polar-orbiting satellites dating back to 1978.
+- [NPOESS Preparatory Project (NPP)](https://npp.gsfc.nasa.gov/) - Collecting land, ocean and atmospheric data to better understand climate change.
+- [NuStar - Nuclear Spectroscopic Telescope Array](https://www.jpl.nasa.gov/missions/index.cfm?mission=nustar) - To study the sky through high energy x-rays.
+- [ODIN](https://smsc.cnes.fr/odin/) - Detecting millimeter waves in the upper atmosphere only now.
+- [OMI - Ozone Monitoring Instrument](https://ozoneaq.gsfc.nasa.gov/) - Studying ozone, ultraviolet light, aerosols and more.
+- [Orbiting Carbon Observatory-2](https://www.nasa.gov/mission_pages/oco/main/) - Providing global maps of carbon dioxide and solar-induced chlorophyll fluorescence.
+- [Orsted Satellite Project](https://web.dmi.dk/fsweb/projects/oersted/homepage.html) - To survey the Earth's magnetic field in 1999 and 2000.
+- [PAMELA (Payload for Antimatter Matter Exploration and Light-nuclei Astrophsics)](https://pamela.roma2.infn.it/index.php) - To investigate cosmic radiation.
+- [PARASOL (Polarization and Anisotropy of Reflectances for Atmospheric Scicned coupled with Observations from a LIDAR)](https://smsc.cnes.fr/parasol/) - To do what it's called.
+- [PICARD](https://smsc.cnes.fr/picard/) - A microsatellite that will send back data needed to improve models for forecasting solar activity.
+- [Pioneer 10/11](https://nssdc.gsfc.nasa.gov/planetary/pioneer10-11.html) - 2 0f 4 man-made objects to leave the Solar System.
+- [Planck](https://sci.esa.int/science-e/www/area/index.cfm?fareaid=17) - With a 1.5 m scope, Planck will produce sky maps at 9 different frequencies.
+- [PLEIADES](https://smsc.cnes.fr/pleiades/) - Optical satellites that will provide imagery with a resolution of 0.7 meters.
+- [POES - Polar Operational Environmental Satellites](https://goespoes.gsfc.nasa.gov/poes/project/) - Providing data for long-range weather forecasting.
+- [Polar](https://www-istp.gsfc.nasa.gov/istp/polar/) - To study the plasma, magnetic, ionic fields and other properties of the Sun.
+- [QZS-1](https://www.jaxa.jp/projects/sat/qzss/index_e.html) - Quasi-zenith satellite - 1 (MICHIBIKI), to enhance GPS availability over Japan. ***duplicate***
+- [RBSP (Radiation Belt Storm Probes Mission](https://rbsp.jhuapl.edu/) - Exploring the extremes of space weather.
+- [REIMEI (INDEX)](https://www.jaxa.jp/projects/sat/index/index_e.html) - Performing in-orbit demonstrations of cutting edge technology.
+- [RHESSI](https://hesperia.gsfc.nasa.gov/hessi/) - Reuven Ramaty High Energy Solar Spectroscopic Imager. To explore the basic physics of particle acceleration and energy release in solar flares.
+- [Rosetta](https://sci.esa.int/science-e/www/area/index.cfm?fareaid=13) - To study the nucleus and environment of a comet for 2 years.
+- [Rossi X-ray Timing Explorer](https://heasarc.gsfc.nasa.gov/docs/xte/xte.html) - Studying the time variability of x-ray emissions in the sky.
+- [SeaWiFS](https://seawifs.gsfc.nasa.gov/seawifs.html) - Aboard the Seastar spacecraft to measure the ocean color due to phytoplankton.
+- [SDO - Solar Dynamics Observatory](https://sdo.gsfc.nasa.gov/) - Designed to study the Sun's influence on the Earth.
+- [Shizuku (GCOM-W)](https://www.jaxa.jp/projects/sat/gcom_w/index_e.html) - Global change observation mission - Water satellite.
+- [SMAP (Soil Moisture Active Passive)](https://smap.jpl.nasa.gov/) - To provide global mapping of soil moisture and freeze/thaw state.
+- [SMOS (Soil Moisture and Ocean Salinity)](https://www.esa.int/esalp/lpsmos.html) - To observe soil moisture over the Earth's landmasses and salinity over the oceans.
+- [SOHO](https://sohowww.nascom.nasa.gov/index.html) - at the L1 Lagrangian point to look at the Sun 24 hours a day.
+- [SOLSTICE](https://lasp.colorado.edu/sorce/instruments/solstice.htm) - The Solar Stellar Irradiance Comparison Experiment, to study the Sun in the UV.
+- [SORCE](https://lasp.colorado.edu/sorce/) - The Solar Radiation and Climate Experiment, to study the Sun at all wavelengths.
+- [Spitzer Space Telescope](https://www.nasa.gov/mission_pages/spitzer/main/) - Studying the universe in infrared.
+- [SPOT (Systeme Pour l'Observation de la Terre)](https://smsc.cnes.fr/spot/) - System for observing the Earth. ***duplicate***
+- [SPOT 5 (Systeme Pour l'Observation de la Terre)](https://spot5.cnes.fr/) - The latest satellite in the SPOT series.
+- [Starlette](https://ilrs.gsfc.nasa.gov/satellite_missions/list_of_satellites/star_general.html) - Small, French passive satellites for laser-ranging.
+- [Stella](https://ilrs.gsfc.nasa.gov/satellite_missions/list_of_satellites/stel_general.html) - Small, French passive satellites for laser-ranging. Mainly used for gravity field recovery.
+- [STEREO](https://www.nasa.gov/mission_pages/stereo/main/) - 2 spacecraft 90 degrees apart looking at coronal mass ejections from the Sun.
+- [Suzaku (Astro-EII)](https://www.jaxa.jp/projects/sat/astro_e2/index_e.html) - Japanese x-ray astronomy satellite.
+- [SWARM](https://smsc.cnes.fr/swarm/) - 3 satellites in different orbits to monitor changes in the Earth's magnetic field over time.
+- [Swift](https://www.nasa.gov/mission_pages/swift/main/) - A mulit-wavelength observatory dedicated to the study of gamma-ray bursts.
+- [TDRS (Tracking and Data Relay Satellite K/L)](https://tdrs.gsfc.nasa.gov/) - Continous communications since 1983.
+- [Terra (EOS AM-1)](https://terra.nasa.gov/) - Will enable new research into how the Earth's land, ocean, air, ice and life functions.
+- [TerraSAR-X](https://ilrs.gsfc.nasa.gov/satellite_missions/list_of_satellites/tsar_general.html) - An German-made X-band synthetic aperture radar for scientific research and applications.
+- [THEMIS](https://www.nasa.gov/mission_pages/themis/main/) - A mission to study Earth's aurorae and how they change dramatically.
+- [TIMED - Thermosphere, Ionosphere, Mesosphere, Energetics and Dynamics](https://www.timed.jhuapl.edu/) - Will explore the Earth's upper atmosphere (60-180 km).
+- [TRMM - Tropical Rainfall Measuring Mission](https://trmm.gsfc.nasa.gov/) - To study tropical rainfall and the associated energy release.
+- [Venus Express](https://sci.esa.int/science-e/www/area/index.cfm?fareaid=64) - Orbiting Venus in an elliptical quasi-polar orbit.
+- [Voyager](https://voyager.jpl.nasa.gov/) - Latest info on both Voyagers.
+- [Wind](https://wind.nasa.gov/) - Similar to the Polar mission except in a different orbit around the Sun.
+- [WISE - Wide-Field Infrared Survey Explorer](https://wise.ssl.berkeley.edu/) - A follow-on toe WIRE which performed a 4-month survey at 12 and 25 microns.
+- [XMM-Newton](https://xmm.esac.esa.int/) - X-ray Multi-Mirror. An x-ray satellite by ESA.
+
+### Future Missions
+- [Andromeda](https://www.srl.caltech.edu/andromeda/) - A satellite designed to look for gamma-ray bursts in the Andromeda galaxy.
+- [Astro-G](https://www.jaxa.jp/projects/sat/astro_g/index_e.html) - Japanese radio-astronomical satellite.
+- [ATHENA (Advanced Telescope for High ENergy Astrophysics)](https://sci.esa.int/science-e/www/area/index.cfm?fareaid=103) - To study black holes, map the large scale structure of the Universe and how they are connected.
+- [BepiColombo](https://sci.esa.int/science-e/www/area/index.cfm?fareaid=30) - To orbit Mercury, if it gets funded.
+- [Chandrayaan-2](https://en.wikipedia.org/wiki/chandrayaan-2) - A lander/rover mission to the Moon by India.
+- [Cross-Scale](https://sci.esa.int/science-e/www/area/index.cfm?fareaid=109) - 7 spacecraft forming 2 nested tetrahedra to quantify plasmas on different scales.
+- [EarthCARE](https://www.jaxa.jp/projects/sat/earthcare/index_e.html) - Earth clouds, aerosol and radiation explorer.
+- [JUpiter ICy moons Explorer)](https://sci.esa.int/juice/) - To make detailed observations of Ganymede, Callisto and Europa. Launch date in 2022.
+- [Euclid](https://sci.esa.int/science-e/www/area/index.cfm?fareaid=102) - To map the geometry of the dark Universe.
+- [ExoMars](https://exploration.esa.int/mars/) - To further characterize the biological environment of Mars leading the human exploration, eventually.
+- [GCOM-C](https://www.jaxa.jp/projects/sat/gcom_c/index_e.html) - Global change observation mission - Climate satellite.
+- [HY-2B](https://www.wmo-sat.info/oscar/satellites/view/555) - A Chinese satellite for marine remote sensing. Follow-on to HY-2A.
+- [HY-2C](https://www.wmo-sat.info/oscar/satellites/view/556) - A Chinese satellite for marine remote sensing. Follow-on to HY-2B.
+- [HY-2D](https://www.wmo-sat.info/oscar/satellites/view/557) - A Chinese satellite for marine remote sensing. Follow-on to HY-2C.
+- [ILN - International Lunar Network](https://nasascience.nasa.gov/missions/iln) - A global luner network of ground stations.
+- [Jason-3](https://topex-www.jpl.nasa.gov/missions/jason3/) - An oceanography mission to discover the tie between oceans and atmosphere, etc.
+- [Jason-CS](https://www.aviso.oceanobs.com/en/missions/future-missions/jason-cs/) - Jason-CS (Continuity of Service) is to ensure overlap of data from Jason-3.
+- [JWST - James Webb Space Telecsope](https://sci.esa.int/science-e/www/area/index.cfm?fareaid=29) - To examine the first light of the Universe - objects which formed shortly after the Big Bang.
+- [LISA - Laser Interferomer Space Antenna](https://lisa.nasa.gov) - To search for gravity waves from black holes.
+- [Marco Polo](https://sci.esa.int/science-e/www/area/index.cfm?fareaid=108) - To return to Earth an unaltered sample from a near-Earth asteroid.
+- [MICROSCOPE](https://smsc.cnes.fr/microscope/) - To compare the effects of a gravitational acceleration on bodies of different composition.
+- [MSG (Meteosat Third Generation)](https://www.esa.int/specials/msg/sembyg56jgg_0.html) - Dedicated to operational metrology to monitor climate and improve weather forecasting. ***duplicate***
+- [Plato](https://sci.esa.int/science-e/www/area/index.cfm?fareaid=104) - To discover and characterize a large number of close-by exoplanetary systems.
+- [RadioAstron](https://www.asc.rssi.ru/radioastron/) - An international project to launch a 10 m radio telescope into a high apogee orbit around the Earth.
+- [SAFIR - Single Aperture Far Infrared Observatory](https://safir.jpl.nasa.gov/) - Will study the earliest phases of galaxy formation.
+- [Sentinel-3](https://www.aviso.altimetry.fr/en/missions/future-missions/sentinel-3.html) - Will be devoted to observing the oceanography of the Earth.
+- [Solar Orbiter](https://sci.esa.int/solar-orbiter/) - To produce images of the Sun and the closest in situ measurements.
+- [Solar Probe](https://solarprobe.jhuapl.edu/) - To study the Sun's corona by flying through it.
+- [Space Technology 7](https://nmp.jpl.nasa.gov/st7/index.html) - Will demonstrate trajectory control and formation-flying position control.
+- [Spectr-R](https://www.russianspaceweb.com/spektr_r_mission.html) - Also known as RadioAstron. An international project to launch a 10 m radio telescope into a high apogee orbit around the Earth. ***duplicate***
+- [Spectrum-X-Gamma Coordination facility](https://hea-www.harvard.edu/sxg/sxg.shtml) - An international high-energy astrophysics observatory being built.
+- [SWOT (Surface Water Ocean Topography)](https://www.aviso.altimetry.fr/en/missions/future-missions/swot.html) - Will provide sea surface heights (SSH) and terrestrial water heights over 90% of the Earth.
+- [VEN&mu;S](https://smsc.cnes.fr/venus/) - Vegetation and Environment monitoring on a New Micro-Satellite.
+- [WFIRST (Wide-Field Infrared Survey Telescope)](https://wfirst.gsfc.nasa.gov/) - Designed to settle essential questions in the areas of dark energy, exoplanets, and infrared astrophysics.
+
+## Terrestrial Events
+- [Aurora Page, The](https://www.geo.mtu.edu/weather/aurora/) - Info, links and images of the 'Northern Lights.' ***duplicate***
+- [Comets (by NASA)](https://nssdc.gsfc.nasa.gov/planetary/planets/cometpage.html) - Photos, missions, and other resources about comets.
+- [Comet Finders Page by SOHO LASCO](https://sungrazer.nrl.navy.mil/index.php?p=cometform) - Comets found by LASCO (onboard SOHO) and other comet info.
+- [Earth's Magnetosphere](https://www-spof.gsfc.nasa.gov/education/intro.html) - Explore the Earth's magnetosphere.
+- [Eclipse home page](https://sunearth.gsfc.nasa.gov/eclipse/eclipse.html) - New and improved web page for solar and lunar eclipses. ***duplicate***
+- [Green Flashes](https://mintaka.sdsu.edu/gf/) - See pictures and know when to look for Green Flashes.
+- [Humans in Space](https://spaceflight.nasa.gov/) - Links to the latest info on the space shuttle and space station. ***duplicate***
+- [Inconstant Moon](https://www.inconstantmoon.com/) - An intro to lunar astronomy and an ongoing reference for experienced observers.
+- [New England Meteoritical](https://www.meteorlab.com/) - Everything about meteorites.
+- [Meteor Showers](https://www.amsmeteors.org/showers.html) - Contains predictions, past observations, and other good meteor stuff. ***duplicate***
+- [Meteor Showers Online](https://meteorshowersonline.com/) - Gary Kronk's page. Contains predictions, past observations, and other good meteor stuff. ***duplicate***
+- [Space Race Museum](https://spacerace.8m.com/) - Mostly about the American side of the space race.
+- [Stars](https://stars.astro.illinois.edu/sow/sowlist.html) - Info about stars and constellations, including Star of the Week.
+- [Sunspots](https://solarscience.msfc.nasa.gov/sunspotcycle.shtml) - Information about sunspots.
+- [Terrestrial Impact Craters](https://www.solarviews.com/eng/tercrate.htm) - A lot of info on impact craters, including earthly ones.
+
+## Weather Resources
+- [AccuWeather](https://www.accuweather.com/) - Make your own forecastes with these maps.
+- [Intellicast](https://www.intellicast.com/) - Make your own forecastes with these maps.
+- [National Weather Service](https://www.nws.noaa.gov/) - Make your own forecastes with these maps.
+- [Unisys Weather](https://weather.unisys.com/) - Make your own forecastes with these maps. ***duplicate***
+- [The Weather Channel](https://www.weather.com/) - Weather for any city, state, zip code or country.
+- [The Weather Underground](https://www.wunderground.com/) - Weather for any city, state, zip code or country.
