@@ -1,5 +1,5 @@
 ---
-name: Ames Amateur Radio
+name: Ames Amateur Radio Club
 title: AARC
 slogan: Become Radio Active!
 description: Interested in amateur radio? Join us to ask questions, tinker, and learn all about the tech, equipment, and opportunities to get involved!
@@ -18,13 +18,15 @@ contact-email: mark.r.allard@nasa.gov
 layout: club-with-nav
 
 anchors:
-  - { text: Events, anchor: "#events" }
+  - { text: Nets and Meetings, anchor: "#nets-and-meetings" }
   - { text: Member Registration, anchor: "#member-registration" }
   - { text: Getting a License, anchor: "#getting-a-license" }
+  - { text: Field Center Operations, anchor: "#field-center-operations" }
   - { text: Frequencies, anchor: "#frequencies" }
   - { text: Net Control Script, anchor: "#net-control-script" }
   - { text: Galleries, anchor: "#galleries" }
   - { text: Contact Us, anchor: "#contact-us" }
+  - { text: Get Involved!, anchor: "#get-involved" }
 
 ---
 
@@ -36,7 +38,9 @@ The AARC is coordinated with the [Silicon Valley Emergency Communications System
 
 The club station, NA6MF, is affiliated with the [Amateur Radio Relay League (ARRL)](https://www.arrl.com).
 
-## Events
+The AARC is a member of the NASA Exchange Council https://exchange.arc.nasa.gov (NASA Only)
+
+## Nets and Meetings
 
 ### Weekly AARC ARES / RACES Net <small class="text-muted"><em>Tuesdays @ 12:00 PST</em></small>
 
@@ -50,9 +54,9 @@ Weekly recurring radio and teleconference net to check equipment and coordinate 
 
 **Telephone**: +1 650 439 1305 / PC: 210924089#
 
-### Monthly Meeting <small class="text-muted"><em>3rd Thursdays @ 12:00 PST</em></small>
+### Monthly Meetings <small class="text-muted"><em>3rd Thursdays @ 12:00 PST</em></small>
 
-Opportunity to get together for a business meeting, presentations, discussions, and questions.
+The club meets at 12:00 noon on the third Thursday of each month in the Ames Amateur Radio Club “shack.” Visitors, even those without licenses, are always welcome. Visitor passes are required for non-badged attendees from outside Ames.
 
 **Format**: On-site and/or Teams Meeting
 
@@ -64,6 +68,20 @@ Opportunity to get together for a business meeting, presentations, discussions, 
 - Amateur radio nation-wide contests, activities, and special events.
 
 ## Member Registration
+
+**You must be NASA affiliated, a civil servant, or contractor to be eligible.**
+
+_You don’t need to have a Ham license to sign up, but we will help you get one!_
+
+**Dues are $20 per calendar year (due January 1st with no proration)**
+Make check payable to “Ames Amateur Radio Club”.
+Return to [club secretary](#contact-us) or mail to club P.O. Box below.
+
+AMES AMATEUR RADIO CLUB
+P.O. Box 73
+Moffett Field, CA 94035-0073
+
+_Form coming soon_
 
 ## Getting a License
 
@@ -117,11 +135,9 @@ For those already licensed, there are many courses in communications procedures,
 
 _Some of these are available in the AARC library._
 
-See ARRL site for license manuals, [https://www.arrl.org/shop/Licensing-Education-and-Training/](https://www.arrl.org/shop/Licensing-Education-and-Training/)
-
-Gordon West is well known for his books, see [https://www.gordonwestradioschool.com](https://www.gordonwestradioschool.com)
-
-*Now You're Talking! All You Need to Get Your First Amateur Radio License*, A once popular book by Larry D. Wolfgang is the 2003 publication. 114Mb PDF download from [https://www.qsl.net/sz1a/download/now_talk.pdf](https://www.qsl.net/sz1a/download/now_talk.pdf)
+- See ARRL site for license manuals, [https://www.arrl.org/shop/Licensing-Education-and-Training/](https://www.arrl.org/shop/Licensing-Education-and-Training/)
+- Gordon West is well known for his books, see [https://www.gordonwestradioschool.com](https://www.gordonwestradioschool.com)
+- *Now You're Talking! All You Need to Get Your First Amateur Radio License*, A once popular book by Larry D. Wolfgang is the 2003 publication. 114Mb PDF download from [https://www.qsl.net/sz1a/download/now_talk.pdf](https://www.qsl.net/sz1a/download/now_talk.pdf)
 
 Many such books can be purchased locally at HRO (Ham Radio Outlet) located on 510 Lawrence Expressway # 102 in Sunnyvale, CA (between Hwy 101 and Central Expressway). [https://www.hamradio.com](https://www.hamradio.com)
 
@@ -160,9 +176,15 @@ Until further notice the AARC Tuesday Noontime Net is on 146.115+, PL 100.0 (AA6
 | Packet 2M (Secondary) | 145.750 |
 {: .table}
 
+## Field Center Operations
+
+![Year long field operations map](/images/aarc_field_center_map.png)
+
+_NASA Ames Amateur Radio Club Station: NA6MF / Grid Square: CM87X_
+
 ## Net Control Script
 
-Coming soon.
+<a href="/clubs/aarc/net-control-script" class="btn btn-primary">Net Control Script</a>
 
 ## Galleries
 
@@ -191,3 +213,13 @@ david.cahill@nasa.gov
 Ames Amateur Radio Club  
 P.O. Box 73  
 Moffett Field, CA 94035-0073
+
+## Get Involved!
+
+Join our weekly nets, meet up at the club house, sign up for our mailing list, register as a member if you're eligible, or just reach out! We'd love to hear from you!
+
+### Sign up for our mailing list
+https://lists.nasa.gov/mailman3/lists/arc-hamradio.lists.nasa.gov/ (NASA Only)
+
+### If you are outside of NASA
+Send an email to [arc-hamradio-request@lists.nasa.gov] with "subscribe" in the subject (without quotes).
