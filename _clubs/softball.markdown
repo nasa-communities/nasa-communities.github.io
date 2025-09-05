@@ -21,9 +21,12 @@ Since the early 1960’s, softball fans at Goddard have enjoyed playing from spr
 
 The leagues are open to GSFC employees and retired employees, contractors, and immediate family members of eligible players. The club offers a provision for a minimal number of guests of eligible players to join the teams too! And, the club operates a concession stand before, during, and after games where you can get many of your favorite food and drink items that are often associated with baseball. The fields are conveniently located along Beaver Dam Road to the east of Soil Conservation Road.
 
-## Upcoming Games
+## Upcoming Events
+
+### Games for this week
 
 | Wednesday, 9/3/25 |            Field 2           |         Field 5         |       Bye      |
 |-------------------|:----------------------------:|:-----------------------:|:--------------:|
 |        5:15       | Franken Apples @ Phaserville | Bytes @ Slaggards       | Iso-Walkers    |
 |        6:30       | Iso-Walkers @ Bytes          | Slaggards @ Phaserville | Franken Apples |
+{: .table}
