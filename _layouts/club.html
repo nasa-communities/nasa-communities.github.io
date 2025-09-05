@@ -8,16 +8,24 @@ layout: default
       <img src="/images/{{ page.thumbnail }}" class="card-img-top" alt="...">
     </div>
     <div class="col-lg-8 text-center text-lg-start">
+      
       <h1>
         <strong class="display-4">{{ page.name }}</strong><br>
         <small class="text-body-secondary"><em>{{ page.slogan }}</em></small>
       </h1>
+      
       <p class="lead text-start">
         <em>{{ page.description }}</em>
-        {% if page.contact-email %}
-        <a href="mailto:{{ page.contact-email }}?subject=The%20{{ page.name }}%20Club%21&body=Hello%21%0A%0AI%27d%20like%20to%20learn%20more%20or%20get%20involved%20with%20the%20{{ page.name }}%20club%21%0A%0AThanks%21" class="w-100 btn btn-lg btn-outline-primary my-4 mx-2" type="submit">Get in touch <i class="fa-solid fa-envelope fa-fw"></i></a>
-        {% endif %}
       </p>
+      
+      <div class="d-flex">
+        {% if page.contact-email %}
+              <a href="mailto:{{ page.contact-email }}?subject=The%20{{ page.name }}%20Club%21&body=Hello%21%0A%0AI%27d%20like%20to%20learn%20more%20or%20get%20involved%20with%20the%20{{ page.name }}%20club%21%0A%0AThanks%21" class="w-100 btn btn-lg btn-outline-primary my-4 mx-2" type="submit">Get in touch <i class="fa-solid fa-envelope fa-fw"></i></a>
+        {% endif %}
+        {% if page.external-site %}
+              <a href="{{ page.external-site }}" class="w-100 btn btn-lg btn-outline-primary my-4 mx-2" type="submit">Visit our website <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+        {% endif %}
+      </div>
       
       <!-- Socials -->
       <ul class="list-inline text-center fs-4">
