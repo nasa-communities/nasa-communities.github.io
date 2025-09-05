@@ -1,6 +1,5 @@
 ---
 name: Goddard Slow-Pitch Softball Association
-slogan: Swing Easy, Hit Hard!
 description: Softball games and tournaments from spring through fall, open to all current and former Goddard employees, contractors, and their families.
 thumbnail: GSPSA_logo.png
 
