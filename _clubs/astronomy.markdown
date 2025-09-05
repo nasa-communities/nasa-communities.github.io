@@ -3,7 +3,7 @@ name: Goddard Astronomy Club
 description: A focal point for amateur astronomers in the GSFC community -- an amateur astronomer being someone who loves the sky, whether or not they get paid for it!
 thumbnail: GAC_logo.png
 
-contact-email: evans@mbc.edu
+contact-email: evans@umbc.edu
 
 socials:
 #  twitter: /
@@ -40,7 +40,7 @@ Members may subscribe to [_Sky and Telescope_](https://www.skypub.com/skytel/sky
 - **Greenbelt Astronomy Club:** Meets on the last Thursday of each month at the Owens Science Center, 9601 Greenbelt Rd. Contact Russ Waugh at the Owens Science Center, 301-918-8750.
 - **National Capital Astronomers:** Meets at 7:30 pm on the first Saturday of each month, September-June, at the National Institutes of Health in Bethesda, MD. Contact NCA at 301-320-3621 or Dan Costanzo at 703-841-4765.
 - **Northern Virginia Astronomy Club:** Meets at the Arlington County Planetarium, Arlington VA. Contact Marta Krause at 703-281-9049.
-- 
+
 Or you can look under [Astronomy Links](#astronomy-links) for more area clubs.
 
 ## Officers and Contacts
@@ -80,7 +80,7 @@ The star parties are not public, but guests of members are welcome. The [Goddard
 
 We also have annual field trips to dark sky observing sites, such as [Caroline Furnace](https://www.carolinefurnace.org/) or [Big Meadows](https://www.nps.gov/shen/index.htm), VA, and to astronomy conventions and star parties such as [Stellafane](https://www.stellafane.com/), [York Count Star Party](https://masondixonstarparty.org/), and [Blackwater Falls](https://www.wvparks.com/blackwaterfalls/index.htm).
 
-See above for a detailed listing of our [upcoming events](#upcoming-events).
+See above for a list of our [upcoming events](#upcoming-events).
 
 ## Newsletter
 
@@ -88,11 +88,11 @@ Please contact one of our [officers](#officers-and-contacts) for copies of past 
 
 ## Observer's Page
 
-Coming soon.
+<a href="/clubs/astronomy/observers-page" class="btn btn-primary">Observer's Page</a>
 
 ## Astronomy Links
 
-*Last updated 2/9/2023; links may be broken.*
+*Last updated 2/9/2023; information may be outdated and links may be broken.*
 
 ### Area Clubs
 
