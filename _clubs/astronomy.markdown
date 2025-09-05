@@ -15,6 +15,16 @@ socials:
   
 layout: club-with-nav
 
+anchors:
+  - { text: Upcoming Events, anchor: "#upcoming-events" }
+  - { text: Membership, anchor: "#membership" }
+  - { text: Officers and Contacts, anchor: "#officers-and-contacts" }
+  - { text: Club Resources, anchor: "#club-resources" }
+  - { text: Activities, anchor: "#activities" }
+  - { text: Newsletter, anchor: "#newsletter" }
+  - { text: Observer's Page, anchor: "/clubs/astronomy/observers-page" }
+  - { text: Astronomy Links, anchor: "#astronomy-links" }
+
 ---
 
 The Goddard Astronomy Club is an employee organization at NASA's Goddard Space Flight Center in Greenbelt, Maryland. It provides a focal point for amateur astronomers in the GSFC community -- an amateur astronomer being someone who loves the sky, whether or not they get paid for it!
