@@ -10,7 +10,7 @@ external-link: https://gsfcsoftball.org/
 socials:
 #  twitter: /
 #  github: /
-#  facebook: https://www.facebook.com/GoddardSoftball/
+  facebook: https://www.facebook.com/GoddardSoftball/
 #  instagram: /
 #  youtube: /
   
