@@ -5,7 +5,7 @@ description: Softball games and tournaments from spring through fall, open to al
 thumbnail: GSPSA_logo.png
 
 contact-email: jonathan.s.landis@nasa.gov
-external-link: https://gsfcsoftball.org/
+external-site: https://gsfcsoftball.org/
 
 socials:
 #  twitter: /
@@ -13,6 +13,7 @@ socials:
   facebook: https://www.facebook.com/GoddardSoftball/
 #  instagram: /
 #  youtube: /
+#  flickr: /
   
 layout: club
 ---
