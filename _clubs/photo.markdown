@@ -18,6 +18,7 @@ layout: club-with-nav
 
 anchors:
   - { text: Upcoming Events, anchor: "#upcoming-events" }
+  - { text: Featured Photos, anchor: "#featured-photos" } 
   - { text: Calendar of Events, anchor: "#calendar-of-events" }
   - { text: Announcements, anchor: "#announcements" }
   - { text: Presentations, anchor: "#presentations" }
@@ -59,18 +60,14 @@ The Goddard Photo Club is a member of the [Maryland Photography Alliance](https:
 
 ![collage of thumbnail images of the 6 winners](/images/photo_Exhibit57-winners.png "Exhibit 57: Solar Photography / Pareidolia")
 
-*Sunset Dragon (Olha Asmolova), Sleeping Troll (Karen Smale), Nodding Off (Wayne Robinson)
-Total Eclipse Circular Composite (Emily Beckman), Sunrise at McMath-Pierce Solar Telescope (Eliot Malumuth), Toledo Eclipse (Kyle Helson)*
+*Sunset Dragon (Olha Asmolova), Sleeping Troll (Karen Smale), Nodding Off (Wayne Robinson)*
+*Total Eclipse Circular Composite (Emily Beckman), Sunrise at McMath-Pierce Solar Telescope (Eliot Malumuth), Toledo Eclipse (Kyle Helson)*
 
 [View full-sized images on Flickr](https://www.flickr.com/photos/gsfcphoto/albums/72177720326478244)
 
 ### Showcase 2023 Winners
 
-**Best Photo**
-
 ![collage of thumbnail images of 2023 best photos](/images/photo_2023-bestphotos.jpg)
-
-**Best Collection**
 
 ![collage of thumbnail images of 2023 best collections](/images/photo_2023-bestcollections.jpg)
 
@@ -147,79 +144,7 @@ Meetings and Snap & Share events are held at NOON, unless otherwise noted.
 
 ### Previous Years' Events
 
-<details>
-  <summary>2024</summary>
-<ul>
-<li> Dec 18 - Meeting: Gadgets (everyone); featured: James Kim
-<li> Oct 9 - Meeting: Making Black and White Images (Bill Dusterwald)
-<li> Aug 28 - Snap & Share: Around DC
-<li> Aug 14 - Meeting: Cuba: 90 Miles and a World Away (Nancy Rosenbaum); featured: Thitima Perrine
-<li> Jul 24 - Snap & Share: Bold Geometry or Shapes
-<li> Jul 10 - Workshop: Intern Headshot Workshop
-<li> Jul 10 - Meeting: Night Photography (Ian Mathews); featured: Karen Smale
-<li> Jun 28 - Field Trip: Firefly Sanctuary (Genevieve de Messieres)
-<li> Jun 26 - Snap & Share: Pareidolia
-<li> Jun 12 - Photo Critique (Topic: Open; Judges: Michael Brown and Mark Nelson)
-<li> May 22 - Snap & Share: Solar Photography
-<li> May 16 - Picnic
-<li> May 8 - Meeting: What it's like to be a Smithsonian Photographer (Lucia Martino); featured: Carey Johnson
-<li> Apr 24 - Snap & Share: Vehicles/Transportation
-<li> Apr 10 - Meetihg: Food Photography (Steve Buchanan)
-<li> Mar 27 - Snap & Share: Snow/Winter
-<li> Mar 20 - BINGO recap
-<li> Mar 13 - Meeting (Make ART, not War; War life photographs from Ukraine (Alisa Jane)); featured: Casonya Johnson
-<li> Feb 28 - Snap & Share: Red (the color)
-<li> Feb 14 - Meeting (Eclipse Photography (Hull)); featured: Anna Keller
-<li> Feb 1-29 - Event: BINGO
-<li> Jan 24 - Snap & Share: Food, Drink, Meals
-<li> Jan 10 - Meeting (Headshot Workshop Lessons Learned (Beckman, et al.); featured: Seth Abramczyk)
-</ul>
-</details>
-
-<details>
-  <summary>2023</summary>
-<ul>
-<li> Dec 13 - Meeting (Gadgets; featured: Bill Dusterwald)
-<li> Nov 19 - Field Trip: Huntley Meadows (Peter Knudtson)
-<li> Nov 15 - Showcase Pizza Lunch
-<li> Nov 14 - Showcase Reception
-<li> Nov 14-15 - Showcase (in person)
-<li> Nov 8 - Meeting (Photo Pills (Raghu Tumkur); featured: none)
-<li> Oct 25 - Snap & Share: Panoramas
-<li> Oct 11 - Meeting (Elections; What to Look for When Shopping for a Camera" (Hull, et al.))
-<li> Sep 27 - Snap & Share: Forced Perspective
-<li> Sep 24 - Fielt Trip: Union Station Architecture (Rosenbaum)
-<li> Sep 13 - Meeting (Spot Removal Tools in PS & LR (Rosenbaum); featured: Scott Hull)
-<li> Aug 23 - Snap & Share: Abstract
-<li> Aug 9 - Meeting (Flip the Composition (Dusterwald); featured: Steve Maher)
-<li> Jul 26 - Snap & Share: Light Painting
-<li> Jul 13 - Workshop: Intern Headshots (Seth Abramczyk)
-<li> Jul 12 - Meeting ("Her Helm" Photography Project (Kristin Rutkowski); featured: Bill Dusterwald)
-<li> Jul 11 - Field Trip: Monuments at dusk (Nancy Rosenbaum)
-<li> Jul 6 - Workshop (practice) - Intern Headshot
-<li> Jun 28 - Snap & Share: Underwater & Bodies of Water
-<li> Jun 21 - Field Trip: Firefly Photography (Genevieve de Messieres)
-<li> Jun 14 - Critique: Landscapes (Judge: Ed Palaszynski)
-<li> May 24 - Snap & Share: Flowers
-<li> May 17 - Picnic!
-<li> May 10 - Meeting (Photomerge (Hull); featured: Brian Cox)
-<li> Apr 29 - Field Trip: Brookside Gardens (Smale)
-<li> Apr 26 - Snap & Share: Showers (as in Rain)
-<li> Apr 22 - Field Trip: Lonaconing Silk Mill (Keith Chamberlin)
-<li> Apr 12 - Meeting (Solargraphs (de Messieres); featured: Seth Abramczyk)
-<li> Apr 11 - Headshot Workshop (for spring interns & others)(Emily Beckman)
-<li> Apr 4 - Headshot Practice
-<li> Mar 22 - Snap & Share: Technology
-<li> Mar 15 - BINGO recap
-<li> Mar 8 - Meeting (Light Painting (Smale); featured: Tom Jennings)
-<li> Feb 22 - Snap & Share: Trees (or A Tree)
-<li> Feb 8 - Meeting (Inexpensive Underwater Photography (Hull)); featured: Keith Chamberlin
-<li> Jan 25 - Snap & Share: Seasons in One Place
-<li> Jan 11 - Meeting (Who's Using Your Photos Online (Smale)); featured: Seth Gaines)
-</ul>
-</details>
-
-
+<a href="/clubs/photo/past-events" class="btn btn-primary">Past Events</a>
 
 ## Announcements
 
