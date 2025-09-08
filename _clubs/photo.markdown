@@ -52,6 +52,8 @@ The Goddard Photo Club is a member of the [Maryland Photography Alliance](https:
 **Time:** 12-1 pm
 **Location:** Hybrid; 23/S402 and Teams (link sent to members)
 
+---
+
 ## Featured Photos
 
 ### Recent Snap & Share Winners
@@ -72,6 +74,8 @@ The Goddard Photo Club is a member of the [Maryland Photography Alliance](https:
 ![collage of thumbnail images of 2023 best collections](/images/photo_2023-bestcollections.jpg)
 
 [View all Showcase 2023 images on Flickr](https://www.flickr.com/photos/gsfcphoto/albums/72177720311830465/)
+
+---
 
 ## Calendar of Events
 
@@ -146,6 +150,8 @@ Meetings and Snap & Share events are held at NOON, unless otherwise noted.
 
 <a href="/clubs/photo/past-events" class="btn btn-primary">Past Events</a>
 
+---
+
 ## Announcements
 
 ### Recent Meeting Announcement Slides
@@ -168,7 +174,11 @@ Meetings and Snap & Share events are held at NOON, unless otherwise noted.
 
 Please contact our [webmaster](#officers-and-contacts) for copies of past club newsletters.
 
+---
+
 ## Presentations
+
+<p style="color:red">Updated links coming soon</p>
 
 ### Courses
 
@@ -203,8 +213,6 @@ Please contact our [webmaster](#officers-and-contacts) for copies of past club n
 Please contact our [webmaster](#officers-and-contacts) for copies of materials from previous versions of these courses.
 
 ### Meeting Presentations
-
-<p style="color:red">Updated links coming soon</p>
 
 - [Macro photography Talk](Documents/presentations/MacroPhotography_MattBertone.mp4) (video mp4) (Dr. Matthew Bertone, May 14, 2025)
 - [Making Black and White Images](Documents/presentations/Making%20Black%20and%20WhiteB.pdf) (PDF) (Bill Dusterwald, October 9, 2024)
@@ -302,7 +310,11 @@ Please contact our [webmaster](#officers-and-contacts) for copies of materials f
 - [Underwater Photography](Documents/presentations/Underwater_Photography_2011-MikeWeiss.pdf) (Mike Weiss - May 2011)
 - [Pinhole Phototraphy](Documents/presentations/PinholePhotography.ppt) (Scott Hull - April 20, 2011)
 
+---
+
 ## Resources
+
+<p style="color:red">Updated links coming soon</p>
 
 ### Flickr Website
 
@@ -382,6 +394,8 @@ To use any equipment, you must be a paid member. We have the following:
 
 Club members can add to this list by contacting the [webmaster](mailto:karen.smale@nasa.gov).
 
+---
+
 ## Membership Application
 
 <p style="color:red">Updated links coming soon</p>
@@ -394,6 +408,8 @@ If you have not renewed your membership for the 2024-2025 club year please compl
 - [Membership Application (PDF)](Documents/FY23-24_PhotoMembershipForm.pdf)
 
 - [Photo Club Constitution](Documents/PhotoClubConstitution_20191010.pdf)
+
+---
 
 ## Members' Galleries
 
@@ -410,6 +426,8 @@ If you have not renewed your membership for the 2024-2025 club year please compl
 - Karen Smale: [Pixels](https://karen-smale.pixels.com/) and [Flickr](https://www.flickr.com/photos/karen_smale)
 - Raghu Tumkur: [500px site](https://www.500px.com/rtumkur)
 - Andy Wohl: [Personal photo website](https://andrewwohlfineartphotography.com/the-artist) and [Fine Art America website](https://fineartamerica.com/profiles/andrew-wohl)
+
+---
 
 ## Officers & Contacts
 
