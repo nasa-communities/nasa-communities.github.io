@@ -1,0 +1,541 @@
+---
+layout: page-with-nav
+title:  "Past Events"
+categories: goddard
+
+parent-club: Goddard Photo Club
+
+anchors:
+  - { text: 2024, anchor: "#2024" }
+  - { text: 2023, anchor: "#2023" }
+  - { text: 2022, anchor: "#2022" }
+  - { text: 2021, anchor: "#2021" }
+  - { text: 2020, anchor: "#2020" }
+  - { text: 2019, anchor: "#2019" }
+  - { text: 2018, anchor: "#2018" }
+  - { text: 2017, anchor: "#2017" }
+  - { text: 2016, anchor: "#2016" }
+  - { text: 2015, anchor: "#2015" }
+  - { text: 2014, anchor: "#2014" }
+  - { text: 2013, anchor: "#2013" }
+  - { text: 2012, anchor: "#2012" }
+  - { text: 2011, anchor: "#2011" }
+
+---
+
+For upcoming and recent past events, please check our [Calendar of Events](https://nasa-communities.org/clubs/photo#calendar-of-events).
+
+## 2024
+
+- Dec 18 - Meeting: Gadgets (everyone); featured: James Kim
+- Oct 9 - Meeting: Making Black and White Images (Bill Dusterwald)
+- Aug 28 - Snap & Share: Around DC
+- Aug 14 - Meeting: Cuba: 90 Miles and a World Away (Nancy Rosenbaum); featured: Thitima Perrine
+- Jul 24 - Snap & Share: Bold Geometry or Shapes
+- Jul 10 - Workshop: Intern Headshot Workshop
+- Jul 10 - Meeting: Night Photography (Ian Mathews); featured: Karen Smale
+- Jun 28 - Field Trip: Firefly Sanctuary (Genevieve de Messieres)
+- Jun 26 - Snap & Share: Pareidolia
+- Jun 12 - Photo Critique (Topic: Open; Judges: Michael Brown and Mark Nelson)
+- May 22 - Snap & Share: Solar Photography
+- May 16 - Picnic
+- May 8 - Meeting: What it's like to be a Smithsonian Photographer (Lucia Martino); featured: Carey Johnson
+- Apr 24 - Snap & Share: Vehicles/Transportation
+- Apr 10 - Meeting: Food Photography (Steve Buchanan)
+- Mar 27 - Snap & Share: Snow/Winter
+- Mar 20 - BINGO recap
+- Mar 13 - Meeting (Make ART, not War; War life photographs from Ukraine (Alisa Jane)); featured: Casonya Johnson
+- Feb 28 - Snap & Share: Red (the color)
+- Feb 14 - Meeting (Eclipse Photography (Hull)); featured: Anna Keller
+- Feb 1-29 - Event: BINGO
+- Jan 24 - Snap & Share: Food, Drink, Meals
+- Jan 10 - Meeting (Headshot Workshop Lessons Learned (Beckman, et al.); featured: Seth Abramczyk)
+
+## 2023
+
+- Dec 13 - Meeting (Gadgets; featured: Bill Dusterwald)
+- Nov 19 - Field Trip: Huntley Meadows (Peter Knudtson)
+- Nov 15 - Showcase Pizza Lunch
+- Nov 14 - Showcase Reception
+- Nov 14-15 - Showcase (in person)
+- Nov 8 - Meeting (Photo Pills (Raghu Tumkur); featured: none)
+- Oct 25 - Snap & Share: Panoramas
+- Oct 11 - Meeting (Elections; What to Look for When Shopping for a Camera" (Hull, et al.))
+- Sep 27 - Snap & Share: Forced Perspective
+- Sep 24 - Field Trip: Union Station Architecture (Rosenbaum)
+- Sep 13 - Meeting (Spot Removal Tools in PS & LR (Rosenbaum); featured: Scott Hull)
+- Aug 23 - Snap & Share: Abstract
+- Aug 9 - Meeting (Flip the Composition (Dusterwald); featured: Steve Maher)
+- Jul 26 - Snap & Share: Light Painting
+- Jul 13 - Workshop: Intern Headshots (Seth Abramczyk)
+- Jul 12 - Meeting ("Her Helm" Photography Project (Kristin Rutkowski); featured: Bill Dusterwald)
+- Jul 11 - Field Trip: Monuments at dusk (Nancy Rosenbaum)
+- Jul 6 - Workshop (practice) - Intern Headshot
+- Jun 28 - Snap & Share: Underwater & Bodies of Water
+- Jun 21 - Field Trip: Firefly Photography (Genevieve de Messieres)
+- Jun 14 - Critique: Landscapes (Judge: Ed Palaszynski)
+- May 24 - Snap & Share: Flowers
+- May 17 - Picnic!
+- May 10 - Meeting (Photomerge (Hull); featured: Brian Cox)
+- Apr 29 - Field Trip: Brookside Gardens (Smale)
+- Apr 26 - Snap & Share: Showers (as in Rain)
+- Apr 22 - Field Trip: Lonaconing Silk Mill (Keith Chamberlin)
+- Apr 12 - Meeting (Solargraphs (de Messieres); featured: Seth Abramczyk)
+- Apr 11 - Headshot Workshop (for spring interns & others)(Emily Beckman)
+- Apr 4 - Headshot Practice
+- Mar 22 - Snap & Share: Technology
+- Mar 15 - BINGO recap
+- Mar 8 - Meeting (Light Painting (Smale); featured: Tom Jennings)
+- Feb 22 - Snap & Share: Trees (or A Tree)
+- Feb 8 - Meeting (Inexpensive Underwater Photography (Hull)); featured: Keith Chamberlin
+- Jan 25 - Snap & Share: Seasons in One Place
+- Jan 11 - Meeting (Who's Using Your Photos Online (Smale)); featured: Seth Gaines)
+
+## 2022
+
+- Dec 14 - Meeting (Gadgets; featured: Eliot Malumuth)
+- Nov 9 - Showcase Reception
+- Nov 7-14 - Showcase
+- Oct 26 - Snap & Share: Negative Space
+- Oct 12 - Meeting (Elections; Basic Photo Edits (Hull/Smale))
+- Sep 28 - Snap & Share: Night Sky
+- Sep 14 - Meeting (Exhibiting Your Photos (Vince Ferrari); featured: Karen Smale)
+- Aug 24 - Snap & Share: Sunrise/Sunset
+- Aug 10 - Night Sky Photography (Robert Fawcett); featured: Bill Dusterwald)
+- Jul 27 - Snap & Share: One Color Dominant
+- Jul 13 - Meeting (Being a Photo Editor (Shannon Hibberd); featured: Emily Beckman)
+- Jun 22 - Snap & Share: Bridges
+- Jun 19 - Field Trip: Fireflies at Lake Artemesia / Indian Creek Trail (Genevieve de Messieres)
+- Jun 8 - Photo Critique (topic: People; judge: Pete Morton)
+- May 26 - Headshot workshop with NGAPS+ group
+- May 25 - Snap & Share: A Rainy Day
+- May 19 - Headshot Dry Run (B36)
+- May 11 - Meeting (Puddlescapes (Nancy Hightower); featured: Mike Arida)
+- May 10 - 50th Anniversary Picnic!
+- Apr 30 - Field Trip: Savage Mill (Warner)
+- Apr 29-30 - Field Trip: Point Lookout (Marcus)
+- Apr 27 - Snap & Share: Birds
+- Apr 16 - MPA Odyssey of Light
+- Apr 13 - Meeting (Event Photography (Erika Nizborski); featured: Seth Gaines)
+- Apr 3 - Field Trip: Maryland Zoo - Baltimore (Arida)
+- Mar 23 - Snap & Share: Glassware & Highly Reflective Objects
+- Mar 18 - Course: Photo 102 - Session 3 (Hull)
+- Mar 16 - BINGO recap
+- Mar 11 - Course: Photo 102 - Session 2 (Hull)
+- Mar 9 - Meeting (My Home Photo Studio (Rutkowski); featured: Karen Smale (slideshow video critique))
+- Mar 4 - Course: Photo 102 - Session 1 (Hull)
+- Feb 23 - Snap & Share: Books
+- Feb 12 - Field trip: Bombay Hook NWR (Malumuth)
+- Feb 9 - Meeting (Zoo Photography Tips (Julie Gould); featured: Peter Knudtson)
+- Jan 26 - Snap & Share: Time Lapse
+- Jan 12 - Meeting (Flip the Photo (Dusterwald); featured: Leslie Ketterman)
+
+## 2021
+
+- Dec 8 - Meeting (Gadgets (everyone); featured: Martin Perrine)
+- Nov 17 - Showcase Reception
+- Nov 15-19 - Showcase!
+- Nov 9 - Deadline: Showcase Registration
+- Oct 27 - Snap & Share: Back to School
+- Oct 23 - Field Trip: Huntley Meadows (Peter Knudtson)
+- Oct 13 - Meeting (How to Choose a Camera Body & Lens(es) (Keith Chamberlin); elections)
+- Sep 29 - Special Meeting: Showcase Kickoff
+- Sep 22 - Snap & Share: Pets (and backyard critters)
+- Sep 8 - Meeting: (Macro Photography (Scott Hull); featured: Morgaine McKibben)
+- Aug 25 - Snap & Share: Letters & Numbers
+- Aug 11 - Meeting: Photo Retouching (Nancy Rosenbaum); featured: Steve Fantasia
+- Jul 28 - Snap & Share: Portraits
+- Jul 21 - Special Meeting: Critique Follow-up discussion
+- Jul 19 - Workshop: Portraits (Kristin Rutkowski)
+- Jul 14 - Critique: Architecture (Jerry Taylor)
+- Jun 26 - Field Trip: Wildlife Photography at Huntley Meadows Park (Peter Knudtson)
+- Jun 23 - Snap & Share: Shoes
+- Jun 12 - Field Trip: Architecture of Bethesda (Andy Wohl)
+- Jun 9 - Meeting (Architecture Photography (Chris Spielmann); featured: Yuqing Zhu)
+- May 26 - Snap & Share: Flowers
+- May 12 - Meeting (Portrait Photography (Kristin Rutkowski); featured: Raghu Tumkur)
+- Apr 28 - Snap & Share: Make a Scene
+- Apr 14 - Meeting (Monitor Calibration (Ken Fleisher); featured: Richard Kelley)
+- Mar 24 - Snap & Share: Kitchen Objects
+- Mar 17 - Special meeting - BINGO review
+- Mar 10 - Meeting (Timelapse Photography (Karen Smale); featured: Roland Wescott)
+- Feb 24 - Snap & Share: Bright Colors
+- Feb 10 - Meeting (An Astrophysicist's Adventure in Film Making (Stefan Immler); featured: Nancy Rosenbaum)
+- Jan 27 - Snap & Share: Holiday Spirit
+- Jan 13 - Meeting (Astrophotography (Scott Hull); featured: Jillian Pulia)
+
+## 2020
+
+- Dec 16 - Meeting (A still photographer steps into video: Slide shows and virtual choirs (David Friedlander); featured: Patrick Akers)
+- Nov 16-20 - Photo Showcase
+- Oct 28 - Snap & Share: Seasons
+- Oct 14 - Meeting (Elections! Cameras & Gear (Eldar Verdi from District Photo); no featured)
+- Sep 23 - Snap & Share: Get high / shoot low
+- Sep 18 - Workshop: Post-processing in Photoshop & Lightroom (Rutkowski & Smale)
+- Sep 9 - Meeting (Roundtable discussion: equity between the photographer & subject; featured: Natalie Sharpe)
+- Aug 26 - Snap & Share: Industrial
+- Aug 12 - Meeting (Putting your best virtual foot forward (Scott Hull); featured: Cris Doria-Warner)
+- Jul 22 - Snap & Share: Nighttime
+- Jul 8 - Meeting (Flickr (Kristin Rutkowski); featured: Andy Wohl)
+- Jun 24 - Snap & Share: Vintage
+- Jun 14 - Deadline: MPA annual photo contest
+- Jun 10 - Event: Digital Photo Critique (Topic: Nature)
+- May 27 - Snap & Share: Reflections
+- May 14 - Course: Photo 101 - III:Camera Mechanics (Scott Hull)
+- May 13 - Meeting (Photographing Fireflies (Genevieve de Messieres); Featured: Laura Brandt)
+- May 7 - Course: Photo 101 - II: Exposure (Scott Hull)
+- Apr 30 - Course: Photo 101 - I: Composition (Nancy Rosenbaum)
+- Apr 22 - Snap & Share: Architecture
+- Apr 8 - Meeting (Photographing Birds (Eliot Malumuth & Kimberly Engle); featured: Tom Jennings)
+- Mar 25 - Snap & Share: Threes
+- Mar 14 - Field Trip: Model Photo Shoot (Michael Louis Photography Studio; Dave Schaible)
+- Mar 11 - Photography at Blackwater Wildlife Refuge & Environs (Jan Exloer); no featured
+- Feb 27 - Event: Nancy Rosenbaum's retirement party
+- Feb 26 - Snap & Share: Food
+- Feb 17 - Field Trip: College Park Aviation Museum (Brent Warner)
+- Feb 12 - Meeting (How I shoot planes (Peter Knudtson); featured: Wayne Robinson (Kaleidoscopes)
+- Jan 24 - Workshop: Kaleidoscope images (Jack Shue)
+- Jan 22 - Snap & Share: People
+- Jan 16 - Workshop: Headshots (Kristin Rutkowski)
+- Jan 8 - Meeting (Collages (Raghu Tumkur & Karen Smale); featured: Nancy Rosenbaum)
+
+## 2019
+
+- Dec 11 - Meeting (Photography as a Business (Kathleen Kline); Featured: Joseph Hayden)
+- Nov 13-14 - Showcase!
+- Nov 9 - Event: MPA Opening Reception
+- Nov 1 - Exhibit: MPA Gallery Show opens at Bohrer Park, Gaithersburg
+- Oct 23 - Snap & Share: Street Photography
+- Oct 16 - Showcase registration deadline
+- Oct 12 - Field Trip: Old Salem Church & Cemetery costume shoot (Dave Schaible)
+- Oct 10 - Meeting (Elections, Flickr review (Dave Schaible))
+- Oct 1 - Field Trip: Goddard Car Show
+- Sep 25 - Snap & Share: Weather
+- Sep 11 - Meeting (Topic: Drawing from Photograph (Meng Gao); Featured: Olha Asmolova)
+- Sep 10 - Field Trip: Sunset Sail (Kristin Rutkowski)
+- Sep 8 - Greenbelt Arts Center reception
+- Sep 7 - Field Trip: Fashion Photography workshop (Dave Schaible)
+- Aug 28 - Snap & Share: Fruits & Vegetables
+- Aug 24 - Deadline: MPA Photo Contest
+- Aug 14 - Meeting (Topic: Compose and Crop (Bill Dusterwald); Featured: Carly Sandin)
+- Aug 1 - Field Trip: Kenilworth Aquatic Gardens (Nancy Rosenbaum)
+- Jul 24 - Snap & Share: Things with Wings
+- Jul 16 - Field Trip: Monuments at Night (Nancy Rosenbaum)
+- Jul 10 - Meeting: (Topic: Kaleidoscope Images (Jack Shue); Featured: Genevieve De Messieres)
+- Jun 30 - Field Trip: Ospreys at North Beach Pier (Eliot Malumuth)
+- Jun 27 - Course: Intro to Digital Photography (Part 2)
+- Jun 26 - Snap & Share: Symmetry
+- Jun 20 - Course: Intro to Digital Photography (Part 1)
+- Jun 19 - Field Trip: Osprey Bird Banding at Patuxent River Park (Eliot Malumuth)
+- Jun 12 - Meeting (Topic: What Makes a Good Competition Photo (Kleffman); Featured: Eliot Malumuth)
+- Jun 3 - Intern Orientation table
+- May 22 - Snap & Share: Shoot it 5 Ways
+- May 20 - Field Trip: UMD Golf Course (Kristin Rutkowski)
+- May 8 - Club Picnic
+- Apr 27 - MPA's Odyssey of Light seminar
+- Apr 24 - Snap & Share: Minimalism
+- Apr 10 - Meeting (Topic: Minimalism (Wohl); Featured: John Colley)
+- Mar 30 - Field Trip: Kite Festival (Bill Dusterwald)
+- Mar 27 - Snap & Share: Wood
+- Mar 13 - Special Meeting (Topic: Experience an Eclipse from the Sky (Carmichael))
+- Mar 1-31 - Riversdale House Exhibit
+- Feb 28 - Event: Reception at Riversdale House Museum exhibit
+- Feb 27 - Snap & Share: Silhouettes & Shadows
+- Feb 21 - Workshop: Silhouettes & Shadows
+- Feb 13 - Meeting (Topic: Light Sculpting (Dusterwald); Featured: James Mason)
+- January - no events (Gov't Shutdown)
+
+## 2018
+
+- Dec 12 - Meeting (Topic: Photographer's Journey; featured: Ryan Simmons)
+- Nov 14-15 - Showcase!
+- Nov 8 - Matting party #2
+- Nov 1 - Matting party #1
+- Oct 24 - Snap & Share: Black & White
+- Oct 14 - MPA Photo Contest Deadline
+- Oct 13 - MPA Seminar - Street Photography
+- Oct 10 - Meeting (Elections, Topic: Focusing Lessons)
+- Oct 8 - Field Trip: Riversdale Mansion
+- Sep 26 - Snap & Share: Body Parts
+- Sep 12 - Meeting (Topic: Matting, framing, and hanging photos; featured: Anna Keller)
+- Aug 22 - Snap & Share: Frame within a Frame
+- Aug 8 - Meeting (Topic: Working with Models; featured: Nancy Carney)
+- Aug 7 - Workshop: Flash Photography (Bill Dusterwald)
+- Aug 4 - Workshop: Models & Lighting (Dave Schaible @ Michael Louis Photography Studio)
+- Aug 1 - Workshop prep: Models and Lighting (Dave Schaible)
+- Jul 25 - Snap & Share: Field Trips
+- Jul 18 - Field Trip: Monuments at Night Walking Tour (Rosenbaum)
+- Jul 11 - Meeting (Topic: Developing Video Montages; featured: Kristin Rutkowski)
+- Jun 27 - Snap & Share: Nighttime
+- Jun 21 - Event: GEWA Block Party
+- Jun 21 - Field Trip: Goddard Photo Safari (Rutkowski)
+- Jun 13 - Meeting (Topic: Flash Photography; featured: Alan Carroll)
+- May 23 - Snap & Share: Sunrise & Sunset
+- May 9 - Club Picnic!
+- May 5 - Field Trip: National Cathedral Flower Mart
+- Apr 25 - Snap & Share: Curves
+- Apr 18 - Field Trip: Light City, Baltimore
+- Apr 11 - Meeting (Topic: How to Calibrate Your Camera; featured: Aruna Muppalla)
+- Mar 28 - Snap & Share: Lines & Angles
+- Mar 17 - Field Trip: Fairy foto shoot (Schaible)
+- Mar 14 - Meeting (Topic: Nighttime Photography; featured: Daniel Nguyen)
+- Mar 10 - Field Trip: Orchids at U.S. Botanic Gardens (Raghuram)
+- Feb 28 - Snap & Share: Our Machines
+- Feb 26 - Course: Photoshop Layers (Nancy Rosenbaum & Karen Smale) - Session 3
+- Feb 14- Meeting (Topic: How to Construct a Montage; featured: none)
+- Feb 12 - Course: Photoshop Layers (Nancy Rosenbaum & Karen Smale) - Session 2
+- Feb 5 - Course: Photoshop Layers (Nancy Rosenbaum & Karen Smale) - Session 1
+- Jan 24 - Snap & Share: Our Animals
+- Jan 10 - Meeting (Topic: Photoshop Elements HDR; featured: Rick Berry)
+
+## 2017
+
+- Dec 13 - Meeting (Showcase debrief; featured: Shirley Dion)
+- Nov 8-9 - Photo Showcase in Building 28
+- Nov 2 - Field Trip: ISS solar transit (Laurel area)
+- Oct 25 - Field Trip: ISS solar transit (softball fields)
+- Oct 25 - Snap & Share: Art
+- Oct 11 - Meeting: Elections (Topic: Gadgets; no featured photographer)
+- Sep 27 - Snap & Share: Music & Performance
+- Sep 13 - Meeting (Topic: How to Prepare for a Photographic Hiking Trip; featured: Kimberly Engle)
+- Aug 23 - Snap & Share: Biology
+- Aug 9 - Meeting (Video: Fundamentals of Photography; featured: Bill Anselm)
+- Jul 26 - Snap & Share: Geology
+- Jul 15 - Field Trip: Sunflowers in Poolesville
+- Jul 12 - Meeting (Topic: Eclipse Photography; featured: Bill Dusterwald)
+- Jul 9 - Field Trip: Sunflowers in Accokeek
+- Jun 29 - GEWA Block Party (with Green Screen!)
+- Jun 28 - Snap & Share: Crowds & Collections
+- Jun 14 - Meeting (Topic: Infrared Photography; featured: Ross Williams)
+- May 24 - Field Trip: Sri Siva Vishnu Temple
+- May 24 - Snap & Share: Selfies
+- May 11 - Club Picnic!
+- May 6 - Field Trip: Primitive Technology weekend @ Cromwell Valley Park
+- Apr 27 - Course: Photoshop Elements (Scott Hull)
+- Apr 26 - Snap & Share: Junk / Eye of the Beholder
+- Apr 20 - Course: Photoshop Elements (Scott Hull)
+- Apr 13 - Course: Photoshop Elements (Scott Hull)
+- Apr 12 - Meeting: (Topic: Photomerge/Focus Stacking; featured: Dorlisa Hommel)
+- Apr 7 - Field Trip: Light City Baltimore
+- Apr 6 - Course: Photoshop Elements (Scott Hull)
+- Apr 2 - Field Trip: ISS lunar transit
+- Mar 22 - Snap & Share: What is this?
+- Mar 8 - Meeting (Topic: Great Photographers, A Survey; featured: Mark Schofield)
+- Feb 22 - Snap & Share: Shadows
+- Feb 8 - Meeting: (Topic: Drones and Drone Photography; featured: Augusto Getirana)
+- Jan 25 - Snap & Share: Reflections
+- Jan 11 - Meeting: (Topic: Electronic Viewfinders & Touch Screens; featured: Melissa Meyers)
+
+## 2016
+
+- Dec 14 - Meeting (Topic: Photoshop Layers; featured: Karen Smale)
+- Dec 6 - Showcase III
+- Nov 9 - Meeting (Topic: Cropping; featured: Adan Rodriguez-Arroyo)
+- Nov 10 - Matting party!
+- Oct 26 - Snap & Share: Black & White
+- Oct 12 - Meeting (Topic: Photo books and calendars; elections)
+- Sep 28 - Snap & Share: One Color Dominant
+- Sep 14 - Club Picnic
+- Aug 24 - Snap & Share: Low Key
+- Aug 10 - Meeting (Topic: Personal Archives; featured: Rhonda Lake)
+- Aug 3 - Snap & Share: High Key
+- Jul 13 - Meeting (Topic: Photos Down Under; featured Tyler Evans)
+- Jun 30 - GEWA Block Party
+- Jun 26 - Field Trip: DC Architecture
+- Jun 22 - Snap & Share: Architectural Details / Minimalism
+- Jun 13 - Field Trip: ISS pass
+- Jun 8 - Meeting (Topic: Nik collection post-processing s/w; featured: Bill Anselm)
+- May 26 - Snap & Share: Geometry
+- May 11 - Meeting (Topic: Architectural Details; featured: Andy Wohl)
+- May 8 - Field Trip: National Zoo
+- Apr 27 - Snap & Share: Animals
+- Apr 13 - Meeting (Topic: Infra-Red Photography; featured: Joseph Gruber)
+- Apr 12 - Field Trip: Turkish Islamic Community Center
+- Apr 8 - Field Trip: US Botanical Gardens
+- Mar 23 - Snap & Share: People & Portraits
+- Mar 9 - Meeting (Topic: Scanners; featured: Raghu Tumkur)
+- Feb 24 - Snap & Share: Snow & Ice
+- Feb 10 - Meeting (Topic: The life of a freelance photographer; featured: Tom Manson)
+- Feb 8 - Workshop: Lighting 101, session 3 (tips & mechanics)
+- Feb 4 - Workshop: Lighting 101, session 2 (variable light & multiple lights)
+- Feb 3 - Snap & Share: Holiday Photos
+- Jan 20 - Workshop: Lighting 101, session 1 (single/fixed light sources)
+- Jan 13 - Meeting (Topic: Types of Portraiture; featured: Ishon Prescott)
+
+## 2015
+
+- Dec 15 (and 30) - Field Trip: Baltimore 34th Street holiday lights
+- Dec 9 - Meeting (Topic: Submitting photos to contests/galleries; featured: Adan Rodriguez-Arroyo)
+- Nov 21 - Field Trip: Carrie Murray Nature Center
+- Nov 11 - Field Trip: Conowingo Dam
+- Nov 4 - Meeting (Topic: Planning photo events with TPE; featured: Clifton Brown)
+- Oct 23 - Snap & Share: Fire
+- Oct 14 - Meeting (Topic: Lightroom; elections)
+- Oct 3 - Field Trip: Worldwide Photo Walk (cancelled due to heavy rains)
+- Oct 1 - Field Trip: MAD/GEWA club collaboration
+- Sep 30 - Snap & Share: Earth
+- Sep 28 - Field Trip: Moon over the Monuments (was this canceled due to clouds/rain?)
+- Sep 26 - Field Trip: Explore@NASA Goddard
+- Sep 19 - Field Trip: Andrews Air Show
+- Sep 16 - Club Picnic!
+- Aug 26 - Snap & Share: Clouds, rain & mist
+- Aug 15 - Field Trip: Carrie Murray Nature Center
+- Aug 12 - Meeting (Topic: Photo Journal/Storytelling; featured: Paul Hwang)
+- Jul 22 - Snap & Share: Water
+- Jul 15 - Kenilworth Aquatic Gardens
+- Jul 10 - Field Trip: Evening walking tour of DC monuments
+- Jul 8 - Meeting (Topic: [technical difficulties]; featured: Randy Barth)
+- Jun 24 - Snap & Share: Macro & Closeup
+- Jun 10 - Meeting (Topic: Astro Photography; featured: Dave Schaible)
+- Jun 4 - Class: Photo 101 final Snap & Share
+- May 28 - Class: Photo 101 session 6
+- May 27 - Snap & Share: Flowers
+- May 21 - Class: Photo 101 session 5
+- May 13 - Photo Showcase II
+- May 7 - Class: Photo 101 Snap & Share #1
+- May 6 - Matting party
+- May 2-3 - Field Trip: Spoutwood Fairy Festival
+- May 2 - Field Trip: Maryland Sheep & Wool Festival
+- Apr 30 - Class: Photo 101 session 4
+- Apr 23 - Class: Photo 101 session 3
+- Apr 22 - Snap & Share: Light Painting
+- Apr 17 - Field Trip: Photo Scavenger Hunt at GSFC
+- Apr 16 - Class: Photo 101 session 2
+- Apr 9 - Class: Photo 101 session 1
+- Apr 8 - Meeting (Topic: Color Profiles; featured: Barb Grofic)
+- Mar 25 - Snap & Share: Intentional Camera Movement
+- Mar 11 - Meeting (Topic: Making Sense of Laws Affecting Photographers and Photography; featured: Steve Fantasia)
+- Feb 25 - Snap & Share: Rural
+- Feb 11 - Meeting (Topic: Intentional Camera Movement & Light Painting; featured (none))
+- Jan 28 - Snap & Share: Urban
+- Jan 14 - Meeting (topic: Flickr and other photo sharing sites; featured (none))
+
+## 2014
+
+- Dec 13 - Field Trip: Eastport Yacht Club Lights Parade
+- Dec 10 - Meeting (topic: Noise Reduction Software; 365 Project; featured: Pete Banholzer)
+- Dec 3 - Photo Club Winter Social
+- Nov 12 - Meeting (topic: Photo Orbs; featured: Kimberly Engle)
+- Nov 11 - Field Trip: Eastern State Penitentiary, Philadelphia, PA
+- Nov 8 - Field Trip: Carrie Murray Nature Center (Shurkey Toot!)
+- Nov 5 - Photo Club Showcase!
+- Oct 24 - Field Trip: Patuxent Wildlife Refuge
+- Oct 22 - Snap & Share: Textures, Patterns and Rhythm
+- Oct 21 - Field Trip: Goddard, in search of patterns & textures
+- Oct 13 - Field Trip: Library of Congress
+- Oct 8 - Meeting (topic: panel of experts on mounting an exhibit; featured: Ashok Desai)
+- Sep 24 - Snap & Share: Leading lines
+- Sep 10 - Picnic!
+- Aug 27 - Snap & Share: Action/motion/stop-action/time-lapse
+- Aug 14 - Field Trip: Goddard Farmer's Market
+- Aug 13 - Meeting (topic: Extreme Shutter Speeds; featured: Bob Peters)
+- Jul 23 - Snap & Share: Transportation
+- Jul 17 - Field Trip: Kenilworth Aquatic Gardens
+- Jul 16 - Other Event: Goddard Clubs Showcase
+- Jul 12 - Field Trip: National Zoo
+- Jul 9 - Meeting (topic: Spaceflight Project Photo Documentation; featured: Yasir Tufail)
+- Jul 5 - Field Trip: Smithsonian Folklife Festival
+- Jun 25 - Snap & Share: Sports
+- Jun 18 - Field Trip: Annapolis Sailboat Races
+- Jun 11 - Meeting (topic: portrait photography; featured: Ed Campion)
+- Jun 10 - Field Trip: Softball
+- Jun 8 - Field Trip: Strathmore: Sounds of Brazil
+- Jun 7 - Filed Trip: B&B Auto Salvage
+- Jun 4 - Field Trip: Softball
+- May 28 - Snap & Share: People
+- May 18 - Field Trip: BikeJam
+- May 14 - Meeting (topic: photographing people - DVD)
+- May 10 - Field Trip: Birds of Prey
+- May 3 - Field Trip: National Cathedral Flower Mart
+- Apr 23 - Snap & Share: Weather
+- Apr 9 - Meeting (topic: Topaz Filters; featured: Brent Warner)
+- Mar 26 - Snap & Share: Winter activities and scenes
+- Mar 16 - Field Trip: US Botanical Gardens Orchid Show
+- Mar 12 - Meeting (topic: Sports/Hockey Photography; featured: Min-Jeong Kim)
+- Feb 26 - Snap & Share: Best of Field Trips Jun-Dec 2013
+- Feb 17 - Field Trip: Library of Congress
+- Feb 12 - Meeting (topic: Flower Photography; featured: Bill Dusterwald)
+- Jan 22 - Snap & Share: Best of Field Trips Jan-June 2013
+- Jan 8 - Meeting (topic: old photo restoration; featured: Andy Wohl)
+
+## 2013
+
+- Dec 11 - Meeting (topic: gear, gadgets & gifts)
+- Dec 7 - Field Trip: B&B Auto Salvage (junk yard!)
+- Dec 4 - Snap & Share: Festivals
+- Nov 23 - Field Trip: Birds of Prey at Carrie Murray Nature Center
+- Nov 13 - Meeting (ELECTIONS) (topic: depth of field)
+- Nov 11 - Field Trip: Conowingo Dam (Eagles!)
+- Oct 30 - Snap & Share: Food & Drink
+- Oct 20 - Field Trip: Maryland Renaissance Festival
+- Sep 25 - Snap & Share: Reflections
+- Sep 19 - Field Trip: Shoot the Moon over the Monuments
+- Sep 17 - Class: How to Shoot the Moon over the Monuments (Bob Murphy)
+- Sep 11 - Picnic!
+- Aug 28 - Snap & Share: Water
+- Aug 21 - Picnic Volunteer meeting
+- Aug 17 - Field Trip: Eastern Market
+- Aug 14 - Meeting (topic: portrait retouching)
+- Jul 24 - Snap & Share: Abstract: emphasis on form (can be recognizable), including fireworks!
+- Jul 19 - Field Trip: Lake Artemisia
+- Jul 13 - Field Trip: Kenilworth
+- Jul 10 - Meeting (topic: lighting - with a practical at 5pm)
+- Jun 28 - Field Trip: Sunflowers & wildflowers on Ag Center
+- Jun 24 - Snap & Share: Single-color theme or a pop/splash of color in B/W photos
+- Jun 12 - Meeting (topic: Depth of Field)
+- May 22 - Snap & Share: Animals
+- May 17 - Field Trip: Preakness Balloon Festival
+- May 8 - Meeting (topic: creating a photo slideshow)
+- May 4 - Field Trip: Birds of Prey at [Carrie Murray Nature Center](http://www.carriemurraynaturecenter.org/events/#may4)
+- May 4 - Field Trip: Sheep & Wool Festival
+- Apr 24 - Snap & Share: Spring Themes
+- Apr 10 - Meeting (topic: photography from the ISS [movie])
+- Mar 30 - Field Trip: Kite Festival
+- Mar 27 - Snap & Share: Library of Congress & DC sites
+- Mar 13 - Meeting (topic: accessories)
+- Mar 7 - Course: Basic Photo Post-Processing (part 4) (Scott Hull)
+- Feb 28 - Course: Basic Photo Post-Processing (part 3) (Scott Hull)
+- Feb 27 - Snap & Share: Cell Phone Photography
+- Feb 21 - Course: Basic Photo Post-Processing (part 2) (Scott Hull)
+- Feb 18 - Field Trip: Library of Congress
+- Feb 14 - Course: Basic Photo Post-Processing (Scott Hull)
+- Feb 13 - Meeting (topic: histograms)
+- Jan 23 - Snap & Share: Winter and Holiday photos
+- Jan 9 - Meeting (topic: Club Equipment Purchases)
+
+## 2012
+
+- Dec 12 - Photo Club meeting (topic: Holiday Camera Buying Guide)
+- Nov 28 - Snap & Share: Autumn/Fall Foliage
+- Nov 18 - Photo Field Trip: Butterflies at the Smithsonian
+- Nov 14 - Photo Club meeting (topic: HDR photography)
+- Nov 12 - Photo Field Trip: Conowingo Dam
+- Oct 24 - Snap & Share: Beach Photos
+- Oct 22 - Photo Field Trip: Goddard Lake Evening
+- Oct 18 - Photo Field Trip: Goddard Lake Lunch
+- Oct 10 - Photo Club meeting - ELECTIONS! (topic: Flickr)
+- Sep 26 - Snap & Share: Portraits & Family
+- Sep 19 - Club Picnic
+- Aug 22 - Snap & Share: Vacation Photos (with people!)
+- Aug 8 - Photo Club meeting (topic: There's an app for that! Smartphones for photographers)
+- Aug 1 - Photo Field Trip: Kenilworth Aquatic Gardens
+- Jul 25 - Snap & Share: Luray Caverns and Other Travel Images
+- Jul 12 - Photo Field Trip: Kenilworth Aquatic Gardens
+- Jul 11 - Photo Club meeting (topic: RAW vs. JPEG)
+- Jun 28 - Photo Club booth at Celebrate Goddard Day
+- Jun 27 - Photo Club Snap-and-Share session
+- Jun 14 - Photo Field Trip: GSFC Architecture Photo Safari!
+- Jun 13 - Photo Club meeting (topic: What is new in digital photography/cameras and making prints)
+- May 23 - Photo Club Snap-and-Share session
+- May 19 - Photo Field Trip: Andrews AFB Open House/Airshow
+- May 9 - Photo Club meeting (topic: Aircraft photography)
+- April 17 - Shuttle flyby
+- April 11 - Photo Club meeting (topic: Macro Photography)
+- March 14 - Bill Ingalls colloquium
+- February 25 - Photo Field Trip: Botanical Gardens orchid show
+- February 20 - Photo Field Trip: Luray Caverns
+- February 8 - Photo Club meeting (topic: B/W Photography)
+
+## 2011
+
+- November 11 - Photo Field Trip: Conowingo Dam located in northern Maryland - In the frigid fall weather we were rewarded with over 20 wild Eagles modeling for our cameras throughout the morning.
