@@ -14,7 +14,7 @@ layout: default
       <p class="col-lg-10 fs-4">Welcome to NASA Communities. A landing spot (and launchpad!) for employee and alumni clubs and such. Browse around and have a look!</p>
     </div>
     <div class="col-lg-5 text-center text-lg-start">
-      <p class="text-muted"><em>We're a small team of volunteers that manage this site. If you'd like to get involved, come check out <a href="https://github.com/nasa-communities" target="_blank">our spot on GitHub <i class="fa-brands fa-github"></i></a></em></p>
+      <p class="text-muted"><em>We're a small team of volunteers that manage this site. If you'd like to get involved, come check out <a href="https://github.com/nasa-communities/nasa-communities.github.io" target="_blank">our spot on GitHub <i class="fa-brands fa-github"></i></a></em></p>
     </div>
   </div>
 </div>
