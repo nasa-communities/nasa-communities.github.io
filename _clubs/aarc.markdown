@@ -19,6 +19,7 @@ layout: club-with-nav
 
 anchors:
   - { text: Nets and Meetings, anchor: "#nets-and-meetings" }
+  - { text: News, anchor: "#news" }
   - { text: Member Registration, anchor: "#member-registration" }
   - { text: Getting a License, anchor: "#getting-a-license" }
   - { text: Field Center Operations, anchor: "#field-center-operations" }
@@ -26,7 +27,7 @@ anchors:
   - { text: Net Control Script, anchor: "#net-control-script" }
   - { text: Galleries, anchor: "#galleries" }
   - { text: Contact Us, anchor: "#contact-us" }
-  - { text: Get Involved!, anchor: "#get-involved" }
+  - { text: Get Involved, anchor: "#get-involved" }
 
 ---
 
@@ -38,7 +39,9 @@ The AARC is coordinated with the [Silicon Valley Emergency Communications System
 
 The club station, NA6MF, is affiliated with the [Amateur Radio Relay League (ARRL)](https://www.arrl.com).
 
-The AARC is a member of the NASA Exchange Council https://exchange.arc.nasa.gov (NASA Only)
+The AARC is a member of the [NASA Exchange Council](https://exchange.arc.nasa.gov) (NASA Only).
+
+---
 
 ## Nets and Meetings
 
@@ -62,10 +65,19 @@ The club meets at 12:00 noon on the third Thursday of each month in the Ames Ama
 
 ### Regular Recurring Events and Activities
 
-- NASA on the AIR (NOTA) - Special event radio stations highlighting NASA achievements.
+- [NASA on the AIR (NOTA)](https://nasaontheair.wordpress.com/) - Special event radio stations highlighting NASA achievements.
 - Mentoring and license study.
 - Amateur radio license testing support.
 - Amateur radio nation-wide contests, activities, and special events.
+
+---
+
+## News
+
+- August 31, 2023: [Lunar Atmosphere and Dust Environment Explorer (LADEE) 10th Anniversary of Launch NOTA Special Event](https://nasaontheair.wordpress.com/2023/08/31/10th-anniversary-of-the-ladee-lunar-atmosphere-and-dust-environment-explorer-spacecraft/)
+- June 1, 2022: [NASA on the Air (NOTA) featured in May 2022 issue of “Astrogram”](https://www.nasa.gov/centers-and-facilities/ames/nasa-ames-astrogram-may-2022/#hds-sidebar-nav-6)
+
+---
 
 ## Member Registration
 
@@ -82,6 +94,8 @@ P.O. Box 73
 Moffett Field, CA 94035-0073
 
 _Form coming soon_
+
+---
 
 ## Getting a License
 
@@ -153,6 +167,8 @@ Many such books can be purchased locally at HRO (Ham Radio Outlet) located on 51
 - Youth Nets: [https://www.arrl.org/youth-nets](https://www.arrl.org/youth-nets)  
 - Find a club: [https://www.arrl.org/find-a-club](https://www.arrl.org/find-a-club)
 
+---
+
 ## Frequencies
 
 Tactical channels are considered for ARES and RACES activities, "Event" is used for special purposes such as club meetings, NASA-TV re-transmissions. Command is AARC's repeater, and two packet frequencies are used with County and city EOC message handling.
@@ -176,19 +192,27 @@ Until further notice the AARC Tuesday Noontime Net is on 146.115+, PL 100.0 (AA6
 | Packet 2M (Secondary) | 145.750 |
 {: .table}
 
+---
+
 ## Field Center Operations
 
 ![Year long field operations map](/images/aarc_field_center_map.png)
 
 _NASA Ames Amateur Radio Club Station: NA6MF / Grid Square: CM87X_
 
+---
+
 ## Net Control Script
 
 <a href="/clubs/aarc/net-control-script" class="btn btn-primary">Net Control Script</a>
 
+---
+
 ## Galleries
 
 Coming soon.
+
+---
 
 ## Contact Us
 
@@ -214,12 +238,14 @@ Ames Amateur Radio Club
 P.O. Box 73  
 Moffett Field, CA 94035-0073
 
-## Get Involved!
+---
 
-Join our weekly nets, meet up at the club house, sign up for our mailing list, register as a member if you're eligible, or just reach out! We'd love to hear from you!
+## Get Involved
+
+Join our [weekly nets](#nets-and-meetings), meet up at the club house, sign up for our mailing list, [register as a member](#member-registration) if you're eligible, or just reach out! We'd love to hear from you!
 
 ### Sign up for our mailing list
-https://lists.nasa.gov/mailman3/lists/arc-hamradio.lists.nasa.gov/ (NASA Only)
+[https://lists.nasa.gov/mailman3/lists/arc-hamradio.lists.nasa.gov/] (NASA Only)
 
 ### If you are outside of NASA
 Send an email to [arc-hamradio-request@lists.nasa.gov] with "subscribe" in the subject (without quotes).
