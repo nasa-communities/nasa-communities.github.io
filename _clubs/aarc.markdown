@@ -101,47 +101,46 @@ _Form coming soon_
 
 ### Local SF Bay Area License Events
 
-Sunnyvale VEC  
+**Sunnyvale VEC**
 [https://www.amateur-radio.org](https://www.amateur-radio.org)  
 Twice a month. 2nd Saturday in Sunnyvale, 3rd Saturday in Redwood City.
 
-Silicon Valley VE Group  
+**Silicon Valley VE Group**
 [https://www.svve.org](https://www.svve.org)  
 1st and 3rd Saturday from 8AM until 10:30AM, Saratoga Firehouse
 
-Tri-City VE Group  
+**Tri-City VE Group**
 [https://sbara.org](https://sbara.org)  
 Alternates every month. A Tuesday evening, next month a Saturday morning, rinse repeat.
 
-Bay Area Educational Amateur Radio Society  
+**Bay Area Educational Amateur Radio Society**  
 [https://www.baears.com](https://www.baears.com)  
 Gives a one day Ham Cram for Technician and General licenses. Various locations
 
-Every May at Maker Faire San Mateo  
+**Every May at Maker Faire San Mateo**  
 [https://mfhamtest.com](https://mfhamtest.com)
 
 ### Finding Other Testing Resources
 
-ARRL: [https://www.arrl.org/getting-licensed](https://www.arrl.org/getting-licensed)  
-National Radio Examiners: [https://www.w5yi.org](https://www.w5yi.org)  
-Other VECs [https://wireless.fcc.gov/services/index.htm?job=licensing_5&id=amateur](https://wireless.fcc.gov/services/index.htm?job=licensing_5&id=amateur)
+**ARRL:** [https://www.arrl.org/getting-licensed](https://www.arrl.org/getting-licensed)  
+**National Radio Examiners:** [https://www.w5yi.org](https://www.w5yi.org)  
+**Other VECs:** [https://wireless.fcc.gov/services/index.htm?job=licensing_5&id=amateur](https://wireless.fcc.gov/services/index.htm?job=licensing_5&id=amateur)
 
-Online self-study: [https://www.hamradiolicenseexam.com](https://www.hamradiolicenseexam.com)
+**Online self-study:** [https://www.hamradiolicenseexam.com](https://www.hamradiolicenseexam.com)
 
 While the focus is on passing the test by studying all of the possible questions, there's a lot of "how" and "why" information included.
 
-Guides to amateur radio for beginners:  
+**Guides to amateur radio for beginners:**
 [https://www.dxzone.com/catalog/Operating_Aids/Beginner_s_Guides/](https://www.dxzone.com/catalog/Operating_Aids/Beginner_s_Guides/)
 
-*So, You Want to be a Ham?* (NASA ISS reference website):  
+***So, You Want to be a Ham?* (NASA ISS reference website):**
 [https://spaceflight.nasa.gov/station/reference/radio/beaham.html](https://spaceflight.nasa.gov/station/reference/radio/beaham.html)
 
-QRZ Practice Tests for amateur radio exams:  
+**QRZ Practice Tests for amateur radio exams:**
 [https://www.qrz.com/hamtest/](https://www.qrz.com/hamtest/)
-
 Free and open to the public, you must first register or log in with a QRZ User account. No license is required to register with QRZ.
 
-Santa Clara County OES ARES/RACES: [https://www.scc-ares-races.org](https://www.scc-ares-races.org)
+**Santa Clara County OES ARES/RACES:** [https://www.scc-ares-races.org](https://www.scc-ares-races.org)
 
 For those already licensed, there are many courses in communications procedures, packet, drills, etc. See Training/Events links on left side of website.
 
@@ -216,19 +215,19 @@ Coming soon.
 
 ## Contact Us
 
-### President: NASA Ames Amateur Radio Club (AARC)
+### President of AARC
 
-Mark Allard, KD6CWM  
+**Mark Allard, KD6CWM**
 (650) 604-6145  
 mark.r.allard@nasa.gov
 
 ### AARC Webpage Editors
 
-Michael Wright, K6MFW  
+**Michael Wright, K6MFW ** 
 (650) 604-6262  
 michael.f.wright@nasa.gov
 
-David Cahill, K9PWZ  
+**David Cahill, K9PWZ**  
 (650) 604-3800  
 david.cahill@nasa.gov
 
@@ -245,7 +244,7 @@ Moffett Field, CA 94035-0073
 Join our [weekly nets](#nets-and-meetings), meet up at the club house, sign up for our mailing list, [register as a member](#member-registration) if you're eligible, or just reach out! We'd love to hear from you!
 
 ### Sign up for our mailing list
-[https://lists.nasa.gov/mailman3/lists/arc-hamradio.lists.nasa.gov/] (NASA Only)
+[https://lists.nasa.gov/mailman3/lists/arc-hamradio.lists.nasa.gov/](https://lists.nasa.gov/mailman3/lists/arc-hamradio.lists.nasa.gov/) (NASA Only)
 
 ### If you are outside of NASA
-Send an email to [arc-hamradio-request@lists.nasa.gov] with "subscribe" in the subject (without quotes).
+Send an email to [arc-hamradio-request@lists.nasa.gov](mailto:arc-hamradio-request@lists.nasa.gov?subject=subscribe) with "subscribe" in the subject (without quotes).
