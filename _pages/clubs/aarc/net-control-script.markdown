@@ -78,6 +78,7 @@ Date: ________________   Time: ________________
 |      |          |         |         |                                  |
 |      |          |         |         |                                  |
 |      |          |         |         |                                  |
+{: .table .table-bordered}
 
 *Example Check-ins Template*
 
@@ -92,5 +93,6 @@ Grand Total: ________
 "NASA Ames had _____ check-ins today. This is [your call sign]."
 
 *Congratulations… You have just performed the net control task!*
+
 
 Questions? Ask Mark Allard, KD6CWM, at mark.r.allard@nasa.gov
