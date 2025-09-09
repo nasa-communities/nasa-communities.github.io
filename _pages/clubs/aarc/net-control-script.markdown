@@ -1,9 +1,13 @@
 ---
-layout: page
+layout: page-with-nav
 title:  "Net Control Script"
 categories: ames
 
 parent-club: Ames Amateur Radio Club
+
+anchors:
+  - { text: Log Sheet, anchor: "#log-sheet" }
+  - { text: Silicon Valley Emergency Communications System Net Check-In, anchor: "#silicon-valley-emergency-communications-system-net-check--in" }
 
 ---
 
@@ -96,3 +100,4 @@ Grand Total: ________
 
 
 Questions? Ask Mark Allard, KD6CWM, at mark.r.allard@nasa.gov
+
