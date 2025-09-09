@@ -392,7 +392,7 @@ To use any equipment, you must be a paid member. We have the following:
   - "50 Portrait Lighting Techniques for pictures that sell" by John Hart (1983)
   - "How to Photograph Women Beautifully" by J. Barry O'Rourke (1986)
 
-Club members can add to this list by contacting the [webmaster](mailto:karen.smale@nasa.gov).
+Club members can add to this list by contacting the [webmaster](mailto:olha.asmolova@nasa.gov).
 
 ---
 
