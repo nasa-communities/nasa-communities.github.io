@@ -23,21 +23,21 @@ anchors:
 
 | Topic | Contact | Office phone |
 |---|---|---|
-| General club information | [Robin Clemente](mailto:robin.clemente@nasa.gov) | 301-614-5034 |
+| General club information | [Robin Clemente](mailto:robin.clemente@nasa.gov) | 410-919-3086 |
 | Sailing class information | [Doug Frantz](mailto:douglas.e.frantz@nasa.gov) | 301-286-1866 |
 | Social events | [Jeremy Goldstein/Tyler Williams](mailto:Jgolds1@hotmail.com,williamstyler075@gmail.com) | 571-499-0482 |
-| Club website and mailing lists | [Tamás Várnai](mailto:tamas.varnai@nasa.gov) | 301-614-6408 |
+| Club website and mailing lists | [Tamás Várnai](mailto:tamas.varnai@nasa.gov) |  |
 | Membership information | [Theo Muench](mailto:ttmuench@hotmail.com) | |
 | Boat charters | [Stephan Klene](mailto:Stephan.A.Klene@nasa.gov) | 301-867-2015 |
 | Boat maintenance | [John Panek](mailto:john.s.panek@nasa.gov) | 301-286-6593 |
-| Racing information and instruction | [Peter Dunn](mailto:Peterdunn2000@gmail.com) | 240-242-9833 |
+| Racing information and instruction | [Jan Merka](mailto:jan.moravian@gmail.com) |  |
 {: .table .table-stripe}
 
 ### Club officers
 
 | Position | Name | Office phone |
 |---|---|---|
-| Commodore | [Robin Clemente](mailto:robin.clemente@nasa.gov) | 301-614-5034 |
+| Commodore | [Robin Clemente](mailto:robin.clemente@nasa.gov) | 410-919-3086 |
 | Vice-commodore (education) | [Doug Frantz](mailto:douglas.e.frantz@nasa.gov) | 301-286-1866 |
 | Rear-commodore (social events) | [Jeremy Goldstein](mailto:Jgolds1@hotmail.com) | 571-499-0482 |
 | Treasurer | [Theo Muench](mailto:ttmuench@hotmail.com) | |
@@ -52,7 +52,7 @@ anchors:
 | Membership | [Theo Muench](mailto:ttmuench@hotmail.com) | |
 | Charter rep | [Stephan Klene](mailto:Stephan.A.Klene@nasa.gov) | 301-867-2015 |
 | Alternate charter rep | [Robin Clemente](mailto:robin.clemente@nasa.gov) | 410-919-3086 |
-| Racing coordinator | [Peter Dunn](mailto:Peterdunn2000@gmail.com) | 240-242-9833 |
+| Racing coordinator | [Jan Merka](mailto:jan.moravian@gmail.com) |  |
 {: .table .table-stripe}
 
 ---

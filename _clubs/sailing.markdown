@@ -4,7 +4,7 @@ slogan: Sail away with us!
 description: GSA offers NASA employees and their families the opportunity to sail Flying Scots and a cabin cruiser on the Chesapeake Bay at substantially lower-than-market rates, with instruction classes, social activities, and convenient access from the DC area.
 thumbnail: GSA_logo.jpg
 
-contact-email: tamas.varnai@nasa.gov
+contact-email: robin.clemente@nasa.gov
 
 #socials:
 #  twitter: /
@@ -117,7 +117,7 @@ Links coming soon.
 
 ## Daysail Destinations
 
-This section is to help club members benefit from each other's knowledge of the waters and land around Selby Bay. **Please contact [Tamás Várnai](mailto:tamas.varnai@nasa.gov) (301-614-6408) to share your knowledge with fellow sailors.** Any piece of information is appreciated, such as attractions, good landing spots and marinas, restaurants, anchorages, or hazards.
+This section is to help club members benefit from each other's knowledge of the waters and land around Selby Bay. **Please contact [Tamás Várnai](mailto:tamas.varnai@nasa.gov) to share your knowledge with fellow sailors.** Any piece of information is appreciated, such as attractions, good landing spots and marinas, restaurants, anchorages, or hazards.
 
 Additional resources available include [free nautical charts](#links-and-resources) and [commercially available books](http://www.amazon.com/s/ref=nb_ss_gw/103-7941116-6088656?url=search-alias%3Daps&field-keywords=Cruising+the+Chesapeake&Go.x=0&Go.y=0&Go=Go).
 

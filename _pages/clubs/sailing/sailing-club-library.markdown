@@ -18,7 +18,7 @@ anchors:
 ---
 ## Club Library
 
-Members in good standing are welcome to borrow titles from the club's collection of sailing books. For more information, please contact [Robin Clemente](mailto:robin.clemente@nasa.gov) (301-614-5034).
+Members in good standing are welcome to borrow titles from the club's collection of sailing books. For more information, please contact [Robin Clemente](mailto:robin.clemente@nasa.gov) (410-919-3086).
 
 At present, the following books are available:
 
