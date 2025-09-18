@@ -6,6 +6,7 @@ categories: goddard
 parent-club: Goddard Sailing Association
 
 anchors:
+  - { text: Home, anchor: "/clubs/sailing/" }
   - { text: Club description, anchor: "#Description" }
   - { text: Membership, anchor: "#Membership" }
   - { text: Activities, anchor: "#Activities" }
@@ -27,6 +28,7 @@ anchors:
   - { text: Cruiser electrical systems, anchor: "#Cruiser_electrical_systems" }
   - { text: Cruiser sails and rigging, anchor: "#Cruiser_sails_and_rigging" }
   - { text: Cruiser procedures, anchor: "#Cruiser_procedures" }
+  - { text: Contact Us, anchor: "/clubs/sailing/sailing-contact/" }
 
 ---
 
@@ -165,7 +167,7 @@ Scheduling is now being done through the web site at [https://www.AircraftClubs.
 
 ### FEES
 
-Current rates for all charters are listed at the [page on fee information](https://nasa-communities.org/clubs/sailing/#fee-information). Morning charters run from sun-up to 2:00 pm. Afternoon charters run from 2:00 pm to sun-down. Government holidays count as weekends. You can also purchase a "Salty Dog Package" of $150 in charter credits for $100, paid in advance of sailing.
+Current rates for all charters are listed at the [page on fee information](https://nasa-communities.org/clubs/sailing/sailing-fees/). Morning charters run from sun-up to 2:00 pm. Afternoon charters run from 2:00 pm to sun-down. Government holidays count as weekends. You can also purchase a "Salty Dog Package" of $150 in charter credits for $100, paid in advance of sailing.
 
 All charter fees are non-refundable and due one week after you schedule the charter. Pay the club treasurer with a check made out to the Goddard Sailing Association. Please indicate the charter date, time (a.m. or p.m.), and boat on the check (or for a Salty Dog, if appropriate). Excess payments (charter fees paid by a member but not used before the end of the sailing season) will be carried over to the next season.
 
@@ -203,7 +205,7 @@ The charter skipper is responsible for returning the boat to the dock before the
 
 ![Map of water near Selby Bay](/images/sailing_guidebook_chart.jpg "Map of water near Selby Bay")
 
-Free downloadable nautical charts and other information about nearby areas can be found at the pages on [Daysail destinations](https://nasa-communities.org/clubs/sailing/#daysail-destinations) and [Sailing links](https://nasa-communities.org/clubs/sailing/#resources-and-links).
+Free downloadable nautical charts and other information about nearby areas can be found at the pages on [Daysail destinations](https://nasa-communities.org/clubs/sailing/#daysail-destinations) and [Sailing links](https://nasa-communities.org/clubs/sailing/sailing-resources/).
 
 <a name="Safety"></a>
 
