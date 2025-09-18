@@ -29,6 +29,7 @@ With questions about the classes, please contact [Doug Frantz](mailto:douglas.e.
 <a name="BasicClass"></a>
 
 #### GSA Basic Sailing
+
 [Basic Class Page](/clubs/sailing/sailing-basic-class)
 
 **Dates:**
@@ -47,6 +48,7 @@ This course is intended for beginning sailors and teaches the basic fundamentals
 
 <a name="CruiserClass"></a>
 #### GSA Cruiser Sailing
+
 [Cruiser Class Page](/clubs/sailing/sailing-cruiser-class)
 
 If interested, please contact [Doug Frantz](mailto:douglas.e.frantz@nasa.gov)

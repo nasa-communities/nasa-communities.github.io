@@ -21,6 +21,7 @@ anchors:
 
 ### Resources (links will be updated soon)
 
+
 - [Flying Scot checklist](https://drive.google.com/file/d/1jL13gxIijA674fUFS3Y1G2-E7m-3QVIi/view?usp=drive_link)
 - [List for preparing boats to sail](https://drive.google.com/file/d/1RnqPeU_0God6d00ThL3jDbPSs5zF_7V5/view?usp=drive_link)
 - [Cruiser checklist](https://drive.google.com/file/d/1S7gw2YPJ-eGYDWbHfZtClzfcnEBsg_0B/view?usp=drive_link)
