@@ -21,14 +21,15 @@ anchors:
 
 ### Resources (links will be updated soon)
 
-- [Flying Scot checklist](BASIC_SAILING_CLASS/Scot_Checklist.pdf)
-- [List for preparing boats to sail](BASIC_SAILING_CLASS/Preparing_Boat_to_Sail.pdf)
-- [Cruiser checklist](FORMS/Hunter_Checklist.pdf)
-- [NOAA-NASA cloud chart](IMAGES/MISCELLANEOUS/CloudChart.pdf)
-- [Night Sail](RESOURCES/Night_Sail.pdf) (A story by GSA member Drew Jones that appeared in the January 2004 issue of the Chesapeake Bay Magazine)
-- [Frequently used knots](BASIC_SAILING_CLASS/Knots.ppt) (800kB, PPT)
-- [Physics of sailing](RESOURCES/Physics_of_sailing.pdf), an article from Physics Today (5.8 MB, PDF)
-- [2020 Sailing flyer](FORMS/Sailing_Flyer.pdf) to advertise the Goddard Sailing Association
+
+- [Flying Scot checklist](https://drive.google.com/file/d/1jL13gxIijA674fUFS3Y1G2-E7m-3QVIi/view?usp=drive_link)
+- [List for preparing boats to sail](https://drive.google.com/file/d/1RnqPeU_0God6d00ThL3jDbPSs5zF_7V5/view?usp=drive_link)
+- [Cruiser checklist](https://drive.google.com/file/d/1S7gw2YPJ-eGYDWbHfZtClzfcnEBsg_0B/view?usp=drive_link)
+- [NOAA-NASA cloud chart](https://drive.google.com/file/d/15Kruu9nWLbZ4bBaoNJF35dgo8-8-338P/view?usp=drive_link)
+- [Night Sail](https://drive.google.com/file/d/18m5et92Fqa0E8-rzZM68AYgkUbt0nYLF/view?usp=drive_link) (A story by GSA member Drew Jones that appeared in the January 2004 issue of the Chesapeake Bay Magazine)
+- [Frequently used knots](https://docs.google.com/presentation/d/1u0UcujmfWfyziRiBY687XzDtOJiSvOIb/edit?usp=drive_link&ouid=115722727750444071792&rtpof=true&sd=true) (800kB, PPT)
+- [Physics of sailing](https://drive.google.com/file/d/1hG_1a9Ikj17YYRTeSg7pTQ5W5-UqCg-t/view?usp=drive_link), an article from Physics Today (5.8 MB, PDF)
+- [2020 Sailing flyer](https://drive.google.com/file/d/1uRt_tr1-xCmZPkFhkP0N0IL7bYAp56Za/view?usp=drive_link) to advertise the Goddard Sailing Association
 - [Logo of the Goddard Sailing Association](/images/GSA_logo.jpg)
 
 ### Selby Bay

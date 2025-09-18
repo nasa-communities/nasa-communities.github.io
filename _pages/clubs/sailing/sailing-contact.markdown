@@ -25,7 +25,7 @@ anchors:
 |---|---|---|
 | General club information | [Robin Clemente](mailto:robin.clemente@nasa.gov) | 410-919-3086 |
 | Sailing class information | [Doug Frantz](mailto:douglas.e.frantz@nasa.gov) | 301-286-1866 |
-| Social events | [Jeremy Goldstein/Tyler Williams](mailto:Jgolds1@hotmail.com,williamstyler075@gmail.com) | 571-499-0482 |
+| Social events | [Jeremy Goldstein/Tyler Williams](mailto:Jgolds1@hotmail.com;williamstyler075@gmail.com) | 571-499-0482 |
 | Club website and mailing lists | [Tamás Várnai](mailto:tamas.varnai@nasa.gov) |  |
 | Membership information | [Theo Muench](mailto:ttmuench@hotmail.com) | |
 | Boat charters | [Stephan Klene](mailto:Stephan.A.Klene@nasa.gov) | 301-867-2015 |

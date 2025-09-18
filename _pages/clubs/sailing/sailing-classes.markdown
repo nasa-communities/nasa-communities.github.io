@@ -20,7 +20,7 @@ anchors:
 <a name="index"></a>
 ## Sailing classes
 
-To sign up for sailing classes, please fill out this [class registration form](FORMS/Classes_form.pdf) and return it to Doug Frantz (Code 606). You may also sign up for the basic sailing class using the [annual membership form](FORMS/Sailing_membership_form.pdf). You can also sign up for any class in person at the annual membership meeting.
+To sign up for sailing classes, please fill out this [class registration form](https://drive.google.com/file/d/12fNkL5QIITfroXiCxfxiCZerqa1cRHPF/view?usp=drive_link) and return it to Doug Frantz (Code 606). You may also sign up for the basic sailing class using the [annual membership form](https://drive.google.com/file/d/1pyd8c_TncywCtJjM1euR4QSm5aWgV2gl/view?usp=drive_link). You can also sign up for any class in person at the annual membership meeting.
 
 With questions about the classes, please contact [Doug Frantz](mailto:douglas.e.frantz@nasa.gov) (301-286-1866).
 
@@ -29,6 +29,8 @@ With questions about the classes, please contact [Doug Frantz](mailto:douglas.e.
 <a name="BasicClass"></a>
 
 #### GSA Basic Sailing
+
+[Basic Class Page](/clubs/sailing/sailing-basic-class)
 
 **Dates:**
 - Session 1 - Six online classes on Saturdays, from April 13 to June 1. Classes run from 10:00 AM to 12:00 PM.
@@ -46,6 +48,8 @@ This course is intended for beginning sailors and teaches the basic fundamentals
 
 <a name="CruiserClass"></a>
 #### GSA Cruiser Sailing
+
+[Cruiser Class Page](/clubs/sailing/sailing-cruiser-class)
 
 If interested, please contact [Doug Frantz](mailto:douglas.e.frantz@nasa.gov)
 

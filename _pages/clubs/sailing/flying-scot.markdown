@@ -97,7 +97,7 @@ Think of it as an overgrown College 420 with an attitude. Or as a cross between 
 
 Sandy's original idea for the class logo involved the words "Flying S" with the S slightly above and to the right...
 
-<!--![Flying Scot logo squiggle](IMAGES/FS_logo_squiggle.gif)-->
+![Flying Scot logo squiggle](https://i.imgur.com/1f5xStV.gif)
 
 ...but that would have made the emblem very difficult for a sailmaker to reliably reproduce, so the rest of the word "Flying" was filled in with a solid color, and became the familiar squiggle.
 

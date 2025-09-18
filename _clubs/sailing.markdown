@@ -35,11 +35,11 @@ anchors:
 
 <img src="https://i.imgur.com/VKwUCrY.jpg" title="Flying Scots" width="300" height="200" />
 
-Welcome to the **Goddard Sailing Association (GSA)**. Founded in 1973, the association owns 3 boats: Solar Wind, a 19' centerboard flying Scot; Sea Breeze, also a flying Scot; and a 27' cabin cruiser named Take Luck. The flying scots are kept on a trailer and the cruiser in a slip at Selby Bay Sailing Center off the South River, south of Annapolis. Members may charter these boats at the lowest rates on the bay. The club also offers [class instruction](#sailing-classes) at several levels, opportunities to socialize and sail with other club members, and opportunities to race in the Scots.
+Welcome to the **Goddard Sailing Association (GSA)**. Founded in 1973, the association owns 3 boats: Solar Wind, a 19' centerboard flying Scot; Sea Breeze, also a flying Scot; and a 27' cabin cruiser named Take Luck. The flying scots are kept on a trailer and the cruiser in a slip at Selby Bay Sailing Center off the South River, south of Annapolis. Members may charter these boats at the lowest rates on the bay. The club also offers [class instruction](/clubs/sailing/sailing-classes/) at several levels, opportunities to socialize and sail with other club members, and opportunities to race in the Scots.
 
 In addition to classes, the club sponsors day-long sails to destinations such as Galesville, Annapolis, and the Eastern Shore. There are evening sails where both beginners and salty helmsmen enjoy a sunset on the bay and an occasional astronomy lesson a bit later. We have periodic (sometimes spontaneous) happy hours, lunches, and dinner parties.
 
-All Goddard employees (civil servants and contractors, current or retired) and family members are welcome to [join GSA](#why-and-how-to-join). Please [contact us](#points-of-contact) if you have any questions.
+All Goddard employees (civil servants and contractors, current or retired) and family members are welcome to [join GSA](#why-and-how-to-join). Please [contact us](/clubs/sailing/sailing-contact/) if you have any questions.
 
 <a href="https://www.aircraftclubs.com/?top=no" class="btn btn-primary">Boat Reservations</a>
 
@@ -80,8 +80,8 @@ All Goddard employees (civil servants and contractors) and family members are we
    
 ### Some reasons for joining:
 * **Sail with family, friends, or fellow club members in our three boats,** two Flying Scots and a cruiser. Each boat can comfortably seat 6 people. The club replaced its old cruiser with a newer one in 2015, and one of the Flying Scots with a newer one in 2017.
-* **Sail at a substantially lower (~quarter) cost than free-market rates** ([fees](#fee-information))
-* **Sailing classes for various levels, at much below free-market rates.** ([classes](#sailing-classes))
+* **Sail at a substantially lower (~quarter) cost than free-market rates** ([fees](/clubs/sailing/sailing-fees/))
+* **Sailing classes for various levels, at much below free-market rates.** ([classes](/clubs/sailing/sailing-classes/))
 * **Marina at excellent location** ([directions](#directions-to-marina)):
   - Less than an hour drive from most of the DC area
   - Quick access to the well-protected waters of Selby Bay, the wider South River, and the wide open Chesapeake Bay. Other scenic bays and inlets, as well as marinas and restaurants are also within easy reach for daysailing. ([Daysail destinations](#daysail-destinations))
@@ -89,10 +89,11 @@ All Goddard employees (civil servants and contractors) and family members are we
 * **Flexible, convenient online boat chartering and self-service at marina.**
 
 ### How to get started:
-- To join, simply fill out the [membership form](FORMS/Sailing_membership_form.pdf) and (a) scan it and send the PDF file by email to [Theo Muench and Robin Clemente](mailto:ttmuench@hotmail.com,robin.clemente@nasa.gov), plus make a payment through Venmo, OR (b) send a hardcopy and a check to Theo Muench.
+- To join, simply fill out the [membership form](https://drive.google.com/file/d/1pyd8c_TncywCtJjM1euR4QSm5aWgV2gl/view?usp=drive_link) and (a) scan it and send the PDF file by email to [Theo Muench and Robin Clemente](mailto:ttmuench@hotmail.com;robin.clemente@nasa.gov), plus make a payment through Venmo, OR (b) send a hardcopy and a check to Theo Muench.
 - Sign up for a sailing class or, if you already know to sail, arrange for a qualification test with [Doug Frantz](mailto:douglas.e.frantz@nasa.gov).
 - Once qualified, enjoy sailing from sometime in April to late October.
-- Contact [our officers and volunteers](#points-of-contact) with any questions.
+- Contact [our officers and volunteers](/clubs/sailing/sailing-contact/) with any questions.
+
 
 ---
 
@@ -119,7 +120,7 @@ Links coming soon.
 
 This section is to help club members benefit from each other's knowledge of the waters and land around Selby Bay. **Please contact [Tamás Várnai](mailto:tamas.varnai@nasa.gov) to share your knowledge with fellow sailors.** Any piece of information is appreciated, such as attractions, good landing spots and marinas, restaurants, anchorages, or hazards.
 
-Additional resources available include [free nautical charts](#links-and-resources) and [commercially available books](http://www.amazon.com/s/ref=nb_ss_gw/103-7941116-6088656?url=search-alias%3Daps&field-keywords=Cruising+the+Chesapeake&Go.x=0&Go.y=0&Go=Go).
+Additional resources available include [free nautical charts](/clubs/sailing/sailing-resources/) and [commercially available books](http://www.amazon.com/s/ref=nb_ss_gw/103-7941116-6088656?url=search-alias%3Daps&field-keywords=Cruising+the+Chesapeake&Go.x=0&Go.y=0&Go=Go).
 
 ![Daysail destinations](/images/sailing_daysail_destinations.jpg)
 

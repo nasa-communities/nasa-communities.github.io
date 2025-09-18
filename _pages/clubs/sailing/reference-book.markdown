@@ -62,7 +62,7 @@ The Goddard Sailing Association began in 1973 with the purchase of the Flying Sc
 
 ## Organization and participation [↑](#index)
 
-The Executive Committee meets as announced to discuss club business. All members are invited to attend. In addition, various committees are formed and always need help. To volunteer, call the Commodore. The entire club has a Spring Meeting in March and a Fall Meeting and Elections in January. Members should stay informed by reading our web pages, calendar, and Email announcements. The list of current officers and volunteers can be found [here](https://nasa-communities.org/clubs/sailing/#points-of-contact).
+The Executive Committee meets as announced to discuss club business. All members are invited to attend. In addition, various committees are formed and always need help. To volunteer, call the Commodore. The entire club has a Spring Meeting in March and a Fall Meeting and Elections in January. Members should stay informed by reading our web pages, calendar, and Email announcements. The list of current officers and volunteers can be found [here](https://nasa-communities.org/clubs/sailing/sailing-contact).
 
 <a name="Starting"></a>
 
@@ -76,11 +76,11 @@ For beginners, the Basic Sailing Course is recommended. For experienced sailors 
 
 ### BASIC SAILING CLASS
 
-This class teaches beginners how to sail. All club members in good standing are eligible for taking the class. The class fee of $110 includes 4 lectures, 4 boat lessons, and the qualification test on the Flying Scot. There are typically two class sessions offered during the season. Classes are announced in Dateline and are posted [here](https://nasa-communities.org/clubs/sailing/#sailing-classes).
+This class teaches beginners how to sail. All club members in good standing are eligible for taking the class. The class fee of $110 includes 4 lectures, 4 boat lessons, and the qualification test on the Flying Scot. There are typically two class sessions offered during the season. Classes are announced in Dateline and are posted [here](/clubs/sailing/sailing-classes).
 
 ### ADVANCED SAILING CLASS
 
-This class teaches club members how to sail the club cruiser. Prerequisites: Membership in good standing for at least one year, Flying Scot qualification, at least five successful (no accident) Flying Scot charters, participation in at least one working party or some other contribution to the club. By law, persons born after July 1, 1972 must have a Maryland safe boating certificate. The class fee of $75 includes 4 lectures and some boat lessons, and the qualification test on the cruiser. Classes are announced to the membership by email and are posted [here](https://nasa-communities.org/clubs/sailing/#sailing-classes).
+This class teaches club members how to sail the club cruiser. Prerequisites: Membership in good standing for at least one year, Flying Scot qualification, at least five successful (no accident) Flying Scot charters, participation in at least one working party or some other contribution to the club. By law, persons born after July 1, 1972 must have a Maryland safe boating certificate. The class fee of $75 includes 4 lectures and some boat lessons, and the qualification test on the cruiser. Classes are announced to the membership by email and are posted [here](/clubs/sailing/sailing-classes).
 
 ### SATURDAY MORNING OPEN SAIL
 
@@ -153,7 +153,7 @@ For information about racing opportunities, contact the Racing Coordinator. Ther
 
 ### POINTS OF CONTACT
 
-**Charter rep:** [Robin Clemente](mailto:susan.r.broaddus@nasa.gov) (office phone: 301-614-5034)
+**Charter rep:** [Stephan Klene](mailto:Stephan.A.Klene@nasa.gov) 301-867-2015
 
 **Alt. charter rep:** Vacant
 
@@ -167,7 +167,7 @@ Scheduling is now being done through the web site at [https://www.AircraftClubs.
 
 ### FEES
 
-Current rates for all charters are listed at the [page on fee information](https://nasa-communities.org/clubs/sailing/sailing-fees/). Morning charters run from sun-up to 2:00 pm. Afternoon charters run from 2:00 pm to sun-down. Government holidays count as weekends. You can also purchase a "Salty Dog Package" of $150 in charter credits for $100, paid in advance of sailing.
+Current rates for all charters are listed at the [page on fee information](/clubs/sailing/sailing-fees/). Morning charters run from sun-up to 2:00 pm. Afternoon charters run from 2:00 pm to sun-down. Government holidays count as weekends. You can also purchase a "Salty Dog Package" of $150 in charter credits for $100, paid in advance of sailing.
 
 All charter fees are non-refundable and due one week after you schedule the charter. Pay the club treasurer with a check made out to the Goddard Sailing Association. Please indicate the charter date, time (a.m. or p.m.), and boat on the check (or for a Salty Dog, if appropriate). Excess payments (charter fees paid by a member but not used before the end of the sailing season) will be carried over to the next season.
 
@@ -205,7 +205,7 @@ The charter skipper is responsible for returning the boat to the dock before the
 
 ![Map of water near Selby Bay](/images/sailing_guidebook_chart.jpg "Map of water near Selby Bay")
 
-Free downloadable nautical charts and other information about nearby areas can be found at the pages on [Daysail destinations](https://nasa-communities.org/clubs/sailing/#daysail-destinations) and [Sailing links](https://nasa-communities.org/clubs/sailing/sailing-resources/).
+Free downloadable nautical charts and other information about nearby areas can be found at the pages on [Daysail destinations](https://nasa-communities.org/clubs/sailing/#daysail-destinations) and [Sailing links](/clubs/sailing/sailing-resources/).
 
 <a name="Safety"></a>
 
@@ -238,7 +238,7 @@ If the boat is involved in an accident while you were chartering it: (1) See tha
 ### CHECK EQUIPMENT
 
 - You can orient yourself by standing on the base of the pier facing the water. Our Scot Wavelength is the first boat on the left side of the pier. You can see a white shed and a blue shed to your right; behind them is the green bathroom. The NASA locker is the left half of the blue shed.
-- Get checklist from locker. [Printable checklist.](BASIC_SAILING_CLASS/Scot_Checklist.doc)
+- Get checklist from locker. [Printable checklist.](https://drive.google.com/file/d/1jL13gxIijA674fUFS3Y1G2-E7m-3QVIi/view?usp=drive_link)
 - Remove boat cover, fold, and put in rear of the boat or in the locker.
 - Use the checklist from the locker to check required equipment and the next group of items. As you rig the boat, check off the remaining items in the third group on the checklist.
 - Don lifejackets.
