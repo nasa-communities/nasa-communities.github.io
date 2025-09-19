@@ -12,7 +12,7 @@ socials:
   instagram: /
   youtube: /
   
-layout: page
+layout: club-with-nav
 ---
 
 Lorem ipsum dolor sit amet consectetur adipiscing elit. Leo eu aenean sed diam urna tempor pulvinar. Semper vel class aptent taciti sociosqu ad litora. Mus donec rhoncus eros lobortis nulla molestie mattis. 
