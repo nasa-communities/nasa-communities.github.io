@@ -1,10 +1,10 @@
 ---
-name: Volleyball
-slogan: Pithy slogan!
-description: Lorem ipsum dolor sit amet consectetur adipiscing elit. Semper vel class aptent taciti sociosqu ad litora.
-thumbnail: saturn.png
+name: Goddard Mixed Volleyball League
+slogan: We serve for fun and aim for greatness!
+description: Interested in playing some fun games of volleyball?  The Goddard Mixed Volleyball league is open to all previous and current Goddard employees and their families. We currently have eight teams and play about 8 matches per season.  We also host occassional open gyms and in nice weather, during the off-season, we play outdoors at the GSFC quad.  Please contact us for more information.
+thumbnail: "GMVL Logo_black.png"
 
-contact-email: jane.doe@gmail.gov
+contact-email: lorinda.s.yam@nasa.gov
 socials:
   twitter: /
   github: /
@@ -21,11 +21,11 @@ Blandit quis suspendisse aliquet nisi sodales consequat magna. Ac tincidunt nam 
 
 ## Upcoming Events
 
-### 2025-10-10 - Non purus est efficitur 
+### 2025-10-26 - 2025 Fall Season Begins 
 
-Laoreet mauris pharetra vestibulum. Finibus facilisis dapibus etiam interdum tortor ligula congue. Dignissim velit aliquam imperdiet mollis nullam volutpat porttitor. Proin libero feugiat tristique accumsan maecenas potenti ultricies. Sit amet consectetur adipiscing elit quisque faucibus ex. Sed diam urna tempor pulvinar vivamus fringilla lacus. Aptent taciti sociosqu ad litora torquent per conubia. Eros lobortis nulla molestie mattis scelerisque maximus eget. 
+INSERT-SCHEDULE-HERE
 
-### 2026-01-01 - Aliquet nisi sodales 
+### 2025-10-31 - Open Gym (free, but may cancel since it's Halloween)
 
-Consequat magna ante condimentum neque. Porta elementum a enim euismod quam justo lectus. Fames primis vulputate ornare sagittis vehicula praesent dui. Curabitur facilisi cubilia curae hac habitasse platea dictumst. Id cursus mi pretium tellus duis convallis tempus. Nisl malesuada lacinia integer nunc posuere ut hendrerit.
+### 2025-12-12 - Open Gym (drop-in fee)
 
