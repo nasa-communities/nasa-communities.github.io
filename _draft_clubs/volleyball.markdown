@@ -27,5 +27,5 @@ INSERT-SCHEDULE-HERE
 
 ### 2025-10-31 - Open Gym (free, but may cancel since it's Halloween)
 
-### 2025-12-12 - Open Gym (drop-in fee)
+### 2025-12-19 - Open Gym (drop-in fee)
 
