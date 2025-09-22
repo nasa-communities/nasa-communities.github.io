@@ -19,6 +19,7 @@ layout: club-with-nav
 anchors:
   - { text: News, anchor: "#news" }
   - { text: Why and How to Join, anchor: "#why-and-how-to-join" }
+  - { text: Boat Reservations, anchor: "https://www.aircraftclubs.com/?top=no" }
   - { text: Sailing Classes, anchor: "/clubs/sailing/sailing-classes/" }
   - { text: Fee Information, anchor: "/clubs/sailing/sailing-fees/" }
   - { text: Club Calendar, anchor: "#club-calendar" }

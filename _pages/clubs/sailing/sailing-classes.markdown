@@ -7,6 +7,7 @@ parent-club: Goddard Sailing Association
 
 anchors:
   - { text: Home, anchor: "/clubs/sailing/" }
+  - { text: Boat Reservations, anchor: "https://www.aircraftclubs.com/?top=no" }
   - { text: Merch Store, anchor: "https://www.bonfire.com/store/goddard-sailing-association-store/"}
   - { text: Club Library, anchor: "/clubs/sailing/sailing-club-library" }
   - { text: Club Reference Book, anchor: "/clubs/sailing/reference-book/" }
