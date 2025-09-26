@@ -7,7 +7,7 @@ parent-club: Goddard Sailing Association
 
 anchors:
   - { text: Home, anchor: "/clubs/sailing/" }
-  - { text: Merch Store, anchor: "https://www.bonfire.com/store/goddard-sailing-association-store/"}
+  - { text: Merch Store, anchor: "https://www.bonfire.com/store/goddard-sailing-association-store/", external: true }
   - { text: Club Library, anchor: "/clubs/sailing/sailing-club-library" }
   - { text: Club Reference Book, anchor: "/clubs/sailing/reference-book/" }
   - { text: Flying Scot FAQ, anchor: "/clubs/sailing/flying-scot/" }

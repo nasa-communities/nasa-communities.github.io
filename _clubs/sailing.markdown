@@ -19,11 +19,11 @@ layout: club-with-nav
 anchors:
   - { text: News, anchor: "#news" }
   - { text: Why and How to Join, anchor: "#why-and-how-to-join" }
-  - { text: Boat Reservations, anchor: "https://www.aircraftclubs.com/?top=no" }
+  - { text: Boat Reservations, anchor: "https://www.aircraftclubs.com/?top=no", external: true }
   - { text: Sailing Classes, anchor: "/clubs/sailing/sailing-classes/" }
   - { text: Fee Information, anchor: "/clubs/sailing/sailing-fees/" }
   - { text: Club Calendar, anchor: "#club-calendar" }
-  - { text: Merch Store, anchor: "https://www.bonfire.com/store/goddard-sailing-association-store/"}
+  - { text: Merch Store, anchor: "https://www.bonfire.com/store/goddard-sailing-association-store/", external: true }
   - { text: Club Reference Book, anchor: "/clubs/sailing/reference-book/" }
   - { text: Photos and Videos, anchor: "#photos-and-videos" }
   - { text: Club Library, anchor: "/clubs/sailing/sailing-club-library" }

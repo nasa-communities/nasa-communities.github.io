@@ -9,7 +9,7 @@ anchors:
   - { text: Home, anchor: "/clubs/sailing/" }
   - { text: Sailing Classes, anchor: "/clubs/sailing/sailing-classes/" }
   - { text: Fee Information, anchor: "/clubs/sailing/sailing-fees/" }
-  - { text: Merch Store, anchor: "https://www.bonfire.com/store/goddard-sailing-association-store/"}
+  - { text: Merch Store, anchor: "https://www.bonfire.com/store/goddard-sailing-association-store/", external: true }
   - { text: Club Reference Book, anchor: "/clubs/sailing/reference-book/" }
   - { text: Flying Scot FAQ, anchor: "/clubs/sailing/flying-scot/" }
   - { text: Resources and Links, anchor: "/clubs/sailing/sailing-resources/" }

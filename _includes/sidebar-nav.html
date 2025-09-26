@@ -6,16 +6,22 @@
   <ul class="nav flex-column mb-auto">
     {% for anchor in page.anchors %}
     <li class="nav-item">
+      {% if anchor.external %}
+      <a href="{{ anchor.anchor }}" class="nav-link link-dark" target="_blank">
+        {{ anchor.text }} <i class="fa-solid fa-arrow-up-right-from-square fa-fw text-info"></i>
+      </a>
+      {% else %}
       <a href="{{ anchor.anchor }}" class="nav-link link-dark">
         {{ anchor.text }}
       </a>
+      {% endif %}
     </li>
     {% endfor %}
   </ul>
   <hr>
   <div>
     <a href="#" class="d-flex link-dark text-decoration-none">
-      <strong>Top <i class="fa-regular fa-rocket-vertical"></i></strong>
+      <strong>Top <i class="fa-regular fa-rocket-vertical text-danger"></i></strong>
     </a>
   </div>
 </div>
