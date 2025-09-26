@@ -45,3 +45,14 @@ code {
 .sidebar-nav {
   /* background-color: #ffffff; */
 }
+
+aside {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 5rem;
+  display: block!important;
+  height: calc(100vh - 10rem);
+  padding-left: .25rem;
+  margin-left: -.25rem;
+  overflow-y: auto;
+}
