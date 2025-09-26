@@ -2,7 +2,7 @@
 name: Goddard Sailing Association
 slogan: Sail away with us!
 description: GSA offers NASA employees and their families the opportunity to sail Flying Scots and a cabin cruiser on the Chesapeake Bay at substantially lower-than-market rates, with instruction classes, social activities, and convenient access from the DC area.
-thumbnail: GSA_logo.jpg
+thumbnail: sailing/logo.png
 
 contact-email: robin.clemente@nasa.gov
 
@@ -34,7 +34,7 @@ anchors:
   - { text: Contact Us, anchor: "/clubs/sailing/sailing-contact/" }
 ---
 
-<img src="https://i.imgur.com/VKwUCrY.jpg" title="Flying Scots" width="300" height="200" />
+![Flying Scots](/images/sailing/flying-scots.jpeg)
 
 Welcome to the **Goddard Sailing Association (GSA)**. Founded in 1973, the association owns 3 boats: Solar Wind, a 19' centerboard flying Scot; Sea Breeze, also a flying Scot; and a 27' cabin cruiser named Take Luck. The flying scots are kept on a trailer and the cruiser in a slip at Selby Bay Sailing Center off the South River, south of Annapolis. Members may charter these boats at the lowest rates on the bay. The club also offers [class instruction](/clubs/sailing/sailing-classes/) at several levels, opportunities to socialize and sail with other club members, and opportunities to race in the Scots.
 
@@ -123,7 +123,7 @@ This section is to help club members benefit from each other's knowledge of the 
 
 Additional resources available include [free nautical charts](/clubs/sailing/sailing-resources/) and [commercially available books](http://www.amazon.com/s/ref=nb_ss_gw/103-7941116-6088656?url=search-alias%3Daps&field-keywords=Cruising+the+Chesapeake&Go.x=0&Go.y=0&Go=Go).
 
-![Daysail destinations](/images/sailing_daysail_destinations.jpg)
+![Daysail destinations](/images/sailing/daysail-destinations.jpg)
 
 | Symbol | Description |
 |---|---|
@@ -135,7 +135,7 @@ Additional resources available include [free nautical charts](/clubs/sailing/sai
 | 6 | **[Kentmorr Restaurant](https://www.kentmorr.com/)**<br>Kentmorr is a marina and restaurant on Kent Island, about 4 miles East of the Thomas Point Lighthouse. In light winds and using the cruiser motor, the trip from Selby Bay takes about 3 hours each way. The chart says the bearing is about 75 degree. There is a brown cone-like silo, such as for road salt, which makes an excellent land reference point for navigation. The entrance to the marina is 20+ feet wide, and there is plently of water for First Light's 4ft draft.<br><br>The restaurant is almost directly on the dockside. There are almost a dozen perpendicular slips specifically for diners to the east of the arrow, barely 10 feet from the front door. "2 hour free docking while dining" says the website. Several slips are available, but one can also point the bow out to the bay and make fast on the wharf at the green arrow in the image below.<br><br>Dining: Casual dining both oudoor and indoor (air conditioning), good food ($12-20 for seafood entree), good staff, we'd go back, check out the specials. [Restaurant menu](https://www.kentmorr.com/menu.php)<br><br><!--[View of Kentmorr from above](IMAGES/MAPS/Kentmorr.jpg), -->[Kentmorr in Google Maps](http://maps.google.com/?ie=UTF8&ll=38.914636,-76.36417&spn=0.003147,0.005316&t=h&z=18) |
 {: .table}
 
-![Thomas Point Light from Club boat](https://i.imgur.com/6CNutTj.jpg)
+![Thomas Point Light from Club boat](/images/sailing/thomas-point.jpeg)
 
 ---
 

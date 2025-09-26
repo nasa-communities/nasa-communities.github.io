@@ -1,7 +1,7 @@
 ---
 name: Cuong Nhu Karate Club
 description: Biweekly Cuong Nhu karate training classes at NASA/GSFC in Greenbelt, Maryland.
-thumbnail: CuongNhu_Logo.png
+thumbnail: karate/logo.png
 categories: goddard
 
 contact-email: james.c.olsen@nasa.gov
@@ -24,7 +24,7 @@ In 1971, Grand Master Dong came to the United States to pursue a Ph.D. in entomo
 
 In addition to learning empty-hand techniques, students train with weapons such as **Tambo** (short stick) and **Bo** (long stick).
 
-<img src="/images/karate_back_stance.jpg" width="600px" alt="From left to right: Stela Ishitani, Alex Nguyen, and Emily Beckman, demonstrating a back stance" />
+<img src="/images/karate/karate-back-stance.jpg" width="600px" alt="From left to right: Stela Ishitani, Alex Nguyen, and Emily Beckman, demonstrating a back stance" />
 
 _From left to right: Stela Ishitani, Alex Nguyen, and Emily Beckman, demonstrating a back stance_
 

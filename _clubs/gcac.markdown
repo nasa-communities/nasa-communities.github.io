@@ -2,7 +2,7 @@
 name: Goddard Chinese American Club
 title: GCAC
 description: The Goddard Chinese American Club provides professional, social, and cultural activities among the club members and in the GSFC community.
-thumbnail: GCAC_logo.jpg
+thumbnail: gcac/logo.png
 categories: goddard
 
 contact-email: Minlin.H.Chang@nasa.gov

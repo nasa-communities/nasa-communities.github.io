@@ -1,7 +1,7 @@
 ---
 name: Goddard Slow-Pitch Softball Association
 description: Softball games and tournaments from spring through fall, open to all current and former Goddard employees, contractors, and their families.
-thumbnail: GSPSA_logo.png
+thumbnail: softball/logo.png
 
 contact-email: jonathan.s.landis@nasa.gov
 external-site: https://gsfcsoftball.org/

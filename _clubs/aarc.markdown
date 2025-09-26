@@ -3,7 +3,7 @@ name: Ames Amateur Radio Club
 title: AARC
 slogan: Become Radio Active!
 description: Interested in amateur radio? Join us to ask questions, tinker, and learn all about the tech, equipment, and opportunities to get involved!
-thumbnail: aarc.png
+thumbnail: aarc/logo.png
 categories: ames
 
 contact-email: mark.r.allard@nasa.gov
@@ -195,7 +195,7 @@ Until further notice the AARC Tuesday Noontime Net is on 146.115+, PL 100.0 (AA6
 
 ## Field Center Operations
 
-![Year long field operations map](/images/aarc_field_center_map.png)
+![Year long field operations map](/images/aarc/aarc-field-center-map.png)
 
 _NASA Ames Amateur Radio Club Station: NA6MF / Grid Square: CM87X_
 

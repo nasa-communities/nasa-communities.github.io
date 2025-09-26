@@ -1,7 +1,7 @@
 ---
 name: Goddard Astronomy Club
 description: A focal point for amateur astronomers in the GSFC community -- an amateur astronomer being someone who loves the sky, whether or not they get paid for it!
-thumbnail: GAC_logo.png
+thumbnail: astronomy/logo.png
 
 contact-email: evans@umbc.edu
 

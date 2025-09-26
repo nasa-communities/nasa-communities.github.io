@@ -1,7 +1,7 @@
 ---
 name: Goddard Photo Club
 description: Field trips, workshops, events, presentations, and social events for all who enjoy photography.
-thumbnail: photoclub_logo.png
+thumbnail: photo/logo.png
 categories: goddard
 
 contact-email: olha.asmolova@nasa.gov
@@ -60,7 +60,7 @@ The Goddard Photo Club is a member of the [Maryland Photography Alliance](https:
 
 **Exhibit 57: Solar Photography / Pareidolia**
 
-![collage of thumbnail images of the 6 winners](/images/photo_Exhibit57-winners.png "Exhibit 57: Solar Photography / Pareidolia")
+![collage of thumbnail images of the 6 winners](/images/photo/exhibit-57-winners.png "Exhibit 57: Solar Photography / Pareidolia")
 
 *Sunset Dragon (Olha Asmolova), Sleeping Troll (Karen Smale), Nodding Off (Wayne Robinson)*
 *Total Eclipse Circular Composite (Emily Beckman), Sunrise at McMath-Pierce Solar Telescope (Eliot Malumuth), Toledo Eclipse (Kyle Helson)*
@@ -69,9 +69,9 @@ The Goddard Photo Club is a member of the [Maryland Photography Alliance](https:
 
 ### Showcase 2023 Winners
 
-![collage of thumbnail images of 2023 best photos](/images/photo_2023-bestphotos.jpg)
+![collage of thumbnail images of 2023 best photos](/images/photo/2023-bestphotos.jpg)
 
-![collage of thumbnail images of 2023 best collections](/images/photo_2023-bestcollections.jpg)
+![collage of thumbnail images of 2023 best collections](/images/photo/2023-bestcollections.jpg)
 
 [View all Showcase 2023 images on Flickr](https://www.flickr.com/photos/gsfcphoto/albums/72177720311830465/)
 

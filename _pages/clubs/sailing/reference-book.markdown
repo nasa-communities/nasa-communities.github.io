@@ -203,7 +203,7 @@ The charter skipper is responsible for returning the boat to the dock before the
 
 ## Map of the water near Selby Bay [↑](#index)
 
-![Map of water near Selby Bay](/images/sailing_guidebook_chart.jpg "Map of water near Selby Bay")
+![Map of water near Selby Bay](/images/sailing/guidebook-chart.jpg "Map of water near Selby Bay")
 
 Free downloadable nautical charts and other information about nearby areas can be found at the pages on [Daysail destinations](https://nasa-communities.org/clubs/sailing/#daysail-destinations) and [Sailing links](/clubs/sailing/sailing-resources/).
 
@@ -249,7 +249,7 @@ If the boat is involved in an accident while you were chartering it: (1) See tha
 - Unclip the docking lines from the boat and remember where they clip onto the boat. Do not untie the other ends of the docking lines.
 - Paddle, pole, or pull your way with ropes to the end of the pier. Tie the painter to a post with a clove hitch. It is VERY IMPORTANT that the boat be downwind of this post in open water, so the boat is not banging against anything (even if the wind is light). In other words, the boat is on the leeward side of the pier. If the wind is from the direction of the South River and strong and you are concerned about having enough water to turn in, tie up at one of the posts where the big boats are docked. Do not attempt to sail out of the slip or to raise the sails in the middle of the water.
 
-![Leaving diagram](/images/sailing_guidebook_leaving.jpg "Leaving diagram")
+![Leaving diagram](/images/sailing/guidebook-leaving.jpg "Leaving diagram")
 
 ### RAISE SAILS
 
@@ -289,7 +289,7 @@ If the boat is involved in an accident while you were chartering it: (1) See tha
 - Sail to a point 2 boat lengths downwind of the post on the pier, turn up into irons, drift to a stop with the bow at the post, and tie the painter onto the post. Make sure you land on the leeward side of the pier. See Figure. Land softly so you don't damage the boat or pier. If you aim at the end of the pier as in the Figure, you can easily turn aside at the last minute if you are moving too fast. The Figure shows one approach: come in on a beam reach two boat lengths (more in light wind) downwind of the pier, when directly downwind, turn into irons and drift to a stop. A second approach is to come in SLOWLY on a close reach, trimming sails to gain speed, luffing sails to slow down, and turn into irons half a boat length from the pier. Tie the painter to a post with a clove hitch.
 - Raise the centerboard.
 
-![Returning diagram](/images/sailing_guidebook_returning.jpg "Returning diagram")
+![Returning diagram](/images/sailing/guidebook-returning.jpg "Returning diagram")
 
 ### DROP SAILS
 
