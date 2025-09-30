@@ -7,7 +7,7 @@ parent-club: Ames Amateur Radio Club
 
 anchors:
   - { text: Log Sheet, anchor: "#log-sheet" }
-  - { text: Silicon Valley Emergency Communications System Net Check-In, anchor: "#silicon-valley-emergency-communications-system-net-check--in" }
+  - { text: Silicon Valley Emergency Communications System Net Check-In, anchor: "#silicon-valley-emergency-communications-system-net-check-in" }
 
 redirect_from:
   - /clubs/aarc/net-control-script/
