@@ -9,6 +9,9 @@ anchors:
   - { text: Log Sheet, anchor: "#log-sheet" }
   - { text: Silicon Valley Emergency Communications System Net Check-In, anchor: "#silicon-valley-emergency-communications-system-net-check--in" }
 
+redirect_from:
+  - /clubs/aarc/net-control-script/
+
 ---
 
 **Until further notice the AARC Tuesday Noontime Net is on 146.115+, PL 100.0 (AA6BT repeater) instead of simplex frequency 146.445**
