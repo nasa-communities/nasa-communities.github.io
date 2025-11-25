@@ -2,7 +2,7 @@
 name: Running and Orienteering Club
 title: GROC
 description: The Goddard Running and Orienteering Club provides professional, social, and cultural activities among the club members and in the GSFC community.
-thumbnail: gcac/logo.png
+thumbnail: groc/groc-logo.png
 categories: goddard
 
 contact-email: tom.winkert@nasa.gov
@@ -17,8 +17,11 @@ contact-email: tom.winkert@nasa.gov
 anchors:
   - { text: Upcoming Events, anchor: "#upcoming-events" }
   - { text: Race Results, anchor: "#race-results" }
-  - { text: Orienteering, anchor: "#orienteering" }
+  - { text: Past Events and Photos, anchor: "#past-events-and-photos" }
+  - { text: 2 Mile Fun Run, anchor: "#2-mile-fun-run" }
+  - { text: 10K Race, anchor: "#10k-race" }
   - { text: Goddard Track Club, anchor: "#goddard-track-club" }
+  - { text: Orienteering, anchor: "#orienteering" }
 #  - { text: Local Running Resources, anchor: "#resources" }
   - { text: Center Showers, anchor: "#center-showers" }
   - { text: Board Members, anchor: "#board-members" }
@@ -66,7 +69,7 @@ We did it! The 100th GSFC 2 Mile was a success, even off center!
 
 ---
 
-## Past Events
+## Past Events and Photos
 
 Coming soon.
 
@@ -74,9 +77,16 @@ Coming soon.
 
 ## 2 Mile Fun Run
 
-### Race Form
+The Goddard 2 Miler is the venerable, semi-annual race around the Goddard campus in Greenbelt, Maryland.  The race is open to NASA employees and contractors and certain guests by invitation. This spring and fall event are typically attended by several hundred participants, some of whom race, some who jog, and many more who walk the moderately easy course, all on Goddard Space Flight Center roads.
 
-Link coming soon.
+The Fall 2025 race took place on Wednesday, October 22nd, 2025 - this was our 100th 2 Mile! We've had this twice per year since 1976!
+
+### Registration
+Registration is organized through [RunSignUp.com](https://runsignup.com/Race/Events/MD/Greenbelt/NASAGoddard2Miler).
+
+$8.00 for pre-registration for the Fall Race. Special 100th anniversary bibs for this run while supplies last!
+
+**Pre-registration only; there will be no race-day registration.** Only those with proper security credentials and have security access to the center will be allowed to participate.
 
 ### Course Map
 
@@ -105,25 +115,11 @@ Link coming soon.
 
 ## 10K Race
 
-### Race Form
+### Registration
 
-Link coming soon.
+Coming soon.
 
 ### Course Map
-
----
-
-## Orienteering
-
-Orienteering is the original adventure race! The goal in orienteering is to complete a course in point-to-point order as fast as possible. Starts are staggered, and the person successfully completing the course in the fastest time is the winner. The sport is easy to learn, but always challenging.
-
-At the start you'll get a detailed map of the area, usually a section of woods or parkland. Streams, trails, hills, depressions, rocks, etc. are all mapped very accurately and in great detail. The points on the course are drawn on the map as a series of circles connected by lines. The checkpoints are marked in the woods by orange and white flags located at the points corresponding to the centers of the circles on the map.
-
-You must decide what route you will take to get to each checkpoint, and then use the map and your powers of observation to navigate your chosen route. A faster runner may choose to run mostly on trails, whereas a confident navigator may take a more direct route through the woods. A compass is very useful in keeping the map oriented the right way. You can carry a GPS if you want, but you will probably find it to be of little use as a navigational aid in the woods.
-
-At an orienteering event there are usually a number of courses of varying lengths and difficulties. The easier courses offer a low-key opportunity for individuals and families to enjoy an outing in the woods, and the advanced courses will challenge the physical and technical capabilities of even the strongest runners. On the advanced courses, you may encounter steep hills, streams, marshes, and cliffs, as well as areas of open woods that you can run through at top speed. The map will help you identify where all these features may be found - to be avoided or taken advantage of, as you see fit.
-
-The [Quantico Orienteering Club](https://www.qocweb.org/) organizes orienteering events in our area. Events are held most weekends throughout the fall, winter, and spring. Check their [event calendar](https://www.qocweb.org/events) for the latest information. Events are open to the public; no experience is necessary, and beginner instruction is always available. There is usually no fixed start time. You can arrive at the event at any time during the published start window. [Orienteering USA](https://orienteeringusa.org/) also organizes nationally sanctioned events throughout the year. GROC members have won regional and national orienteering championships!
 
 ---
 
@@ -142,6 +138,20 @@ Send a message (the content doesn't matter) to rungsfc-subscribe@lists.nasa.gov 
 ### How do I unsubscribe?
 
 Send a message (the content doesn't matter) to rungsfc-unsubscribe@lists.nasa.gov and reply to the confirmation message.
+
+---
+
+## Orienteering
+
+Orienteering is the original adventure race! The goal in orienteering is to complete a course in point-to-point order as fast as possible. Starts are staggered, and the person successfully completing the course in the fastest time is the winner. The sport is easy to learn, but always challenging.
+
+At the start you'll get a detailed map of the area, usually a section of woods or parkland. Streams, trails, hills, depressions, rocks, etc. are all mapped very accurately and in great detail. The points on the course are drawn on the map as a series of circles connected by lines. The checkpoints are marked in the woods by orange and white flags located at the points corresponding to the centers of the circles on the map.
+
+You must decide what route you will take to get to each checkpoint, and then use the map and your powers of observation to navigate your chosen route. A faster runner may choose to run mostly on trails, whereas a confident navigator may take a more direct route through the woods. A compass is very useful in keeping the map oriented the right way. You can carry a GPS if you want, but you will probably find it to be of little use as a navigational aid in the woods.
+
+At an orienteering event there are usually a number of courses of varying lengths and difficulties. The easier courses offer a low-key opportunity for individuals and families to enjoy an outing in the woods, and the advanced courses will challenge the physical and technical capabilities of even the strongest runners. On the advanced courses, you may encounter steep hills, streams, marshes, and cliffs, as well as areas of open woods that you can run through at top speed. The map will help you identify where all these features may be found - to be avoided or taken advantage of, as you see fit.
+
+The [Quantico Orienteering Club](https://www.qocweb.org/) organizes orienteering events in our area. Events are held most weekends throughout the fall, winter, and spring. Check their [event calendar](https://www.qocweb.org/events) for the latest information. Events are open to the public; no experience is necessary, and beginner instruction is always available. There is usually no fixed start time. You can arrive at the event at any time during the published start window. [Orienteering USA](https://orienteeringusa.org/) also organizes nationally sanctioned events throughout the year. GROC members have won regional and national orienteering championships!
 
 ---
 
@@ -177,21 +187,21 @@ _Building 26 may have showers but only for security._
 
 ## Board Members
 
-President: Tom Winkert
+**President:** Tom Winkert
 
-Vice President: **Open (volunteer needed)**
+**Vice President:** <span style="color: red;">**Open (volunteer needed)**</span>
 
-Secretary: James Leake
+**Secretary:** James Leake
 
-Volunteer Coordinator: James Leak
+**Volunteer Coordinator:** James Leak
 
-Race Director: Jeff Dalhoff
+**Race Director:** Jeff Dalhoff
 
-Treasurer: Badri Shirgur
+**Treasurer:** Badri Shirgur
 
-Awards Coordinator: Badri Shirgur
+**Awards Coordinator:** Badri Shirgur
 
-Equipment Manager: Kent Mccullough
+**Equipment Manager:** Kent Mccullough
 
 ---
 
