@@ -99,7 +99,7 @@ $8.00 for pre-registration for the Fall Race. Special 100th anniversary bibs for
 
 ### Course Map
 
-<img src="/images/groc/groc-2-mile-map.jpg" alt="2-Mile Map" width="500">
+<a href="/images/groc/groc-2-mile-map.jpg"><img src="/images/groc/groc-2-mile-map.jpg" alt="2-Mile Map" width="500"></a>
 
 ### Team Rules
 
@@ -132,7 +132,7 @@ Coming soon.
 
 ### Course Map
 
-<img src="/images/groc/groc-10k-map.jpg" alt="10K Map" width="500">
+<a href="images/groc/groc-10k-map.jpg"><img src="/images/groc/groc-10k-map.jpg" alt="10K Map" width="500"></a>
 
 ---
 
@@ -172,7 +172,7 @@ The [Greenbelt Fitness Center](https://www.nasa.gov/goddard/memd/greenbelt-fitne
 
 Other shower locations at GSFC-Greenbelt:
 
-**Men:**
+### Men
 
 | Building | Room/Location | Showers/Lockers | Notes |
 |----------|---------------|-----------------|-------|
@@ -186,7 +186,7 @@ Other shower locations at GSFC-Greenbelt:
 | 36 | shower on each floor | | |
 {: .table .table-stripe}
 
-**Women:**
+### Women
 
 | Building | Room/Location | Showers/Lockers | Notes |
 |----------|---------------|-----------------|-------|
@@ -197,7 +197,7 @@ Other shower locations at GSFC-Greenbelt:
 | 36 | shower on each floor | | |
 {: .table .table-stripe}
 
-**Unisex:**
+### Unisex
 
 | Building | Room/Location | Showers/Lockers | Notes |
 |----------|---------------|-----------------|-------|
