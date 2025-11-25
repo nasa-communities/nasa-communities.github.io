@@ -2,7 +2,7 @@
 name: Running and Orienteering Club
 title: GROC
 description: The Goddard Running and Orienteering Club provides professional, social, and cultural activities among the club members and in the GSFC community.
-thumbnail: groc/groc-logo.png
+thumbnail: groc/logo.jpg
 categories: goddard
 
 contact-email: tom.winkert@nasa.gov

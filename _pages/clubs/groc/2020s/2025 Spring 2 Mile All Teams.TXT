@@ -1,0 +1,397 @@
+                         99th NASA Intracenter Run
+                        Goddard Space Flight Center
+                              April 30th,2025
+
+                               Team Results
+                                Age Graded
+
+            (The team score is the sum of the age-graded values
+         of the top 5 finishers of the team based on age-grading)
+
+                    corrections to tom.winkert@nasa.gov
+
+
+  1. 331.31  DRAGONFLYERS                   (66.26)    - Mens  Winner
+=============================================
+  1   78.22  Tom Nolan               M 72     14:27.4 
+  2   74.19  Eric Lyness             M 59     13:24.2 
+  3   62.88  Matthew Francom         M 32     12:55.8 
+  4   58.28  Matthew Kowalewski      M 51     15:57.4 
+  5   57.74  Joey Pasterski          M 41     14:53.8 
+  6  (54.91) Adam Matuszeski         M 48     16:31.8 
+  7  (54.87) Peter Barfknecht        M 40     15:33.5 
+  8  (54.71) Veronica Pinnick        F 43     18:27.0 
+  9  (50.43) Vivek Laljani           M 24     15:59.9 
+ 10  (48.77) Annalisa Jarecki        F 24     18:58.2 
+ 11  (48.75) Benjamin Winkler        M 24     16:32.9 
+ 12  (46.55) Adrian Southard         M 47     19:20.8 
+ 13  (43.13) Michael Burkhart        M 55     22:17.0 
+ 14  (37.65) Paul Stysley            M 49     24:18.2 
+ 15  (30.93) Kimathi Tull            M 46     28:53.7 
+ 16  (29.50) Robert Boyle            M 63     34:55.4 
+ 17  (26.36) Tom Capon               M 37     31:40.4 
+
+  2. 329.84  LISA                           (65.97)  - Project  Winner
+=============================================
+  1   71.22  Bernard Kelly           M 52     13:09.7 
+  2   67.93  Molly Fahey             F 42     14:41.3 
+  3   66.48  Craig Jones             M 53     14:13.0 
+  4   63.34  John Capone             M 38     13:16.8 
+  5   60.87  John Baker              M 56     15:55.4 
+  6  (50.66) Hua Jiao                M 52     18:30.3 
+  7  (50.48) Holly Leopardi          F 34     18:33.5 
+  8  (48.46) Christopher King        M 31     16:43.6 
+  9  (47.88) Kenji Numata            M 49     19:06.6 
+ 10  (45.54) Joseph Hart             M 33     17:55.3 
+ 11  (42.76) Josh Lutter             M 37     19:31.8 
+ 12  (42.35) Frank Fried             M 42     20:27.8 
+ 13  (39.08) Kylan Jersey            M 27     20:38.5 
+ 14  (36.20) Paula Pruessner         F 46     28:53.8 
+ 15  (36.08) Kevin Heesh             M 38     23:18.7 
+ 16  (35.20) Anthony Yu              M 64     29:31.9 
+
+  3. 316.05  HELIOPHYSICS                   (63.21) - Division Winner
+=============================================
+  1   75.55  Maksym Petrenko         M 42     11:28.2 
+  2   69.11  Joel Allred             M 49     13:14.4 
+  3   67.86  Yihua Zheng             F 53     16:50.4 
+  4   54.50  Karen Scheiber          F 63     24:09.7 
+  5   49.03  James Leake             M 43     17:48.6 
+  6  (47.32) Patrick Haas            M 62     21:34.6 
+  7  (43.17) Christopher Pirner      M 41     19:55.3 
+
+  4. 313.06  612'ERS                        (62.61)
+=============================================
+  1   74.68  Mircea Grecu            M 55     12:52.1 
+  2   67.57  Sarah Ringerud          F 50     16:16.1 
+  3   61.23  Linda Bogerd            F 30     15:07.5 
+  4   55.47  Kenneth Christian       M 37     15:03.2 
+  5   54.11  Joseph Finlon           M 34     15:09.2 
+  6  (47.54) Ian Adams               M 47     18:56.6 
+  7  (44.87) Fraser King             M 32     18:07.4 
+
+  5. 297.25  SUN SYNCHRONOUS STRIDERS       (59.45)
+=============================================
+  1   70.78  Chuck Hudson            M 36     11:43.0 
+  2   64.62  Gabriel Segnatelli      M 30     12:30.9 
+  3   57.25  Grant Barrett           M 35     14:23.8 
+  4   52.36  Carolyn Fisk            F 28     17:40.2 
+  5   52.24  Brian Woodson Jr        M 28     15:26.7 
+  6  (46.46) Andrew Yu               M 33     17:33.9 
+  7  (42.22) Joe Eisenacher          M 30     19:09.3 
+  8  (33.44) Lorenzo Narducci        M 29     24:09.1 
+
+  6. 295.59  EXOSPEC                        (59.12)
+=============================================
+  1   74.14  John Chambers           M 48     12:14.6 
+  2   64.97  Roser Juanola           F 40     15:02.2 
+  3   57.30  Neil Zimmerman          M 42     15:07.5 
+  4   53.23  Corey Spohn             M 29     15:10.2 
+  5   45.95  Evan Bray               M 32     17:41.8 
+
+  7. 290.94  GCDC                           (58.19)   - Participation Team Winner
+=============================================
+  1   68.26  Edmund Hodges-Kluck                      
+  2   65.08  Kent McCullough         M 68     16:34.5 
+  3   53.96  Keith Kramer            M  4     22:54.6 
+  4   53.18  Aerielle Chapman        F  5     23:59.6 
+  5   50.46  Alexander Yevick        M  5     24:30.1 
+  6  (48.67) Luhena Henok            F  5     26:13.1 
+  7  (47.15) Perry Page              M  4     26:13.3 
+  8  (44.46) Lily Lamers             F  5     28:42.2 
+  9  (42.69) Frances Hall               4             
+ 10  (42.54) Collin Spangler         M  5     29:03.6 
+ 11  (41.75) Jeongoh Cho                4             
+ 12  (41.48) Elara Parsai            F  5     30:45.9 
+ 13  (40.77) Josie Amornkit          F  5     31:18.1 
+ 14  (36.54) Adewunmi Adewale           4             
+ 15  (36.30) John Winkert            M 68     29:43.0 
+ 16  (35.44) Odel Malone                5             
+ 17  (35.25) Dennis Kramer                            
+ 18  (34.87) Nadia Martin            F  5     36:36.0 
+ 19  (34.60) Imara Coleman           F  4     26:44.3 
+ 20  (34.57) Hannah Boukabara        F  4     26:45.6 
+ 21  (32.75) Dillion Pike               4             
+ 22  (30.83) Langano Woubit                           
+ 23  (28.25) Miranda Arteagua-D'eugenio F  4     32:44.7 
+ 24  (27.87) Megan Abbot                              
+ 25  (27.81) Cypress Lyas            F  4     33:16.0 
+ 26  (27.71) Marley Aristide         F  4     33:22.9 
+ 27  (27.54) Zoey Pinchinat          F  4     33:35.8 
+ 28  (27.33) Chanse Devore           F  3     33:51.3 
+ 29  (27.25) Eun Saem Cho                             
+ 30  (26.74) Umi Jalloh              F  3     34:36.0 
+ 31  (26.69) Theria-Riley Petitlubin F  4     34:39.6 
+ 32  (26.22) Khashayar Parsay                         
+ 33  (25.79) Taryn Coleman                            
+ 34  (25.67) Liliana Sabatino        F  4     36:02.4 
+ 35  (25.30) Natia Harris            F        31:53.1 
+ 36  (24.51) Ava Harris              F  3     37:45.2 
+ 37  (24.42) Tiana Holmes            F        33:02.1 
+ 38  (24.42) Jackson Reid            M  3     33:02.3 
+ 39  (24.33) Jessica Erlingis Lamers                  
+ 40  (24.30) Gabrielle Styles        M        33:12.3 
+ 41  (24.23) Tony G                  M        33:17.8 
+ 42  (24.21) Eden Rahin              F  4     38:12.8 
+ 43  (24.16) Alexandria Scott                         
+ 44  (24.02) Max Pinchinat           M        33:35.7 
+ 45  (23.90) Gabriella Riley         F  4     38:42.8 
+ 46  (23.84) Aaron Yevick                             
+ 47  (23.79) Camilla Argueta-Quispe  F  3     38:53.0 
+ 48  (23.15) Maryam Malone                            
+ 49  (23.13) Aaron Malone                             
+ 50  (22.54) Elizur Catlin           M  3     35:47.9 
+ 51  (22.42) Enrico Sabatino         M        35:59.3 
+ 52  (22.40) Chris Sabatino          M        36:01.4 
+ 53  (22.05) Charles Martin                           
+ 54  (21.37) Eric Harris             M        37:45.5 
+ 55  (21.16) Pavarisa Kaotira                         
+ 56  (21.11) Roi Rahin               M        38:13.4 
+
+  8. 280.55  FAST & RELATIVE                (56.11) - Contractor Team Winner
+=============================================
+  1   72.52  William Bamford         M 50     12:43.1 
+  2   55.17  Benjamin Petrak         M 43     15:49.6 
+  3   54.38  Tyler Lee               M 27     14:50.2 
+  4   52.76  Anita Thompson          F 61     24:13.2 
+  5   45.72  Tumkur Raghuram         M 59     21:44.9 
+  6  (44.00) Kush Patel              M 37     18:58.7 
+  7  (40.18) Manish Patel            M 35     20:30.9 
+  8  (39.29) Michael Krainak         M 66     26:56.6 
+  9  (35.66) Antriksh Patel          M 34     22:59.5 
+ 10  (30.83) Vladimir Grigoryam      M 72     36:41.0 
+ 11  (27.23) Paul Alexander          M 65     38:31.6 
+ 12  (26.30) Jillianne Shear         F 43     38:23.1 
+ 13  (23.86) Brian Hughes            M 49     38:21.0 
+ 14  (20.93) Joseph Shaheen          M 23     38:32.6 
+
+  9. 279.21  COOL RUNNINGS (545)            (55.84)
+=============================================
+  1   63.76  Bryan Matonak           M 43     13:41.6 
+  2   55.46  Juan Rodriguez          M 41     15:30.5 
+  3   54.73  Daniel Bae              M 32     14:51.3 
+  4   53.68  Deepak Patel            M 37     15:33.3 
+  5   51.58  Janine Moses            F 28     17:56.1 
+  6  (49.09) Carlos Morell           M 26     16:26.0 
+  7  (46.29) Jordan Effron           M 39     18:18.3 
+
+ 10. 264.08  GEOFORCE                       (52.82)
+=============================================
+  1   68.72  Rosalie Daelmans        F 66     20:04.8 
+  2   53.31  Monica Todirita         F 55     22:01.2 
+  3   48.37  Elvis Castillo          M 34     16:57.0 
+  4   48.18  Joanna Joiner           F 58     25:23.9 
+  5   45.50  Michael Otero           M 36     18:13.5 
+  6  (44.04) Christopher Wheeler     M 56     22:00.5 
+  7  (42.71) N. Michael Simpson      M 61     23:41.7 
+  8  (42.67) Renee Dudley            F 55     27:30.4 
+  9  (38.99) Tina Gentry             F 60     32:17.8 
+ 10  (38.25) Debbie Rivera           F 66     36:04.5 
+ 11  (37.87) Sherrie Morris          F 60     33:15.2 
+ 12  (35.86) Amanda Shelton          F 41     27:31.3 
+ 13  (30.99) Kumar Tadikonda         M 64     33:33.0 
+ 14  (29.13) Elizabeth Kline         F 39     33:14.1 
+ 15  (28.12) Kristina Gonzalez       F 34     33:18.9 
+
+ 11. 249.64  KBR                            (49.93)
+=============================================
+  1   55.22  James Basl              M 46     16:11.0 
+  2   54.87  Brian Repp              M 59     18:07.4 
+  3   49.13  Kris Heefner            M 48     18:28.6 
+  4   48.28  Blair Russell           M 54     19:44.5 
+  5   42.14  Timothy Wilcox          M 57     23:11.7 
+  6  (41.80) Chris Vandyke           M 56     23:11.1 
+  7  (34.38) Si Tran                 F 41     28:42.0 
+  8  (33.05) Perry Sebreny           M 64     31:27.2 
+  9  (30.34) Carol Williams          F 59     40:54.9 
+ 10  (29.52) James Pierson           M 59     33:41.5 
+ 11  (28.82) David McClure           M 56     33:38.2 
+ 12  (22.60) Shannon Smith           F 28     40:56.4 
+
+ 12. 246.74  OCOMM ON AND MOVE!             (49.35)
+=============================================
+  1   63.10  Ryan Fitzgibbons        M 44     13:56.6 
+  2   48.74  Katie Jepson            F 36     19:25.6 
+  3   47.64  Charles Connell         M 28     16:56.2 
+  4   44.01  Amelia Haymes           F 26     21:01.1 
+  5   43.25  Sadie Duffy             F 50     25:25.0 
+  6  (37.02) Rachel Lense            F 36     25:34.4 
+  7  (32.72) Quinn Duffy             M 18     25:30.0 
+
+ 13. 244.26  PEDIBYTES                      (48.85)   - Female Team Winner
+=============================================
+  1   75.58  Stephanie McLaughlin    F 63     17:25.4 
+  2   53.54  Tiffany Holden          F 40     18:14.8 
+  3   44.18  Larysa Paliashchuk      F 34     21:12.3 
+  4   35.98  David Williams          M 66     29:25.8 
+  5   34.98  Jay Friedlander         M 63     29:26.9 
+  6  (32.17) Ed Bell                 M 66     32:54.9 
+  7  (31.71) Marie Henderson         F 33     29:25.3 
+  8  (29.91) Young-In Won            M 58     32:57.4 
+  9  (25.90) Tom Hughes              M 61     39:04.4 
+
+ 14. 241.74  SWO-FAST                       (48.35)
+=============================================
+  1   58.30  Jasmine Neblett         F 32     15:57.0 
+  2   55.38  Alejandra Barfknecht    F 44     18:26.6 
+  3   52.45  Richard Ullman          M 62     19:27.9 
+  4   40.44  Dimitris Vassiliadis    M 60     24:48.1 
+  5   35.17  Jimmy Acevedo           M 40     24:16.4 
+  6  (26.51) Argelia Gonzalez        F 45     38:59.4 
+  7  (24.86) Tunicia Williams        F 41     39:41.7 
+  8  (21.00) Robert Neblett          M 34     39:02.7 
+
+ 15. 227.61  SEWP                           (45.52)
+=============================================
+  1   48.42  Anthony Wiseman         M 38     17:22.3 
+  2   48.37  Aseer Ahmad             M 29     16:41.7 
+  3   47.54  Gregory Stevens         M 37     17:33.8 
+  4   46.30  Keara Mangan            F 27     19:58.9 
+  5   36.98  Cathy Shry              F 62     35:04.7 
+  6  (35.97) Kun Ren                 M 50     25:38.3 
+  7  (35.82) Patrice Hall            F 58     34:09.8 
+  8  (35.50) Tia Gilbert             F 62     36:32.6 
+  9  (35.40) Adrianne Jones          F 71     42:21.7 
+ 10  (34.06) Perez Beal              M 29     23:42.7 
+ 11  (34.06) Terita Wilson           F 52     33:07.1 
+ 12  (33.52) Angela Taylor           F 58     36:30.6 
+ 13  (32.24) Gary Wilder             M 60     31:06.6 
+ 14  (30.88) Alexander Marshall      M 61     32:46.7 
+ 15  (30.54) Kelly Hall              F 43     33:02.9 
+ 16  (30.28) Gina Visnansky          F 46     34:33.1 
+ 17  (30.07) Nikitha Cherukuri       F 40     32:29.7 
+ 18  (28.61) Bimala Ojha             F 32     32:30.2 
+ 19  (27.98) Kelsey Ashton           F 25     33:04.0 
+ 20  (27.43) Michael Boland          M 48     33:05.3 
+ 21  (27.25) Revilo Winfrey          M 38     30:52.1 
+ 22  (26.97) Denise Brown            F 53     42:22.9 
+ 23  (26.73) Andrea Ryan             F 52     42:12.1 
+ 24  (26.52) Elo Ihearahu            M 27     30:25.3 
+ 25  (25.39) Dwight Patel            M 53     37:13.4 
+ 26  (24.84) Wei Hann                F 36     38:06.7 
+ 27  (24.69) Courtney Franklin       M 41     34:50.7 
+ 28  (24.38) Marcus Fedeli           M 47     36:56.2 
+ 29  (23.64) William Armstrong       M 43     36:55.9 
+ 30  (22.65) Natasha Doyley          F 46     46:10.8 
+ 31  (21.35) Sidney Oluoch           M 32     38:05.8 
+ 32  (20.63) Brenee Palmer           F 37     46:12.4 
+ 33  (20.49) Niani Bell              F 32     45:23.2 
+ 34  (20.21) Ruby Jackson            F 33     46:10.8 
+ 35  (17.79) Joshua Estryn           M 30     45:27.8 
+
+ 16. 217.21  OMES III                       (43.44)
+=============================================
+  1   52.67  David Cranor            M 53     17:56.6 
+  2   45.50  Michael Cabrera         M 41     18:54.3 
+  3   40.17  Georgia Moritz          F 58     30:28.0 
+  4   39.88  Cynthia Adams           F 63     33:01.2 
+  5   38.99  Kathryn Boerner         F 56     30:31.2 
+  6  (33.88) Martha Wawro            F 45     30:30.4 
+  7  (33.37) Scott Glubke            M 62     30:35.7 
+  8  (32.03) Geri Lyle               F 40     30:30.3 
+  9  (29.91) Vani Starry Manoharan   F 41     32:59.4 
+ 10  (27.98) Corey Lyon              M 39     30:17.3 
+
+ 17. 210.30  WERUNPSG                       (42.06)
+=============================================
+  1   51.48  Sarah Moran             F 32     18:04.0 
+  2   48.05  Jacopo Terragni         M 33     16:59.2 
+  3   42.57  Geronimo Villanueva     M 47     21:09.5 
+  4   37.23  Ally Payne              F 24     24:51.1 
+  5   30.97  Perry Gerakines         M 53     30:31.0 
+  6  (27.75) Sara Faggi              F 41     35:33.5 
+  7  (26.48) Erika Kohler            F 35     35:32.9 
+
+ 18. 208.27  RELISH THE HELLISH!            (41.65)
+=============================================
+  1   55.74  John Zebley             M 43     15:39.8 
+  2   51.38  Matt Garrison           M 42     16:52.0 
+  3   39.83  Robin Ripley            F 44     25:38.6 
+  4   34.69  Nita Pszcolka           F 59     35:47.1 
+  5   26.63  Vince Elliott           M 54     35:47.5 
+
+ 19. 182.77  DOWN WITH APPD                 (36.55)
+=============================================
+  1   62.44  Mark Bendall            M 39     13:34.3 
+  2   37.75  Susan Wright            F 66     36:33.3 
+  3   32.42  Barbara Grofic          F 65     41:53.6 
+  4   26.95  Tracy Felton            F 52     41:51.1 
+  5   23.21  Patricia Butler         F 39     41:43.0 
+  6  (22.76) Jason Derleth           M 54     41:53.1 
+  7  (19.28) Anthony Griffin Ii      M 27     41:51.2 
+
+ 20. 179.54  PAAC                           (35.91)
+=============================================
+  1   44.76  Jennifer Nguyen         F 25     20:40.0 
+  2   34.09  Barbara Bromley         F 55     34:26.1 
+  3   34.06  Diane Trakas            F 55     34:28.0 
+  4   33.53  Lynette Sullivan        F 55     35:00.5 
+  5   33.10  Kimberly Walker-El      F 65     41:02.5 
+  6  (30.71) Terri Lynne Hynson      F 60     41:00.3 
+  7  (29.30) Melissa Landini         F 43     34:27.2 
+  8  (23.84) Phillip Blackwood       M 37     35:02.0 
+
+
+
+Incomplete Teams:
+
+581 FUN RUN TEAM              
+         Gilberto Vicente M 63     15:33.6, Joe Jones M 50     23:47.1, Ken Barnes M 57     30:22.6, Nargess Memarsadeghi F 45     36:26.2
+
+STEPS 2 MARS                  
+         Kate McGinnis F 40     15:46.8, Emily Bowman F 23     16:20.6
+
+CODE 564                      
+         Kyle Gregory M 42     14:12.4
+
+GMAO                          
+         Michael Bosilovich M 56     16:00.5
+
+DAY STARS                     
+         Tom Essinger-Hileman M 42     14:49.7, Regina Caputo F 41     17:50.0, Salman Sheikh M 57     19:25.8, Kelly Whalen F 29     19:10.5
+
+GEOMASTERMINDS                
+         Jennifer Beall F 54     22:40.4, Jahlil Best M 37     22:40.4, Ben Griffin M 24     22:41.2
+
+FASTILITIES                   
+         David Katzenberg M 25     15:52.9, Kevin Hong M 28     17:23.0, Ralph Smith M 60     29:03.0
+
+HAZARD HANDLERS               
+         Kyle Grello M 40     17:04.8, Griffin Haz M 28     17:44.8
+
+ESMOTIONAL SUPPORT RUNNERS    
+         James Jaranyi M 47     18:48.7, George Rankin M 48     20:23.0, Shampa Wali F 34     33:01.3
+
+THE AURORS                    
+         Patrick Stegmann M 39     18:19.3
+
+TELOPHASE                     
+         Jacob Reed M 39     18:55.4
+
+698 GRAVITY FOLKS             
+         Gael Cascioli M 31     18:50.0
+
+OBLIGATED TO WIN              
+         Conor Hyatt M 31     19:48.2, Kimberly Hooten F 33     36:41.9, Chanda Cannon F 36     37:37.4, Jasmine Jett M 46     36:50.9
+
+GES DISC                      
+         Thomas Hearty M 57     27:50.6
+
+TEAM CHEN!                    
+         Steven Horowitz M 61     30:45.3, Richard Slonaker M 64     32:21.2
+
+150'ISH                       
+         Sandra Bussard F 57     38:05.3
+
+CODE 550                      
+         Kasey Bond F 33     33:55.9
+
+IRIE STRIDERS                 
+         Paul Davidson M 43     36:37.2
+
+THE NEBULA NUGGETS            
+         Kelly Blackwood F 37     40:04.0, Eliana Schruefer F 34     40:04.5, Ellee Acevedo F 29     40:03.8
+
+PROCUREMENT                   
+         Ricarda Mason F 43     45:09.6
+
