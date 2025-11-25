@@ -1,7 +1,7 @@
 ---
 name: Running and Orienteering Club
 title: GROC
-description: The Goddard Running and Orienteering Club provides professional, social, and cultural activities among the club members and in the GSFC community.
+description: The Goddard Running and Orienteering Club has continuously hosted 2-mile and 10K runs for close to 50 years, promoting friendly competition, exercise, and team-building for GSFC employees, contractors, and their families.
 thumbnail: groc/logo.png
 categories: goddard
 
@@ -22,7 +22,6 @@ anchors:
   - { text: 10K Race, anchor: "#10k-race" }
   - { text: Goddard Track Club, anchor: "#goddard-track-club" }
   - { text: Orienteering, anchor: "#orienteering" }
-#  - { text: Local Running Resources, anchor: "#resources" }
   - { text: Center Showers, anchor: "#center-showers" }
   - { text: Board Members, anchor: "#board-members" }
   - { text: Contact Us, anchor: "#contact-us" }
@@ -52,17 +51,17 @@ No upcoming events listed.
 
 We did it! The 100th GSFC 2 Mile was a success, even off center!
 
-### 2 Mile Fun Run (10/22/25)
-* Women
-* Men
-* Women Teams
-* Men Teams
-* Overall Teams
-* Graded
-* Gun time
+**10K (10/15/25):**
+* [Overall Results](/clubs/groc/2025/2025 Fall 10K.txt)
 
-### 10K Race (10/15/25)
-* Overall Results
+**2 Mile Fun Run (10/22/25):**
+* [Women](/clubs/groc/2025/2025 Fall 2 Mile Women.txt)
+* [Men](/clubs/groc/2025/2025 Fall 2 Mile Men.txt)
+* [Women Teams](/clubs/groc/2025/2025 Fall 2 Mile Women Teams.txt)
+* [Men Teams](/clubs/groc/2025/2025 Fall 2 Mile Men Teams.txt)
+* [Overall Teams](/clubs/groc/2025/2025 Fall 2 Mile All Teams.txt)
+* [Graded](/clubs/groc/2025/2025 Fall 2 Mile Age Graded.txt)
+* [Gun Time](/clubs/groc/2025/2025 Fall 2 Mile guntime.txt)
 
 <a href="/clubs/groc/race-results" class="btn btn-primary">View Past Race Results</a>
 
@@ -100,6 +99,8 @@ $8.00 for pre-registration for the Fall Race. Special 100th anniversary bibs for
 
 ### Course Map
 
+![2-Mile Map](/images/groc/groc-2-mile-map.jpg "2-Mile Map")
+
 ### Team Rules
 
 * There are 3 open categories and 3 special categories:
@@ -131,6 +132,8 @@ Coming soon.
 
 ### Course Map
 
+![10K Map](/images/groc/groc-10k-map.jpg "10K Map")
+
 ---
 
 ## Goddard Track Club
@@ -139,15 +142,13 @@ Coming soon.
 
 The Goddard Track Club is a team of competitive athletes working toward a common goal. I avoid the term "runners" because I want to be inclusive of any potential throwers and jumpers out there who might some-day join us. We have no standards for talent, only for commitment - commitment not only to the sport of running but also to each other as a tight mutually supportive community. Our focus is on competing in road, cross country, and track events around the region and in some cases around the country. We welcome anyone who is interested in experiencing the sports of cross country, road racing, and track and field in a team environment - whatever your background or ability level. You just have to be willing to commit to the team. We are built on the principle that anything worth doing is worth doing right - and that means with careful planning and in the company of your closest friends.
 
-There is a list to coordinate group runs in and around NASA/GSFC for NASA/GSFC employees and contractors. The primary use of this list so far has been for traing and racing announcements for the track club.   Below are the directions for subscribing and unsubscribing to the rungsfc list.   For more information contact Jacob at jacob.a.englander@nasa.gov.
+There is a list to coordinate group runs in and around NASA/GSFC for NASA/GSFC employees and contractors. The primary use of this list so far has been for traing and racing announcements for the track club.   Below are the directions for subscribing and unsubscribing to the rungsfc list. For more information contact Jacob at [jacob.a.englander@nasa.gov].
 
-### How do I subscribe to the rungsfc list?
+**To subscribe to the rungsfc list:**
+Send a message (the content doesn't matter) to [rungsfc-subscribe@lists.nasa.gov] and reply to the confirmation message.
 
-Send a message (the content doesn't matter) to rungsfc-subscribe@lists.nasa.gov and reply to the confirmation message.
-
-### How do I unsubscribe?
-
-Send a message (the content doesn't matter) to rungsfc-unsubscribe@lists.nasa.gov and reply to the confirmation message.
+**To unsubscribe:**
+Send a message (the content doesn't matter) to [rungsfc-unsubscribe@lists.nasa.gov] and reply to the confirmation message.
 
 ---
 
@@ -172,24 +173,30 @@ The [Greenbelt Fitness Center](https://www.nasa.gov/goddard/memd/greenbelt-fitne
 Other shower locations at GSFC-Greenbelt:
 
 **Men:**
-Building 4  -  Rm 148 - 4 showers/lockers
-Building 5  -  Rm E068 - 2 showers/lockers
-Building 24 -  Rm 103 - 2 showers - poor shape
-Building 7  -  100d by big thermal chamber - 2
-Building 32 -  N025F - 2 showers (need repair?)
-Building 33 -  H011, H013 - 1 each/unisex
-Building 34 -  1st floor - nice! - 4 showers
-Building 36 -  shower on each floor
+| Building | Room/Location | Showers/Lockers | Notes |
+|----------|---------------|-----------------|-------|
+| 4 | Rm 148 | 4 showers/lockers | |
+| 5 | Rm E068 | 2 showers/lockers | |
+| 24 | Rm 103 | 2 showers | poor shape |
+| 7 | 100d by big thermal chamber | 2 | |
+| 32 | N025F | 2 showers | need repair? |
+| 33 | H011, H013 | 1 each/unisex | |
+| 34 | 1st floor | 4 showers | nice! |
+| 36 | shower on each floor | | |
 
 **Women:**
-Building 5  -  C042 - 1 shower/locker - cold! dark!
-Building 32 -  N025G - 1 shower (needs repair?)
-Building 33 -  H011, H013 - 1 each/unisex
-Building 34 -  1st floor - nice - 4 showers
-Building 36 -  shower on each floor
+| Building | Room/Location | Showers/Lockers | Notes |
+|----------|---------------|-----------------|-------|
+| 5 | C042 | 1 shower/locker | cold! dark! |
+| 32 | N025G | 1 shower | needs repair? |
+| 33 | H011, H013 | 1 each/unisex | |
+| 34 | 1st floor | 4 showers | nice |
+| 36 | shower on each floor | | |
 
 **Unisex:**
-Building 5 -  W026 - 1 shower/lockable room
+| Building | Room/Location | Showers/Lockers | Notes |
+|----------|---------------|-----------------|-------|
+| 5 | W026 | 1 shower/lockable room | |
 
 _Building 26 may have showers but only for security._
 
@@ -199,7 +206,7 @@ _Building 26 may have showers but only for security._
 
 **President:** Tom Winkert
 
-**Vice President:** <span style="color: red;">**Open (volunteer needed)**</span>
+**Vice President:** <span style="color: red;">Open (volunteer needed)</span>
 
 **Secretary:** James Leake
 
@@ -217,8 +224,11 @@ _Building 26 may have showers but only for security._
 
 ## Contact Us
 
-Phone: 301-286-2917
+📞 301-286-2917
 
-Email: tom.winkert@nasa.gov
+✉️ [tom.winkert@nasa.gov]
 
 Dynamic Stretching Exercises:
+
+![Dynamic Stretching Exercises](/images/groc/groc-dynamic-stretching.jpg "Dynamic Stretching Exercises")
+

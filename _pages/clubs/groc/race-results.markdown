@@ -3,7 +3,7 @@ layout: page-with-nav
 title:  "Race Results"
 categories: goddard
 
-parent-club: GROC
+parent-club: Running and Orienteering Club
 
 anchors:
   - { text: 2025 Fall, anchor: "#2025-fall" }
@@ -30,7 +30,7 @@ Please [contact GROC](https://nasa-communities.org/clubs/groc/#contact-us) for r
 ## 2025 Spring
 
 **10K:**
-* [Overall Results](https://nasa-communities.org/clubs/groc/2025/2025%20Spring%2010K.txt)
+* [Overall Results](/clubs/groc/2025/2025 Spring 10K.txt)
 
 **2 Mile Fun Run:**
-* [All Teams](https://nasa-communities.org/clubs/groc/2025/2025%20Spring%202%20Mile%20All%20Teams.TXT)
+* [Overall Teams](/clubs/groc/2025/2025 Spring 2 Mile All Teams.TXT)
