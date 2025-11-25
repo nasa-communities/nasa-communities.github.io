@@ -1,0 +1,182 @@
+                                                                      Page 1
+                        100th NASA Intracenter Run
+                        Goddard Space Flight Center
+                             October 22nd,2025
+                          Gun Time Results (all)
+                    correction to tom.winkert@nasa.gov
+Place Num   Name                     Guntime  Sex Div   Team                              
+===== ===== ======================== ======== === ===== ============================== 
+    1   114 Maksym Petrenko          11:47.58   M M4044 HELIOPHYSICS                   
+    2   110 Ethan Burbridge          12:26.58   M M2529 COOL RUNNINGS (545)            
+    3   237 Gabriel Segnatelli       12:45.90   M M3034 SUN SYNCHRONOUS STRIDERS       
+    4   219 William Bamford          12:46.00   M M5054 FAST & RELATIVE                
+    5   181 Jamel Lattimore          12:56.04   M M3539                                
+    6   180 Ryan Carney              13:04.95   M M3539                                
+    7   247 Mark Bendall             13:17.67   M M3539 DOWN WITH APPD                 
+    8   718 Matthew Francom          13:18.86   M M3034 DRAGONFLYERS                   
+    9   145 Ryan Fitzgibbons         13:28.10   M M4044 WE RUN THE EARTH               
+   10    62 Ian Carroll              13:44.02   M M4549 KEEPINGPACE                    
+   11   226 Melissa Vess             13:55.33   F F4549                                
+   12   196 Juan Martin De Blas      14:12.17   M M3034                                
+   13    66 Matthew Kehrli           14:13.04   M M2529 KEEPINGPACE                    
+   14   517 Bernard Kelly            14:13.68   M M5054 LISA                           
+   15   202 Lachlan Phillips         14:23.24   M M3034 KEEPINGPACE                    
+   16   217 Adam Voiland             14:37.67   M M4044 WE RUN THE EARTH               
+   17   224 Tyler Lee                14:40.82   M M2529 FAST & RELATIVE                
+   18   174 Craig Jones              14:56.03   M M5054 LISA                           
+   19   696 Rick Carter              14:57.00   M M5054                                
+   20   127 David Katzenberg         15:03.61   M M2529 FASTILITIES                    
+   21   257 Ted Poulos               15:12.02   M M6064                                
+   22   253 Benjamin Petrak          15:26.74   M M4044 FAST & RELATIVE                
+   23    29 Michael Major            15:26.96   M M4549 TEAM TELTRIUM                  
+   24   186 Kirk Gordon              15:36.28   M M6569                                
+   25   540 Peter Barfknecht         15:45.12   M M4044 DRAGONFLYERS                   
+   26   221 Antonio Niemela          15:56.04   M M3034                                
+   27   184 Emily Bowman             16:00.34   F F2024 TEAM TELTRIUM                  
+   28   314 Matthew Kowalewski       16:06.09   M M5054                                
+   29    31 Jonathan Duntze          16:07.07   M M3539 TEAM TELTRIUM                  
+   30   183 Stephen Lebair           16:10.00   M M3034                                
+   31    16 Aseer Ahmad              16:11.02   M M3034 SEWP                           
+   32   258 Leibo Ding               16:11.05   M M5559                                
+   33   308 David Giles              16:11.22   M M5054                                
+   34   169 Megan Hur                16:21.15   F F2024 THE POST-BAC POSSE             
+   35   266 Grethel Fuentes          16:33.50   F F4044                                
+   36   319 Kevin Hong               16:34.51   M M2529 FASTILITIES                    
+   37    67 Aaron Curtis             16:38.51   M M4549                                
+   38   332 Vivek Laljani            16:45.27   M M2024 DRAGONFLYERS                   
+   39   179 Gregory Stevens          16:47.16   M M3539 SEWP                           
+   40   165 Edward Seiler            16:53.74   M M6569                                
+   41    24 Benjamin Farcy           17:08.30   M M3539                                
+   42    34 Brian Repp               17:09.08   M M6064 KBR                            
+   43   119 Carlos Aguilar           17:17.26   M M3539 GLOBAL PERSPIRATION MISSION    
+   44   235 Robert Spengler          17:21.59   M M4044 DAY STARS                      
+   45   307 Alexandra Giese          17:28.87   F F3539                                
+   46    23 Sean McCartney           17:30.10   M M4549                                
+   47   333 Patrick Stegmann         17:30.89   M M3539 THE AURORS                     
+   48   304 Sarah Ringerud           17:36.43   F F5054 612'ERS                        
+   49   236 Nathaniel Johnson        17:37.65   M M3034                                
+   50   758 Lori Levine              17:42.03   F F5054                                
+   51   155 Jeremy Werdell           17:49.75   M M5054 KEEPINGPACE                    
+   52    65 Chamara Rajapakshe       17:57.77   M M3539 KEEPINGPACE                    
+   53   309 Michael Bosilovich       17:59.03   M M5559 GMAO                           
+   54    58 Minnie Wong              17:59.84   F F4549 MVS                            
+   55   132 Joseph Hart              18:04.09   M M3034 LISA                           
+   56    60 Griffin Haz              18:32.76   M M2529 SMA RISKY BUSINESS             
+   57    63 Meng Gao                 18:41.74   M M4044 KEEPINGPACE                    
+   58    88 Andrew Inglis            18:47.11   M M4044 DAY STARS                      
+   59   303 Holly Leopardi           18:53.69   F F3034 LISA                           
+   60   137 Hua Jiao                 18:54.29   M M5054 LISA                           
+   61   300 Rachel Borrelli          18:55.53                                          
+   62   340 Badri Shirgur            18:55.59                                          
+   63   301 Jay Chervenak            18:55.81   M M5559                                
+   64   316 Ian Adams                18:56.58   M M4549 612'ERS                        
+   65   262 Tiffany Holden           18:57.47   F F4044 PEDIBYTES                      
+   66    98 Regina Caputo            18:57.55   F F4044 DAY STARS                      
+   67   244 Eish Patel               18:58.32   M M3034 KBR                            
+   68   265 Christopher Pirner       19:08.43   M M4044 HELIOPHYSICS                   
+   69   146 Katie Jepson             19:29.50   F F3539 WE RUN THE EARTH               
+   70   541 Alejandra Barfknecht     19:41.87   F F4044 SWO-FAST                       
+   71   341 Adam Matuszeski          19:52.33   M M4549 DRAGONFLYERS                   
+   72   163 Aaron Bush               19:52.33   M M4044 SMA RISKY BUSINESS             
+   73  1200 Pleaseid Unkown          19:55.10   M M2529                                
+   74   211 Charles Dickson          19:55.52   M M5559 COLUMBUS TEAM                  
+   75   197 Kohei Yamamoto           19:55.82   M M3034 LISA                           
+   76   264 Larysa Paliashchuk       19:55.87   F F3539 PEDIBYTES                      
+   77   323 Anna Kim                 20:06.64   F F2024                                
+   78     6 Carl Stahle              20:15.68   M M6569                                
+   79   101 Kelly Whalen             20:18.57   F F3034 DAY STARS                      
+   80   306 Frank Fried              20:35.01   M M4044 LISA                           
+   81   112 Emmie Aufderheide        20:51.41   F F2024 THE POST-BAC POSSE             
+   82    86 Mark Solomon             20:53.80   M M6569 GMAO                           
+   83   310 Lorenzo Narducci         20:55.50   M M2529 SUN SYNCHRONOUS STRIDERS       
+   84    10 Michael Comberiate       20:56.00   M M7099                                
+   85   248 Aileen Kroll             21:14.65   F F6569                                
+   86   128 Anu Kundu                21:19.20   F F3034 LISA                           
+   87    27 Hassan Oudrari           21:24.99   M M5559 SSAI                           
+   88   122 Timothy Sarro            21:29.55   M M3034 GLOBAL PERSPIRATION MISSION    
+   89   233 Nicolette Iacona         21:41.17   F F2024 MVS                            
+   90    41 Zara Jariol              21:53.71   F F4044 SEWP                           
+   91   227 Rebecca Espina           21:54.00   F F5054 KBR                            
+   92   222 Kareem Branch            22:00.94   M M4044 MVS                            
+   93   111 Julie Moquin             22:30.28   F F2024 THE POST-BAC POSSE             
+   94   228 Orson John               22:55.86   M M3539 SMA RISKY BUSINESS             
+   95    43 James Roman              22:59.19   M M5054 SSAI                           
+   96   279 Lucia Tian               23:04.32   F F2529 SMALLSAT                       
+   97   305 Jennifer Nguyen          23:07.35   F F2529 PAAC                           
+   98   317 Jillianne Shear          23:07.48   F F4044 FAST & RELATIVE                
+   99   270 Matthew Deland           23:08.69   M M6064 SSAI                           
+  100   234 Daniel Solomon           23:33.67   M M7099                                
+  101   250 Stephan Klene            23:50.38   M M6064 SSAI                           
+  102   274 Mahendra Karki           24:02.28   M M7099 GMAO                           
+  103   330 Karen Scheiber           24:05.27   F F6064 HELIOPHYSICS                   
+  104   677 Samuel Kitchen-Mckinley  24:35.98   M M4044 SSAI                           
+  105   321 N. Michael Simpson       24:41.31   M M6064 GEOFORCE                       
+  106   238 Dimitris Vassiliadis     25:07.00   M M6064 SWO-FAST                       
+  107   255 David McBride            25:16.13   M M6064                                
+  108   173 Nicole Schanche          25:25.79   F F3539                                
+  109    13 Sarah Dewey              25:29.83   F F3539 SSAI                           
+  110    89 Kun Ren                  25:31.51   M M5054 SEWP                           
+  111   134 Paula Pruessner          25:46.96   F F4549 LISA                           
+  112   142 Sophia Stern             25:52.46   F F4044 KBR                            
+  113   154 Andrew Pasqualle         25:59.35   M M2529 MVS                            
+  114    48 Robin Ripley             26:36.85   F F4044                                
+  115   108 Milelene Gunyon          26:37.24   F F5054 CODE 140 LEGAL                 
+  116   254 Melina Yabra             26:50.89   F F3034 THE AURORS                     
+  117   144 Jia Wessen               27:02.78   M M2529 SEWP                           
+  118   204 Emmanuel Onwudiwe        27:33.65   M M5559 MVS                            
+  119    51 Scott Witschey           27:54.18   M M2529 PEDIBYTES                      
+  120    12 Jennifer Corekin         28:21.96   F F3539 SMALLSAT                       
+  121    91 William Armstrong        28:22.03   M M4044 SEWP                           
+  122   100 Tom Winkert              28:39.00   M M6064                                
+  123   320 Garvett Pierce           29:01.08   M M3034 WE RUN THE EARTH               
+  124   143 Sofie Bates              29:01.12   F F2529 WE RUN THE EARTH               
+  125   267 Perry Gerakines          29:29.76   M M5054 WERUNPSG                       
+  126    21 Ralph Welsh Jr           29:53.20   M M7099                                
+  127   322 Kate McGinnis            30:34.59   F F4044 STEPS 2 MARS                   
+  128   278 Sunita Sarin             30:34.70   F F5054                                
+  129   302 Philip Hochendoner       30:41.08   M M3539                                
+  130   164 Diane Briczinski         30:41.31   F F4549 FLY ME TO THE MOON! LEMS-A3    
+  131   160 Silvia Romero            30:42.20   F F5559 MVS                            
+  132   277 Daisy Hall               31:38.29   F F3034 PEDIBYTES                      
+  133     9 Perry Sebreny            33:13.22   M M6064 KBR                            
+  134   273 Kevin Parker             33:33.80   M M6569 KBR                            
+  135     7 Julie Halverson          33:45.81   F F6064                                
+  136   268 James Pierson            33:48.10   M M6064 KBR                            
+  137    85 Andrea Martin            34:13.51   F F3539 SEWP                           
+  138     1 Rebecca Winkert          34:18.56   F F3034                                
+  139   275 Myra Bacon               34:18.80   F F6064                                
+  140    22 Nargess Memarsadeghi     35:14.15   F F4549 581 FUN RUN TEAM               
+  141   239 Amy Bleich               35:34.96   F F6064                                
+  142    90 Angela Taylor            36:09.74   F F5559 SEWP                           
+  143   109 Ana Choban               36:12.48   F F3539 SEWP                           
+  144   256 Brian Hughes             36:33.66   M M5054 FAST & RELATIVE                
+  145   271 Paul Alexander           36:48.85   M M6569 FAST & RELATIVE                
+  146   118 Nancy Lindsey            36:51.84   F F6064 SMA RISKY BUSINESS             
+  147   350 Terri Lynne Hynson       36:52.42   F F6064 PAAC                           
+  148   311 Martha Wawro             37:22.06   F F4549 OMES III                       
+  149   313 Geri Lyle                37:22.47   F F4044 OMES III                       
+  150   312 Corey Lyon               37:22.70   M M4044 OMES III                       
+  151   315 Michael Cabrera          37:23.12   M M4044 OMES III                       
+  152   231 Courtney Franklin        38:12.07   M M4044 SEWP                           
+  153   223 Troy Dunn                38:21.37   M M5054 MVS                            
+  154   207 Bill Thomas              38:21.57   M M4044 MVS                            
+  155   232 Nancy Iacona             38:22.03   F F6064 MVS                            
+  156   159 Lance Emery              38:23.75   M M4044 MVS                            
+  157   220 Terri Chow               38:47.53   F F4549 MVS                            
+  158   166 Jamie Leatherman         38:47.77   F F4549 MVS                            
+  159   198 Cheryl Flett             39:09.87   F F6064 PAAC                           
+  160   157 Len Newman               39:10.42   M M5559 MVS                            
+  161   240 Jeff Baron               39:16.66   M M5559 MVS                            
+  162    46 Cathy Shry               40:04.92   F F6064 SEWP                           
+  163   214 Claudia Alvarez-Warren   40:55.26   F F3539 AT MOON WALKERS                
+  164   230 Ashley Barrientos        40:55.29   F F3539 AT MOON WALKERS                
+  165   249 Chris Salinas            40:58.74   M M2529 AT MOON WALKERS                
+  166   229 Justin Clerizier         40:58.96   M M4549 AT MOON WALKERS                
+  167   123 Deanna Yu                41:07.65   F F4044 MVS                            
+  168   269 Eunice Corbin            41:10.28   F F6064 MVS                            
+  169   243 Brian Parrucci           41:11.10   M M4044 MVS                            
+  170   115 Brenee Palmer            41:29.89   F F3539 SEWP                           
+  171   263 Atheena Boutselis        41:29.91   F F3539 SEWP                           
+  172   139 Ruby Jackson             41:30.01   F F3034 SEWP                           
+  173   252 Agnes Conaty             43:28.24   F F6064 GMAO INCREMENTALISTS           
+  174   251 Austin L Conaty          43:28.64   M M6064 GMAO INCREMENTALISTS           

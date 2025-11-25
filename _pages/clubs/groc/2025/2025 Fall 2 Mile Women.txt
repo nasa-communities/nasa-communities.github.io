@@ -1,0 +1,74 @@
+                                                                      Page 1
+                        100th NASA Intracenter Run
+                        Goddard Space Flight Center
+                             October 22nd,2025
+                              Female Results
+                    correction to tom.winkert@nasa.gov
+Place Num   Name                     Time    Guntime Div   Team                              
+===== ===== ======================== ======= ======= ===== ============================== 
+    1   226 Melissa Vess               13:53   13:56 F4549                                
+    2   184 Emily Bowman               15:51   16:01 F2024 TEAM TELTRIUM                  
+    3   169 Megan Hur                  15:55   16:22 F2024 THE POST-BAC POSSE             
+    4   266 Grethel Fuentes            16:31   16:34 F4044                                
+    5   307 Alexandra Giese            17:16   17:29 F3539                                
+    6   304 Sarah Ringerud             17:19   17:37 F5054 612'ERS                        
+    7   758 Lori Levine                17:23   17:43 F5054                                
+    8    58 Minnie Wong                17:38   18:00 F4549 MVS                            
+    9   262 Tiffany Holden             18:33   18:58 F4044 PEDIBYTES                      
+   10    98 Regina Caputo              18:34   18:58 F4044 DAY STARS                      
+   11   303 Holly Leopardi             18:35   18:54 F3034 LISA                           
+   12   146 Katie Jepson               19:01   19:30 F3539 WE RUN THE EARTH               
+   13   541 Alejandra Barfknecht       19:13   19:42 F4044 SWO-FAST                       
+   14   323 Anna Kim                   19:29   20:07 F2024                                
+   15   264 Larysa Paliashchuk         19:30   19:56 F3539 PEDIBYTES                      
+   16   101 Kelly Whalen               19:52   20:19 F3034 DAY STARS                      
+   17   112 Emmie Aufderheide          20:25   20:52 F2024 THE POST-BAC POSSE             
+   18   233 Nicolette Iacona           20:45   21:42 F2024 MVS                            
+   19   128 Anu Kundu                  20:55   21:20 F3034 LISA                           
+   20   248 Aileen Kroll               21:10   21:15 F6569                                
+   21   227 Rebecca Espina             21:31   21:54 F5054 KBR                            
+   22    41 Zara Jariol                21:38   21:54 F4044 SEWP                           
+   23   111 Julie Moquin               22:04   22:31 F2024 THE POST-BAC POSSE             
+   24   279 Lucia Tian                 22:33   23:05 F2529 SMALLSAT                       
+   25   317 Jillianne Shear            22:54   23:08 F4044 FAST & RELATIVE                
+   26   305 Jennifer Nguyen            22:55   23:08 F2529 PAAC                           
+   27   330 Karen Scheiber             23:49   24:06 F6064 HELIOPHYSICS                   
+   28   173 Nicole Schanche            24:59   25:26 F3539                                
+   29    13 Sarah Dewey                25:17   25:30 F3539 SSAI                           
+   30   134 Paula Pruessner            25:18   25:47 F4549 LISA                           
+   31   142 Sophia Stern               25:36   25:53 F4044 KBR                            
+   32   108 Milelene Gunyon            26:24   26:38 F5054 CODE 140 LEGAL                 
+   33    48 Robin Ripley               26:27   26:37 F4044                                
+   34   254 Melina Yabra               26:30   26:51 F3034 THE AURORS                     
+   35    12 Jennifer Corekin           26:34   28:22 F3539 SMALLSAT                       
+   36   143 Sofie Bates                28:27   29:02 F2529 WE RUN THE EARTH               
+   37   278 Sunita Sarin               29:57   30:35 F5054                                
+   38   160 Silvia Romero              30:03   30:43 F5559 MVS                            
+   39   322 Kate McGinnis              30:15   30:35 F4044 STEPS 2 MARS                   
+   40   164 Diane Briczinski           30:20   30:42 F4549 FLY ME TO THE MOON! LEMS-A3    
+   41   277 Daisy Hall                 31:11   31:39 F3034 PEDIBYTES                      
+   42     1 Rebecca Winkert            32:13   34:19 F3034                                
+   43     7 Julie Halverson            33:06   33:46 F6064                                
+   44    85 Andrea Martin              33:20   34:14 F3539 SEWP                           
+   45   275 Myra Bacon                 33:42   34:19 F6064                                
+   46   239 Amy Bleich                 35:01   35:35 F6064                                
+   47    22 Nargess Memarsadeghi       35:04   35:15 F4549 581 FUN RUN TEAM               
+   48    90 Angela Taylor              35:29   36:10 F5559 SEWP                           
+   49   109 Ana Choban                 35:32   36:13 F3539 SEWP                           
+   50   350 Terri Lynne Hynson         36:11   36:53 F6064 PAAC                           
+   51   118 Nancy Lindsey              36:35   36:52 F6064 SMA RISKY BUSINESS             
+   52   313 Geri Lyle                  36:36   37:23 F4044 OMES III                       
+   53   311 Martha Wawro               36:36   37:23 F4549 OMES III                       
+   54   232 Nancy Iacona               37:26   38:23 F6064 MVS                            
+   55   220 Terri Chow                 37:49   38:48 F4549 MVS                            
+   56   166 Jamie Leatherman           37:49   38:48 F4549 MVS                            
+   57   198 Cheryl Flett               38:13   39:10 F6064 PAAC                           
+   58    46 Cathy Shry                 39:12   40:05 F6064 SEWP                           
+   59   123 Deanna Yu                  39:54   41:08 F4044 MVS                            
+   60   269 Eunice Corbin              40:05   41:11 F6064 MVS                            
+   61   230 Ashley Barrientos          40:12   40:56 F3539 AT MOON WALKERS                
+   62   214 Claudia Alvarez-Warren     40:12   40:56 F3539 AT MOON WALKERS                
+   63   115 Brenee Palmer              40:28   41:30 F3539 SEWP                           
+   64   139 Ruby Jackson               40:28   41:31 F3034 SEWP                           
+   65   263 Atheena Boutselis          40:38   41:30 F3539 SEWP                           
+   66   252 Agnes Conaty               42:40   43:29 F6064 GMAO INCREMENTALISTS           

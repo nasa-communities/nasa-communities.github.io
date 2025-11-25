@@ -1,0 +1,114 @@
+                                                                      Page 1
+                        100th NASA Intracenter Run
+                        Goddard Space Flight Center
+                             October 22nd,2025
+                               Male Results
+                    correction to tom.winkert@nasa.gov
+Place Num   Name                     Time    Guntime Div   Team                              
+===== ===== ======================== ======= ======= ===== ============================== 
+    1   110 Ethan Burbridge            11:46   12:27 M2529 COOL RUNNINGS (545)            
+    2   114 Maksym Petrenko            11:46   11:48 M4044 HELIOPHYSICS    (overall winner)               
+    3   219 William Bamford            12:44   12:46 M5054 FAST & RELATIVE                
+    4   237 Gabriel Segnatelli         12:45   12:46 M3034 SUN SYNCHRONOUS STRIDERS       
+    5   718 Matthew Francom            12:50   13:19 M3034 DRAGONFLYERS                   
+    6   181 Jamel Lattimore            12:55   12:57 M3539                                
+    7   145 Ryan Fitzgibbons           13:02   13:29 M4044 WE RUN THE EARTH               
+    8   180 Ryan Carney                13:02   13:05 M3539                                
+    9   247 Mark Bendall               13:12   13:18 M3539 DOWN WITH APPD                 
+   10    62 Ian Carroll                13:42   13:45 M4549 KEEPINGPACE                    
+   11   196 Juan Martin De Blas        14:07   14:13 M3034                                
+   12    66 Matthew Kehrli             14:07   14:14 M2529 KEEPINGPACE                    
+   13   517 Bernard Kelly              14:10   14:14 M5054 LISA                           
+   14   217 Adam Voiland               14:12   14:38 M4044 WE RUN THE EARTH               
+   15   202 Lachlan Phillips           14:19   14:24 M3034 KEEPINGPACE                    
+   16   224 Tyler Lee                  14:28   14:41 M2529 FAST & RELATIVE                
+   17   127 David Katzenberg           14:45   15:04 M2529 FASTILITIES                    
+   18   174 Craig Jones                14:54   14:57 M5054 LISA                           
+   19   696 Rick Carter                14:57   14:57 M5054        (offsite location)                        
+   20   257 Ted Poulos                 15:04   15:13 M6064                                
+   21   540 Peter Barfknecht           15:16   15:46 M4044 DRAGONFLYERS                   
+   22   253 Benjamin Petrak            15:21   15:27 M4044 FAST & RELATIVE                
+   23    29 Michael Major              15:24   15:27 M4549 TEAM TELTRIUM                  
+   24   314 Matthew Kowalewski         15:30   16:07 M5054                                
+   25   186 Kirk Gordon                15:30   15:37 M6569                                
+   26   221 Antonio Niemela            15:35   15:57 M3034                                
+   27   308 David Giles                15:55   16:12 M5054                                
+   28    16 Aseer Ahmad                15:57   16:12 M3034 SEWP                           
+   29    31 Jonathan Duntze            16:02   16:08 M3539 TEAM TELTRIUM                  
+   30   258 Leibo Ding                 16:04   16:12 M5559                                
+   31   183 Stephen Lebair             16:06   16:10 M3034                                
+   32   332 Vivek Laljani              16:14   16:46 M2024 DRAGONFLYERS                   
+   33   319 Kevin Hong                 16:15   16:35 M2529 FASTILITIES                    
+   34    67 Aaron Curtis               16:20   16:39 M4549                                
+   35   119 Carlos Aguilar             16:28   17:18 M3539 GLOBAL PERSPIRATION MISSION    
+   36   179 Gregory Stevens            16:32   16:48 M3539 SEWP                           
+   37   165 Edward Seiler              16:49   16:54 M6569                                
+   38   235 Robert Spengler            16:56   17:22 M4044 DAY STARS                      
+   39    23 Sean McCartney             17:00   17:31 M4549                                
+   40    34 Brian Repp                 17:00   17:10 M6064 KBR                            
+   41    24 Benjamin Farcy             17:02   17:09 M3539                                
+   42   236 Nathaniel Johnson          17:08   17:38 M3034                                
+   43   333 Patrick Stegmann           17:09   17:31 M3539 THE AURORS                     
+   44   155 Jeremy Werdell             17:25   17:50 M5054 KEEPINGPACE                    
+   45    65 Chamara Rajapakshe         17:34   17:58 M3539 KEEPINGPACE                    
+   46   132 Joseph Hart                17:35   18:05 M3034 LISA                           
+   47   309 Michael Bosilovich         17:43   18:00 M5559 GMAO                           
+   48   137 Hua Jiao                   18:12   18:55 M5054 LISA                           
+   49    63 Meng Gao                   18:17   18:42 M4044 KEEPINGPACE                    
+   50    60 Griffin Haz                18:20   18:33 M2529 SMA RISKY BUSINESS             
+   51    88 Andrew Inglis              18:23   18:48 M4044 DAY STARS                      
+   52   316 Ian Adams                  18:39   18:57 M4549 612'ERS                        
+   53   244 Eish Patel                 18:41   18:59 M3034 KBR                            
+   54   301 Jay Chervenak              18:47   18:56 M5559                                
+   55   265 Christopher Pirner         19:05   19:09 M4044 HELIOPHYSICS                   
+   56   341 Adam Matuszeski            19:16   19:53 M4549 DRAGONFLYERS                   
+   57   197 Kohei Yamamoto             19:27   19:56 M3034 LISA                           
+   58   211 Charles Dickson            19:36   19:56 M5559 COLUMBUS TEAM                  
+   59   163 Aaron Bush                 19:40   19:53 M4044 SMA RISKY BUSINESS             
+   60  1200 Pleaseid Unkown            19:43   19:56 M2529                                
+   61     6 Carl Stahle                19:56   20:16 M6569                                
+   62   306 Frank Fried                20:16   20:36 M4044 LISA                           
+   63   310 Lorenzo Narducci           20:25   20:56 M2529 SUN SYNCHRONOUS STRIDERS       
+   64   122 Timothy Sarro              20:40   21:30 M3034 GLOBAL PERSPIRATION MISSION    
+   65    86 Mark Solomon               20:46   20:54 M6569 GMAO                           
+   66    27 Hassan Oudrari             20:52   21:25 M5559 SSAI                           
+   67    10 Michael Comberiate         20:56   20:56 M7099                                
+   68   222 Kareem Branch              21:20   22:01 M4044 MVS                            
+   69    43 James Roman                22:35   23:00 M5054 SSAI                           
+   70   228 Orson John                 22:42   22:56 M3539 SMA RISKY BUSINESS             
+   71   270 Matthew Deland             22:43   23:09 M6064 SSAI                           
+   72   250 Stephan Klene              23:17   23:51 M6064 SSAI                           
+   73   234 Daniel Solomon             23:19   23:34 M7099                                
+   74   274 Mahendra Karki             23:52   24:03 M7099 GMAO                           
+   75   321 N. Michael Simpson         24:10   24:42 M6064 GEOFORCE                       
+   76   677 Samuel Kitchen-Mckinley    24:25   24:36 M4044 SSAI                           
+   77   238 Dimitris Vassiliadis       24:41   25:07 M6064 SWO-FAST                       
+   78    89 Kun Ren                    24:43   25:32 M5054 SEWP                           
+   79   154 Andrew Pasqualle           25:05   26:00 M2529 MVS                            
+   80   255 David McBride              25:06   25:17 M6064                                
+   81   204 Emmanuel Onwudiwe          26:35   27:34 M5559 MVS                            
+   82   144 Jia Wessen                 26:47   27:03 M2529 SEWP                           
+   83    51 Scott Witschey             27:31   27:55 M2529 PEDIBYTES                      
+   84    91 William Armstrong          27:44   28:23 M4044 SEWP                           
+   85   320 Garvett Pierce             28:26   29:02 M3034 WE RUN THE EARTH               
+   86   100 Tom Winkert                28:39   28:39 M6064                                
+   87   267 Perry Gerakines            29:02   29:30 M5054 WERUNPSG                       
+   88    21 Ralph Welsh Jr             29:32   29:54 M7099                                
+   89   302 Philip Hochendoner         30:20   30:42 M3539                                
+   90     9 Perry Sebreny              32:34   33:14 M6064 KBR                            
+   91   273 Kevin Parker               32:59   33:34 M6569 KBR                            
+   92   268 James Pierson              33:09   33:49 M6064 KBR                            
+   93   256 Brian Hughes               36:16   36:34 M5054 FAST & RELATIVE                
+   94   271 Paul Alexander             36:30   36:49 M6569 FAST & RELATIVE                
+   95   315 Michael Cabrera            36:36   37:24 M4044 OMES III                       
+   96   312 Corey Lyon                 36:37   37:23 M4044 OMES III                       
+   97   159 Lance Emery                37:14   38:24 M4044 MVS                            
+   98   223 Troy Dunn                  37:15   38:22 M5054 MVS                            
+   99   231 Courtney Franklin          37:17   38:13 M4044 SEWP                           
+  100   207 Bill Thomas                37:26   38:22 M4044 MVS                            
+  101   157 Len Newman                 38:04   39:11 M5559 MVS                            
+  102   240 Jeff Baron                 38:22   39:17 M5559 MVS                            
+  103   243 Brian Parrucci             38:38   41:12 M4044 MVS                            
+  104   249 Chris Salinas              40:14   40:59 M2529 AT MOON WALKERS                
+  105   229 Justin Clerizier           40:15   40:59 M4549 AT MOON WALKERS                
+  106   251 Austin L Conaty            42:39   43:29 M6064 GMAO INCREMENTALISTS           

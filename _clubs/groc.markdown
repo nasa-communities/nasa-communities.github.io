@@ -2,7 +2,7 @@
 name: Running and Orienteering Club
 title: GROC
 description: The Goddard Running and Orienteering Club provides professional, social, and cultural activities among the club members and in the GSFC community.
-thumbnail: groc/logo.jpg
+thumbnail: groc/logo.png
 categories: goddard
 
 contact-email: tom.winkert@nasa.gov
@@ -44,7 +44,7 @@ GROC is a member of the [Road Runners Club of America (RRCA)](https://www.rrca.o
 
 No upcoming events listed. 
 
-[View past events](#past-events)
+[View past events](#past-events-and-photos)
 
 ---
 
@@ -64,14 +64,24 @@ We did it! The 100th GSFC 2 Mile was a success, even off center!
 ### 10K Race (10/15/25)
 * Overall Results
 
-### Spring 2025 Results
-* Overall Results
+<a href="/clubs/groc/race-results" class="btn btn-primary">View Past Race Results</a>
 
 ---
 
 ## Past Events and Photos
 
-Coming soon.
+Thanks to the [GSFC Photo Club](https://nasa-communities.org/clubs/photo/) for their amazing photos from past GROC events:
+
+* [Spring 2025 Photos](https://www.flickr.com/photos/gsfcphoto/albums/72177720325966231/)
+* [Fall 2024 Photos](https://www.flickr.com/photos/gsfcphoto/albums/72177720320978123)
+* [Spring 2024 Photos](https://www.flickr.com/photos/gsfcphoto/albums/72177720317069783)
+* [Fall 2023 Photos](https://www.flickr.com/photos/gsfcphoto/albums/72177720312351325)
+* [Spring 2023 Photos](https://www.flickr.com/photos/gsfcphoto/albums/72177720307929123)
+* [Fall 2022 Photos](https://www.flickr.com/photos/gsfcphoto/albums/72177720303067138)
+* [Spring 2022 Photos](https://www.flickr.com/photos/gsfcphoto/albums/72177720299765725)
+* [Spring 2019 Photos](https://www.flickr.com/photos/gsfcphoto/albums/72157678098156497)
+* [Spring 2018 Photos](https://www.flickr.com/photos/gsfcphoto/albums/72157690833862980)
+* [Fall 2017 Photos](https://www.flickr.com/photos/gsfcphoto/albums/72157687511439614)
 
 ---
 
