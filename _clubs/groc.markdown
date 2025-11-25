@@ -99,7 +99,7 @@ $8.00 for pre-registration for the Fall Race. Special 100th anniversary bibs for
 
 ### Course Map
 
-![2-Mile Map](/images/groc/groc-2-mile-map.jpg "2-Mile Map")
+<img src=/images/groc/groc-2-mile-map.jpg alt="2-Mile Map" width="500">
 
 ### Team Rules
 
@@ -132,7 +132,7 @@ Coming soon.
 
 ### Course Map
 
-![10K Map](/images/groc/groc-10k-map.jpg "10K Map")
+<img src=/images/groc/groc-10k-map.jpg alt="10K Map" width="500">
 
 ---
 
@@ -142,13 +142,13 @@ Coming soon.
 
 The Goddard Track Club is a team of competitive athletes working toward a common goal. I avoid the term "runners" because I want to be inclusive of any potential throwers and jumpers out there who might some-day join us. We have no standards for talent, only for commitment - commitment not only to the sport of running but also to each other as a tight mutually supportive community. Our focus is on competing in road, cross country, and track events around the region and in some cases around the country. We welcome anyone who is interested in experiencing the sports of cross country, road racing, and track and field in a team environment - whatever your background or ability level. You just have to be willing to commit to the team. We are built on the principle that anything worth doing is worth doing right - and that means with careful planning and in the company of your closest friends.
 
-There is a list to coordinate group runs in and around NASA/GSFC for NASA/GSFC employees and contractors. The primary use of this list so far has been for traing and racing announcements for the track club.   Below are the directions for subscribing and unsubscribing to the rungsfc list. For more information contact Jacob at [jacob.a.englander@nasa.gov].
+There is a list to coordinate group runs in and around NASA/GSFC for NASA/GSFC employees and contractors. The primary use of this list so far has been for traing and racing announcements for the track club.   Below are the directions for subscribing and unsubscribing to the rungsfc list. For more information contact Jacob at [jacob.a.englander@nasa.gov](mailto:jacob.a.englander@nasa.gov).
 
 **To subscribe to the rungsfc list:**
-Send a message (the content doesn't matter) to [rungsfc-subscribe@lists.nasa.gov] and reply to the confirmation message.
+Send a message (the content doesn't matter) to [rungsfc-subscribe@lists.nasa.gov](mailto:rungsfc-subscribe@lists.nasa.gov) and reply to the confirmation message.
 
 **To unsubscribe:**
-Send a message (the content doesn't matter) to [rungsfc-unsubscribe@lists.nasa.gov] and reply to the confirmation message.
+Send a message (the content doesn't matter) to [rungsfc-unsubscribe@lists.nasa.gov](mailto:rungsfc-unsubscribe@lists.nasa.gov) and reply to the confirmation message.
 
 ---
 
@@ -173,6 +173,7 @@ The [Greenbelt Fitness Center](https://www.nasa.gov/goddard/memd/greenbelt-fitne
 Other shower locations at GSFC-Greenbelt:
 
 **Men:**
+
 | Building | Room/Location | Showers/Lockers | Notes |
 |----------|---------------|-----------------|-------|
 | 4 | Rm 148 | 4 showers/lockers | |
@@ -185,6 +186,7 @@ Other shower locations at GSFC-Greenbelt:
 | 36 | shower on each floor | | |
 
 **Women:**
+
 | Building | Room/Location | Showers/Lockers | Notes |
 |----------|---------------|-----------------|-------|
 | 5 | C042 | 1 shower/locker | cold! dark! |
@@ -194,6 +196,7 @@ Other shower locations at GSFC-Greenbelt:
 | 36 | shower on each floor | | |
 
 **Unisex:**
+
 | Building | Room/Location | Showers/Lockers | Notes |
 |----------|---------------|-----------------|-------|
 | 5 | W026 | 1 shower/lockable room | |
@@ -226,7 +229,7 @@ _Building 26 may have showers but only for security._
 
 📞 301-286-2917
 
-✉️ [tom.winkert@nasa.gov]
+✉️ [tom.winkert@nasa.gov](mailto:tom.winkert@nasa.gov)
 
 Dynamic Stretching Exercises:
 
