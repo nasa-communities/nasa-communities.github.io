@@ -16,14 +16,15 @@ layout: club-with-nav
 
 anchors:
   - { text: News, anchor: "#news" }
-  - { text: Club Calendar, anchor: "#club-calendar" }
+  - { text: Guests and Center Access, anchor: "#Guests-and-Center-Access" }
   - { text: Resources and Links, anchor: "/clubs/toastmasters/toastmasters_resources/" }
-  - { text: Contact Us, anchor: "/clubs/toastmasters/toastmasters_contact/" }
+  - { text: Officers, anchor: "#Club Officers" }
 ---
 
 ![Goddard Toastmasters Banner](/images/toastmasters/gsfc_tm_www_banner.png)
 
-# Welcome to Goddard Toastmasters
+<h1 style="text-align: center;">Welcome to Goddard Toastmasters!</h1>
+
 
 **Club 3496 · Area 42 · Division D · [District 36](https://district36.org/)**
 
@@ -37,13 +38,13 @@ Goddard Toastmasters is open to all Goddard employees who want to improve their 
 
 ## Meeting Schedule
 
-Meetings are held **virtually** on the **second and fourth Wednesdays** of each month from **11:30 a.m. to 1:00 p.m.**
+Meetings are held **virtually** on the **second and fourth Wednesdays** of each month from **11:30 a.m. to 1:00 p.m. Eastern Time**
 
 👉 You can find the current meeting connection details in our meeting links PDF:  
-[Links to Goddard Toastmasters meetings](https://toastmasters.gsfc.nasa.gov/Goddard-Toastmasters-meeting-links.pdf)
+[Links to Goddard Toastmasters meetings](https://drive.google.com/file/d/16IBc5gRgL2Y0SHPC-FahfJo0e3vttTE6/view?usp=sharing)
 
 We occasionally hold **blended meetings** that are both virtual and on-site.  
-Please check **Dateline Goddard** for the current location or contact our VP Education or VP Membership for details. Guests are always welcome!
+Please check **Dateline Goddard** (internal to GSFC employees), for the current location or contact our VP Education or VP Membership for details. Guests are always welcome!
 
 ## Guests and Center Access
 
