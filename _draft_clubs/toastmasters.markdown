@@ -1,10 +1,10 @@
 ---
-name: Toastmasters
-slogan: Pithy slogan!
-description: Lorem ipsum dolor sit amet consectetur adipiscing elit. Semper vel class aptent taciti sociosqu ad litora.
+name: Goddard Toastmasters
+slogan: Build confidence in speaking and leadership.
+description: Goddard Toastmasters (Club 3496, District 36, Area 42) helps Goddard employees improve their communication and leadership skills in a supportive, practice-driven environment with twice-monthly meetings.
 thumbnail: mars.png
 
-contact-email: jane.doe@gmail.gov
+contact-email: gsfc-toastmasters@lists.nasa.gov
 socials:
   twitter: /
   github: /
@@ -15,17 +15,75 @@ socials:
 layout: page
 ---
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Leo eu aenean sed diam urna tempor pulvinar. Semper vel class aptent taciti sociosqu ad litora. Mus donec rhoncus eros lobortis nulla molestie mattis. 
+# Welcome to Goddard Toastmasters
 
-Blandit quis suspendisse aliquet nisi sodales consequat magna. Ac tincidunt nam porta elementum a enim euismod. Cras eleifend turpis fames primis vulputate ornare sagittis. Netus suscipit auctor curabitur facilisi cubilia curae hac. Sem placerat in id cursus mi pretium tellus. Egestas iaculis massa nisl malesuada lacinia integer nunc. Orci varius natoque penatibus et magnis dis parturient. 
+**Club 3496 · District 36 · Area 42**
 
-## Upcoming Events
+Goddard Toastmasters is open to all Goddard employees who want to improve their communication and leadership skills. The club offers a supportive environment to:
 
-### 2025-10-10 - Non purus est efficitur 
+- Speak confidently in public  
+- Practice and apply leadership techniques  
+- Evaluate speeches effectively  
+- Use motivational techniques  
+- Develop strong listening skills  
 
-Laoreet mauris pharetra vestibulum. Finibus facilisis dapibus etiam interdum tortor ligula congue. Dignissim velit aliquam imperdiet mollis nullam volutpat porttitor. Proin libero feugiat tristique accumsan maecenas potenti ultricies. Sit amet consectetur adipiscing elit quisque faucibus ex. Sed diam urna tempor pulvinar vivamus fringilla lacus. Aptent taciti sociosqu ad litora torquent per conubia. Eros lobortis nulla molestie mattis scelerisque maximus eget. 
+## Meeting Schedule
 
-### 2026-01-01 - Aliquet nisi sodales 
+Meetings are held **virtually** on the **second and fourth Wednesdays** of each month from **11:30 a.m. to 1:00 p.m.**
 
-Consequat magna ante condimentum neque. Porta elementum a enim euismod quam justo lectus. Fames primis vulputate ornare sagittis vehicula praesent dui. Curabitur facilisi cubilia curae hac habitasse platea dictumst. Id cursus mi pretium tellus duis convallis tempus. Nisl malesuada lacinia integer nunc posuere ut hendrerit.
+👉 You can find the current meeting connection details in our meeting links PDF:  
+[Links to Goddard Toastmasters meetings](https://toastmasters.gsfc.nasa.gov/Goddard-Toastmasters-meeting-links.pdf)
 
+We occasionally hold **blended meetings** that are both virtual and on-site.  
+Please check **Dateline Goddard** for the current location or contact our VP Education or VP Membership for details. Guests are always welcome!
+
+## Guests and Center Access
+
+> **Note to guests:** NASA’s Goddard Space Flight Center has enhanced security policies for on-center access.
+
+For visitors who are not GSFC-badged:
+
+- Arrangements must be made **at least two business days in advance**  
+- A club member must apply for visitor badges on your behalf  
+- On the day of the visit, a Goddard Toastmasters member will meet you at the front gate, sign you in, and escort you on and off the facility
+
+If on-center access is difficult, we recommend exploring other nearby Toastmasters clubs. You can search for clubs at:  
+[Toastmasters – Find a Club](https://www.toastmasters.org/find-a-club)
+
+## Club Officers
+
+For more information, you may contact any of the club officers listed below.
+
+| Role                   | Name                     | Email                                                | Phone        |
+|------------------------|--------------------------|------------------------------------------------------|--------------|
+| President              | Ginger Butcher           | [ginger.butcher-1@nasa.gov](mailto:ginger.butcher-1@nasa.gov) | 301-614-5124 |
+| VP Education           | Dylan Baker, IP1         | [dylan.z.baker@nasa.gov](mailto:dylan.z.baker@nasa.gov)       | 301-286-0083 |
+| VP Membership          | Nancy Carney, LD3        | [nancy.s.carney@nasa.gov](mailto:nancy.s.carney@nasa.gov)     | 301-286-8090 |
+| VP Public Relations    | Nancy Carney, LD3        | [nancy.s.carney@nasa.gov](mailto:nancy.s.carney@nasa.gov)     | 301-286-8090 |
+| Secretary              | Martha O’Bryan, PM1      | [martha.v.obryan@nasa.gov](mailto:martha.v.obryan@nasa.gov)   | 301-286-1412 |
+| Treasurer              | Patrick McHale, CTM, PM1 | [patmchale1@outlook.com](mailto:patmchale1@outlook.com)       | 410-531-6921 |
+| Sergeant-at-Arms       | Vacant                   | —                                                    | —            |
+| Immediate Past President | Dylan Baker, IP1       | [dylan.z.baker@nasa.gov](mailto:dylan.z.baker@nasa.gov)       | 301-286-0083 |
+
+## Email Lists
+
+**Goddard Toastmasters Email Listservers:**
+
+- **General Membership:** [gsfc-toastmasters@lists.nasa.gov](mailto:gsfc-toastmasters@lists.nasa.gov)  
+- **Executive Committee:** [gsfc-toastmastersexec@lists.nasa.gov](mailto:gsfc-toastmastersexec@lists.nasa.gov)
+
+## Toastmasters and NASA Notices
+
+The information on this website is for the sole use of Toastmasters members for Toastmasters business only. It is not to be used for solicitation or distribution of non-Toastmasters material or information.
+
+Toastmasters International, the Toastmasters International logo, and all other Toastmasters International trademarks and copyrights are the sole property of Toastmasters International and may be used only by permission. The names **“Toastmasters International”**, **“Toastmasters”**, and the Toastmasters International emblem are trademarks protected in the United States, Canada, and other countries where Toastmasters clubs exist. Unauthorized use is strictly prohibited.
+
+For NASA privacy policies and important notices, please see:  
+[Privacy Policies and Important Notices](https://www.nasa.gov/about/highlights/HP_Privacy.html)
+
+---
+
+*Curator: [Nicholas Collins](mailto:nicholas.r.collins@nasa.gov)*  
+*Responsible NASA Official: [Dylan Z. Baker](mailto:dylan.z.baker@nasa.gov)*  
+
+*Last updated: 2025-06-25*
