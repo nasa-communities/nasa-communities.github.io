@@ -15,10 +15,17 @@ contact-email: gsfc-toastmastersexec@lists.nasa.gov
 layout: club-with-nav
 
 anchors:
-  - { text: News, anchor: "#news" }
-  - { text: Guests and Center Access, anchor: "#Guests-and-Center-Access" }
-  - { text: Resources and Links, anchor: "/clubs/toastmasters/toastmasters_resources/" }
-  - { text: Officers, anchor: "#Club Officers" }
+  # Internal sections on this page
+  - { text: Guests and Center Access, anchor: "#guests-and-center-access" }
+  - { text: Officers, anchor: "#club-officers" }
+  - { text: Email Lists, anchor: "#email-lists" }
+
+  # External subpages (you are creating these)
+  - { text: Brief History, anchor: "/clubs/toastmasters/history/" }
+  - { text: Frequently Asked Questions, anchor: "/clubs/toastmasters/faq/" }
+  - { text: Resources & Files, anchor: "/clubs/toastmasters/resources/" }
+  - { text: Legacy Archive, anchor: "/clubs/toastmasters/archive/" }
+
 ---
 
 ![Goddard Toastmasters Banner](/images/toastmasters/gsfc_tm_www_banner.png)
