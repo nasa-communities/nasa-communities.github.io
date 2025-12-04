@@ -95,4 +95,9 @@ For NASA privacy policies and important notices, please see:
 *Curator: [Laura D. Vega](mailto:laura.daniela.vega@gmail.com)*  
 *Responsible NASA Official: [Dylan Z. Baker](mailto:dylan.z.baker@nasa.gov)*  
 
-*Last updated: 2025-12-03*
+### Acknowledgment of Past Curators
+
+The historical Goddard Toastmasters website reflects the efforts of multiple curators across its long history. Among them, **Nicholas Collins** played a major role in maintaining and organizing the site for many years, helping preserve newsletters, meeting minutes, educational materials, and club records. Nick’s professional work at NASA Goddard included extensive experience in **optical data and image analysis**, with contributions to the **Roman Space Telescope**, **PACE/OCI**, **JWST science operations**, and the **Hubble Space Telescope (WFC3 and STIS)**. We are grateful for his stewardship of the club’s legacy resources.
+
+
+*Last updated: 2025-12-04*
