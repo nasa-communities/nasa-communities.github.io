@@ -78,7 +78,7 @@ For more information, you may contact any of the club officers listed below.
 | President              | Ginger Butcher           | [ginger.butcher-1@nasa.gov](mailto:ginger.butcher-1@nasa.gov) | 301-614-5124 |
 | VP Education           | Dylan Baker, IP1         | [dylan.z.baker@nasa.gov](mailto:dylan.z.baker@nasa.gov)       | 301-286-0083 |
 | VP Membership          | Nancy Carney, LD3        | [nancy.s.carney@nasa.gov](mailto:nancy.s.carney@nasa.gov)     | 301-286-8090 |
-| VP Public Relations    | Nancy Carney, LD3        | [nancy.s.carney@nasa.gov](mailto:nancy.s.carney@nasa.gov)     | 301-286-8090 |
+| VP Public Relations    | Laura D. Vega, CC, CL    | [laura.d.vega@nasa.gov](mailto:laura.d.vega@nasa.gov)         | 210-954-1469 |
 | Secretary              | Martha O’Bryan, PM1      | [martha.v.obryan@nasa.gov](mailto:martha.v.obryan@nasa.gov)   | 301-286-1412 |
 | Treasurer              | Patrick McHale, CTM, PM1 | [patmchale1@outlook.com](mailto:patmchale1@outlook.com)       | 410-531-6921 |
 | Sergeant-at-Arms       | Vacant                   | —                                                    | —            |
