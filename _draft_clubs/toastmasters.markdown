@@ -71,7 +71,7 @@ If on-center access is difficult, we recommend exploring other nearby Toastmaste
 
 ## Club Officers
 
-For more information, you may contact any of the club officers listed below.
+**For more detailed guest information, including meeting structure and what to expect, see our [Guest Information page](/clubs/toastmasters/guest_info/) or you may contact any of the club officers listed below.**
 
 | Role                   | Name                     | Email                                                | Phone        |
 |------------------------|--------------------------|------------------------------------------------------|--------------|
@@ -90,6 +90,16 @@ For more information, you may contact any of the club officers listed below.
 
 - **General Membership:** [gsfc-toastmasters@lists.nasa.gov](mailto:gsfc-toastmasters@lists.nasa.gov)  
 - **Executive Committee:** [gsfc-toastmastersexec@lists.nasa.gov](mailto:gsfc-toastmastersexec@lists.nasa.gov)
+
+
+## Additional Resources
+
+- [How to Join Goddard Toastmasters](/clubs/toastmasters/how_to_join/) - Step-by-step membership instructions
+- [Guest Information](/clubs/toastmasters/guest_info/) - What to expect at meetings and center access details
+- [Brief History](/clubs/toastmasters/GSFC_TM_history/) - Club history and past presidents
+- [Frequently Asked Questions](/clubs/toastmasters/TM_FAQB/) - Comprehensive Toastmasters FAQ
+- [Useful Links](/clubs/toastmasters/links/) - Toastmasters International, District, and nearby clubs
+
 
 ## Toastmasters and NASA Notices
 
