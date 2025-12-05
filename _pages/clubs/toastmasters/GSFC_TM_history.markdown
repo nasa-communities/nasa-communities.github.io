@@ -1,8 +1,7 @@
 ---
-name: A Brief History of Goddard Toastmasters
+layout: club-with-nav
 title: "A Brief History of Goddard Toastmasters"
 categories: goddard
-layout: club-with-nav
 
 parent-club: Goddard Toastmasters
 
