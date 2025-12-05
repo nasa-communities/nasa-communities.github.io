@@ -1,7 +1,10 @@
 ---
+layout: club-with-nav
 name: Membership Application Instructions
 title: Membership Application Instructions
-layout: club-with-nav
+categories: goddard
+parent-club: Goddard Toastmasters
+thumbnail: toastmasters/GSFC_Toastmasters.jpg
 
 anchors:
   - { text: Back to How to Join, anchor: "/clubs/toastmasters/how_to_join/" }
