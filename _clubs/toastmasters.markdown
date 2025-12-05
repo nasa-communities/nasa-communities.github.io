@@ -1,7 +1,7 @@
 ---
 name: Goddard Toastmasters
 slogan: Build confidence in speaking and leadership.
-description: Goddard Toastmasters (Club 3496, District 36, Area 42) helps Goddard employees improve their communication and leadership skills in a supportive, practice-driven environment with twice-monthly meetings.
+description: Goddard Toastmasters (Club 3496, District 36, Area 42) helps Goddard employees and contractors improve their communication and leadership skills in a supportive, practice-driven environment with twice-monthly meetings.
 thumbnail: toastmasters/GSFC_Toastmasters.jpg
 
 contact-email: gsfc-toastmastersexec@lists.nasa.gov
@@ -110,14 +110,13 @@ Toastmasters International, the Toastmasters International logo, and all other T
 For NASA privacy policies and important notices, please see:  
 [Privacy Policies and Important Notices](https://www.nasa.gov/about/highlights/HP_Privacy.html)
 
----
-
-*Curator: [Laura D. Vega](mailto:laura.daniela.vega@gmail.com)*  
-*Responsible NASA Official: [Dylan Z. Baker](mailto:dylan.z.baker@nasa.gov)*  
-
 ### Acknowledgment of Past Curators
 
 The historical Goddard Toastmasters website reflects the efforts of multiple curators across its long history. Among them, **Nicholas Collins** played a major role in maintaining and organizing the site for many years, helping preserve newsletters, meeting minutes, educational materials, and club records. Nick’s professional work at NASA Goddard included extensive experience in **optical data and image analysis**, with contributions to the **Roman Space Telescope**, **PACE/OCI**, **JWST science operations**, and the **Hubble Space Telescope (WFC3 and STIS)**. We are grateful for his stewardship of the club’s legacy resources.
 
+---
+
+*Curator: [Laura D. Vega](mailto:laura.daniela.vega@gmail.com)*  
+*Responsible NASA Official: [Dylan Z. Baker](mailto:dylan.z.baker@nasa.gov)*  
 
 *Last updated: 2025-12-04*
