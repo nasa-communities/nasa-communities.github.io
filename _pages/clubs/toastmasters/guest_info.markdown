@@ -1,7 +1,10 @@
 ---
-name: Guest Information
-title: Guest Information for Goddard Toastmasters
 layout: club-with-nav
+name: "Guest Information"
+title: Guest Information for Goddard Toastmasters
+categories: goddard
+parent-club: Goddard Toastmasters
+thumbnail: toastmasters/GSFC_Toastmasters.jpg
 
 anchors:
   - { text: Back to Club Page, anchor: "/clubs/toastmasters/" }
