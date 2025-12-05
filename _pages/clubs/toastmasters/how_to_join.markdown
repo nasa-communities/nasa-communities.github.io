@@ -1,7 +1,10 @@
 ---
-name: How to Join Goddard Toastmasters
-title: How to Join Goddard Toastmasters
 layout: club-with-nav
+name: "How to Join Goddard Toastmasters"
+title: How to Join Goddard Toastmasters
+categories: goddard
+parent-club: Goddard Toastmasters
+thumbnail: toastmasters/GSFC_Toastmasters.jpg
 
 anchors:
   - { text: Back to Club Page, anchor: "/clubs/toastmasters/" }
