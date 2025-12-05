@@ -10,13 +10,14 @@ anchors:
   - { text: Back to Club Page, anchor: "/clubs/toastmasters/" }
 ---
 
+## Celebrating Over 50 Years of Goddard Toastmasters (1972–2025)
+
 ## Club 3496, District 36, Area 42
 
 # A Brief History of Goddard Toastmasters
 
-The year 2007 marked the 35th birthday of the Goddard Toastmasters. 
 Our official charter date is January 17, 1972 during the term of 
-Toastmasters International President Russell G. Herron. As with any new 
+Toastmasters International President Russell G. Herron. As of 2025, the club is 53 years old and continues to build on a long tradition of leadership and communication excellence. As with any new 
 Toastmasters Club, the drive for a club at Goddard began with a small 
 group of Goddard people seriously interested in the educational and 
 communication opportunities offered by the Toastmasters International 
