@@ -1,6 +1,6 @@
 ---
 layout: club-with-nav
-name: "A Brief History of Goddard Toastmasters"
+name: "A Brief History"
 title: "A Brief History of Goddard Toastmasters"
 categories: goddard
 parent-club: Goddard Toastmasters
