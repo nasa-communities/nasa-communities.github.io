@@ -2,8 +2,8 @@
 layout: club-with-nav
 title: "A Brief History of Goddard Toastmasters"
 categories: goddard
-
 parent-club: Goddard Toastmasters
+thumbnail: toastmasters/GSFC_Toastmasters.jpg
 
 anchors:
   - { text: Back to Club Page, anchor: "/clubs/toastmasters/" }
