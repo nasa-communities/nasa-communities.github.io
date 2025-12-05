@@ -26,8 +26,8 @@ anchors:
   - { text: Brief History, anchor: "/clubs/toastmasters/GSFC_TM_history/" }
   - { text: Frequently Asked Questions, anchor: "/clubs/toastmasters/TM_FAQB/" }
   - { text: Useful Links, anchor: "/clubs/toastmasters/links/" }
-  - { text: Resources & Files, anchor: "/clubs/toastmasters/resources/" }
-  - { text: Legacy Archive, anchor: "/clubs/toastmasters/archive/" }
+  - { text: Resources & Files (TBA), anchor: "/clubs/toastmasters/resources/" }
+  - { text: Legacy Archive (TBA), anchor: "/clubs/toastmasters/archive/" }
 
 ---
 
