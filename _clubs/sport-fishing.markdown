@@ -13,7 +13,7 @@ socials:
 #  instagram: /
 #  youtube: /
   
-layout: page
+layout: club
 ---
 
 Please join our [Facebook group](https://www.facebook.com/groups/259023567879226) for the latest on the Goddard Sport Fishing Club's activities.
