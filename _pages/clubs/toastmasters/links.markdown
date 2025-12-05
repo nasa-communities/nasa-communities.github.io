@@ -1,6 +1,6 @@
 ---
 layout: club-with-nav
-name: "Useful Toastmasters Links"
+name: "Useful Links"
 title: Useful Toastmasters Links
 categories: goddard
 parent-club: Goddard Toastmasters
