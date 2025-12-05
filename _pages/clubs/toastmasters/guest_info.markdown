@@ -17,8 +17,6 @@ anchors:
 
 # Guest Information for Goddard Toastmasters
 
-*Last updated: December 4, 2025*
-
 ## Visiting Goddard Toastmasters {#visiting-goddard-toastmasters}
 
 ### Welcome to Our Club
