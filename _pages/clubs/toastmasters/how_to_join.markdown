@@ -1,6 +1,6 @@
 ---
 layout: club-with-nav
-name: "How to Join Goddard Toastmasters"
+name: "How to Join"
 title: How to Join Goddard Toastmasters
 categories: goddard
 parent-club: Goddard Toastmasters
