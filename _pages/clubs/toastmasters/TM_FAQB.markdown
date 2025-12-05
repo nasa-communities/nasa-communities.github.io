@@ -1,5 +1,6 @@
 ---
 layout: club-with-nav
+name: "Frequently Asked Questions"
 title: "TM Frequently Asked Questions"
 categories: goddard
 parent-club: Goddard Toastmasters
