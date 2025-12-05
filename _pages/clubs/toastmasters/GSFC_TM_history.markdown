@@ -1,7 +1,10 @@
 ---
 name: A Brief History of Goddard Toastmasters
-title: A Brief History of Goddard Toastmasters
+title: "A Brief History of Goddard Toastmasters"
+categories: goddard
 layout: club-with-nav
+
+parent-club: Goddard Toastmasters
 
 anchors:
   - { text: Back to Club Page, anchor: "/clubs/toastmasters/" }
