@@ -1,7 +1,9 @@
 ---
-name: TM Frequently Asked Questions
-title: TM Frequently Asked Questions
 layout: club-with-nav
+title: "TM Frequently Asked Questions"
+categories: goddard
+
+parent-club: Goddard Toastmasters
 
 anchors:
   - { text: Back to Club Page, anchor: "/clubs/toastmasters/" }
