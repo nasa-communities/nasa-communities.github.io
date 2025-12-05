@@ -1,6 +1,10 @@
 ---
+name: A Brief History of Goddard Toastmasters
 title: A Brief History of Goddard Toastmasters
-layout: page
+layout: club-with-nav
+
+anchors:
+  - { text: Back to Club Page, anchor: "/clubs/toastmasters/" }
 ---
 
 ## Club 3496, District 36, Area 42
