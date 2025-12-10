@@ -114,7 +114,7 @@ Meetings and Snap & Share events are held at NOON, unless otherwise noted.
 | Oct   | Travel               |
 | Nov   | -                    |
 | Dec   | -                    |
-{: .table}
+{: style="width: 50%;"}
 
 #### September 2025
 
