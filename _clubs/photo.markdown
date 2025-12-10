@@ -142,7 +142,20 @@ th:nth-child(2), td:nth-child(2) {
 <br>
 
 #### September 2025
-
+<style>
+table {
+  border-collapse: collapse;
+  width: auto;
+}
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+th {
+  background-color: #f2f2f2;
+}
+</style>
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
 |------|-------------|------------------------------------------------|---------------------------|-------|
 | 10   | Meeting     | **Unleash your creativity (Lori Lankford)**   | **TBD**                   | Lori Lankford brings a refreshing approach to photography, making it fun, simple, and creative. She has a passion for teaching and mentoring photographers at all levels to develop their unique style and vision. Her personal English garden, transformed from bare dirt into a thriving floral paradise over the past three years, serves as both a creative workspace and a source of inspiration for her photography. [Visit Lori's Website](https://lorilankford.com/)<br/>**12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
