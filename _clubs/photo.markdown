@@ -39,27 +39,27 @@ The Goddard Photo Club is a member of the [Maryland Photography Alliance](https:
 
 ## Upcoming Events
 
-### January 14, 2026 - Meeting
+#### January 14, 2026 - Meeting
 
 **Topic:** TBD
 **Featured Photographer:** TBD
 **Time:** 12-1 pm
 **Location:** Hybrid; 23/S402 and Teams (link sent to members)
 
-### January 28, 2026 - Snap & Share
+#### January 28, 2026 - Snap & Share
 
 **Topic:** Fire
 **Time:** 12-1 pm
 **Location:** Hybrid; 23/S402 and Teams (link sent to members)
 
-### February 11, 2026 - Meeting
+#### February 11, 2026 - Meeting
 
 **Topic:** TBD
 **Featured Photographer:** TBD
 **Time:** 12-1 pm
 **Location:** Hybrid; 23/S402 and Teams (link sent to members)
 
-### February 25, 2026 - Snap & Share**
+#### February 25, 2026 - Snap & Share**
 
 **Topic:** Yellow
 **Time:** 12-1 pm
@@ -114,7 +114,7 @@ Meetings and Snap & Share events are held at NOON, unless otherwise noted.
 | Oct   | Travel               |
 | Nov   | -                    |
 | Dec   | -                    |
-
+{: .table}
 
 #### September 2025
 
@@ -129,7 +129,7 @@ Meetings and Snap & Share events are held at NOON, unless otherwise noted.
 |------|-------------|------------------------------------------------|---------------------------|-------|
 | 8    | Meeting     | **TBD<br/>Elections**                         | **TBD**                   | Photo Club will have its elections<br/>**12:00am-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 | 22   | Snap & Share| **Low Key Photography**                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
-
+{: .table}
 
 ***Snap & Share:** Members may upload up to 5 photos to the Flickr site (add them to the appropriate Snap & Share set and include your name in the description). Remember that these photos are potential choices for the cafeteria display!
 
