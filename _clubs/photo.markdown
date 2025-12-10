@@ -99,7 +99,20 @@ Meetings and Snap & Share events are held at NOON, unless otherwise noted.
 <!-- Add this code just before the "Future Events" heading
 -->
 ### Snap and Share Topics for 2026
-
+<style>
+table {
+  border-collapse: collapse;
+  width: auto;
+}
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+th {
+  background-color: #f2f2f2;
+}
+</style>
 | Month | Topic                |
 |-------|----------------------|
 | Jan   | Fire                 |
