@@ -139,6 +139,7 @@ th:nth-child(2), td:nth-child(2) {
 | Dec   | -                    |
 {: style="width: 60%;"}
 
+<br>
 
 #### September 2025
 
