@@ -129,6 +129,7 @@ th {
 | Dec   | -                    |
 {: style="width: 50%;"}
 
+
 #### September 2025
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
