@@ -103,14 +103,24 @@ Meetings and Snap & Share events are held at NOON, unless otherwise noted.
 table {
   border-collapse: collapse;
   width: auto;
+  max-width: 350px; /* This constrains the overall table width */
 }
 th, td {
   border: 1px solid #ddd;
-  padding: 8px;
+  padding: 6px; /* Reduced padding */
   text-align: left;
 }
 th {
   background-color: #f2f2f2;
+}
+/* Column-specific widths */
+th:first-child, td:first-child {
+  width: 60px; /* Month column width */
+}
+th:nth-child(2), td:nth-child(2) {
+  width: 120px; /* Topic column width */
+  max-width: 120px;
+  word-wrap: break-word; /* Allows text to wrap */
 }
 </style>
 | Month | Topic                |
