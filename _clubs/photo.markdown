@@ -39,16 +39,29 @@ The Goddard Photo Club is a member of the [Maryland Photography Alliance](https:
 
 ## Upcoming Events
 
-### September 10, 2025 - Meeting
+### January 14, 2026 - Meeting
 
-**Topic:** Unleash your creativity (Speaker: Lori Lankford)
+**Topic:** TBD
 **Featured Photographer:** TBD
 **Time:** 12-1 pm
 **Location:** Hybrid; 23/S402 and Teams (link sent to members)
 
-### Sepember 24, 2025 - Snap & Share
+### January 28, 2026 - Snap & Share
 
-**Topic:** High Key Photography
+**Topic:** Fire
+**Time:** 12-1 pm
+**Location:** Hybrid; 23/S402 and Teams (link sent to members)
+
+### February 11, 2026 - Meeting
+
+**Topic:** TBD
+**Featured Photographer:** TBD
+**Time:** 12-1 pm
+**Location:** Hybrid; 23/S402 and Teams (link sent to members)
+
+### February 25, 2026 - Snap & Share**
+
+**Topic:** Yellow
 **Time:** 12-1 pm
 **Location:** Hybrid; 23/S402 and Teams (link sent to members)
 
@@ -83,26 +96,25 @@ The Goddard Photo Club is a member of the [Maryland Photography Alliance](https:
 
 Meetings and Snap & Share events are held at NOON, unless otherwise noted.
 
-<!-- Add this code just before the "Future Events" heading 
-### Snap and Share Topics for 2025
+<!-- Add this code just before the "Future Events" heading
+-->
+### Snap and Share Topics for 2026
 
 | Month | Topic                |
 |-------|----------------------|
-| Jan   | Celebration          |
-| Feb   | Best of Field Trips  |
-| Mar   | Sepia                |
-| Apr   | Signs of Spring      |
-| May   | Flash Photography    |
-| Jun   | Seascapes            |
-| Jul   | Pets                 |
-| Aug   | Portrait             |
-| Sep   | High Key             |
-| Oct   | Low Key              |
+| Jan   | Fire                 |
+| Feb   | Yellow               |
+| Mar   | Urban                |
+| Apr   | Paths                |
+| May   | Flowing water        |
+| Jun   | Birds                |
+| Jul   | Sports and events    |
+| Aug   | People at work       |
+| Sep   | "What is this"       |
+| Oct   | Travel               |
 | Nov   | -                    |
 | Dec   | -                    |
-{: .table}
 
--->
 
 #### September 2025
 
@@ -110,7 +122,6 @@ Meetings and Snap & Share events are held at NOON, unless otherwise noted.
 |------|-------------|------------------------------------------------|---------------------------|-------|
 | 10   | Meeting     | **Unleash your creativity (Lori Lankford)**   | **TBD**                   | Lori Lankford brings a refreshing approach to photography, making it fun, simple, and creative. She has a passion for teaching and mentoring photographers at all levels to develop their unique style and vision. Her personal English garden, transformed from bare dirt into a thriving floral paradise over the past three years, serves as both a creative workspace and a source of inspiration for her photography. [Visit Lori's Website](https://lorilankford.com/)<br/>**12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 | 24   | Snap & Share| **High Key Photography**                       |                           | High key photography is a style characterized by bright, well-lit images with minimal shadows and dark tones. This technique uses predominantly white or light tones throughout the composition, creating an image that appears bright, airy, and often optimistic or uplifting. [Check this link for examples](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffstoppers.com%2Feducation%2Fcloser-look-high-key-and-low-key-photography-547770&data=05%7C02%7Cgenevieve.demessieres%40nasa.gov%7C964fb38506a14383b51a08ddd9cda7d0%7C7005d45845be48ae8140d43da96dd17b%7C0%7C0%7C638906199794341008%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=8Phfk%2FfyIk9kQEMJbhoS8N7VtoNIBUi3ZjoyyTxhOKk%3D&reserved=0)<br/>**12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
-{: .table}
 
 #### October 2025
 
@@ -118,7 +129,7 @@ Meetings and Snap & Share events are held at NOON, unless otherwise noted.
 |------|-------------|------------------------------------------------|---------------------------|-------|
 | 8    | Meeting     | **TBD<br/>Elections**                         | **TBD**                   | Photo Club will have its elections<br/>**12:00am-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 | 22   | Snap & Share| **Low Key Photography**                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
-{: .table}
+
 
 ***Snap & Share:** Members may upload up to 5 photos to the Flickr site (add them to the appropriate Snap & Share set and include your name in the description). Remember that these photos are potential choices for the cafeteria display!
 
@@ -183,118 +194,118 @@ Please contact our [webmaster](#officers-and-contacts) for copies of past club n
 ### Courses
 
 - **Photo 102: Basic Post-Processing** (2022; Scott Hull)
-  - Session 1: [Slides (pptx)](Documents/presentations/Photo102-2022v2.pptx) and [Teams video](Documents/presentations/Photo102_BasicPostProcessing-20220304_120153-MeetingRecording.mp4)
-  - Session 2: [Teams video](Documents/presentations/Photo102_BasicPostProcessing-20220311_120241-MeetingRecording.mp4)
-  - Session 3: [Teams video](Documents/presentations/Photo102_BasicPostProcessing-20220318_120709-MeetingRecording.mp4)
+  - Session 1: [Slides (pptx)](https://drive.google.com/uc?export=download&id=1L75ObFPHy6I-Sbx0OAD85aLHMyG7_EmZ) and [Teams video](https://drive.google.com/uc?export=download&id=1Ckc7ZF4hVJbXc9UPL4SEf3Smb9g1cO6s)
+  - Session 2: [Teams video](https://drive.google.com/uc?export=download&id=1nuN1VOL5TNC973d1hiEmMP2Msa6t6HGz)
+  - Session 3: [Teams video](https://drive.google.com/uc?export=download&id=1LfjZkklfb3AuVtGoOE4NpCxeynlrT7Jy)
 
 - **Post-Processing to improve your photos - in Photoshop & Lightroom** (2020)
   - Full session (Krisitin Rutkowski & Karen Smale):
-    - [Slides (pptx)](Documents/presentations/Post-Processing-in-Photoshop-and-Lightroom.pptx)
-    - [Teams video](Documents/presentations/20200918-Goddard-Photo-Club-Post-Processing-Workshop.mp4)
+    - [Slides (pptx)](https://drive.google.com/uc?export=download&id=1rZisIDtC623UiUTG2J_bAq9DBMiSsSZp)
+    - [Teams video](https://drive.google.com/uc?export=download&id=16t_YfkEjkV3z_KLDJt_3nhinXfqMO0mO)
     - [Flickr album with before/after photos](https://www.flickr.com/photos/gsfcphoto/albums/72157716027889917)
 
 - **Intro to Digital Photography** (2020)
-  - Session 1: Composition (Nancy Rosenbaum [Slides (pdf)](Documents/presentations/2020Photo101-session1-Composition.pdf))
-  - Session 2: Exposure (Scott Hull, [Slides (pdf)](Documents/presentations/2020Photo101-session2v1.pdf))
-  - Session 2: Camera Mechanics (Scott Hull, [Slides (pdf)](Documents/presentations/2020Photo101-session3v1.pdf))
+  - Session 1: Composition (Nancy Rosenbaum [Slides (pdf)](https://drive.google.com/uc?export=download&id=1LAmaHa2N9LE5_OH1u5DeRp1BCUXW_Cyw))
+  - Session 2: Exposure (Scott Hull, [Slides (pdf)](https://drive.google.com/uc?export=download&id=118r1xfA7b2NX1sXhUk8lf1BML9YZH-Sr))
+  - Session 2: Camera Mechanics (Scott Hull, [Slides (pdf)](https://drive.google.com/uc?export=download&id=1YIPcDYKlL0tP2IHkxRImCprRdBjJjYGY))
 
 - **Headshots Workshop** (2020)
-  - Full Session (Kristin Rutkowski [Slides (pdf)](Documents/presentations/2020_01_Headshots_Workshop.pdf))
+  - Full Session (Kristin Rutkowski [Slides (pdf)](https://drive.google.com/uc?export=download&id=1AbBnia8GlH2_HERuCTaCOtJ0qfdYj2Lp))
 
 - **Photoshop Layers** (2018)
-  - Handout (Nancy Rosenbaum & Karen Smale, [Slides (pptx)](Documents/presentations/Layers2018.pptx))
-  - Handout - session 3 (Nancy Rosenbaum & Karen Smale, [Slides (pptx)](Documents/presentations/Layers2018-session3.pptx))
+  - Handout (Nancy Rosenbaum & Karen Smale, [Slides (pptx)](https://drive.google.com/uc?export=download&id=1rkDpFn2qHcgnM5E5eNHsfdjHpoF8i-6x))
+  - Handout - session 3 (Nancy Rosenbaum & Karen Smale, [Slides (pptx)](https://drive.google.com/uc?export=download&id=1FoA4ysWQECECdT5nEPDbc5AxJWItJ7ai))
   - [Flickr album with sample images](https://www.flickr.com/photos/gsfcphoto/albums/72157664817715148)
 
 - **Intro to Lighting and Portraiture** (2016)
-  - Session 1: Lighting Presentation (Bill Dusterwald, [Slides (ppt)](Documents/presentations/LightingPresentation.ppt))
-  - Session 2: Portraiture Photography (Bill Dusterwald, [Slides (ppt)](Documents/presentations/PortraiturePhotography.ppt))
+  - Session 1: Lighting Presentation (Bill Dusterwald, [Slides (ppt)](https://drive.google.com/uc?export=download&id=1_ebx_kR65AGIBMax7nQ8gOBjJHA8_3Nv))
+  - Session 2: Portraiture Photography (Bill Dusterwald, [Slides (ppt)](https://drive.google.com/uc?export=download&id=1De22iXRkmzABA2yDonZ4Gw3-HYpdkriR))
 
-Please contact our [webmaster](#officers-and-contacts) for copies of materials from previous versions of these courses.
+- [List of all courses](all-courses.html) (including previous versions of the same course)
 
 ### Meeting Presentations
 
 - [Macro photography Talk](Documents/presentations/MacroPhotography_MattBertone.mp4) (video mp4) (Dr. Matthew Bertone, May 14, 2025)
-- [Making Black and White Images](Documents/presentations/Making%20Black%20and%20WhiteB.pdf) (PDF) (Bill Dusterwald, October 9, 2024)
-- [What it's like to be a Smithsonian Photographer](Documents/presentations/Smithsonian-Photography-2.pptx) (PPTX) (Lucia Martino, May 8, 2024)
-- [Food Photography](Documents/presentations/CameraClub-Buchanan.pdf) (PDF) (Steve Buchanan, Apr 10, 2024)
-- [Make Art, Not War](Documents/presentations/alisajane.pptx) (PPTX) (Alisa Jane, Mar 13, 2024)
-- [Photographing the 2024 Eclipse](Documents/presentations/Photographing-2024-Eclipse.pdf) (PDF) (Scott Hull, Feb 14, 2024)
-- [Lessons Learned from the Headshot Workshops](Documents/presentations/HeadshotWorkshops-LessonsLearned.pptx) (PPTX) (Emily Beckman, et al., Jan 10, 2024)
-- [Post Processing for Dust/Object Removal](Documents/presentations/Post-Processing-for-Dust-and-Object-Removal.pptx) (PPTX) (Nancy Rosenbaum, Sep 13, 2023)
-- [Flip the Composition](Documents/presentations/FlipTheComposition-BillDusterwald.pptx) (PPTX) (Bill Dusterwald, Aug 9, 2023)
-- ["Her Helm" Photo Project](Documents/presentations/Her-Helm-Kristin-Rutkowski-Goddard-Photo-Club-20230712.pdf) (PDF) (Kristin Rutkowski, July 12, 2023)
-- [Photomerge for PSE](Documents/presentations/Photomerge-for-PSE.pptx) (PPTX) (Scott Hull, May 10, 2023)
+- [Making Black and White Images](https://drive.google.com/uc?export=download&id=18v09axMaOstHqCBsdxWesiffA_RKssDr) (PDF) (Bill Dusterwald, October 9, 2024)
+- [What it's like to be a Smithsonian Photographer](https://drive.google.com/uc?export=download&id=1uoIIMjv6a-OqmFuXLWQ3IGJNl0P7w2Tf) (PPTX) (Lucia Martino, May 8, 2024)
+- [Food Photography](https://drive.google.com/uc?export=download&id=1LM5ne6xFt4IgwQdcvfsZTKCTDPFm4LhM) (PDF) (Steve Buchanan, Apr 10, 2024)
+- [Make Art, Not War](https://drive.google.com/uc?export=download&id=1v6S_HO-5882_abbwzJ-_qEFJMiVc_IXe) (PPTX) (Alisa Jane, Mar 13, 2024)
+- [Photographing the 2024 Eclipse](https://drive.google.com/uc?export=download&id=1s5UJSyb-0_09aemprgfWQQy8l1qq5Uj3) (PDF) (Scott Hull, Feb 14, 2024)
+- [Lessons Learned from the Headshot Workshops](https://drive.google.com/uc?export=download&id=1tukKU1foszWyRoElGu_oHlMOL3bZjnzb) (PPTX) (Emily Beckman, et al., Jan 10, 2024)
+- [Post Processing for Dust/Object Removal](https://drive.google.com/uc?export=download&id=1rKvFB7pefOv61skbKA8qAgv4f6SJgGmF) (PPTX) (Nancy Rosenbaum, Sep 13, 2023)
+- [Flip the Composition](https://drive.google.com/uc?export=download&id=10lD3u_sSBQSsgqJJLPDG-BfSwU6qc6Jc) (PPTX) (Bill Dusterwald, Aug 9, 2023)
+- ["Her Helm" Photo Project](https://drive.google.com/uc?export=download&id=1wRkHoWLieW3fQx4geQDL6NiYlUNwy3yp) (PDF) (Kristin Rutkowski, July 12, 2023)
+- [Photomerge for PSE](https://drive.google.com/uc?export=download&id=1sCex4G0gbdr9sPClyrmMWUoqNSbNPi56) (PPTX) (Scott Hull, May 10, 2023)
 - [Solargraphs](https://nasa-my.sharepoint.com/:v:/g/personal/ebeckman_ndc_nasa_gov1/EfFvyKkdMeZGiE72cOycFWYBr1jXQyDU86cd_Y1CQx0GEQ) (Teams recording, internal only) (Geneviève de Messieres, April 12, 2023)
-- [Light Painting](Documents/presentations/Light-Painting-2023-v4.pptx) (PPTX) (Karen Smale, March 8, 2023)
-- [Inexpensive Underwater Photography](Documents/presentations/Inexpensive-Underwater-Photography.pdf) (Scott Hull, February 8, 2023)  
+- [Light Painting](https://drive.google.com/uc?export=download&id=1mz1b1n77JSba_T76IcH_ToHHaDeBtCAc) (PPTX) (Karen Smale, March 8, 2023)
+- [Inexpensive Underwater Photography](https://drive.google.com/uc?export=download&id=1As56sBtpD9t-VQDSBqjmASwlygLgqiJR) (Scott Hull, February 8, 2023)  
   [Presentation Video](https://nasa.sharepoint.com/:v:/r/teams/GoddardPhotoCLub/Shared%20Documents/General/Meeting%20Recordings/Photo%20Club%20Meeting-20230208_Underwater_SHull-Meeting%20Recording.mp4?csf=1&web=1&e=KHdcfw) (internal link)
-- [Who's Using Your Images Online? (Find Stolen Images)](Documents/presentations/FindStolenImages-KarenSmale.pptx) (PPTX) (Karen Smale, January 11, 2023)
-- [Edit Your Images](Documents/presentations/PhotoEditing-GoddardPhotoClub.pptx) (PPTX) (Karen Smale & Scott Hull, October 12, 2022)
-- [How to be Seen](Documents/presentations/How-to-be-Seen-VinceFerrari.pdf) (PDF) (Vince Ferrari, September 14, 2022)
+- [Who's Using Your Images Online? (Find Stolen Images)](https://drive.google.com/uc?export=download&id=1tR6UkGW5DPKPZg-Yaovod7n6dMUPkHSS) (PPTX) (Karen Smale, January 11, 2023)
+- [Edit Your Images](https://drive.google.com/uc?export=download&id=16bgUJaERzcfv5pmaTGD4lLynLe6P8sg4) (PPTX) (Karen Smale & Scott Hull, October 12, 2022)
+- [How to be Seen](https://drive.google.com/uc?export=download&id=1BvyagWBdq3LmrAgrLkYAK9JfB7GVXQBp) (PDF) (Vince Ferrari, September 14, 2022)
 - [Night Sky Photography](https://nasa.sharepoint.com/:v:/r/teams/GoddardPhotoCLub/Shared%20Documents/General/Meeting%20Recordings/Photo%20Club%20Meeting-20220810-RobertFawcett-NightSky-Meeting%20Recording.mp4?csf=1&web=1&e=gkQ8Cb) (recording, internal only) (Robert Fawcett, August 10, 2022)
 - [Photo Critique](https://nasa.sharepoint.com/teams/GoddardPhotoCLub/Shared%20Documents/General/Meeting%20Recordings/Photo%20Club%20Critique-20220608_121021-Meeting%20Recording.mp4) (video; internal link) (Pete Morton, June 8, 2022)
 - [Event Photography](https://nasa.sharepoint.com/teams/GoddardPhotoCLub/Shared%20Documents/General/Meeting%20Recordings/Photo%20Club%20Meeting-20220413_123150-Meeting%20Recording.mp4) (video; internal link) (Erika Nizborski, Apr 13, 2022)
-- [Zoo Photography Tips](Documents/presentations/ZooPhotos-JulieGould-2.4.22.pdf) (PDF) (Julie Gould, Feb 9, 2022)  
+- [Zoo Photography Tips](https://drive.google.com/uc?export=download&id=1pj73nIz66HokuEsFg5nCM5ehHE06V1Qt) (PDF) (Julie Gould, Feb 9, 2022)  
   [Presentation Video](https://nasa.sharepoint.com/teams/GoddardPhotoCLub/Shared%20Documents/General/Meeting%20Recordings/Photo%20Club%20Meeting-20220209_123114-Meeting%20Recording.mp4) (internal link)
-- [Flip the Photo](Documents/presentations/CompositionalFlip-withConstructs.pdf) (PDF) (Bill Dusterwald, Jan 12, 2022)
-- [How to Choose a New Camera](Documents/presentations/Camera-choices-KeithChamberlin.pptx) (PPTX) (Keith Chamberlin, Oct 13, 2021)
-- [Macro Photography Methods](Documents/presentations/MacroPhotographyMethods-ScottHull.pdf) (PDF) (Scott Hull, Sept 8, 2021)
-- [Common edits in Lightroom](Documents/presentations/Common-edits-in-LR2021.pptx) (PPTX) (Nancy Rosenbaum, Augst 11, 2021)
-- [Posing Help for Portrait Photographers](Documents/presentations/2021-05-12-Kristin-Rutkowski-Photography-posing-presentation.pdf) (PDF) (Kristin Rutkowski, May 12, 2021)
-- [Monitor Calibration Best Practices for Photographers](Documents/presentations/MonitorCalibrationBestPracticesforPhotographers.pdf) (PDF) (Ken Fleisher, Apr 14, 2021)
-- [Time-lapse Photography](Documents/presentations/TimelapsePhotography.pptx) (PPTX) (Karen Smale, Mar 10, 2021)
-- [Stefan's Adventures in Photography and Film Making](Documents/presentations/ImmlerGSFCPhotoClub.pptx) (PPTX) (Stefan Immler, Feb 10, 2021)
-- [Basic Astrophotography](Documents/presentations/BasicAstrophotography-2021Jan13.ppt) (PPT) (Scott Hull, Jan 13, 2021)
-- [A still photographer steps into video: Slide shows and virtual choirs](Documents/presentations/2020-12-David-Friedlander-presentation-with-video-links.pptx) (PPTX) (David Friedlander, Dec 9, 2020)
-- [Annual meeting presentation](Documents/presentations/FY2021Presentation.pptx) (PPTX) (Kristin Rutkowski, Oct 14, 2020)
-- [Putting Your Best Virtual Foot Forward](Documents/presentations/PuttingYourBestVirtualFootForward.pdf) (PDF) (Scott Hull, Aug 12, 2020)
-- [Flickr instructions](Documents/presentations/Flickr_Rutkowski-2020.pdf) (PDF) (Kristin Rutkowski, July 8, 2020)
-- [Firefly Photography](Documents/presentations/FireflyPhotography.pptx) (PPTX) (Geneviève de Messeieres, May 13, 2020)
-- [Photographing Birds](Documents/presentations/BirdPres-042020-KimberlyE.pptx) (PPTX) (Kimberly Engle, Apr 8, 2020)
-- [Birds In Flight](Documents/presentations/BirdsInFlight_photo_club_EliotM.pptx) (PPTX) (Eliot Malumuth, Apr 8, 2020)
-- [Aviation Photography](Documents/presentations/Knudtson_Photo_Aviation_Feb20.pptx) (PPTX) (Peter Knudtson, Feb 12, 2020)
-- [Photo Collages](Documents/presentations/PhotoCollage-RT.pptx) (PPTX) (Raghu Tumkur & Karen Smale, Jan 8, 2020)
-- [Intro to Flickr](Documents/presentations/IntroToFlickr.pptx) (PPTX) (Dave Schaible, Oct 10, 2019)
-- [Annual meeting presentation](Documents/presentations/FY2020Presentation-final.pptx) (PPTX) (Nancy Rosenbaum, Oct 10, 2019)
-- [Compose and Crop](Documents/presentations/ComposeAndCrop-BDusterwald-2019Aug14.pptx) (PPTX) (Bill Dusterwald - Aug 14, 2019)
-- [What Makes a Good Competition Photo](Documents/presentations/WhatMakesAGoodCompetitionPhoto.pptx) (PPTX) (Roz Kleffman - June 12, 2019)
-- [Minimalism](Documents/presentations/Minimalism_Wohl_2019Apr8.pptx) (PPTX) (Andrew Wohl - Apr 10, 2019)
-- [Light Sculpting](Documents/presentations/LightSculpting.ppt) (PPT) (Bill Dusterwald - Feb 13, 2019)
-- [Focusing Lessons](Documents/presentations/FocusingLessons.pptx) (PPTX) (Scott Hull - Oct 10, 2018)
-- [Framing graphics and photographs](Documents/presentations/Photo_Club_Framing.ppt) (PPT) (Larry Gilbert - Sept 12, 2018)
-- [Video Montage](Documents/presentations/MasonVideoMontageTutorial.pptx) (PPTX) (James Mason - July 11, 2018)
-- [Flash Photography](Documents/presentations/FlashPhotographyA.ppt) (PPT) (Bill Dusterwald - June 13, 2018)
-- [How to Calibrate Your Camera (Color Checker)](Documents/presentations/ColorChecker.ppt) (PPT) (Bill Dusterwald - April 11, 2018)
-- [Nighttime Photography](Documents/presentations/NighttimePhotography2.pptx) (PPTX) (Karen Smale - March 14, 2018)
-- [How to Build a Montage](Documents/presentations/HowToBuildAMontage.pdf) (PDF) (Scott Hull - February 14, 2018)
-- [A Brief Look at PS Elements and High Dynamic Range (HDR)](Documents/presentations/PS-Elements-and-HDR.pptx) (PPTX) (Martin Perrine - January 10, 2018)
-- [Hiking with camera gear](Documents/presentations/Hiking_with_Camera_Gear.pptx) (PPTX) (Kimberly Engle - Sept 13, 2017)
-- [Photographing the 2017 American Eclipse](Documents/presentations/Photographing2017AmericanEclipse.pdf) (PDF) (Joe Novotka - July 12, 2017)
-- [Infrared Photography](Documents/presentations/InfraredPhotography-Chamberlin.pptx) (PPTX) (Keith Chamberlin - June 14, 2017)
-- [Photomerge and Focus Stacking](Documents/presentations/Photomerge-FocusStacking.pptx) (PPTX) (Joseph Gruber - Apr 12, 2017)
-- [Drones and Drone Photography](Documents/presentations/Drones-Photography-7b.pptx) (PPTX) and [video](Documents/presentations/1_Refuge-4a.mp4) (mp4) (Tom Manson - Feb 8, 2017)
-- [Electronic Viewfinders and Touchscreens](Documents/presentations/EVF-and-Touchscreens2017.pptx) (PPTX) (Scott Hull - Jan 11, 2017)
-- [Layers](Documents/presentations/Layers2016.pptx) (PPTX) (Nancy Rosenbaum - Dec 14, 2016)
-- [Cropping](Documents/presentations/Cropping.pptx) (PPTX) (Andy Wohl - Nov 9, 2016)
-- [Personal Digital Archiving](Documents/presentations/PersonalDigitalArchiving-final.pdf) (PDF) (Nancy Rosenbaum - Aug 10, 2016)
-- [Architecture](Documents/presentations/Architecture.pptx) (PPTX) (Tom Manson - May 11, 2016) (WARNING: 600 MB)
-- [Scanning](Documents/presentations/Scanning.pptx) (PPTX) (Bill Dusterwald - Mar 9, 2016)
-- [Styles of Portrait Photography](Documents/presentations/Styles-of-portrait-photog.pptx) (PPTX) (Nancy Rosenbaum & Bill Dusterwald - Jan 13, 2016)
-- [Entering Photography Exhibitions](Documents/presentations/Exhibitions.pptx) (PPTX) (Andy Wohl - Dec 9, 2015)
-- [Planning for Photo Events (the Photographer's Ephermis & other tools)](Documents/presentations/PlanningForPhotoEvents.pdf) (PDF) (Tyler Evans - Nov 4, 2015)
-- [Astrophotography with a DSLR](Documents/presentations/Astrophotography-with-DSLR.pdf) (PDF) (Kevin Hartnett - June 10, 2015)
-- [ICC Color Profiles](Documents/presentations/ICC_Profiles.pptx) (Bob Peters - Apr 8, 2015)
-- [Intentional Camera Movement & Light Painting](Documents/presentations/ICM-and-LightPainting.pptx) (Karen Smale - Feb 11, 2015)
-- [365 Project](Documents/presentations/365project.pptx) (Karen Smale - Dec 10, 2014)
-- [Making Photo Orbs](Documents/presentations/MakingPhotoOrbs.pptx) (Nancy Rosenbaum - Nov 12, 2014)
-- [Extreme Shutter Speeds](Documents/presentations/ExtremeShutterSpeeds.pptx) (Tyler Evans - Aug 13, 2014)
-- [Portrait Photography](Documents/presentations/PortraitPhotography.pptx) (Melissa Meyers - June 11, 2014)
-- [Topaz Simplify Plug-in](Documents/presentations/Topaz-Simplify.ppt) (Bill Dusterwald - Apr 9, 2014)
-- [Photographing Ice Hockey](Documents/presentations/PhotographingIceHockey.pptx) (Cindy Brumfield - March 12, 2014)
-- [A Photographer's Guide to Blossoms and Blooms](Documents/presentations/BlossomsandBlooms.ppt) (Dorlisa Hommel - Feb 12, 2014)
+- [Flip the Photo](https://drive.google.com/uc?export=download&id=1rIiUJrOvQM7gojzVuv_lo-bIiFejLgmM) (PDF) (Bill Dusterwald, Jan 12, 2022)
+- [How to Choose a New Camera](https://drive.google.com/uc?export=download&id=1q3xftarKr-qudJKb_mIlKFhuIoVo8CRW) (PPTX) (Keith Chamberlin, Oct 13, 2021)
+- [Macro Photography Methods](https://drive.google.com/uc?export=download&id=1yuYHavU1542Yx3GByQhWBYWEaDTiAmZm) (PDF) (Scott Hull, Sept 8, 2021)
+- [Common edits in Lightroom](https://drive.google.com/uc?export=download&id=1FnlsjTPrjJ34osKe592RJl7c7341awGp) (PPTX) (Nancy Rosenbaum, Augst 11, 2021)
+- [Posing Help for Portrait Photographers](https://drive.google.com/uc?export=download&id=127iQ7iAsQuveMxrOTQM3zMFfU2GVUI8l) (PDF) (Kristin Rutkowski, May 12, 2021)
+- [Monitor Calibration Best Practices for Photographers](https://drive.google.com/uc?export=download&id=1P9xg82Ah_KUbHxIWod-_t5oB3ZKR8GZR) (PDF) (Ken Fleisher, Apr 14, 2021)
+- [Time-lapse Photography](https://drive.google.com/uc?export=download&id=1x76OmqfnOWHbSUnlcZNtURSwIB6ZS--y) (PPTX) (Karen Smale, Mar 10, 2021)
+- [Stefan's Adventures in Photography and Film Making](https://drive.google.com/uc?export=download&id=1lDgqa-F6YZ_PfFV0VmUZY5pL-K3yXE0d) (PPTX) (Stefan Immler, Feb 10, 2021)
+- [Basic Astrophotography](https://drive.google.com/uc?export=download&id=1ZOGUak1jV91wDAOgEDBEXoMkq5XLsyG2) (PPT) (Scott Hull, Jan 13, 2021)
+- [A still photographer steps into video: Slide shows and virtual choirs](https://drive.google.com/uc?export=download&id=1H0bP29LqdVmy6ot3F4ZikeM5L5fghE3X) (PPTX) (David Friedlander, Dec 9, 2020)
+- [Annual meeting presentation](https://drive.google.com/uc?export=download&id=1PhFzHwVC2iql_gKNwL8GBgUvA91ad0fc) (PPTX) (Kristin Rutkowski, Oct 14, 2020)
+- [Putting Your Best Virtual Foot Forward](https://drive.google.com/uc?export=download&id=1CMvywjbFuiCIxK6R60swVBaWCTYTfGs7) (PDF) (Scott Hull, Aug 12, 2020)
+- [Flickr instructions](https://drive.google.com/uc?export=download&id=1rfFLK_97zRQNxbzT5xr4Drqb8xwLI-m2) (PDF) (Kristin Rutkowski, July 8, 2020)
+- [Firefly Photography](https://drive.google.com/uc?export=download&id=1L6RCyzp3HPFZA5y6SybyyLIOaNqb66EW) (PPTX) (Geneviève de Messeieres, May 13, 2020)
+- [Photographing Birds](https://drive.google.com/uc?export=download&id=1ZJGDLSaosiFOyjv571NM_Oa9-F4N7QVX) (PPTX) (Kimberly Engle, Apr 8, 2020)
+- [Birds In Flight](https://drive.google.com/uc?export=download&id=17dFSEp5-VUDIeAj6J9gk6mkJUy8ekLhp) (PPTX) (Eliot Malumuth, Apr 8, 2020)
+- [Aviation Photography](https://drive.google.com/uc?export=download&id=1U5y_xcexqIgoQo9UGnlxZibvJb3fZTFx) (PPTX) (Peter Knudtson, Feb 12, 2020)
+- [Photo Collages](https://drive.google.com/uc?export=download&id=1Meh1x8OBoproxjcdyejheSVJsDPpl5u-) (PPTX) (Raghu Tumkur & Karen Smale, Jan 8, 2020)
+- [Intro to Flickr](https://drive.google.com/uc?export=download&id=14A-9Z2w-cw9G9hOQZNmRiLw6jduGKIAc) (PPTX) (Dave Schaible, Oct 10, 2019)
+- [Annual meeting presentation](https://drive.google.com/uc?export=download&id=1vCRTysmM-GySkMop31247d9oicyENJvm) (PPTX) (Nancy Rosenbaum, Oct 10, 2019)
+- [Compose and Crop](https://drive.google.com/uc?export=download&id=1qekfOWIe-mAzsl7LBxVQgj9two0ug1W1) (PPTX) (Bill Dusterwald - Aug 14, 2019)
+- [What Makes a Good Competition Photo](https://drive.google.com/uc?export=download&id=111Lz19cGuT6SqZbKXhwZk4xrPExAnYmz) (PPTX) (Roz Kleffman - June 12, 2019)
+- [Minimalism](https://drive.google.com/uc?export=download&id=1C7NGVGX2b-wpERKa_8g6MUyl3dmOw5vS) (PPTX) (Andrew Wohl - Apr 10, 2019)
+- [Light Sculpting](https://drive.google.com/uc?export=download&id=15cqMechuqhNNQMx3SVX3IHTpkdam5FkS) (PPT) (Bill Dusterwald - Feb 13, 2019)
+- [Focusing Lessons](https://drive.google.com/uc?export=download&id=1SjTWQPIMbEQJzL3A-ED5YLSnuGGRhwpd) (PPTX) (Scott Hull - Oct 10, 2018)
+- [Framing graphics and photographs](https://drive.google.com/uc?export=download&id=1RLZhZw0qyWxmvk1PNcCUx_uSlSK_se4t) (PPT) (Larry Gilbert - Sept 12, 2018)
+- [Video Montage](https://drive.google.com/uc?export=download&id=1LjrbyNUO7FqL40nc32_jLOjabH78YeiO) (PPTX) (James Mason - July 11, 2018)
+- [Flash Photography](https://drive.google.com/uc?export=download&id=1W-hx56SjzZUgQt8J1qoAO1I7d-IALvGR) (PPT) (Bill Dusterwald - June 13, 2018)
+- [How to Calibrate Your Camera (Color Checker)](https://drive.google.com/uc?export=download&id=1FjFOlrNyciV-bgpAlhrEmD-VejE-oZSk) (PPT) (Bill Dusterwald - April 11, 2018)
+- [Nighttime Photography](https://drive.google.com/uc?export=download&id=10_7Ov2wVOprCd2Cia4haSR2Z1g_s6_wX) (PPTX) (Karen Smale - March 14, 2018)
+- [How to Build a Montage](https://drive.google.com/uc?export=download&id=1pPFo3pZd1x6VIFAYjLq9n2Md97gAp8Uw) (PDF) (Scott Hull - February 14, 2018)
+- [A Brief Look at PS Elements and High Dynamic Range (HDR)](https://drive.google.com/uc?export=download&id=1TtAQqJhSpzFr6Sim7mAxKmMoIMHFTmge) (PPTX) (Martin Perrine - January 10, 2018)
+- [Hiking with camera gear](https://drive.google.com/uc?export=download&id=18Vc7RP8Jpxpw4O-OhATG01HUoWdLX1hn) (PPTX) (Kimberly Engle - Sept 13, 2017)
+- [Photographing the 2017 American Eclipse](https://drive.google.com/uc?export=download&id=1A835brzq2OeSmR1JR_w5xO5YOTsP8KCy) (PDF) (Joe Novotka - July 12, 2017)
+- [Infrared Photography](https://drive.google.com/uc?export=download&id=1JAVRODbmidIqoZ8nf8qm_lJugXmeNj8i) (PPTX) (Keith Chamberlin - June 14, 2017)
+- [Photomerge and Focus Stacking](https://drive.google.com/uc?export=download&id=1toD0gm93eZlNU5rlHp1u5ssoh4wO4Fch) (PPTX) (Joseph Gruber - Apr 12, 2017)
+- [Drones and Drone Photography](https://drive.google.com/uc?export=download&id=1vwGuEBoGJKaBbsj74SuNvmgMJwB2oalT) (PPTX) and [video](https://drive.google.com/uc?export=download&id=1fpH9NiDzp0BPDRv_LV9-nwyaue3an6uL) (mp4) (Tom Manson - Feb 8, 2017)
+- [Electronic Viewfinders and Touchscreens](https://drive.google.com/uc?export=download&id=1KDKbPOBpO_jayYPN02xbk6TRhT98BEUZ) (PPTX) (Scott Hull - Jan 11, 2017)
+- [Layers](https://drive.google.com/uc?export=download&id=1MiOrAhCw-fy5ihCqO2JCkTFjgUEPWGlz) (PPTX) (Nancy Rosenbaum - Dec 14, 2016)
+- [Cropping](https://drive.google.com/uc?export=download&id=1D6M2jtibH5jfRT7DUSMUyqzpOojKho4g) (PPTX) (Andy Wohl - Nov 9, 2016)
+- [Personal Digital Archiving](https://drive.google.com/uc?export=download&id=1HIy6MiVP2TKSWcAPOWI5nTHvq3fcYJSL) (PDF) (Nancy Rosenbaum - Aug 10, 2016)
+- [Architecture](https://drive.google.com/uc?export=download&id=1-p4QuuDI-F-5CNXKl70Y0jdUnYOX-vxm) (PPTX) (Tom Manson - May 11, 2016) (WARNING: 600 MB)
+- [Scanning](https://drive.google.com/uc?export=download&id=1nB6me1BdF9ZjTCwH5Lzi8hzY1MbXMnvk) (PPTX) (Bill Dusterwald - Mar 9, 2016)
+- [Styles of Portrait Photography](https://drive.google.com/uc?export=download&id=1RCEkrd5bGkg_V0k5py2iBbmnkn1HJs-B) (PPTX) (Nancy Rosenbaum & Bill Dusterwald - Jan 13, 2016)
+- [Entering Photography Exhibitions](https://drive.google.com/uc?export=download&id=1NVpG1TyZjeba6YIioP3TDamHJYr8vcpX) (PPTX) (Andy Wohl - Dec 9, 2015)
+- [Planning for Photo Events (the Photographer's Ephermis & other tools)](https://drive.google.com/uc?export=download&id=1stdACKHKCbEoi2u5WCoY59n8tOXD2asP) (PDF) (Tyler Evans - Nov 4, 2015)
+- [Astrophotography with a DSLR](https://drive.google.com/uc?export=download&id=1BgFQVCzj1jmrugGGOmPdjGNs6Udeu6yY) (PDF) (Kevin Hartnett - June 10, 2015)
+- [ICC Color Profiles](https://drive.google.com/uc?export=download&id=1Nh6pU21uckXjcjcFWskYTB87zQdUxD_H) (Bob Peters - Apr 8, 2015)
+- [Intentional Camera Movement & Light Painting](https://drive.google.com/uc?export=download&id=1BHveboFSwJqwD_fue9xdQKghSy8jpNXn) (Karen Smale - Feb 11, 2015)
+- [365 Project](https://drive.google.com/uc?export=download&id=1HjyUF5E2D6_snsy8V0rtPVnRgVePJOxI) (Karen Smale - Dec 10, 2014)
+- [Making Photo Orbs](https://drive.google.com/uc?export=download&id=1IROX7EAyGRBVqSBqZBDuE6MWxLEvI3k6) (Nancy Rosenbaum - Nov 12, 2014)
+- [Extreme Shutter Speeds](https://drive.google.com/uc?export=download&id=1O6d7UkEOilOTLEILADVRe8UdpLigf8Vv) (Tyler Evans - Aug 13, 2014)
+- [Portrait Photography](https://drive.google.com/uc?export=download&id=1cS_FMunzJrrtuA3Pvgy_EhvzOcm8Xg5j) (Melissa Meyers - June 11, 2014)
+- [Topaz Simplify Plug-in](https://drive.google.com/uc?export=download&id=10dwsSr2imdi63o2pYmOEQ9Nn8myfLkeT) (Bill Dusterwald - Apr 9, 2014)
+- [Photographing Ice Hockey](https://drive.google.com/uc?export=download&id=1XyuxFAd8nCGQ6MxIli-u3c4l5MlUYWAW) (Cindy Brumfield - March 12, 2014)
+- [A Photographer's Guide to Blossoms and Blooms](https://drive.google.com/uc?export=download&id=11LIQpe7xvVCCpJMUY3Bla_zXSw_knJET) (Dorlisa Hommel - Feb 12, 2014)
 - [Old Photo Restoration](Documents/presentations/old-photo-restoration.pptx) (Nancy Rosenbaum & Karen Smale - Jan 8, 2014)
-- [Depth of Field](Documents/presentations/Depth_of_Field.pptx) (Nancy Rosenbaum - Nov 6, 2014)
+- [Depth of Field](https://drive.google.com/uc?export=download&id=1R3hQzPgVG7POohB-A3jXnp5cZRJFTUkT) (Nancy Rosenbaum - Nov 6, 2014)
 - [Removing unwanted objects (LDCM group photo)](Documents/presentations/LDCM_Picture.pptx) (Bill Dusterwald - Aug 14, 2013)
 - [Portrait Photo Retouching](Documents/presentations/Portrait_retouching.pptx) (Karen Smale - Aug 14, 2013)  
   (References: [Portrait Professional s/w website](http://portraitprofessional.com) and [Webinar of Photoshop portrait enhancements](http://www.xritephoto.com/ph_learning.aspx?action=webinarsarchive&eventid=1291&eventdateid=5179))
@@ -307,8 +318,8 @@ Please contact our [webmaster](#officers-and-contacts) for copies of materials f
   Add your favorite smartphone apps to [this app spreadsheet](Documents/presentations/PhotoApps.xlsx) and send it back to [Nancy](mailto:nancy.b.rosenbaum@nasa.gov)
 - [RAW vs. JPEG](Documents/presentations/RAWvsJPEG.pptx) (Robert Peters and Scott Hull - July 11, 2012)
 - [Aerial Photography](Documents/presentations/AerialPhotography_forPhotoClub.pptx) (Scott Hull - May 9, 2012)
-- [Underwater Photography](Documents/presentations/Underwater_Photography_2011-MikeWeiss.pdf) (Mike Weiss - May 2011)
-- [Pinhole Phototraphy](Documents/presentations/PinholePhotography.ppt) (Scott Hull - April 20, 2011)
+- [Underwater Photography](https://drive.google.com/uc?export=download&id=1akEaP2ablCeACBua2WfIV9X7U6jldjD7) (Mike Weiss - May 2011)
+- [Pinhole Photography](Documents/presentations/PinholePhotography.ppt) (Scott Hull - April 20, 2011)
 
 ---
 
