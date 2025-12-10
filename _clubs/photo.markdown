@@ -480,10 +480,10 @@ Webmaster: [Olha Asmolova](mailto:olha.asmolova@nasa.gov)
 ### Photo Club Officers
 
 **President:**  
-[Seth Gaines](mailto:scott.m.hull@nasa.gov)
+[Emily Beckman](mailto:emily.beckman@nasa.gov)
 
 **Vice President:**  
-[Carey Johnson](mailto:carey.m.johnson@nasa.gov)
+[Geneviève de Messieres](mailto:genevieve.demessieres@nasa.gov)
 
 **Secretary:**  
 [Geneviève de Messieres](mailto:genevieve.demessieres@nasa.gov)
@@ -495,7 +495,7 @@ Webmaster: [Olha Asmolova](mailto:olha.asmolova@nasa.gov)
 [Olha Asmolova](mailto:olha.asmolova@nasa.gov)
 
 **Past Presidents:**  
-Scott Hull, Kristin Rutkowski, Nancy Rosenbaum, Anne Koslosky
+Seth gaines, Scott Hull, Kristin Rutkowski, Nancy Rosenbaum, Anne Koslosky
 
 ### Committees
 
