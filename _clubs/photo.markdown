@@ -127,7 +127,7 @@ th {
 | Oct   | Travel               |
 | Nov   | -                    |
 | Dec   | -                    |
-{: style="width: 50%;"}
+{: style="width: 60%;"}
 
 
 #### September 2025
