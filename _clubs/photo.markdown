@@ -139,6 +139,7 @@ th:nth-child(2), td:nth-child(2) {
 | Dec   | -                    |
 {: style="width: 60%;"}
 
+***Snap & Share:** Members may upload up to 5 photos to the Flickr site (add them to the appropriate Snap & Share set and include your name in the description). Remember that these photos are potential choices for the cafeteria display!
 <br>
 <style>
 table {
@@ -154,7 +155,7 @@ th {
   background-color: #f2f2f2;
 }
 </style>
-
+<!--
 #### September 2025
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
@@ -169,8 +170,23 @@ th {
 | 8    | Meeting     | **TBD<br/>Elections**                         | **TBD**                   | Photo Club will have its elections<br/>**12:00am-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 | 22   | Snap & Share| **Low Key Photography**                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 {: .table}
+-->
+#### December 2025
 
-***Snap & Share:** Members may upload up to 5 photos to the Flickr site (add them to the appropriate Snap & Share set and include your name in the description). Remember that these photos are potential choices for the cafeteria display!
+| Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
+|------|-------------|------------------------------------------------|---------------------------|-------|
+| 10    | Meeting     | **Gadgets (everyone)**                         | **Karen Smale**                   | **12:00am-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+{: .table}
+
+#### January 2026
+
+| Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
+|------|-------------|------------------------------------------------|---------------------------|-------|
+| 14    | Meeting     | **TBD**                         | **TBD**                   | **12:00am-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 28   | Snap & Share| **Fire**                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+{: .table}
+
+<br>
 
 ### Recent Past Events (2025)
 
@@ -490,13 +506,13 @@ If you have not renewed your membership for the 2024-2025 club year please compl
 Membership: [Emily Beckman](mailto:emily.beckman@nasa.gov)
 
 **Want to give a talk or be a featured photographer?**  
-Meeting Organizer: [Seth Gaines](mailto:seth.d.gaines@nasa.gov)
+Meeting Organizer: Vacant
 
 **Have a great idea for a field trip?**  
 Field Trip Coordinator: Brent Warner (email any Club Officer)
 
 **Forgot the Flickr password?**  
-Flickr Instructions: [Seth Gaines](mailto:seth.d.gaines@nasa.gov)
+Flickr Instructions: [Olha Asmolova](mailto:olha.asmolova@nasa.gov)
 
 **Want to suggest (or teach!) a course on photography?**  
 Education coordinator: Bill Dusterwald (email any Club Officer)
@@ -516,16 +532,16 @@ Webmaster: [Olha Asmolova](mailto:olha.asmolova@nasa.gov)
 [Geneviève de Messieres](mailto:genevieve.demessieres@nasa.gov)
 
 **Secretary:**  
-[Geneviève de Messieres](mailto:genevieve.demessieres@nasa.gov)
+[Brent Warner](mailto:genevieve.demessieres@nasa.gov)
 
 **Treasurer:**  
-[Emily Beckman](mailto:emily.beckman@nasa.gov)
+Vacant
 
 **Webmaster:**  
 [Olha Asmolova](mailto:olha.asmolova@nasa.gov)
 
 **Past Presidents:**  
-Seth gaines, Scott Hull, Kristin Rutkowski, Nancy Rosenbaum, Anne Koslosky
+Seth Gaines, Scott Hull, Kristin Rutkowski, Nancy Rosenbaum, Anne Koslosky
 
 ### Committees
 
@@ -549,4 +565,5 @@ We are starting to expand our Club's committees. We are looking for Club Member 
 
 - **Outreach**  
   Get the word out about the Club. Post regular Dateline messages and coordinate flyer distribution/mounting ahead of events. Respond to requests for photo support (green screen, other GEWA clubs, etc.)  
+  *Olha Asmolova (lead)*
   *Need volunteers!*
