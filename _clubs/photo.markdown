@@ -309,7 +309,7 @@ Please contact our [webmaster](mailto:olha.asmolova@nasa.gov) for copies of past
 - [Edit Your Images](https://drive.google.com/uc?export=download&id=16bgUJaERzcfv5pmaTGD4lLynLe6P8sg4) (PPTX) (Karen Smale & Scott Hull, October 12, 2022)
 - [How to be Seen](https://drive.google.com/uc?export=download&id=1BvyagWBdq3LmrAgrLkYAK9JfB7GVXQBp) (PDF) (Vince Ferrari, September 14, 2022)
 - [Night Sky Photography](https://nasa.sharepoint.com/:v:/r/teams/GoddardPhotoCLub/Shared%20Documents/General/Meeting%20Recordings/Photo%20Club%20Meeting-20220810-RobertFawcett-NightSky-Meeting%20Recording.mp4?csf=1&web=1&e=gkQ8Cb) (recording, internal only) (Robert Fawcett, August 10, 2022)
-- [Photo Critique](https://nasa.sharepoint.com/teams/GoddardPhotoCLub/Shared%20Documents/General/Meeting%20Recordings/Photo%20Club%20Critique-20220608_121021-Meeting%20Recording.mp4) (video; internal link) (Pete Morton, June 8, 2022)
+- [Photo Critique](https://youtu.be/crxxnS5RgtA) (Pete Morton, June 8, 2022)
 - [Event Photography](https://nasa.sharepoint.com/teams/GoddardPhotoCLub/Shared%20Documents/General/Meeting%20Recordings/Photo%20Club%20Meeting-20220413_123150-Meeting%20Recording.mp4) (video; internal link) (Erika Nizborski, Apr 13, 2022)
 - [Zoo Photography Tips](https://drive.google.com/uc?export=download&id=1pj73nIz66HokuEsFg5nCM5ehHE06V1Qt) (PDF) (Julie Gould, Feb 9, 2022)  
   [Presentation Video](https://nasa.sharepoint.com/teams/GoddardPhotoCLub/Shared%20Documents/General/Meeting%20Recordings/Photo%20Club%20Meeting-20220209_123114-Meeting%20Recording.mp4) (internal link)
