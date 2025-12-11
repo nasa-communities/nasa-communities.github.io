@@ -290,9 +290,10 @@ Please contact our [webmaster](mailto:olha.asmolova@nasa.gov) for copies of past
 
 ### Meeting Presentations
 
+- [About me...](https://youtu.be/-01UR4D8fso) (Pablo Monsivais, Assistant Chief of Bureau for Photos for the AP, November 12, 2025)
 - [Videography](https://youtu.be/MhAKbgJ_PdE) (Liz linstrom, October, 15, 2025)
 - [Photo Workshops](https://youtu.be/JX4bbWoBeec)(Lori Lankford, September 10, 2025)
-- [Macro photography Talk](https://youtu.be/dPxwQdlY2O0) (video mp4) (Dr. Matthew Bertone, May 14, 2025)
+- [Macro Photography Talk](https://youtu.be/dPxwQdlY2O0) (video mp4) (Dr. Matthew Bertone, May 14, 2025)
 - [Making Black and White Images](https://drive.google.com/uc?export=download&id=18v09axMaOstHqCBsdxWesiffA_RKssDr) (PDF) (Bill Dusterwald, October 9, 2024)
 - [What it's like to be a Smithsonian Photographer](https://drive.google.com/uc?export=download&id=1uoIIMjv6a-OqmFuXLWQ3IGJNl0P7w2Tf) (PPTX) (Lucia Martino, May 8, 2024)
 - [Food Photography](https://drive.google.com/uc?export=download&id=1LM5ne6xFt4IgwQdcvfsZTKCTDPFm4LhM) (PDF) (Steve Buchanan, Apr 10, 2024)
