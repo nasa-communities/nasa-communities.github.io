@@ -144,12 +144,14 @@ th:nth-child(2), td:nth-child(2) {
 <style>
 table {
   border-collapse: collapse;
-  width: auto;
+  width: 750px; /* Fixed total width */
+  table-layout: fixed;
 }
 th, td {
   border: 1px solid #ddd;
   padding: 8px;
   text-align: left;
+  word-wrap: break-word;
 }
 th {
   background-color: #f2f2f2;
