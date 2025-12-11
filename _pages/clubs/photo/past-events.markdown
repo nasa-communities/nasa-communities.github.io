@@ -25,6 +25,35 @@ anchors:
 
 For upcoming and recent past events, please check our [Calendar of Events](https://nasa-communities.org/clubs/photo#calendar-of-events).
 
+## 2025
+
+- December 10 – Meeting: Gadgets (everyone); featured: Karen Smale
+- November 12 – Meeting: Pablo Martinez Monsivais, Assistant Chief of Bureau for Photos for the AP
+- October 27 – Field Trip: Fire Spinning event near Westminster (Scott Hull)
+- October 22 – Snap & Share: Low Key
+- October 15 – Meeting: Videography (Liz Linstrom)
+- August 27 - Snap & Share: High Key
+- August 13 - Flickr walkthrough by Geneviève de Messieres; featured Kyle Helson
+- July 23 - Snap & Share: Pets
+- July 9 - Photo Critique Session with Roz Kleffman, Topic: Landscapes
+- June 26 - Snap & Share: Seascapes
+- June 20 - Field trip: Greenbelt Firefly Sanctuary
+- June 11 - Meeting: featured: Bill Dusterwald
+- June 4 - Event: Annual Photo Club Picnic
+- May 28 - Snap & Share: Flash Photography
+- May 14 - Meeting: Macro Photography Talk (Dr. Matthew Bertone)
+- Apr 22 - Workshop: Intern Spring Headshot Workshop
+- Apr 23 - Snap & Share: Signs of Spring
+- Apr 9 - Meeting: General discussion; featured: Evan Ryder
+- Apr 4-6 - Field trip: Spring Eastern Shore of Virginia
+- Mar 26 - Snap & Share: Sepia
+- Mar 12 - Meeting: Bingo recap (Bill Dusterwald)
+- Feb 26 - Snap & Share: Best of Field Trips
+- Feb 12 - Meeting: Mylio (Alex Tsepko); featured: Bill Thompson
+- Feb 1-28 - Event: BINGO
+- Jan 22 - Snap & Share: Celebration
+- Jan 8 - Meeting: Light pollution (Geneviève de Messieres)
+
 ## 2024
 
 - Dec 18 - Meeting: Gadgets (everyone); featured: James Kim
@@ -537,5 +566,6 @@ For upcoming and recent past events, please check our [Calendar of Events](https
 - February 8 - Photo Club meeting (topic: B/W Photography)
 
 ## 2011
+
 
 - November 11 - Photo Field Trip: Conowingo Dam located in northern Maryland - In the frigid fall weather we were rewarded with over 20 wild Eagles modeling for our cameras throughout the morning.
