@@ -257,8 +257,6 @@ Please contact our [webmaster](#officers-and-contacts) for copies of past club n
 
 ## Presentations
 
-<p style="color:red">Updated links coming soon</p>
-
 ### Courses
 
 - **Photo 102: Basic Post-Processing** (2022; Scott Hull)
@@ -454,8 +452,8 @@ To upload your photographs to our [Flickr website](https://www.flickr.com/photos
   - [Photographer's Rights](https://www.aclu.org/free-speech/know-your-rights-photographers)
 
 - **Other**
-  - [Photo Club Exhibit Guidlines and Selection Process](Documents/GSFC_PhotoClub_Guidelines_and_Selection_Process-v1_2012Nov8.doc) (this needs updating!)
-  - [Print Resolution and Aspect Ratio Primer](Documents/Print_Resolution.docx) (Useful for people printing photos for the Photo Club Exhibit in Building 1)
+  - [Photo Club Exhibit Guidlines and Selection Process](https://docs.google.com/document/d/1OIU_SO0z3fRbfsfeOrQkQ_vpQsVYX55u/edit?usp=sharing&ouid=100563789903182733599&rtpof=true&sd=true) (this needs updating!)
+  - [Print Resolution and Aspect Ratio Primer](https://docs.google.com/document/d/1b0SuCn6JHSEKxxMu_8G2-qoh6OFgVUqI/edit?usp=sharing&ouid=100563789903182733599&rtpof=true&sd=true) (Useful for people printing photos for the Photo Club Exhibit in Building 1)
 
 ### Equipment Available
 
