@@ -286,7 +286,7 @@ Please contact our [webmaster](mailto:olha.asmolova@nasa.gov) for copies of past
   - Session 1: Lighting Presentation (Bill Dusterwald, [Slides (ppt)](https://drive.google.com/uc?export=download&id=1_ebx_kR65AGIBMax7nQ8gOBjJHA8_3Nv))
   - Session 2: Portraiture Photography (Bill Dusterwald, [Slides (ppt)](https://drive.google.com/uc?export=download&id=1De22iXRkmzABA2yDonZ4Gw3-HYpdkriR))
 
-- [List of all courses](../_pages/clubs/photo/all-courses.markdown) (including previous versions of the same course)
+- [List of all courses](/clubs/photo/all-courses/) (including previous versions of the same course)
 
 ### Meeting Presentations
 
