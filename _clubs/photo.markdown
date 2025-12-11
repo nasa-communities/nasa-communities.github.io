@@ -157,11 +157,11 @@ th {
   background-color: #f2f2f2;
 }
 /* Updated column widths for 1200px total */
-th:nth-child(1), td:nth-child(1) { width: 80px; }  /* Date - was 50px */
+th:nth-child(1), td:nth-child(1) { width: 50px; }  /* Date - was 50px */
 th:nth-child(2), td:nth-child(2) { width: 160px; } /* Type - was 100px */
 th:nth-child(3), td:nth-child(3) { width: 320px; } /* Topic - was 200px */
-th:nth-child(4), td:nth-child(4) { width: 240px; } /* Photographer - was 150px */
-th:nth-child(5), td:nth-child(5) { width: 400px; } /* Notes - was 250px */
+th:nth-child(4), td:nth-child(4) { width: 140px; } /* Photographer - was 150px */
+th:nth-child(5), td:nth-child(5) { width: 530px; } /* Notes - was 250px */
 </style>
 <!--
 #### September 2025
