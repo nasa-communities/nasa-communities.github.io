@@ -98,46 +98,7 @@ Meetings and Snap & Share events are held at NOON, unless otherwise noted.
 
 <!-- Add this code just before the "Future Events" heading
 -->
-### Snap and Share Topics for 2026
-<style>
-table {
-  border-collapse: collapse;
-  width: auto;
-  max-width: 350px; /* This constrains the overall table width */
-}
-th, td {
-  border: 1px solid #ddd;
-  padding: 6px; /* Reduced padding */
-  text-align: left;
-}
-th {
-  background-color: #f2f2f2;
-}
-/* Column-specific widths */
-th:first-child, td:first-child {
-  width: 60px; /* Month column width */
-}
-th:nth-child(2), td:nth-child(2) {
-  width: 120px; /* Topic column width */
-  max-width: 120px;
-  word-wrap: break-word; /* Allows text to wrap */
-}
-</style>
-| Month | Topic                |
-|-------|----------------------|
-| Jan   | Fire                 |
-| Feb   | Yellow               |
-| Mar   | Urban                |
-| Apr   | Paths                |
-| May   | Flowing water        |
-| Jun   | Birds                |
-| Jul   | Sports and events    |
-| Aug   | People at work       |
-| Sep   | "What is this"       |
-| Oct   | Travel               |
-{: style="width: 65%;"}
 
-***Snap & Share:** Members may upload up to 5 photos to the Flickr site (add them to the appropriate Snap & Share set and include your name in the description). Remember that these photos are potential choices for the cafeteria display!
 <br>
 <style>
 table {
@@ -192,6 +153,48 @@ th:nth-child(5), td:nth-child(5) { width: 620px; } /* Notes - was 250px */
 | 28   | Snap & Share| *Fire*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 {: .table}
 
+<br>
+
+### Snap and Share Topics for 2026
+<style>
+table {
+  border-collapse: collapse;
+  width: auto;
+  max-width: 350px; /* This constrains the overall table width */
+}
+th, td {
+  border: 1px solid #ddd;
+  padding: 6px; /* Reduced padding */
+  text-align: left;
+}
+th {
+  background-color: #f2f2f2;
+}
+/* Column-specific widths */
+th:first-child, td:first-child {
+  width: 60px; /* Month column width */
+}
+th:nth-child(2), td:nth-child(2) {
+  width: 120px; /* Topic column width */
+  max-width: 120px;
+  word-wrap: break-word; /* Allows text to wrap */
+}
+</style>
+| Month | Topic                |
+|-------|----------------------|
+| Jan   | Fire                 |
+| Feb   | Yellow               |
+| Mar   | Urban                |
+| Apr   | Paths                |
+| May   | Flowing water        |
+| Jun   | Birds                |
+| Jul   | Sports and events    |
+| Aug   | People at work       |
+| Sep   | "What is this"       |
+| Oct   | Travel               |
+{: style="width: 65%;"}
+
+***Snap & Share:** Members may upload up to 5 photos to the Flickr site (add them to the appropriate Snap & Share set and include your name in the description). Remember that these photos are potential choices for the cafeteria display!
 <br>
 
 ### Recent Past Events (2025)
