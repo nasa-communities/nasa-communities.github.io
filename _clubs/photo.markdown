@@ -144,7 +144,7 @@ th:nth-child(2), td:nth-child(2) {
 <style>
 table {
   border-collapse: collapse;
-  width: 750px; /* Fixed total width */
+  width: 1750px; /* Fixed total width */
   table-layout: fixed;
 }
 th, td {
