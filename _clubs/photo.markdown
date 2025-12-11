@@ -96,9 +96,6 @@ The Goddard Photo Club is a member of the [Maryland Photography Alliance](https:
 
 Meetings and Snap & Share events are held at NOON, unless otherwise noted.
 
-<!-- Add this code just before the "Future Events" heading
--->
-
 <br>
 <style>
 table {
@@ -122,7 +119,9 @@ th:nth-child(3), td:nth-child(3) { width: 220px; } /* Topic - was 200px */
 th:nth-child(4), td:nth-child(4) { width: 140px; } /* Photographer - was 150px */
 th:nth-child(5), td:nth-child(5) { width: 620px; } /* Notes - was 250px */
 </style>
+
 <!--
+
 #### September 2025
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
@@ -138,6 +137,7 @@ th:nth-child(5), td:nth-child(5) { width: 620px; } /* Notes - was 250px */
 | 22   | Snap & Share| **Low Key Photography**                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 {: .table}
 -->
+
 #### December 2025
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
