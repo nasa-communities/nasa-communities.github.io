@@ -395,7 +395,7 @@ Please contact our [webmaster](#officers-and-contacts) for copies of past club n
 
 ### Flickr Website
 
-To upload your photographs to our [Flickr website](https://www.flickr.com/photos/gsfcphoto/), you must be a paid member. The [instructions](Documents/GSFCPhotoClub_FlickrSite_Instructions.pdf) are available for download. Contact our [club treasurer](https://contact.html) for user name and password.
+To upload your photographs to our [Flickr website](https://www.flickr.com/photos/gsfcphoto/), you must be a paid member. The [instructions](https://drive.google.com/file/d/1kG2QWOeP7M_CoP-SHvo67R0-AeiJ0E7d/view?usp=sharing) are available for download. Contact our [club treasurer](https://contact.html) for user name and password.
 
 ### Web Resources
 - **General Guides**
