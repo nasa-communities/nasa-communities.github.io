@@ -140,8 +140,6 @@ th:nth-child(2), td:nth-child(2) {
 {: style="width: 60%;"}
 
 <br>
-
-#### September 2025
 <style>
 table {
   border-collapse: collapse;
@@ -156,6 +154,9 @@ th {
   background-color: #f2f2f2;
 }
 </style>
+
+#### September 2025
+
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
 |------|-------------|------------------------------------------------|---------------------------|-------|
 | 10   | Meeting     | **Unleash your creativity (Lori Lankford)**   | **TBD**                   | Lori Lankford brings a refreshing approach to photography, making it fun, simple, and creative. She has a passion for teaching and mentoring photographers at all levels to develop their unique style and vision. Her personal English garden, transformed from bare dirt into a thriving floral paradise over the past three years, serves as both a creative workspace and a source of inspiration for her photography. [Visit Lori's Website](https://lorilankford.com/)<br/>**12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
@@ -173,6 +174,11 @@ th {
 
 ### Recent Past Events (2025)
 
+- December 10 – Meeting: Gadgets (everyone); featured: Karen Smale
+- November 12 – Meeting: Pablo Martinez Monsivais, Assistant Chief of Bureau for Photos for the AP
+- October 27 – Field Trip: Fire Spinning event near Westminster (Scott Hull)
+- October 22 – Snap & Share: Low Key
+- October 15 – Meeting: Videography (Liz Linstrom)
 - August 27 - Snap & Share: High Key
 - August 13 - Flickr walkthrough by Geneviève de Messieres; featured Kyle Helson
 - July 23 - Snap & Share: Pets
