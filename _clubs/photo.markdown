@@ -569,3 +569,40 @@ We are starting to expand our Club's committees. We are looking for Club Member 
   Get the word out about the Club. Post regular Dateline messages and coordinate flyer distribution/mounting ahead of events. Respond to requests for photo support (green screen, other GEWA clubs, etc.)  
   *Olha Asmolova (lead)*
   *Need volunteers!*
+
+  <style>
+table.Calendar {
+  font-size: 120%;
+  border-spacing: 0px;
+  border-collapse: collapse;
+  border: 1px solid #666666;
+  width: 710px;
+}
+table.Calendar th {
+  background-color: #86c5ff;
+  border-bottom: 1px solid #666666;
+  text-align: left;
+  font-weight: bold;
+  padding: 0.1em 0.5em;
+  line-height: 1.3;
+}
+table.Calendar td {
+  text-align: left;
+  border-bottom: 1px solid #666666;
+  padding: 0.5em 0.5em;
+  vertical-align: top;
+  line-height: 1.3;
+}
+table.Calendar thead th {
+  background-color: #ffcc66;
+  text-align: center;
+  line-height: 1.1;
+}
+table.Calendar th.Corner {
+  text-align: left;
+}
+table.Calendar th.Second {
+  text-align: left;
+  background-color: #d3eaff;
+}
+</style>
