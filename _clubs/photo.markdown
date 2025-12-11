@@ -137,7 +137,7 @@ th:nth-child(2), td:nth-child(2) {
 | Oct   | Travel               |
 | Nov   | -                    |
 | Dec   | -                    |
-{: style="width: 60%;"}
+{: style="width: 65%;"}
 
 ***Snap & Share:** Members may upload up to 5 photos to the Flickr site (add them to the appropriate Snap & Share set and include your name in the description). Remember that these photos are potential choices for the cafeteria display!
 <br>
