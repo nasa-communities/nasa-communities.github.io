@@ -392,8 +392,6 @@ Please contact our [webmaster](mailto:olha.asmolova@nasa.gov) for copies of past
 
 ## Resources
 
-<p style="color:red">Updated links coming soon</p>
-
 ### Flickr Website
 
 To upload your photographs to our [Flickr website](https://www.flickr.com/photos/gsfcphoto/), you must be a paid member. The [instructions](https://drive.google.com/file/d/1kG2QWOeP7M_CoP-SHvo67R0-AeiJ0E7d/view?usp=sharing) are available for download. Contact our [club treasurer](mailto:olha.asmolova@nasa.gov) for user name and password.
@@ -453,7 +451,7 @@ To upload your photographs to our [Flickr website](https://www.flickr.com/photos
   - [Photographer's Rights](https://www.aclu.org/free-speech/know-your-rights-photographers)
 
 - **Other**
-  - [Photo Club Exhibit Guidlines and Selection Process](https://docs.google.com/document/d/1OIU_SO0z3fRbfsfeOrQkQ_vpQsVYX55u/edit?usp=sharing&ouid=100563789903182733599&rtpof=true&sd=true) (this needs updating!)
+  - [Photo Club Exhibit Guidlines and Selection Process](https://docs.google.com/document/d/1OIU_SO0z3fRbfsfeOrQkQ_vpQsVYX55u/edit?usp=sharing&ouid=100563789903182733599&rtpof=true&sd=true)
   - [Print Resolution and Aspect Ratio Primer](https://docs.google.com/document/d/1b0SuCn6JHSEKxxMu_8G2-qoh6OFgVUqI/edit?usp=sharing&ouid=100563789903182733599&rtpof=true&sd=true) (Useful for people printing photos for the Photo Club Exhibit in Building 1)
 
 ### Equipment Available
@@ -538,7 +536,7 @@ Webmaster: [Olha Asmolova](mailto:olha.asmolova@nasa.gov)
 [Geneviève de Messieres](mailto:genevieve.demessieres@nasa.gov)
 
 **Secretary:**  
-[Brent Warner](mailto:genevieve.demessieres@nasa.gov)
+[Brent Warner](mailto:olha.asmolova@nasa.gov)
 
 **Treasurer:**  
 Vacant
