@@ -474,8 +474,6 @@ Club members can add to this list by contacting the [webmaster](mailto:olha.asmo
 
 ## Membership Application
 
-<p style="color:red">Updated links coming soon</p>
-
 Below are the links for the Membership Application and the Club's Constitution. The Membership Application may be filled out on the computer and then printed, or printed and filled out by hand. In either case, please make sure to mail your membership application and dues to the individual listed on the application.
 
 If you have not renewed your membership for the 2024-2025 club year please complete a membership form and email it to [Emily Beckman](mailto:emily.a.beckman@nasa.gov) and get her your $10 yearly membership dues (options: cash, check made out to "Goddard Photo Club", or Paypal/Venmo to Emily Beckman). Membership rolls are purged in January.
