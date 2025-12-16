@@ -37,6 +37,8 @@ If you have questions regarding the club, check the [Officers & Contacts](#offic
 
 The Goddard Photo Club is a member of the [Maryland Photography Alliance](https://www.mdphotoalliance.org/).
 
+<a href="https://www.mdphotoalliance.org/"><img src="images/photo/MPA-215.png" alt="Maryland Photo Alliance" width="179"></a>
+
 ## Upcoming Events
 
 #### January 14, 2026 - Meeting
