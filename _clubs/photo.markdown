@@ -41,28 +41,27 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 
 #### January 14, 2026 - Meeting
 
-**Topic:** TBD
-**Featured Photographer:** Bill Dusterwald
-**Time:** 12-1 pm
+**Topic:** TBD<br>
+**Featured Photographer:** Bill Dusterwald<br>
+**Time:** 12-1 pm &nbsp;&nbsp;
 **Location:** Hybrid; 23/S402 and Teams (link sent to members)
 
 #### January 28, 2026 - Snap & Share
 
-**Topic:** Fire
-**Time:** 12-1 pm
+**Topic:** Fire<br>
+**Time:** 12-1 pm &nbsp;&nbsp;
 **Location:** Hybrid; 23/S402 and Teams (link sent to members)
-
 #### February 11, 2026 - Meeting
 
-**Topic:** TBD
-**Featured Photographer:** TBD
-**Time:** 12-1 pm
+**Topic:** TBD<br>
+**Featured Photographer:** Lizie Cohen<br>
+**Time:** 12-1 pm &nbsp;&nbsp;
 **Location:** Hybrid; 23/S402 and Teams (link sent to members)
 
 #### February 25, 2026 - Snap & Share**
 
-**Topic:** Yellow
-**Time:** 12-1 pm
+**Topic:** Yellow<br>
+**Time:** 12-1 pm &nbsp;&nbsp;
 **Location:** Hybrid; 23/S402 and Teams (link sent to members)
 
 ---
@@ -135,7 +134,6 @@ th:nth-child(5), td:nth-child(5) { width: 620px; } /* Notes - was 250px */
 | 8    | Meeting     | **TBD<br/>Elections**                         | **TBD**                   | Photo Club will have its elections<br/>**12:00am-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 | 22   | Snap & Share| **Low Key Photography**                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 {: .table}
--->
 
 #### December 2025
 
@@ -143,13 +141,22 @@ th:nth-child(5), td:nth-child(5) { width: 620px; } /* Notes - was 250px */
 |------|-------------|------------------------------------------------|---------------------------|-------|
 | 10    | Meeting     | *Gadgets (everyone)*                         | *Karen Smale*                   | **12:00am-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 {: .table}
+-->
 
 #### January 2026
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
 |------|-------------|------------------------------------------------|---------------------------|-------|
-| 14    | Meeting     | *TBD*                         | *TBD*                   | **12:00am-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 14    | Meeting     | *TBD*                         | *Bill Dusterwald*                   | **12:00am-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 | 28   | Snap & Share| *Fire*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+{: .table}
+
+#### February 2026
+
+| Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
+|------|-------------|------------------------------------------------|---------------------------|-------|
+| 11    | Meeting     | *TBD*                         | *Lizie Cohen*                   | **12:00am-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 25   | Snap & Share| *Yellow*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 {: .table}
 <br>
 
