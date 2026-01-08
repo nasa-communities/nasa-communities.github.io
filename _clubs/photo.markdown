@@ -42,7 +42,7 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 #### January 14, 2026 - Meeting
 
 **Topic:** TBD
-**Featured Photographer:** TBD
+**Featured Photographer:** Bill Dusterwald
 **Time:** 12-1 pm
 **Location:** Hybrid; 23/S402 and Teams (link sent to members)
 
