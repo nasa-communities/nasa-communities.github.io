@@ -147,7 +147,7 @@ th:nth-child(5), td:nth-child(5) { width: 620px; } /* Notes - was 250px */
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
 |------|-------------|------------------------------------------------|---------------------------|-------|
-| 14    | Meeting     | *TBD*                         | *Bill Dusterwald*                   | **12:00am-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 14    | Meeting     | *Renting Equipment - Emily Beckman*                         | *Bill Dusterwald*                   | **12:00am-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 | 28   | Snap & Share| *Fire*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 {: .table}
 
