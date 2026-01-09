@@ -41,7 +41,7 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 
 #### January 14, 2026 - Meeting
 
-**Topic:** TBD<br>
+**Topic:** Renting Equipment - Emily Beckman<br>
 **Featured Photographer:** Bill Dusterwald<br>
 **Time:** 12-1 pm &nbsp;&nbsp;
 **Location:** Hybrid; 23/S402 and Teams (link sent to members)
