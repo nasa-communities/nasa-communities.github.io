@@ -95,12 +95,6 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 
 Meetings and Snap & Share events are held at NOON, unless otherwise noted.
 
-
-It sounds like your CSS might not be applying properly. Let's troubleshoot this step by step:
-
-Debug approach - try this updated CSS:
-html
-Copy code
 <style>
 table {
   border-collapse: collapse;
@@ -161,7 +155,7 @@ th:nth-child(5), td:nth-child(5) { width: 620px; }
 |------|-------------|------------------------------------------------|---------------------------|-------|
 | 14    | Meeting     | *Renting Equipment - Emily Beckman*                         | *Bill Dusterwald*                   | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 | 28   | Snap & Share| *Fire*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
-
+{: .table}
 
 #### February 2026
 
@@ -169,7 +163,7 @@ th:nth-child(5), td:nth-child(5) { width: 620px; }
 |------|-------------|------------------------------------------------|---------------------------|-------|
 | 11    | Meeting     | *TBD*                         | *Lizie Cohen*                   | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 | 25   | Snap & Share| *Yellow*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
-
+{: .table}
 <br>
 
 ### Snap and Share Topics for 2026
