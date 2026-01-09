@@ -108,7 +108,10 @@ th, td {
   word-wrap: break-word;
 }
 th {
-  background-color: #f2f2f2;
+  background-color: #e6f2ff;
+}
+td {
+  background-color: white; /* Ensure data cells are white */
 }
 /* Updated column widths for 1200px total */
 th:nth-child(1), td:nth-child(1) { width: 60px; }  /* Date - was 50px */
@@ -147,7 +150,7 @@ th:nth-child(5), td:nth-child(5) { width: 620px; } /* Notes - was 250px */
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
 |------|-------------|------------------------------------------------|---------------------------|-------|
-| 14    | Meeting     | *Renting Equipment - Emily Beckman*                         | *Bill Dusterwald*                   | **12:00am-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 14    | Meeting     | *Renting Equipment - Emily Beckman*                         | *Bill Dusterwald*                   | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 | 28   | Snap & Share| *Fire*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 {: .table}
 
@@ -155,7 +158,7 @@ th:nth-child(5), td:nth-child(5) { width: 620px; } /* Notes - was 250px */
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
 |------|-------------|------------------------------------------------|---------------------------|-------|
-| 11    | Meeting     | *TBD*                         | *Lizie Cohen*                   | **12:00am-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 11    | Meeting     | *TBD*                         | *Lizie Cohen*                   | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 | 25   | Snap & Share| *Yellow*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 {: .table}
 <br>
