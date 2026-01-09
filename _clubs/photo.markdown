@@ -95,10 +95,16 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 
 Meetings and Snap & Share events are held at NOON, unless otherwise noted.
 
+
+It sounds like your CSS might not be applying properly. Let's troubleshoot this step by step:
+
+Debug approach - try this updated CSS:
+html
+Copy code
 <style>
 table {
   border-collapse: collapse;
-  width: 1200px; /* Increased from 750px */
+  width: 1200px;
   table-layout: fixed;
 }
 th, td {
@@ -107,18 +113,21 @@ th, td {
   text-align: left;
   word-wrap: break-word;
 }
-th {
-  background-color: #e6f2ff;
+/* More specific targeting for headers */
+table thead th,
+table tr:first-child th,
+table th {
+  background-color: #e6f2ff !important;
 }
 td {
-  background-color: white; /* Ensure data cells are white */
+  background-color: white;
 }
 /* Updated column widths for 1200px total */
-th:nth-child(1), td:nth-child(1) { width: 60px; }  /* Date - was 50px */
-th:nth-child(2), td:nth-child(2) { width: 160px; } /* Type - was 100px */
-th:nth-child(3), td:nth-child(3) { width: 220px; } /* Topic - was 200px */
-th:nth-child(4), td:nth-child(4) { width: 140px; } /* Photographer - was 150px */
-th:nth-child(5), td:nth-child(5) { width: 620px; } /* Notes - was 250px */
+th:nth-child(1), td:nth-child(1) { width: 60px; }
+th:nth-child(2), td:nth-child(2) { width: 160px; }
+th:nth-child(3), td:nth-child(3) { width: 220px; }
+th:nth-child(4), td:nth-child(4) { width: 140px; }
+th:nth-child(5), td:nth-child(5) { width: 620px; }
 </style>
 
 <!--
@@ -152,7 +161,7 @@ th:nth-child(5), td:nth-child(5) { width: 620px; } /* Notes - was 250px */
 |------|-------------|------------------------------------------------|---------------------------|-------|
 | 14    | Meeting     | *Renting Equipment - Emily Beckman*                         | *Bill Dusterwald*                   | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 | 28   | Snap & Share| *Fire*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
-{: .table}
+
 
 #### February 2026
 
@@ -160,7 +169,7 @@ th:nth-child(5), td:nth-child(5) { width: 620px; } /* Notes - was 250px */
 |------|-------------|------------------------------------------------|---------------------------|-------|
 | 11    | Meeting     | *TBD*                         | *Lizie Cohen*                   | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 | 25   | Snap & Share| *Yellow*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
-{: .table}
+
 <br>
 
 ### Snap and Share Topics for 2026
