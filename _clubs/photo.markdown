@@ -208,34 +208,9 @@ th:nth-child(2), td:nth-child(2) {
 ***Snap & Share:** Members may upload up to 5 photos to the Flickr site (add them to the appropriate Snap & Share set and include your name in the description). Remember that these photos are potential choices for the cafeteria display!
 <br>
 
-### Recent Past Events (2025)
+### Recent Past Events (2026)
 
-- December 10 – Meeting: Gadgets (everyone); featured: Karen Smale
-- November 12 – Meeting: Pablo Martinez Monsivais, Assistant Chief of Bureau for Photos for the AP
-- October 27 – Field Trip: Fire Spinning event near Westminster (Scott Hull)
-- October 22 – Snap & Share: Low Key
-- October 15 – Meeting: Videography (Liz Linstrom)
-- August 27 - Snap & Share: High Key
-- August 13 - Flickr walkthrough by Geneviève de Messieres; featured Kyle Helson
-- July 23 - Snap & Share: Pets
-- July 9 - Photo Critique Session with Roz Kleffman, Topic: Landscapes
-- June 26 - Snap & Share: Seascapes
-- June 20 - Field trip: Greenbelt Firefly Sanctuary
-- June 11 - Meeting: featured: Bill Dusterwald
-- June 4 - Event: Annual Photo Club Picnic
-- May 28 - Snap & Share: Flash Photography
-- May 14 - Meeting: Macro Photography Talk (Dr. Matthew Bertone)
-- Apr 22 - Workshop: Intern Spring Headshot Workshop
-- Apr 23 - Snap & Share: Signs of Spring
-- Apr 9 - Meeting: General discussion; featured: Evan Ryder
-- Apr 4-6 - Field trip: Spring Eastern Shore of Virginia
-- Mar 26 - Snap & Share: Sepia
-- Mar 12 - Meeting: Bingo recap (Bill Dusterwald)
-- Feb 26 - Snap & Share: Best of Field Trips
-- Feb 12 - Meeting: Mylio (Alex Tsepko); featured: Bill Thompson
-- Feb 1-28 - Event: BINGO
-- Jan 22 - Snap & Share: Celebration
-- Jan 8 - Meeting: Light pollution (Geneviève de Messieres)
+- Jan 14 - Meeting: Renting Equipment (Emily Beckman); featured: Bill Dusterwald
 
 ### Previous Years' Events
 
@@ -249,17 +224,7 @@ th:nth-child(2), td:nth-child(2) {
 
 <p style="color:red">Updated links coming soon</p>
 
-- [2024 January 10](./Documents/meeting-notes/Mtg-2024-Jan.pdf)
-- [2023 October 11](./Documents/meeting-notes/Mtg-2023-Oct.pdf)
-- [2023 September 13](./Documents/meeting-notes/Mtg-2023-Sep.pdf)
-- [2023 August 9](./Documents/meeting-notes/Mtg-2023-Aug.pdf)
-- [2023 July 12](./Documents/meeting-notes/Mtg-2023-Jul.pdf)
-- [2023 June 28](./Documents/meeting-notes/SnS-2023-Jun.pdf)
-- [2023 May 10](./Documents/meeting-notes/Mtg-2023-May.pdf)
-- [2023 April 12](./Documents/meeting-notes/Mtg-2023-Apr.pdf)
-- [2023 March 8](./Documents/meeting-notes/Mtg-2023-Mar.pdf)
-- [2023 February 8](./Documents/meeting-notes/Mtg-2023-Feb.pdf)
-- [2023 January 11](./Documents/meeting-notes/Mtg-2023-Jan.pdf)
+- [2026 January 14](https://drive.google.com/file/d/1-2y0HsOuIWnkdYTgsmpiUCftXI3Mo2iF/view?usp=sharing)
 
 ### Archive of Newsletters (2011-2018)
 
