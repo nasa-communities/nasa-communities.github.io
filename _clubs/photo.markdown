@@ -72,12 +72,12 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 
 **Exhibit 57: Solar Photography / Pareidolia**
 
-![collage of thumbnail images of the 6 winners](/images/photo/exhibit-57-winners.png "Exhibit 57: Solar Photography / Pareidolia")
+![collage of thumbnail images of the 6 winners](/images/photo/Exhibit60-winners.jpg "Exhibit 60: Celebration / Best of Field Trips" )
 
-*Sunset Dragon (Olha Asmolova), Sleeping Troll (Karen Smale), Nodding Off (Wayne Robinson)*
-*Total Eclipse Circular Composite (Emily Beckman), Sunrise at McMath-Pierce Solar Telescope (Eliot Malumuth), Toledo Eclipse (Kyle Helson)*
+*Christmas Tree Decoration (Olha Asmolova), Christmas Lunch (Constance Warner), Ankhu and Tree (Brent Warner)*<br>
+*Cape Charles Sunrise (Karen Smale), Let Go My Wing (Wayne Robinson), Fireflies (William Thompson)*
 
-[View full-sized images on Flickr](https://www.flickr.com/photos/gsfcphoto/albums/72177720326478244)
+[View full-sized images on Flickr](https://www.flickr.com/photos/gsfcphoto/albums/72177720330810447/)
 
 ### Showcase 2023 Winners
 
