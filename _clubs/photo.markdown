@@ -268,7 +268,7 @@ Please contact our [webmaster](mailto:olha.asmolova@nasa.gov) for copies of past
 
 ### Meeting Presentations
 
-- [Renting Photo Equipment](https://docs.google.com/presentation/d/13S6bwMxDeP8NXLMbK00t1aleem6YLTng/edit?usp=sharing&ouid=100563789903182733599&rtpof=true&sd=true) (Emily Beckman, January 14, 2026)
+- [Renting Photo Equipment](https://drive.google.com/file/d/1BPf1_yOLsbRLuNtYbTXEDIbnCl1bjoRm/view?usp=sharing) (Emily Beckman, January 14, 2026)
 - [About me...](https://youtu.be/-01UR4D8fso) (Pablo Monsivais, Assistant Chief of Bureau for Photos for the AP, November 12, 2025)
 - [Videography](https://youtu.be/MhAKbgJ_PdE) (Liz linstrom, October 15, 2025)
 - [Photo Workshops](https://youtu.be/JX4bbWoBeec) (Lori Lankford, September 10, 2025)
