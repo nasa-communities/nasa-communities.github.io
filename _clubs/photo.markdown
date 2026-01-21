@@ -70,7 +70,7 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 
 ### Recent Snap & Share Winners
 
-**Exhibit 57: Solar Photography / Pareidolia**
+**Exhibit 60: Celebration / Best of Field Trips**
 
 ![collage of thumbnail images of the 6 winners](/images/photo/Exhibit60-winners.jpg "Exhibit 60: Celebration / Best of Field Trips" )
 
