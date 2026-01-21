@@ -222,8 +222,6 @@ th:nth-child(2), td:nth-child(2) {
 
 ### Recent Meeting Announcement Slides
 
-<p style="color:red">Updated links coming soon</p>
-
 - [2026 January 14](https://drive.google.com/file/d/1-2y0HsOuIWnkdYTgsmpiUCftXI3Mo2iF/view?usp=sharing)
 
 ### Archive of Newsletters (2011-2018)
