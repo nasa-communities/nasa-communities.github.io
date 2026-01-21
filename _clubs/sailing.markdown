@@ -50,7 +50,7 @@ All Goddard employees (civil servants and contractors, current or retired) and f
 ## News
 - **The 2025 sailing season is now over,** the boats are in winter storage.
 - **Merch Store is live,** offering shirts, hats, and mugs.  [Merch Store](https://www.bonfire.com/store/goddard-sailing-association-store/)
-- **The cruiser is out of commission** temporarily, due to an engine problem that needs to be fixed.
+<!-- - **The cruiser is out of commission** temporarily, due to an engine problem that needs to be fixed.-->
 - **Season Opener Picnic** was held on Saturday, June 7.
 - **The 2025 annual membership meeting** was held on April 24 through Microsoft Teams.
 
