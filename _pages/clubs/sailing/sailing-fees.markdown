@@ -24,48 +24,48 @@ anchors:
 
 | | |
 |---|---:|
-| 2025 Annual membership fee<br>(includes $50 sailing credits valid for the year) | $160 |
+| 2026 Annual membership fee<br>(includes $50 sailing credits valid for the year) | $170 |
 {: .table .table-stripe}
 
 ### Sailing class fees
 
 | | |
 |---|---:|
-| Basic sailing class (includes book and materials) | $110 |
-| Advanced sailing class | $75 |
+| Basic sailing class (includes book and materials) | $115 |
+| Advanced sailing class | $80 |
 {: .table .table-stripe}
 
 ### Boat chartering fees from May to September
 
 | | Flying Scots | Cruising boat |
 |---|---:|---:|
-| Monday to Friday, half day | $15 | $40 |
-| Monday to Friday, full day | $25 | $60 |
-| Weekend, half day | $25 | $60 |
-| Weekend, full day | $40 | $90 |
+| Monday to Friday, half day | $16 | $42 |
+| Monday to Friday, full day | $27 | $63 |
+| Weekend, half day | $27 | $63 |
+| Weekend, full day | $42 | $95 |
 {: .table .table-stripe}
 
 ### Boat chartering fees in March-April and October-November
 
 | | Flying Scots | Cruising boat |
 |---|---:|---:|
-| Monday to Friday, half day | $10 | $30 |
-| Monday to Friday, full day | $20 | $50 |
-| Weekend, half day | $15 | $50 |
-| Weekend, full day | $30 | $80 |
+| Monday to Friday, half day | $11 | $32 |
+| Monday to Friday, full day | $21 | $53 |
+| Weekend, half day | $16 | $53 |
+| Weekend, full day | $32 | $84 |
 {: .table .table-stripe}
 
 **Notes:**
 - Morning charters run from sun-up to 2:00 p.m.
 - Afternoon charters run from 2:00 p.m. to sun-down.
 - Government holidays count as weekends.
-- Members can purchase Salty Dog packages: $150 in charter credits for $100 paid in advance of sailing.
+- Members can purchase Salty Dog packages: $150 in charter credits for $105 paid in advance of sailing.
 
 ### Special event fees
 
 | | Night sails | All-day sails |
 |---|---:|---:|
-| Club sails | $10 | $10 |
+| Club sails | $15 | $15 |
 {: .table .table-stripe}
 
 ---
