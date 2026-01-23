@@ -90,7 +90,7 @@ All Goddard employees (civil servants and contractors) and family members are we
 * **Flexible, convenient online boat chartering and self-service at marina.**
 
 ### How to get started:
-- To join, simply fill out the [membership form](https://drive.google.com/file/d/1pyd8c_TncywCtJjM1euR4QSm5aWgV2gl/view?usp=drive_link) and (a) scan it and send the PDF file by email to [Theo Muench and Robin Clemente](mailto:ttmuench@hotmail.com;robin.clemente@nasa.gov), plus make a payment through Venmo, OR (b) send a hardcopy and a check to Theo Muench.
+- To join, simply fill out the [membership form](https://drive.google.com/file/d/1ArdjsU-7xDWe1VzXLyZxidBibTRCo1v3/view?usp=share_link) and (a) scan it and send the PDF file by email to [Theo Muench and Robin Clemente](mailto:ttmuench@hotmail.com;robin.clemente@nasa.gov), plus make a payment through Venmo, OR (b) send a hardcopy and a check to Theo Muench.
 - Sign up for a sailing class or, if you already know to sail, arrange for a qualification test with [Doug Frantz](mailto:douglas.e.frantz@nasa.gov).
 - Once qualified, enjoy sailing from sometime in April to late October.
 - Contact [our officers and volunteers](/clubs/sailing/sailing-contact/) with any questions.
