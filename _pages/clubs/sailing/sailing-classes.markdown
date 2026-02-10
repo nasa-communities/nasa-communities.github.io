@@ -21,9 +21,9 @@ anchors:
 <a name="index"></a>
 ## Sailing classes
 
-To sign up for sailing classes, please fill out this [class registration form](https://drive.google.com/file/d/12fNkL5QIITfroXiCxfxiCZerqa1cRHPF/view?usp=drive_link) and return it to Doug Frantz (Code 606). You may also sign up for the basic sailing class using the [annual membership form](https://drive.google.com/file/d/1pyd8c_TncywCtJjM1euR4QSm5aWgV2gl/view?usp=drive_link). You can also sign up for any class in person at the annual membership meeting.
+To sign up for sailing classes, please fill out the [annual membership form](https://drive.google.com/file/d/1ArdjsU-7xDWe1VzXLyZxidBibTRCo1v3/view). You can also sign up for any class in person at the annual membership meeting.
 
-With questions about the classes, please contact [Doug Frantz](mailto:douglas.e.frantz@nasa.gov) (301-286-1866).
+With questions about the classes, please contact [Doug Frantz](mailto:Doug.frantz.nasa@gmail.gov).
 
 
 ---
@@ -34,14 +34,14 @@ With questions about the classes, please contact [Doug Frantz](mailto:douglas.e.
 [Basic Class Page](/clubs/sailing/sailing-basic-class)
 
 **Dates:**
-- Session 1 - Six online classes on Saturdays, from April 13 to June 1. Classes run from 10:00 AM to 12:00 PM.
-- Session 2 - Six online classes on Saturdays, from June 29 to August 10. Classes run from 10:00 AM to 12:00 PM.
+- Session 1 - TBD.
+- Session 2 - TBD.
 
 **Location:** MS Teams
 
 **Prerequisites:** None. All club members in good standing are eligible for taking the class.
 
-**Cost:** $110.00
+**Cost:** $115.00
 
 This course is intended for beginning sailors and teaches the basic fundamentals of sailing using the clubs two Flying Scots. Topics covered during this course include rigging the Flying Scots, tacking, jibing, points of sail, weather, docking, righting a capsized vessel and trailering. This course consists of some classroom lessons and four on water lessons. Students who successfully complete this course will be qualified to charter the Flying Scots.
 
@@ -52,11 +52,11 @@ This course is intended for beginning sailors and teaches the basic fundamentals
 
 [Cruiser Class Page](/clubs/sailing/sailing-cruiser-class)
 
-If interested, please contact [Doug Frantz](mailto:douglas.e.frantz@nasa.gov)
+If interested, please contact [Doug Frantz](mailto:Doug.frantz.nasa@gmail.gov)
 
 **Prerequisites:** Membership in good standing for at least one year, Flying Scot qualification*, at least five successful (no accident) Flying Scot charters, participation in at least one working party or some other contribution to the club.
 
-**Cost:** $75.00
+**Cost:** $80.00
 
 This course is intended for experienced Flying Scot skippers who wish to learn to handle larger sailing vessels. Topics covered during this course include rules of the road, navigation, ATONs and maneuvering under power. This course also includes a basic introduction to chart work including dead reckoning, two and three bearing fixes, and set and drift. This course consists of four classroom lessons and three on water lessons. Students who successfully complete this course will be qualified to charter the cruiser boat.
 
