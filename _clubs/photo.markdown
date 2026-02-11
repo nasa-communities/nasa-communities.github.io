@@ -38,7 +38,7 @@ If you have questions regarding the club, check the [Officers & Contacts](#offic
 The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/images/photo/MPA-215.png)](https://www.mdphotoalliance.org/)
 
 ## Upcoming Events
-
+---
 #### January 14, 2026 - Meeting
 
 **Topic:** Renting Equipment - Emily Beckman<br>
