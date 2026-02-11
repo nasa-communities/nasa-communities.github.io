@@ -58,7 +58,7 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 **Time:** 12-1 pm &nbsp;&nbsp;
 **Location:** Hybrid; 23/S402 and Teams (link sent to members)
 
-#### February 25, 2026 - Snap & Share**
+#### February 25, 2026 - Snap & Share
 
 **Topic:** Yellow<br>
 **Time:** 12-1 pm &nbsp;&nbsp;
