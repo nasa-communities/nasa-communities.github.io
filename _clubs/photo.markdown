@@ -204,12 +204,14 @@ th:nth-child(2), td:nth-child(2) {
 | Sep   | "What is this"       |
 | Oct   | Travel               |
 {: style="width: 65%;"}
-
+<br>
 ***Snap & Share:** Members may upload up to 5 photos to the Flickr site (add them to the appropriate Snap & Share set and include your name in the description). Remember that these photos are potential choices for the cafeteria display!
 <br>
 
 ### Recent Past Events (2026)
 
+- Feb 11 - Meeting: Club Equipment and purchases (club officers)
+- Jan 14 - Snap & Share: Fire
 - Jan 14 - Meeting: Renting Equipment (Emily Beckman); featured: Bill Dusterwald
 
 ### Previous Years' Events
