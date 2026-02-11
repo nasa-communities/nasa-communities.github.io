@@ -53,7 +53,7 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 **Location:** Hybrid; 23/S402 and Teams (link sent to members)
 #### February 11, 2026 - Meeting
 
-**Topic:** TBD<br>
+**Topic:** Club Equipment and purchases (club officers)<br>
 **Featured Photographer:** Lizie Cohen<br>
 **Time:** 12-1 pm &nbsp;&nbsp;
 **Location:** Hybrid; 23/S402 and Teams (link sent to members)
@@ -161,7 +161,7 @@ th:nth-child(5), td:nth-child(5) { width: 620px; }
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
 |------|-------------|------------------------------------------------|---------------------------|-------|
-| 11    | Meeting     | *TBD*                         | *Lizie Cohen*                   | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 11    | Meeting     | *Club Equipment and purchases (club officers)*                         | *Lizie Cohen*                   | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 | 25   | Snap & Share| *Yellow*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 {: .table}
 <br>
