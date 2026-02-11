@@ -588,4 +588,5 @@ table.Calendar th.Second {
 .nsfw {
   color: red;
   font-weight: bold;
+}
 </style>
