@@ -86,6 +86,7 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 
 Meetings and Snap & Share events are held at NOON, unless otherwise noted.
 
+<!--
 <style>
 table {
   border-collapse: collapse;
@@ -114,7 +115,7 @@ th:nth-child(3), td:nth-child(3) { width: 220px; }
 th:nth-child(4), td:nth-child(4) { width: 140px; }
 th:nth-child(5), td:nth-child(5) { width: 620px; }
 </style>
-
+-->
 <!--
 
 #### September 2025
@@ -167,6 +168,7 @@ th:nth-child(5), td:nth-child(5) { width: 620px; }
 <br>
 
 ### Snap and Share Topics for 2026
+<!--
 <style>
 table {
   border-collapse: collapse;
@@ -191,6 +193,7 @@ th:nth-child(2), td:nth-child(2) {
   word-wrap: break-word; /* Allows text to wrap */
 }
 </style>
+-->
 | Month | Topic                |
 |-------|----------------------|
 | Jan   | Fire                 |
@@ -551,6 +554,7 @@ We are starting to expand our Club's committees. We are looking for Club Member 
   *Need volunteers!*
 
   <style>
+/* Calendar table styles */
 table.Calendar {
   font-size: 120%;
   border-spacing: 0px;
@@ -585,6 +589,31 @@ table.Calendar th.Second {
   text-align: left;
   background-color: #d3eaff;
 }
+
+/* Snap & Share table styles */
+table {
+  border-collapse: collapse;
+  width: auto;
+  max-width: 350px;
+}
+th, td {
+  border: 1px solid #ddd;
+  padding: 6px;
+  text-align: left;
+}
+th {
+  background-color: #f2f2f2;
+}
+th:first-child, td:first-child {
+  width: 60px;
+}
+th:nth-child(2), td:nth-child(2) {
+  width: 120px;
+  max-width: 120px;
+  word-wrap: break-word;
+}
+
+/* NSFW text styling */
 .nsfw {
   color: red;
 }
