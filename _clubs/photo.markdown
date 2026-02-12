@@ -141,7 +141,6 @@ th:nth-child(5), td:nth-child(5) { width: 620px; }
 |------|-------------|------------------------------------------------|---------------------------|-------|
 | 10    | Meeting     | *Gadgets (everyone)*                         | *Karen Smale*                   | **12:00am-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 {: .table}
--->
 
 #### January 2026
 
@@ -151,12 +150,22 @@ th:nth-child(5), td:nth-child(5) { width: 620px; }
 | 28   | Snap & Share| *Fire*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 {: .table}
 
+-->
 #### February 2026
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
 |------|-------------|------------------------------------------------|---------------------------|-------|
-| 11    | Meeting     | *Club Equipment and purchases (club officers)*                         | *Lizie Cohen*                   | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 11    | Meeting     | *Club Equipment and Purchases (club officers)*                         | *Lizie Cohen*                   | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 | 25   | Snap & Share| *Yellow*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 1 - 28   | Event| BINGO game                        |                           | *Rules sent to club members* |
+{: .table}
+
+#### March 2026
+
+| Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
+|------|-------------|------------------------------------------------|---------------------------|-------|
+| 11    | Meeting     | *BINGO Game Recap - Bill Dusterwald*                         | *Raghu Tumkur*                   | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 25   | Snap & Share| *Urban*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 {: .table}
 <br>
 
