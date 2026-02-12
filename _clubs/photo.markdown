@@ -548,8 +548,7 @@ We are starting to expand our Club's committees. We are looking for Club Member 
   *Olha Asmolova (lead)*
   *Need volunteers!*
 
-<style>
-/* Calendar table styles */
+  <style>
 table.Calendar {
   font-size: 120%;
   border-spacing: 0px;
@@ -584,37 +583,7 @@ table.Calendar th.Second {
   text-align: left;
   background-color: #d3eaff;
 }
-
-/* Snap & Share table styles - SPECIFIC to snap-share tables only */
-table.snap-share {
-  border-collapse: collapse;
-  width: auto;
-  max-width: 350px;
-}
-table.snap-share th, 
-table.snap-share td {
-  border: 1px solid #ddd;
-  padding: 6px;
-  text-align: left;
-}
-table.snap-share th {
-  background-color: #f2f2f2;
-}
-table.snap-share th:first-child, 
-table.snap-share td:first-child {
-  width: 60px;
-}
-table.snap-share th:nth-child(2), 
-table.snap-share td:nth-child(2) {
-  width: 120px;
-  max-width: 120px;
-  word-wrap: break-word;
-}
-
-/* NSFW text styling */
 .nsfw {
   color: red;
 }
 </style>
-
-
