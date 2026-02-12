@@ -39,28 +39,22 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 
 ## Upcoming Events
 ---
-#### January 14, 2026 - Meeting
-
-**Topic:** Renting Equipment - Emily Beckman<br>
-**Featured Photographer:** Bill Dusterwald<br>
-**Time:** 12-1 pm &nbsp;&nbsp;
-**Location:** Hybrid; 23/S402 and Teams (link sent to members)
-
-#### January 28, 2026 - Snap & Share
-
-**Topic:** Fire<br>
-**Time:** 12-1 pm &nbsp;&nbsp;
-**Location:** Hybrid; 23/S402 and Teams (link sent to members)
-#### February 11, 2026 - Meeting
-
-**Topic:** Club Equipment and purchases (club officers)<br>
-**Featured Photographer:** Lizie Cohen<br>
-**Time:** 12-1 pm &nbsp;&nbsp;
-**Location:** Hybrid; 23/S402 and Teams (link sent to members)
-
 #### February 25, 2026 - Snap & Share
 
 **Topic:** Yellow<br>
+**Time:** 12-1 pm &nbsp;&nbsp;
+**Location:** Hybrid; 23/S402 and Teams (link sent to members)
+
+#### March 11, 2026 - Meeting
+
+**Topic:** Bingo recap - Bill Dusterwald<br>
+**Featured Photographer:** Raghu Tumkur <br>
+**Time:** 12-1 pm &nbsp;&nbsp;
+**Location:** Hybrid; 23/S402 and Teams (link sent to members)
+
+#### March 25, 2026 - Snap & Share
+
+**Topic:** Urban<br>
 **Time:** 12-1 pm &nbsp;&nbsp;
 **Location:** Hybrid; 23/S402 and Teams (link sent to members)
 
