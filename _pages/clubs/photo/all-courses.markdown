@@ -3,8 +3,6 @@ name: Photo Club Presentations
 thumbnail: photo/logo.png
 categories: goddard
 
-contact-email: olha.asmolova@nasa.gov
-
 socials:
 #  twitter: /
 #  github: /
@@ -50,8 +48,6 @@ a:hover {
 }
 </style>
 
-# Photo Club Presentations
-
 ## All Courses
 
 - **Photo 102: Basic Post-Processing** (2022; Scott Hull)
@@ -96,4 +92,5 @@ a:hover {
   - Basics and Exposure (Joel Gambino, [PPTX](https://drive.google.com/uc?export=download&id=1D6M2jtibH5jfRT7DUSMUyqzpOojKho4g)) <!-- Using Cropping link as placeholder -->
   - Camera Settings and Mechanics (Scott Hull, [PPTX](https://drive.google.com/uc?export=download&id=1HIy6MiVP2TKSWcAPOWI5nTHvq3fcYJSL)) <!-- Using Digital Archiving link as placeholder -->
   - Composition (Nancy Rosenbaum, [PDF](https://drive.google.com/uc?export=download&id=1stdACKHKCbEoi2u5WCoY59n8tOXD2asP)) <!-- Using Photo Events link as placeholder -->
+
 
