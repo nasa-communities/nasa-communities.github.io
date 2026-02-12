@@ -85,36 +85,7 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 ### Future Events
 
 Meetings and Snap & Share events are held at NOON, unless otherwise noted.
-<!--
-<style>
-table {
-  border-collapse: collapse;
-  width: 1200px;
-  table-layout: fixed;
-}
-th, td {
-  border: 1px solid #ddd;
-  padding: 8px;
-  text-align: left;
-  word-wrap: break-word;
-}
-/* More specific targeting for headers */
-table thead th,
-table tr:first-child th,
-table th {
-  background-color: #e6f2ff !important;
-}
-td {
-  background-color: white;
-}
-/* Updated column widths for 1200px total */
-th:nth-child(1), td:nth-child(1) { width: 60px; }
-th:nth-child(2), td:nth-child(2) { width: 160px; }
-th:nth-child(3), td:nth-child(3) { width: 220px; }
-th:nth-child(4), td:nth-child(4) { width: 140px; }
-th:nth-child(5), td:nth-child(5) { width: 620px; }
-</style>
--->
+
 <!--
 
 #### September 2025
