@@ -39,24 +39,21 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 
 ## Upcoming Events
 ---
-#### February 25, 2026 - Snap & Share
+- #### February 25, 2026 - Snap & Share
 
-**Topic:** Yellow<br>
-**Time:** 12-1 pm &nbsp;&nbsp;
-**Location:** Hybrid; 23/S402 and Teams (link sent to members)
+  **Topic:** Yellow<br>
+  (12-1pm, Hybrid: B. 23/S402 and Teams)
 
-#### March 11, 2026 - Meeting
+- #### March 11, 2026 - Meeting
 
-**Topic:** Bingo recap - Bill Dusterwald<br>
-**Featured Photographer:** Raghu Tumkur <br>
-**Time:** 12-1 pm &nbsp;&nbsp;
-**Location:** Hybrid; 23/S402 and Teams (link sent to members)
+  **Topic:** Bingo recap - Bill Dusterwald<br>
+  **Featured Photographer:** Raghu Tumkur <br>
+  (12-1pm, Hybrid: B. 23/S402 and Teams)
 
-#### March 25, 2026 - Snap & Share
+- #### March 25, 2026 - Snap & Share
 
-**Topic:** Urban<br>
-**Time:** 12-1 pm &nbsp;&nbsp;
-**Location:** Hybrid; 23/S402 and Teams (link sent to members)
+  **Topic:** Urban<br>
+  (12-1pm, Hybrid: B. 23/S402 and Teams)
 
 ---
 
