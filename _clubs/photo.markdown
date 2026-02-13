@@ -21,7 +21,7 @@ anchors:
   - { text: Featured Photos, anchor: "#featured-photos" } 
   - { text: Calendar of Events, anchor: "#calendar-of-events" }
   - { text: Announcements, anchor: "#announcements" }
-  - { text: Presentations, anchor: "clubs/photo/presentations/" }
+  - { text: Presentations, anchor: "/clubs/photo/presentations/" } 
   - { text: Resources, anchor: "#resources" }
   - { text: Membership Application, anchor: "#membership-application" }
   - { text: Members' Galleries, anchor: "#members-galleries" }
