@@ -15,6 +15,16 @@ layout: club-with-nav
 
 anchors:
   - { text: Back to Club Page, anchor: "/clubs/photo/" }
+  - { text: Upcoming Events, anchor: "#upcoming-events" }
+  - { text: Featured Photos, anchor: "#featured-photos" }
+  - {text: Snap and Share, anchor: "/clubs/photo/calendar-of-events#snap-and-share-topics-2026"} 
+  - { text: Calendar of Events, anchor: "/clubs/photo/calendar-of-events" }
+  - { text: Announcements, anchor: "/clubs/photo/announcements" }
+  - { text: Presentations, anchor: "/clubs/photo/presentations/" } 
+  - { text: Resources, anchor: "/clubs/photo/resources" }
+  - { text: Membership Application, anchor: "/clubs/photo/membership" }
+  - { text: Members' Galleries, anchor: "/clubs/photo/members_gallery" }
+  - { text: Officers & Contacts, anchor: "/clubs/photo/contacts" }
 
 ---
 
@@ -94,6 +104,7 @@ a:hover {
   - Composition (Nancy Rosenbaum, [PDF](https://drive.google.com/uc?export=download&id=1stdACKHKCbEoi2u5WCoY59n8tOXD2asP)) <!-- Using Photo Events link as placeholder -->
 
 ---
+
 
 
 
