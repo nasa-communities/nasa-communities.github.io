@@ -1,5 +1,5 @@
 ---
-name: Photo Club Presentations
+name: Photo Club Presentations and Cources
 thumbnail: photo/logo.png
 categories: goddard
 
