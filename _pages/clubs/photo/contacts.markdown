@@ -17,8 +17,6 @@ anchors:
   - { text: Back to Club Page, anchor: "/clubs/photo/" }
 
 ---
-## Officers & Contacts
-
 **Want to join the club or renew your membership?**  
 Membership: [Emily Beckman](mailto:emily.beckman@nasa.gov)
 
