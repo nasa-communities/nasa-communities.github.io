@@ -1,5 +1,5 @@
 ---
-name: Photo Club Officers & Contacts
+name: Officers & Contacts
 thumbnail: photo/logo.png
 categories: goddard
 
