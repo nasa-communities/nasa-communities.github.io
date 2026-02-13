@@ -15,7 +15,7 @@ layout: club-with-nav
 
 anchors:
   - { text: Back to Club Page, anchor: "/clubs/photo/" }
-  - {text: Snap and Share, anchor: "#Snap-and-Share-Topics-for-2026"}
+  - {text: Snap and Share, anchor: "#snap-and-share-topics-2026"}
 ---
 ---
 
@@ -101,7 +101,7 @@ th:nth-child(5), td:nth-child(5) { width: 620px; }
 {: .table}
 <br>
 
-### Snap and Share Topics for 2026
+### Snap and Share Topics 2026
 <style>
 table {
   border-collapse: collapse;
