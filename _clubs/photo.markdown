@@ -22,7 +22,7 @@ anchors:
   - { text: Calendar of Events, anchor: "#calendar-of-events" }
   - { text: Announcements, anchor: "#announcements" }
   - { text: Presentations, anchor: "/clubs/photo/presentations/" } 
-  - { text: Resources, anchor: "#resources" }
+  - { text: Resources, anchor: "/clubs/photo/resources" }
   - { text: Membership Application, anchor: "#membership-application" }
   - { text: Members' Galleries, anchor: "#members-galleries" }
   - { text: Officers & Contacts, anchor: "/clubs/photo/contacts" }
