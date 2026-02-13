@@ -38,6 +38,8 @@ Exhibit coordinator: [Wayne Robinson](mailto:wayne.d.robinson@nasa.gov)
 **Want to add an announcement to the Website?**  
 Webmaster: [Olha Asmolova](mailto:olha.asmolova@nasa.gov)
 
+---
+
 ### Photo Club Officers
 
 **President:**  
@@ -57,6 +59,8 @@ Vacant
 
 **Past Presidents:**  
 Seth Gaines, Scott Hull, Kristin Rutkowski, Nancy Rosenbaum, Anne Koslosky
+
+---
 
 ### Committees
 
@@ -82,4 +86,4 @@ We are starting to expand our Club's committees. We are looking for Club Member 
   Get the word out about the Club. Post regular Dateline messages and coordinate flyer distribution/mounting ahead of events. Respond to requests for photo support (green screen, other GEWA clubs, etc.)  
   *Olha Asmolova (lead)*
   *Need volunteers!*
-
+---
