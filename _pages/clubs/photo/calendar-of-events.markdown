@@ -1,5 +1,5 @@
 ---
-name: Calendar of events 2026
+name: Calendar of Events 2026
 thumbnail: photo/logo.png
 categories: goddard
 
@@ -15,9 +15,9 @@ layout: club-with-nav
 
 anchors:
   - { text: Back to Club Page, anchor: "/clubs/photo/" }
+  - {text: Snap and Share, anchor: "Snap and Share Topics"}
 ---
 ---
-## Calendar of Events
 
 ### Future Events
 
