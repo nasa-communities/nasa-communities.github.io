@@ -19,7 +19,7 @@ layout: club-with-nav
 anchors:
   - { text: Upcoming Events, anchor: "#upcoming-events" }
   - { text: Featured Photos, anchor: "#featured-photos" } 
-  - { text: Calendar of Events, anchor: "#calendar-of-events" }
+  - { text: Calendar of Events, anchor: "/clubs/photo/calendar-of-events" }
   - { text: Announcements, anchor: "/clubs/photo/announcements" }
   - { text: Presentations, anchor: "/clubs/photo/presentations/" } 
   - { text: Resources, anchor: "/clubs/photo/resources" }
