@@ -1,3 +1,22 @@
+---
+name: Photo Club Officers & Contacts
+thumbnail: photo/logo.png
+categories: goddard
+
+socials:
+#  twitter: /
+#  github: /
+#  facebook: /
+#  instagram: /
+#  youtube: /
+  flickr: http://www.flickr.com/photos/gsfcphoto/
+  
+layout: club-with-nav
+
+anchors:
+  - { text: Back to Club Page, anchor: "/clubs/photo/" }
+
+---
 ## Officers & Contacts
 
 **Want to join the club or renew your membership?**  
