@@ -15,6 +15,15 @@ layout: club-with-nav
 
 anchors:
   - { text: Back to Club Page, anchor: "/clubs/photo/" }
+  - { text: Upcoming Events, anchor: "#upcoming-events" }
+  - { text: Featured Photos, anchor: "#featured-photos" }
+  - {text: Snap and Share, anchor: "/clubs/photo/calendar-of-events#snap-and-share-topics-2026"} 
+  - { text: Calendar of Events, anchor: "/clubs/photo/calendar-of-events" }
+  - { text: Announcements, anchor: "/clubs/photo/announcements" }
+  - { text: Presentations, anchor: "/clubs/photo/presentations/" } 
+  - { text: Resources, anchor: "/clubs/photo/resources" }
+  - { text: Membership Application, anchor: "/clubs/photo/membership" }
+  - { text: Officers & Contacts, anchor: "/clubs/photo/contacts" }
 ---
 ---
 <p style="color:red">Note that some of these links may not be safe for work viewing (NSFW).</p>
