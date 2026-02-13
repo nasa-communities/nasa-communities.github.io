@@ -20,6 +20,8 @@ anchors:
 
 To upload your photographs to our [Flickr website](https://www.flickr.com/photos/gsfcphoto/), you must be a paid member. The [instructions](https://drive.google.com/file/d/1kG2QWOeP7M_CoP-SHvo67R0-AeiJ0E7d/view?usp=sharing) are available for download. Contact our [club treasurer](mailto:olha.asmolova@nasa.gov) for user name and password.
 
+---
+
 #### Web Resources
 - **General Guides**
   - [Lens Buying Guide](https://www.bestbuy.com/site/buying-guides/lens-buying-guide/pcmcat329300050006.c?id=pcmcat329300050006&type=category)
@@ -78,6 +80,8 @@ To upload your photographs to our [Flickr website](https://www.flickr.com/photos
   - [Photo Club Exhibit Guidlines and Selection Process](https://docs.google.com/document/d/1OIU_SO0z3fRbfsfeOrQkQ_vpQsVYX55u/edit?usp=sharing&ouid=100563789903182733599&rtpof=true&sd=true)
   - [Print Resolution and Aspect Ratio Primer](https://docs.google.com/document/d/1b0SuCn6JHSEKxxMu_8G2-qoh6OFgVUqI/edit?usp=sharing&ouid=100563789903182733599&rtpof=true&sd=true) (Useful for people printing photos for the Photo Club Exhibit in Building 1)
 
+---
+
 #### Equipment Available
 
 To use any equipment, you must be a paid member. We have the following:
@@ -94,3 +98,4 @@ To use any equipment, you must be a paid member. We have the following:
 
 Club members can add to this list by contacting the [webmaster](mailto:olha.asmolova@nasa.gov).
 
+---
