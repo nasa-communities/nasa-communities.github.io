@@ -1,5 +1,5 @@
 ---
-name: Photo Club Presentations and Cources
+name: Photo Club Presentations and Courses
 thumbnail: photo/logo.png
 categories: goddard
 
@@ -16,7 +16,6 @@ layout: club-with-nav
 anchors:
   - { text: Back to Club Page, anchor: "/clubs/photo/" }
 ---
-## Presentations
 
 ### Courses
 
