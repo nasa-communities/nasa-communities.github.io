@@ -24,7 +24,7 @@ anchors:
   - { text: Presentations, anchor: "/clubs/photo/presentations/" } 
   - { text: Resources, anchor: "/clubs/photo/resources" }
   - { text: Membership Application, anchor: "/clubs/photo/membership" }
-  - { text: Members' Galleries, anchor: "#members-galleries" }
+  - { text: Members' Galleries, anchor: "/clubs/photo/members_gallery" }
   - { text: Officers & Contacts, anchor: "/clubs/photo/contacts" }
 
 ---
