@@ -16,7 +16,7 @@ layout: club-with-nav
 anchors:
   - { text: Back to Club Page, anchor: "/clubs/photo/" }
 ---
-
+---
 ### Courses
 
 - **Photo 102: Basic Post-Processing** (2022; Scott Hull)
@@ -48,6 +48,8 @@ anchors:
   - Session 2: Portraiture Photography (Bill Dusterwald, [Slides (ppt)](https://drive.google.com/uc?export=download&id=1De22iXRkmzABA2yDonZ4Gw3-HYpdkriR))
 
 - [List of all courses](https://nasa-communities.org/clubs/photo/all-courses/) (including previous versions of the same course)
+
+---
 
 ### Meeting Presentations
 
