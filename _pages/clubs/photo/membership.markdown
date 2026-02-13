@@ -45,3 +45,5 @@ If you have not renewed your membership for the 2024-2025 club year please compl
 - Karen Smale: [Pixels](https://karen-smale.pixels.com/) and [Flickr](https://www.flickr.com/photos/karen_smale)
 - Raghu Tumkur: [500px site](https://www.500px.com/rtumkur)
 - Andy Wohl: [Personal photo website](https://andrewwohlfineartphotography.com/the-artist) and [Fine Art America website](https://fineartamerica.com/profiles/andrew-wohl)
+
+---
