@@ -20,7 +20,7 @@ anchors:
   - { text: Upcoming Events, anchor: "#upcoming-events" }
   - { text: Featured Photos, anchor: "#featured-photos" } 
   - { text: Calendar of Events, anchor: "#calendar-of-events" }
-  - { text: Announcements, anchor: "#announcements" }
+  - { text: Announcements, anchor: "/clubs/photo/announcements" }
   - { text: Presentations, anchor: "/clubs/photo/presentations/" } 
   - { text: Resources, anchor: "/clubs/photo/resources" }
   - { text: Membership Application, anchor: "/clubs/photo/membership" }
