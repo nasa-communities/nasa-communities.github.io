@@ -22,7 +22,7 @@ anchors:
   - { text: 2011, anchor: "#2011" }
 
 ---
-
+---
 For upcoming and recent past events, please check our [Calendar of Events](https://nasa-communities.org/clubs/photo#calendar-of-events).
 
 ## 2025
@@ -569,3 +569,5 @@ For upcoming and recent past events, please check our [Calendar of Events](https
 
 
 - November 11 - Photo Field Trip: Conowingo Dam located in northern Maryland - In the frigid fall weather we were rewarded with over 20 wild Eagles modeling for our cameras throughout the morning.
+
+---
