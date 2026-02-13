@@ -15,7 +15,7 @@ layout: club-with-nav
 
 anchors:
   - { text: Back to Club Page, anchor: "/clubs/photo/" }
-  - {text: Snap and Share, anchor: "#Snap and Share Topics"}
+  - {text: Snap and Share, anchor: "#Snap-and-Share-Topics-for-2026"}
 ---
 ---
 
