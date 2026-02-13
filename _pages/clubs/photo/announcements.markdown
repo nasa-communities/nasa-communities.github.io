@@ -19,7 +19,6 @@ anchors:
   - { text: Featured Photos, anchor: "#featured-photos" }
   - {text: Snap and Share, anchor: "/clubs/photo/calendar-of-events#snap-and-share-topics-2026"} 
   - { text: Calendar of Events, anchor: "/clubs/photo/calendar-of-events" }
-  - { text: Announcements, anchor: "/clubs/photo/announcements" }
   - { text: Presentations, anchor: "/clubs/photo/presentations/" } 
   - { text: Resources, anchor: "/clubs/photo/resources" }
   - { text: Membership Application, anchor: "/clubs/photo/membership" }
