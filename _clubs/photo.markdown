@@ -18,7 +18,8 @@ layout: club-with-nav
 
 anchors:
   - { text: Upcoming Events, anchor: "#upcoming-events" }
-  - { text: Featured Photos, anchor: "#featured-photos" } 
+  - { text: Featured Photos, anchor: "#featured-photos" }
+  - {text: Snap and Share Topics, anchor: "/clubs/photo/calendar-of-events#snap-and-share-topics-for-2026"} 
   - { text: Calendar of Events, anchor: "/clubs/photo/calendar-of-events" }
   - { text: Announcements, anchor: "/clubs/photo/announcements" }
   - { text: Presentations, anchor: "/clubs/photo/presentations/" } 
