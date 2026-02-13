@@ -16,8 +16,6 @@ layout: club-with-nav
 anchors:
   - { text: Back to Club Page, anchor: "/clubs/photo/" }
 ---
-## Resources
-
 #### Flickr Website
 
 To upload your photographs to our [Flickr website](https://www.flickr.com/photos/gsfcphoto/), you must be a paid member. The [instructions](https://drive.google.com/file/d/1kG2QWOeP7M_CoP-SHvo67R0-AeiJ0E7d/view?usp=sharing) are available for download. Contact our [club treasurer](mailto:olha.asmolova@nasa.gov) for user name and password.
