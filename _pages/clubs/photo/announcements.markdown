@@ -18,8 +18,6 @@ anchors:
 ---
 ---
 
-## Announcements
-
 #### Recent Meeting Announcement Slides
 
 - [2026 February 11](https://drive.google.com/file/d/1dVmddqUvLtVjaBXlj45_iqqNZhlERFiw/view?usp=sharing)
