@@ -16,6 +16,14 @@ layout: club-with-nav
 anchors:
   - { text: Back to Club Page, anchor: "/clubs/photo/" }
   - {text: Snap and Share, anchor: "#snap-and-share-topics-2026"}
+  - { text: Upcoming Events, anchor: "#upcoming-events" }
+  - { text: Featured Photos, anchor: "#featured-photos" }
+  - { text: Announcements, anchor: "/clubs/photo/announcements" }
+  - { text: Presentations, anchor: "/clubs/photo/presentations/" } 
+  - { text: Resources, anchor: "/clubs/photo/resources" }
+  - { text: Membership Application, anchor: "/clubs/photo/membership" }
+  - { text: Members' Galleries, anchor: "/clubs/photo/members_gallery" }
+  - { text: Officers & Contacts, anchor: "/clubs/photo/contacts" }
 ---
 ---
 
