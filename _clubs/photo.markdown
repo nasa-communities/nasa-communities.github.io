@@ -217,7 +217,7 @@ th:nth-child(2), td:nth-child(2) {
 <a href="/clubs/photo/past-events" class="btn btn-primary">Past Events</a>
 
 ---
----
+
   <style>
 table.Calendar {
   font-size: 120%;
