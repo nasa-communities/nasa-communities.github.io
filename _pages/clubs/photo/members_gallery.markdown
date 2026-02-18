@@ -25,6 +25,12 @@ anchors:
   - { text: Membership Application, anchor: "/clubs/photo/membership" }
   - { text: Officers & Contacts, anchor: "/clubs/photo/contacts" }
 ---
+<style>
+.nsfw {
+  color: red;
+}
+</style>
+
 ---
 <p style="color:red">Note that some of these links may not be safe for work viewing (NSFW).</p>
 
