@@ -111,7 +111,8 @@ All Goddard employees (civil servants and contractors) and family members are we
 
 ## Photos and Videos
 
-<a href="https://myalbum.com/folder/2Js9xDoWqXGs" class="btn btn-primary">Photo / video album</a>
+<a href="https://myalbum.com/folder/2Js9xDoWqXGs" class="btn btn-primary" 
+  target="_blank" rel="noopener noreferrer">Photo / video album</a>
 
 ---
 
