@@ -71,6 +71,8 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 
 [View full-sized images on Flickr](https://www.flickr.com/photos/gsfcphoto/albums/72177720330810447/)
 
+---
+
 #### Showcase 2023 Winners
 
 ![collage of thumbnail images of 2023 best photos](/images/photo/2023-bestphotos.jpg)
