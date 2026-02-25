@@ -6,6 +6,7 @@ categories: goddard
 parent-club: Goddard Photo Club
 
 anchors:
+  - { text: Back to Club Page, anchor: "/clubs/photo/" }
   - { text: 2024, anchor: "#2024" }
   - { text: 2023, anchor: "#2023" }
   - { text: 2022, anchor: "#2022" }
@@ -571,3 +572,4 @@ For upcoming and recent past events, please check our [Calendar of Events](https
 - November 11 - Photo Field Trip: Conowingo Dam located in northern Maryland - In the frigid fall weather we were rewarded with over 20 wild Eagles modeling for our cameras throughout the morning.
 
 ---
+
