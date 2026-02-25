@@ -107,6 +107,14 @@ th:nth-child(5), td:nth-child(5) { width: 620px; }
 | 11    | Meeting     | *BINGO Game Recap - Bill Dusterwald*                         | *Raghu Tumkur*                   | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 | 25   | Snap & Share| *Urban*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 {: .table}
+
+#### April 2026
+
+| Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
+|------|-------------|------------------------------------------------|---------------------------|-------|
+| 8    | Meeting     | *Travel Photography with David Hobby*                         | *Steve Fantasia*                   | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 22   | Snap & Share| *Paths*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+{: .table}
 <br>
 
 ### Snap and Share Topics 2026
