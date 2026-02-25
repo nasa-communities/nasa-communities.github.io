@@ -104,7 +104,7 @@ th:nth-child(5), td:nth-child(5) { width: 620px; }
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
 |------|-------------|------------------------------------------------|---------------------------|-------|
-| 11    | Meeting     | *BINGO Game Recap - Bill Dusterwald*                         | *Raghu Tumkur*                   | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 11    | Meeting     | *BINGO Game Recap - Bill Dusterwald*                         | *Raghu Tumkur*                   | Bill Dusterwald will go over the BINGO game entries, reviewing the submitted photos and offering his feedback along the way.<br>**12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 | 25   | Snap & Share| *Urban*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 {: .table}
 
@@ -112,7 +112,7 @@ th:nth-child(5), td:nth-child(5) { width: 620px; }
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
 |------|-------------|------------------------------------------------|---------------------------|-------|
-| 8    | Meeting     | *Travel Photography with David Hobby*                         | *Steve Fantasia*                   | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 8    | Meeting     | *Travel Photography with David Hobby*                         | *Steve Fantasia*                   | David Hobby is an American photographer and founder of the influential Strobist.com lighting blog. He is best known for teaching practical, accessible lighting techniques—especially off-camera flash—focusing more on skill and creativity than on gear. At its peak, Strobist reached over 300,000 monthly readers in 175 countries and was named one of Time magazine’s “25 Best Blogs of 2010.<br>**12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 | 22   | Snap & Share| *Paths*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 {: .table}
 <br>
