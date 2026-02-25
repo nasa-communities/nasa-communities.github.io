@@ -161,6 +161,7 @@ th:nth-child(2), td:nth-child(2) {
 
 #### Recent Past Events (2026)
 
+- Feb 25 - Snap & Share: Yellow
 - Feb 11 - Meeting: Club Equipment and purchases (club officers)
 - Jan 28 - Snap & Share: Fire
 - Jan 14 - Meeting: Renting Equipment (Emily Beckman); featured: Bill Dusterwald
