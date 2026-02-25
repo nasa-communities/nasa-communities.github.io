@@ -40,7 +40,12 @@ If you have not renewed your membership for the 2024-2025 club year please compl
 ---
 
 ## Members' Galleries
-
+<style>
+.nsfw {
+  color: red;
+  font-weight: bold;
+}
+</style>
 <p style="color:red">Note that some of these links may not be safe for work viewing (NSFW).</p>
 
 **Links to photo sharing sites and galleries of Club members:**
