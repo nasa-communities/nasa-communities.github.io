@@ -73,7 +73,7 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 
 #### Recent Snap & Share Winners
 
-**Exhibit 60: Celebration / Best of Field Trips**
+**Exhibit 60: Celebration / Best of Field Trips** is currently on display in the Building 1 cafeteria
 
 ![collage of thumbnail images of the 6 winners](/images/photo/Exhibit60-winners.jpg "Exhibit 60: Celebration / Best of Field Trips" )
 
