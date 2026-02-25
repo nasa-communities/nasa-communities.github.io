@@ -40,11 +40,11 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 
 ## Upcoming Events
 ---
-- #### February 25, 2026 - Snap & Share
+<!--- #### February 25, 2026 - Snap & Share
 
   **Topic:** Yellow<br>
   (12-1pm, Hybrid: B. 23/S402 and Teams)
-
+-->
 - #### March 11, 2026 - Meeting
 
   **Topic:** Bingo recap - Bill Dusterwald<br>
