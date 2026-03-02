@@ -90,7 +90,7 @@ th:nth-child(5), td:nth-child(5) { width: 620px; }
 | 28   | Snap & Share| *Fire*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 {: .table}
 
--->
+
 #### February 2026
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
@@ -99,7 +99,7 @@ th:nth-child(5), td:nth-child(5) { width: 620px; }
 | 25   | Snap & Share| *Yellow*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 | 1 - 28   | Event| BINGO game                        |                           | *Rules sent to club members* |
 {: .table}
-
+-->
 #### March 2026
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
