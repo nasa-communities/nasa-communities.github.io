@@ -34,7 +34,7 @@ Below are the links for the Membership Application and the Club's Constitution. 
 If you have not renewed your membership for the 2026-2027 club year please complete a membership form and email it to [Emily Beckman](mailto:emily.a.beckman@nasa.gov) and get her your $10 yearly membership dues (options: cash, check made out to "Goddard Photo Club", or Paypal/Venmo to Emily Beckman). Membership rolls are purged in January.
 
 - [Membership Application (Microsoft Word)](https://drive.google.com/uc?export=download&id=1635iEJ2A_M7v_RpVYhpM8mb9WH5TBuu8)
-- [Membership Application (PDF)](https://drive.google.com/uc?export=download&id=1LS1tmdwkMdEJbMWD3n1g3LIw-FykFOJy)
+- [Membership Application (PDF)](https://drive.google.com/file/d/1ZiahqcM5-F7PcUP-OXmliLpEEhCeTAlL/view?usp=sharing)
 - [Photo Club Constitution (PDF)](https://drive.google.com/uc?export=download&id=14YmfggvU9rzdXt3KPNk8yTkHF0vVoEkd)
 
 ---
