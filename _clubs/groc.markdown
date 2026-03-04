@@ -42,8 +42,7 @@ GROC is a member of the [Road Runners Club of America (RRCA)](https://www.rrca.o
 
 ## Upcoming Events
 
-No upcoming events listed. 
-Coming this spring, the GSFC 2 Mile Fun Run and the GSFC 10K. Details to follow.
+Coming in spring 2026, the GSFC 2 Mile Fun Run and the GSFC 10K. Details to follow.
 
 [View past events](#past-events-and-photos)
 
