@@ -43,6 +43,14 @@ GROC is a member of the [Road Runners Club of America (RRCA)](https://www.rrca.o
 
 Coming in spring 2026, the GSFC 2 Mile Fun Run and the GSFC 10K. This year marks the 50th anniversary of GSFC putting on the 2 Miler! Details to follow.
 
+
+### Registration
+<!-- Registration is organized through [RunSignUp.com](https://runsignup.com/Race/Events/MD/Greenbelt/NASAGoddard2Miler) --!>
+
+$8.00 for pre-registration for the Fall Race. Special 100th anniversary bibs for this run while supplies last!
+
+**Pre-registration only; there will be no race-day registration.** Only those with proper security credentials and have security access to the center will be allowed to participate.
+
 [View past events](#past-events-and-photos)
 
 ---
@@ -94,13 +102,6 @@ Thanks to the [GSFC Photo Club](https://nasa-communities.org/clubs/photo/) for t
 The Goddard 2 Miler is the venerable, semi-annual race around the Goddard campus in Greenbelt, Maryland.  The race is open to NASA employees and contractors and certain guests by invitation. This spring and fall event are typically attended by several hundred participants, some of whom race, some who jog, and many more who walk the moderately easy course, all on Goddard Space Flight Center roads.
 
 The Fall 2025 race took place on Wednesday, October 22nd, 2025 - this was our 100th 2 Mile! We've had this twice per year since 1976!
-
-### Registration
-Registration is organized through [RunSignUp.com](https://runsignup.com/Race/Events/MD/Greenbelt/NASAGoddard2Miler).
-
-$8.00 for pre-registration for the Fall Race. Special 100th anniversary bibs for this run while supplies last!
-
-**Pre-registration only; there will be no race-day registration.** Only those with proper security credentials and have security access to the center will be allowed to participate.
 
 ### Course Map
 
@@ -173,9 +174,7 @@ The [Quantico Orienteering Club](https://www.qocweb.org/) organizes orienteering
 
 ## Center Showers
 
-The [Greenbelt Fitness Center](https://www.nasa.gov/goddard/memd/greenbelt-fitness-center/) charges $5/month for shower use (though non-fitness members can shower there for the Fun Runs)
-
-Other shower locations at GSFC-Greenbelt:
+The fitness building has been closed by Center management. However there are multiple shower locations on the GSFC campus:
 
 ### Men
 
