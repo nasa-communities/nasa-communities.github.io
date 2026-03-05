@@ -17,13 +17,12 @@ contact-email: tom.winkert@nasa.gov
 anchors:
   - { text: Upcoming Events, anchor: "#upcoming-events" }
   - { text: Race Results, anchor: "#race-results" }
-  - { text: Past Events and Photos, anchor: "#past-events-and-photos" }
+  - { text: Photos, anchor: "#photos" }
   - { text: 2 Mile Fun Run, anchor: "#2-mile-fun-run" }
   - { text: 10K Race, anchor: "#10k-race" }
   - { text: Goddard Track Club, anchor: "#goddard-track-club" }
   - { text: Orienteering, anchor: "#orienteering" }
   - { text: Center Showers, anchor: "#center-showers" }
-  - { text: Historical Race Results, anchor: "#historical-race-results" }
   - { text: Board Members, anchor: "#board-members" }
   - { text: Contact Us, anchor: "#contact-us" }
 
@@ -50,7 +49,7 @@ Coming in spring 2026, the GSFC 2 Mile Fun Run and the GSFC 10K. This year marks
 
 ## Race Results
 
-We did it! The 100th GSFC 2 Mile was a success, even off center!
+### 2025 
 
 **10K (10/15/25):**
 * [Overall Results](/clubs/groc/2025/2025 Fall 10K.txt)
@@ -64,11 +63,16 @@ We did it! The 100th GSFC 2 Mile was a success, even off center!
 * [Graded](/clubs/groc/2025/2025 Fall 2 Mile Age Graded.txt)
 * [Gun Time](/clubs/groc/2025/2025 Fall 2 Mile guntime.txt)
 
+### Older Race Results
+
 <a href="/clubs/groc/race-results" class="btn btn-primary">View Past Race Results</a>
+
 
 ---
 
-## Past Events and Photos
+## Photos
+
+We did it! The 100th GSFC 2 Mile was a success, even off center!
 
 Thanks to the [GSFC Photo Club](https://nasa-communities.org/clubs/photo/) for their amazing photos from past GROC events:
 
@@ -209,9 +213,6 @@ _Building 26 may have showers but only for security._
 
 ---
 
-## Historical Race Results
-
----
 
 ## Board Members
 
