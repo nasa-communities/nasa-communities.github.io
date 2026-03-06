@@ -132,9 +132,7 @@ The Fall 2025 race took place on Wednesday, October 22nd, 2025 - this was our 10
 
 ## 10K Race
 
-### Registration
-
-Coming soon.
+This low-key event is typically held at Greenbelt Lake (Buddy Attick Park), and is open to all.
 
 ### Course Map
 
