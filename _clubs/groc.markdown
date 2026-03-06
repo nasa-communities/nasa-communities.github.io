@@ -5,7 +5,7 @@ description: The Goddard Running and Orienteering Club has continuously hosted 2
 thumbnail: groc/logo.png
 categories: goddard
 
-contact-email: tom.winkert@nasa.gov
+contact-email: tom.winkert@nasa.gov, james.e.leake@nasa.gov
 
 #socials:
 #  twitter: /
@@ -128,6 +128,8 @@ The Fall 2025 race took place on Wednesday, October 22nd, 2025 - this was our 10
 
 * A team can only win one category/trophy.
 
+### Course Records
+
 ---
 
 ## 10K Race
@@ -219,7 +221,7 @@ _Building 26 may have showers but only for security._
 
 **Secretary:** James Leake
 
-**Volunteer Coordinator:** James Leak
+**Volunteer Coordinator:** James Leake
 
 **Race Director:** Jeff Dalhoff
 
@@ -236,6 +238,9 @@ _Building 26 may have showers but only for security._
 📞 301-286-2917
 
 ✉️ [tom.winkert@nasa.gov](mailto:tom.winkert@nasa.gov)
+
+✉️ [james.e.leake@nasa.gov](mailto:james.e.leake@nasa.gov)
+
 
 Dynamic Stretching Exercises:
 
