@@ -45,7 +45,7 @@ Coming in spring 2026, the GSFC 2 Mile Fun Run and the GSFC 10K. This year marks
 
 
 ### Registration
-<!-- Registration is organized through [RunSignUp.com](https://runsignup.com/Race/Events/MD/Greenbelt/NASAGoddard2Miler) --!>
+<!-- Registration is organized through [RunSignUp.com](https://runsignup.com/Race/Events/MD/Greenbelt/NASAGoddard2Miler) -->
 
 $8.00 for pre-registration for the Fall Race. Special 100th anniversary bibs for this run while supplies last!
 
