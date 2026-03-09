@@ -16,6 +16,7 @@ contact-email: tom.winkert@nasa.gov, james.e.leake@nasa.gov
 
 anchors:
   - { text: Upcoming Events, anchor: "#upcoming-events" }
+  - { text: GSFC Running Club, anchor: "#GSFC-running-club" }
   - { text: Race Results, anchor: "#race-results" }
   - { text: Photos, anchor: "#photos" }
   - { text: 2 Mile Fun Run, anchor: "#2-mile-fun-run" }
@@ -41,7 +42,19 @@ GROC is a member of the [Road Runners Club of America (RRCA)](https://www.rrca.o
 
 ## Upcoming Events
 
-Coming in spring 2026, the GSFC 2 Mile Fun Run and the GSFC 10K. This year marks the 50th anniversary of GSFC putting on the 2 Miler! Details to follow.
+### Spring 2026 2 mile
+
+It's back!!!!   Our 2 mile on center is  on Wednesday April 29th!  It's our 50th Anniversary of having the 2 mile!
+ 
+It's a competition for some, a team event for some, a fun run/walk for others.  Keep the tradition going and come out and do this race or volunteer.  
+ 
+The race starts and finishes in front of the Goddard Child Development Center.   The race starts at noon.
+
+Register at [https://runsignup.com/Race/MD/Greenbelt/NASAGoddard2Mile](Register at https://runsignup.com/Race/MD/Greenbelt/NASAGoddard2Mile). The first 300 registrants get a cool commemorative bib number.  Grab a slice of pizza afterwards. 
+
+VOLUNTEERS NEEDED! Email [james.e.leake@nasa.gov](mailto:james.e.leake@nasa.gov) to volunteer, it's easy!
+
+Email [tom.winkert@nasa.gov](tom.winkert@nasa.gov) with questions or if you want to make event shirts for the run.
 
 
 ### Registration
@@ -52,6 +65,12 @@ $8.00 for pre-registration for the Fall Race. Special 100th anniversary bibs for
 **Pre-registration only; there will be no race-day registration.** Only those with proper security credentials and have security access to the center will be allowed to participate.
 
 [View past events](#past-events-and-photos)
+
+---
+
+## GSFC Running Club
+
+Join us during the day on your personal time for a social run around the campus. We accomodate all levels and paces, and will help you pick a route that works for your distance. Contact [james.e.leake@nasa.gov](mailto:james.e.leake@nasa.gov) to be added to the GSFC Running Club MS Teams Chat, where we organize times and start points. 
 
 ---
 
@@ -148,7 +167,8 @@ This low-key event is typically held at Greenbelt Lake (Buddy Attick Park), and 
 
 The Goddard Track Club is a team of competitive athletes working toward a common goal. I avoid the term "runners" because I want to be inclusive of any potential throwers and jumpers out there who might some-day join us. We have no standards for talent, only for commitment - commitment not only to the sport of running but also to each other as a tight mutually supportive community. Our focus is on competing in road, cross country, and track events around the region and in some cases around the country. We welcome anyone who is interested in experiencing the sports of cross country, road racing, and track and field in a team environment - whatever your background or ability level. You just have to be willing to commit to the team. We are built on the principle that anything worth doing is worth doing right - and that means with careful planning and in the company of your closest friends.
 
-There is a list to coordinate group runs in and around NASA/GSFC for NASA/GSFC employees and contractors. The primary use of this list so far has been for traing and racing announcements for the track club.   Below are the directions for subscribing and unsubscribing to the rungsfc list. For more information contact Jacob at [jacob.a.englander@nasa.gov](mailto:jacob.a.englander@nasa.gov).
+There is a list to coordinate group runs in and around NASA/GSFC for NASA/GSFC employees and contractors. The primary use of this list so far has been for traing and racing announcements for the track club.   Below are the directions for subscribing and unsubscribing to the rungsfc list. 
+<!--For more information contact Jacob at [jacob.a.englander@nasa.gov](mailto:jacob.a.englander@nasa.gov).-->
 
 **To subscribe to the rungsfc list:**
 Send a message (the content doesn't matter) to [rungsfc-subscribe@lists.nasa.gov](mailto:rungsfc-subscribe@lists.nasa.gov) and reply to the confirmation message.
