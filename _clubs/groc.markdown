@@ -50,19 +50,11 @@ It's a competition for some, a team event for some, a fun run/walk for others.  
  
 The race starts and finishes in front of the Goddard Child Development Center.   The race starts at noon.
 
-Register at [https://runsignup.com/Race/MD/Greenbelt/NASAGoddard2Mile](Register at https://runsignup.com/Race/MD/Greenbelt/NASAGoddard2Mile). The first 300 registrants get a cool commemorative bib number.  Grab a slice of pizza afterwards. 
+Register at [https://runsignup.com/Race/MD/Greenbelt/NASAGoddard2Miler](https://runsignup.com/Race/MD/Greenbelt/NASAGoddard2Miler). The first 300 registrants get a cool commemorative bib number.  Grab a slice of pizza afterwards. 
 
 VOLUNTEERS NEEDED! Email [james.e.leake@nasa.gov](mailto:james.e.leake@nasa.gov) to volunteer, it's easy!
 
 Email [tom.winkert@nasa.gov](tom.winkert@nasa.gov) with questions or if you want to make event shirts for the run.
-
-
-### Registration
-<!-- Registration is organized through [RunSignUp.com](https://runsignup.com/Race/Events/MD/Greenbelt/NASAGoddard2Miler) -->
-
-$8.00 for pre-registration for the Fall Race. Special 100th anniversary bibs for this run while supplies last!
-
-**Pre-registration only; there will be no race-day registration.** Only those with proper security credentials and have security access to the center will be allowed to participate.
 
 [View past events](#past-events-and-photos)
 
