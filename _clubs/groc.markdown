@@ -50,7 +50,7 @@ It's a competition for some, a team event for some, a fun run/walk for others.  
 
 The race starts and finishes in front of the Goddard Child Development Center.   The race starts at noon.
 
-Course and team details can be found [here](#2mile-fun-run).
+Course and team details can be found [here](#2-mile-fun-run).
 
 Register at [https://runsignup.com/Race/MD/Greenbelt/NASAGoddard2Miler](https://runsignup.com/Race/MD/Greenbelt/NASAGoddard2Miler). The first 300 registrants get a cool commemorative bib number.  Grab a slice of pizza afterwards.
 
@@ -58,7 +58,6 @@ VOLUNTEERS NEEDED! Email [james.e.leake@nasa.gov](mailto:james.e.leake@nasa.gov)
 
 Email [tom.winkert@nasa.gov](tom.winkert@nasa.gov) with questions or if you want to make event shirts for the run.
 
-[View past events](#past-events-and-photos)
 
 ---
 
