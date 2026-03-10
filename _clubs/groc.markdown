@@ -30,11 +30,11 @@ anchors:
 layout: club-with-nav
 ---
 
-For close to 50 years, the **Goddard Running and Orienteering Club (GROC)** has continuously hosted 2-mile and 10K runs that draw, on average, 900 runners, walkers, and parents with baby strollers each year. Employees often use this event as a healthy team-building event for coworkers. 
+For close to 50 years, the **Goddard Running and Orienteering Club (GROC)** has continuously hosted 2-mile and 10K runs that draw, on average, 900 runners, walkers, and parents with baby strollers each year. Employees often use this event as a healthy team-building event for coworkers.
 
 Many volunteers, the fitness center, GSFC management and GSFC security partner with us to make the spring and fall Fun Run at the Goddard campus safe and enjoyable. The races provide friendly competition, promote health, and serve as a social activity for coworkers to coordinate their other runs at GSFC where they discuss their training, their jobs or just about anything.
 
-[Contact us](#contact-us) to find out about what a membership in the GROC provides! 
+[Contact us](#contact-us) to find out about what a membership in the GROC provides!
 
 GROC is a member of the [Road Runners Club of America (RRCA)](https://www.rrca.org/).
 
@@ -44,13 +44,15 @@ GROC is a member of the [Road Runners Club of America (RRCA)](https://www.rrca.o
 
 ### Spring 2026 2 mile
 
-It's back!!!!   Our 2 mile on center is  on Wednesday April 29th!  It's our 50th Anniversary of having the 2 mile!
- 
+It's back!!!!   Our 2 mile on center is on Wednesday April 29th!  It's our 50th Anniversary of having the 2 mile!
+
 It's a competition for some, a team event for some, a fun run/walk for others.  Keep the tradition going and come out and do this race or volunteer.  
- 
+
 The race starts and finishes in front of the Goddard Child Development Center.   The race starts at noon.
 
-Register at [https://runsignup.com/Race/MD/Greenbelt/NASAGoddard2Miler](https://runsignup.com/Race/MD/Greenbelt/NASAGoddard2Miler). The first 300 registrants get a cool commemorative bib number.  Grab a slice of pizza afterwards. 
+Course and team details can be found [here](#2mile-fun-run).
+
+Register at [https://runsignup.com/Race/MD/Greenbelt/NASAGoddard2Miler](https://runsignup.com/Race/MD/Greenbelt/NASAGoddard2Miler). The first 300 registrants get a cool commemorative bib number.  Grab a slice of pizza afterwards.
 
 VOLUNTEERS NEEDED! Email [james.e.leake@nasa.gov](mailto:james.e.leake@nasa.gov) to volunteer, it's easy!
 
@@ -60,15 +62,27 @@ Email [tom.winkert@nasa.gov](tom.winkert@nasa.gov) with questions or if you want
 
 ---
 
+### Spring 2026 10k
+
+Our 10K at Buddy Attick Park is on Wednesday May 13th! This run is open to anyone who wants to participat.
+
+The race starts at noon at Buddy Attick Park, Greenbelt, and the [course](#10k-race).
+
+Regsistration is free, and can be done before the race.
+
+VOLUNTEERS NEEDED! Email [james.e.leake@nasa.gov](mailto:james.e.leake@nasa.gov) to volunteer, it's easy!
+
+---
+
 ## GSFC Running Club
 
-Join us during the day on your personal time for a social run around the campus. We accomodate all levels and paces, and will help you pick a route that works for your distance. Contact [james.e.leake@nasa.gov](mailto:james.e.leake@nasa.gov) to be added to the GSFC Running Club MS Teams Chat, where we organize times and start points. 
+Join us during the day on your personal time for a social run around the campus. We accomodate all levels and paces, and will help you pick a route that works for your distance. Contact [james.e.leake@nasa.gov](mailto:james.e.leake@nasa.gov) to be added to the GSFC Running Club MS Teams Chat, where we organize times and start points.
 
 ---
 
 ## Race Results
 
-### 2025 
+### 2025
 
 **10K (10/15/25):**
 * [Overall Results](/clubs/groc/2025/2025 Fall 10K.txt)
@@ -127,13 +141,13 @@ The Fall 2025 race took place on Wednesday, October 22nd, 2025 - this was our 10
 > 1. **Division (560, 450 etc.)** - open to civil servants and contractors of that division (top 5 score based upon age grading; scorers and entrants can be male or female)
 > 1. **Project** - open to civil servants and contractors of that project (top 5 score based upon age grading; scorers and entrants can be male or female)
 > 1. **Contractor** (top 5 score based upon age grading; scorers and entrants can be male or female)
- 
+
 * All team participants must complete an individual entry form, either online before race day or paper form on race day just like everyone else, and put your team name on it.
 
 * **All teams are automatically entered in the first 3 categories.** The team may also enter only one of the next three categories if all members belong to those categories.
     * For example, if all your members belong to the same contractor, then put "Contractor" at the top of your team list.
 
-* There is no limit to the number of team members on a team. 
+* There is no limit to the number of team members on a team.
 
 * Each participant can be on only one team.
 
@@ -159,7 +173,7 @@ This low-key event is typically held at Greenbelt Lake (Buddy Attick Park), and 
 
 The Goddard Track Club is a team of competitive athletes working toward a common goal. I avoid the term "runners" because I want to be inclusive of any potential throwers and jumpers out there who might some-day join us. We have no standards for talent, only for commitment - commitment not only to the sport of running but also to each other as a tight mutually supportive community. Our focus is on competing in road, cross country, and track events around the region and in some cases around the country. We welcome anyone who is interested in experiencing the sports of cross country, road racing, and track and field in a team environment - whatever your background or ability level. You just have to be willing to commit to the team. We are built on the principle that anything worth doing is worth doing right - and that means with careful planning and in the company of your closest friends.
 
-There is a list to coordinate group runs in and around NASA/GSFC for NASA/GSFC employees and contractors. The primary use of this list so far has been for traing and racing announcements for the track club.   Below are the directions for subscribing and unsubscribing to the rungsfc list. 
+There is a list to coordinate group runs in and around NASA/GSFC for NASA/GSFC employees and contractors. The primary use of this list so far has been for traing and racing announcements for the track club.   Below are the directions for subscribing and unsubscribing to the rungsfc list.
 <!--For more information contact Jacob at [jacob.a.englander@nasa.gov](mailto:jacob.a.englander@nasa.gov).-->
 
 **To subscribe to the rungsfc list:**
@@ -257,4 +271,3 @@ _Building 26 may have showers but only for security._
 Dynamic Stretching Exercises:
 
 ![Dynamic Stretching Exercises](/images/groc/groc-dynamic-stretching.jpg "Dynamic Stretching Exercises")
-
