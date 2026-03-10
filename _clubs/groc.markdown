@@ -58,9 +58,6 @@ VOLUNTEERS NEEDED! Email [james.e.leake@nasa.gov](mailto:james.e.leake@nasa.gov)
 
 Email [tom.winkert@nasa.gov](tom.winkert@nasa.gov) with questions or if you want to make event shirts for the run.
 
-
----
-
 ### Spring 2026 10k
 
 Our 10K at Buddy Attick Park is on Wednesday May 13th! This run is open to anyone who wants to participat.
