@@ -82,9 +82,13 @@ Join us during the day on your personal time for a social run around the campus.
 * [Graded](/clubs/groc/2025/2025 Fall 2 Mile Age Graded.txt)
 * [Gun Time](/clubs/groc/2025/2025 Fall 2 Mile guntime.txt)
 
-### Older Race Results
+### Previous Race Results
 
 <a href="/clubs/groc/race-results" class="btn btn-primary">View Past Race Results</a>
+
+### Older Race Results
+
+[Older Results](clubs/groc/results.html)
 
 
 ---
