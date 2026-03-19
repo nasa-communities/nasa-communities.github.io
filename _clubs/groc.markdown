@@ -98,7 +98,7 @@ Join us during the day on your personal time for a social run around the campus.
 
 ### Older Race Results
 
-[Older Results](clubs/groc/results.html)
+[Older Results](clubs/groc/results)
 
 
 ---
