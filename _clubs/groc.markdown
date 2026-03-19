@@ -74,6 +74,16 @@ VOLUNTEERS NEEDED! Email [james.e.leake@nasa.gov](mailto:james.e.leake@nasa.gov)
 
 Join us during the day on your personal time for a social run around the campus. We accomodate all levels and paces, and will help you pick a route that works for your distance. Contact [james.e.leake@nasa.gov](mailto:james.e.leake@nasa.gov) to be added to the GSFC Running Club MS Teams Chat, where we organize times and start points.
 
+### Meetup
+
+Since the center closed the fitness center, we meet at B34, which has 6 showers/changing rooms. See [Center Showers](#Center Showers) for locations of other shower facilities on campus.
+
+### Maps
+
+We'll add some maps of typical runs on GSFC campus.
+
+
+
 ---
 
 ## Race Results
