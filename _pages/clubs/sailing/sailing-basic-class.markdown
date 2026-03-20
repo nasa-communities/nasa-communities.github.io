@@ -50,7 +50,7 @@ If you feel you have adequate sailing experience to get qualified without the cl
 
 ---
 
-#### Sailing Tests (Exam Links coming soon)
+#### Sailing Tests
 
-- [Basic sailing examination: Interactive online version](https://docs.google.com/forms/d/e/1FAIpQLSfnqgnYNmmVOKg2DK7aiqE400lpkKrSxQyshP04cpiNjP4HbA/viewform?usp=sharing&ouid=111891702951192984115)
+- [Basic sailing examination: Interactive online test](https://docs.google.com/forms/d/e/1FAIpQLSfnqgnYNmmVOKg2DK7aiqE400lpkKrSxQyshP04cpiNjP4HbA/viewform?usp=sharing&ouid=111891702951192984115)
 - [Water test form for instructors](https://drive.google.com/file/d/1OADWR_aWixaFP00wcWrdS5UAXlclPx2I/view?usp=drive_link)
