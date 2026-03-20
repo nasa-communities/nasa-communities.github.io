@@ -25,12 +25,12 @@ anchors:
 | Topic | Contact | Office phone |
 |---|---|---|
 | General club information | [Robin Clemente](mailto:robin.clemente@nasa.gov) | 410-919-3086 |
-| Sailing class information | [Doug Frantz](mailto:douglas.e.frantz@nasa.gov) | 301-286-1866 |
-| Social events | [Jeremy Goldstein/Tyler Williams](mailto:Jgolds1@hotmail.com;williamstyler075@gmail.com) | 571-499-0482 |
+| Sailing class information | [Robin Clemente](mailto:robin.clemente@nasa.gov) | 410-919-3086 |
+| Social events | [Jeremy Goldstein](mailto:Jgolds1@hotmail.com) | 571-499-0482 |
 | Club website and mailing lists | [Tamás Várnai](mailto:tamas.varnai@nasa.gov) |  |
 | Membership information | [Theo Muench](mailto:ttmuench@hotmail.com) | |
-| Boat charters | [Stephan Klene](mailto:Stephan.A.Klene@nasa.gov) | 301-867-2015 |
-| Boat maintenance | [John Panek](mailto:john.s.panek@nasa.gov) | 301-286-6593 |
+| Boat charters | [Robin Clemente/Stephan Klene](mailto:robin.clemente@nasa.gov;Stephan.A.Klene@nasa.gov) | 301-867-2015 |
+| Boat maintenance | [Tyler Williams](mailto:tyler.e.williams@nasa.gov) | 301-614-7069 |
 | Racing information and instruction | [Jan Merka](mailto:jan.moravian@gmail.com) |  |
 {: .table .table-stripe}
 
@@ -42,7 +42,7 @@ anchors:
 | Vice-commodore (education) | [Doug Frantz](mailto:douglas.e.frantz@nasa.gov) | 301-286-1866 |
 | Rear-commodore (social events) | [Jeremy Goldstein](mailto:Jgolds1@hotmail.com) | 571-499-0482 |
 | Treasurer | [Theo Muench](mailto:ttmuench@hotmail.com) | |
-| Fleet captain | [John Panek](mailto:john.s.panek@nasa.gov) | 301-286-6593 |
+| Fleet captain | [Tyler Williams](mailto:tyler.e.williams@nasa.gov) | 301-614-7069 |
 | Secretary | [Tamás Várnai](mailto:tamas.varnai@nasa.gov) | 301-614-6408 |
 {: .table .table-stripe}
 
