@@ -31,7 +31,7 @@ If you feel you have adequate sailing experience to get qualified without the cl
 
 ### Class notes
 
-- [Part 1](https://docs.google.com/presentation/d/1I8OfVgv63DMGoYoNTdOVzvRfKUqCty7R/edit?usp=drive_link&ouid=115722727750444071792&rtpof=true&sd=true) - Wind, sails and rigging
+- [Part 1](https://docs.google.com/presentation/d/1UlOVioz8Jcdkpfjiis6If8ZZCPLU7ux-/edit?usp=sharing&ouid=111891702951192984115&rtpof=true&sd=true) - Wind, sails and rigging
 - [Part 2](https://docs.google.com/presentation/d/1giLwEeEjrz2x5Gqiis0pF3PK1CEpwsfg/edit?usp=drive_link&ouid=115722727750444071792&rtpof=true&sd=true) - Boat Theory, changing tacks, man-overboard
 - [Part 3](https://docs.google.com/presentation/d/1v5qc85fKiOseUG7j9aC8mp3FxmtIXdKG/edit?usp=drive_link&ouid=115722727750444071792&rtpof=true&sd=true) - How to sail well, right of way, capsize, heaving-to
 - [Part 4](https://docs.google.com/presentation/d/1pooeTWdjzPS-nq4qTpwG86wPrPRJWepc/edit?usp=drive_link&ouid=115722727750444071792&rtpof=true&sd=true) - Weather, Tides, anchors, navigation
