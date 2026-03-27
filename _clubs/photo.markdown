@@ -44,7 +44,7 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 
   **Topic:** Yellow<br>
   (12-1pm, Hybrid: B. 23/S402 and Teams)
--->
+
 - #### March 11, 2026 - Meeting
 
   **Topic:** BINGO recap - Bill Dusterwald<br>
@@ -55,7 +55,7 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 
   **Topic:** Urban<br>
   (12-1pm, Hybrid: B. 23/S402 and Teams)
-
+-->
 - #### April 8, 2026 - Meeting
 
   **Topic:** Travel photography with David Hobby<br>
@@ -66,7 +66,17 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 
   **Topic:** Paths<br>
   (12-1pm, Hybrid: B. 23/S402 and Teams)
+  
+- #### May 13, 2026 - Meeting
 
+  **Topic:** Bird Photography with Matt Felperin <br>
+  **Featured Photographer:** Emily Beckman <br>
+  (12-1pm, Hybrid: B. 23/S402 and Teams)
+
+- #### May 27, 2026 - Snap & Share
+
+  **Topic:** Flowing Water<br>
+  (12-1pm, Hybrid: B. 23/S402 and Teams)
 ---
 
 ## Featured Photos
