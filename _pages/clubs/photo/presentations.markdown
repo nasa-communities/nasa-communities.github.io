@@ -63,6 +63,7 @@ anchors:
 
 ### Meeting Presentations
 
+- Travel Photography with David Hobby (David Hobby, April 8, 2026. Video presentation and slides sent to members)
 - [Renting Photo Equipment](https://drive.google.com/file/d/1BPf1_yOLsbRLuNtYbTXEDIbnCl1bjoRm/view?usp=sharing) (Emily Beckman, January 14, 2026)
 - [About me...](https://youtu.be/-01UR4D8fso) (Pablo Monsivais, Assistant Chief of Bureau for Photos for the AP, November 12, 2025)
 - [Videography](https://youtu.be/MhAKbgJ_PdE) (Liz linstrom, October 15, 2025)
