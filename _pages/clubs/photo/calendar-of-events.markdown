@@ -168,6 +168,9 @@ th:nth-child(2), td:nth-child(2) {
 
 #### Recent Past Events (2026)
 
+- Apr 8 - Meeting: Travel Photography with David Hobby; featured: Steve Fantasia
+- Mar 25 - Snap & Share: Urban
+- Mar 11 - Meeting: BINGO Game Recap - Bill Dusterwald; featured: Raghu Tumkur
 - Feb 25 - Snap & Share: Yellow
 - Feb 11 - Meeting: Club Equipment and purchases (club officers)
 - Jan 28 - Snap & Share: Fire
