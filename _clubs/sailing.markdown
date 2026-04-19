@@ -48,8 +48,9 @@ All Goddard employees (civil servants and contractors, current or retired) and f
 ---
 
 ## News
-- **The 2026 annual membership meeting** is planned for March 4, 11:30 AM on Microsoft Teams.
-- **The 2025 sailing season is over,** the boats are in winter storage.
+- **Solar Wind is unavailable** due to pending repairs; the other boats are available for chartering.
+- **The 2026 annual membership meeting** was held on March 4, 11:30 AM on Microsoft Teams.
+- **The 2026 sailing season is underway.**
 - **Merch Store is live,** offering shirts, hats, and mugs.  [Merch Store](https://www.bonfire.com/store/goddard-sailing-association-store/)
 
 ### From the archives:
