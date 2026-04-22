@@ -102,9 +102,8 @@ All Goddard employees (civil servants and contractors) and family members are we
 
 | Date | Time | Location | Event |
 |---|---|---|---|
-| TBA | TBA | Selby Bay | Season Finale Event |
-| August 8-10, 2025 | All day | Rock Hall, MD | Pirates and Wenches weekend |
-| Saturday, August 2, 2025 | 10:00 | Selby Bay | Beverly Beach Sail |
+| Sunday, May 17, 2026 | TBA | Selby bay | Season Opener Picnic |
+| Wednesday, March 4, 2026 | 11:30 | MS Teams | Annual Membership Meeting |
 {: .table .table-stripe}
 
 ---
