@@ -94,7 +94,7 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
   **Topic:** Critique session with MPA judge <br>
     (12-1pm, Hybrid: B. 23/S402 and Teams)
 
-- #### Juy 22, 2026 - Snap & Share
+- #### July 22, 2026 - Snap & Share
 
   **Topic:** Sports and Events<br>
   (12-1pm, Hybrid: B. 23/S402 and Teams)
