@@ -44,6 +44,7 @@ anchors:
 - Dave Schaible: [Flickr](https://www.flickr.com/photos/icademus/) <span class="nsfw">(NSFW)</span> and [Facebook](https://www.facebook.com/FotosbyFudd/) and [Viewbug](https://www.viewbug.com/member/Fudd) <span class="nsfw">(NSFW)</span>
 - Karen Smale: [Pixels](https://karen-smale.pixels.com/) and [Flickr](https://www.flickr.com/photos/karen_smale)
 - Raghu Tumkur: [500px site](https://www.500px.com/rtumkur)
+- Olha Asmolova: [Flickr](https://www.flickr.com/photos/181965402@N05/)
 - Andy Wohl: [Personal photo website](https://andrewwohlfineartphotography.com/the-artist) and [Fine Art America website](https://fineartamerica.com/profiles/andrew-wohl)
 
 ---
