@@ -55,7 +55,7 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 
   **Topic:** Urban<br>
   (12-1pm, Hybrid: B. 23/S402 and Teams)
--->
+
 - #### April 8, 2026 - Meeting
 
   **Topic:** Travel photography with David Hobby<br>
@@ -66,7 +66,7 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 
   **Topic:** Paths<br>
   (12-1pm, Hybrid: B. 23/S402 and Teams)
-  
+  -->
 - #### May 13, 2026 - Meeting
 
   **Topic:** Bird Photography with Matt Felperin <br>
@@ -76,6 +76,27 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 - #### May 27, 2026 - Snap & Share
 
   **Topic:** Flowing Water<br>
+  (12-1pm, Hybrid: B. 23/S402 and Teams)
+
+- #### June 10, 2026 - Meeting
+
+  **Topic:** Timelapses with Karen Smale <br>
+  **Featured Photographer:** Eliot Malumuth <br>
+  (12-1pm, Hybrid: B. 23/S402 and Teams)
+
+- #### June 24, 2026 - Snap & Share
+
+  **Topic:** Birds<br>
+  (12-1pm, Hybrid: B. 23/S402 and Teams)
+
+- #### July 8, 2026 - Meeting
+
+  **Topic:** Critique session with MPA judge <br>
+    (12-1pm, Hybrid: B. 23/S402 and Teams)
+
+- #### Juy 22, 2026 - Snap & Share
+
+  **Topic:** Sports and Events<br>
   (12-1pm, Hybrid: B. 23/S402 and Teams)
 ---
 
