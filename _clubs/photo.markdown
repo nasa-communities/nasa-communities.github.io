@@ -98,6 +98,7 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 
   **Topic:** Sports and Events<br>
   (12-1pm, Hybrid: B. 23/S402 and Teams)
+  
 ---
 
 ## Featured Photos
