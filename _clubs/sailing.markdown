@@ -102,7 +102,7 @@ All Goddard employees (civil servants and contractors) and family members are we
 
 | Date | Time | Location | Event |
 |---|---|---|---|
-| Sunday, May 17, 2026 | TBA | Selby bay | Season Opener Picnic |
+| Sunday, May 17, 2026 | TBA | Selby Bay | Season Opener Picnic |
 | Wednesday, March 4, 2026 | 11:30 | MS Teams | Annual Membership Meeting |
 {: .table .table-stripe}
 
