@@ -44,6 +44,10 @@ GROC is a member of the [Road Runners Club of America (RRCA)](https://www.rrca.o
 
 ### Spring 2026 2 mile
 
+UPDATE: 04/28/26 - Check for rain cancellation (heavcy rain/thunderstorms) here
+[https://runsignup.com/Race/MD/Greenbelt/NASAGoddard2Miler](https://runsignup.com/Race/MD/Greenbelt/NASAGoddard2Miler)
+
+
 It's back!!!!   Our 2 mile on center is on Wednesday April 29th!  It's our 50th Anniversary of having the 2 mile!
 
 It's a competition for some, a team event for some, a fun run/walk for others.  Keep the tradition going and come out and do this race or volunteer.  
