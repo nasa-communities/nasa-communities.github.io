@@ -1,0 +1,422 @@
+                                                                      Page 1
+         50th Anniversary GROC run and 101st NASA Intracenter Run
+                        Goddard Space Flight Center
+                              April 29th,2026
+                          Gun Time Results (all)
+                    correction to tom.winkert@nasa.gov
+Place Num   Name                     Guntime  Sex Div   Team                              
+===== ===== ======================== ======== === ===== ============================== 
+    1   748 Maksym Petrenko          11:39.55   M M4044 HELIOPHYSICS                   
+    2   746 Bobby Huang              11:59.30   M M3034 HELIOPHYSICS                   
+    3   641 Chuck Hudson             12:06.31   M M3539 SUN SYNCHRONOUS STRIDERS       
+    4   531 Ethan Burbridge          12:11.07   M M3034 LEMS RUNS ON NERDS GUMMY CLUST 
+    5   601 Charlie Mpetha           12:25.28   M M2529                                
+    6   717 William Bamford          12:36.73   M M5054 FAST & RELATIVE                
+    7   765 Robert Michell           12:38.13   M M4549 HELIOPHYSICS                   
+    8   749 Aidan Scharnikow         13:06.25   M M2024 HELIOPHYSICS                   
+    9   883 Michael Akkerman         13:06.67   M M5054                                
+   10   193 Alvin Yew                13:13.78   M M4044                                
+   11   819 Gabriel Segnatelli       13:24.52   M M3034 SUN SYNCHRONOUS STRIDERS       
+   12   368 Feng Li                  13:26.46   M M5054                                
+   13   569 Luis Rodriguez De Marcos 13:27.90   M M4044                                
+   14   723 Ryan Fitzgibbons         13:28.11   M M4549 OCOMM AND GET IT               
+   15   758 Andy Lopez-Oquendo       13:34.02   M M2529 LRALPH                         
+   16    18 Jacob Hyman              13:36.90   M M2529                                
+   17   662 Casey McGrath            13:41.46   M M3034 LISA                           
+   18   914 James Chervenak          13:46.07   M M5559                                
+   19   905 Matthew Francom          13:47.60   M M3034 DRAGONFLYERS                   
+   20   541 Andrew Yu                13:49.11   M M3034 SUN SYNCHRONOUS STRIDERS       
+   21   849 Juan Martin De Blas      13:56.74   M M3034 LRALPH                         
+   22   551 Bernard Kelly            14:04.94   M M5054 LISA                           
+   23   658 Grant Barrett            14:07.30   M M3539 SUN SYNCHRONOUS STRIDERS       
+   24   712 Ian Carroll              14:08.21   M M4549 KEEPING PACE                   
+   25   869 Adam Voiland             14:09.49   M M4044 OCOMM AND GET IT               
+   26   647 Tyler Lee                14:17.39   M M2529 FAST & RELATIVE                
+   27   855 Eric Lyness              14:20.46   M M6064 DRAGONFLYERS                   
+   28   821 Kyle Gregory             14:22.61   M M4044                                
+   29   899 Melissa Vess             14:23.77   F F4549                                
+   30   754 Brian Woodson Jr         14:28.11   M M2529 SUN SYNCHRONOUS STRIDERS       
+   31   732 Maxwell Carlile          14:29.21   M M2529 TPM                            
+   32   400 McIhael Sekesak          14:34.13   M M4549                                
+   33   607 Keegan Oconnor           14:38.54   M M2529                                
+   34   912 Jaime Raynaud Sanchez    14:45.93   M M2529 POST-BAC POSSE                 
+   35   713 Matthew Kehrli           14:50.89   M M2529 KEEPING PACE                   
+   36   524 Tom Nolan                14:54.67   M M7099                                
+   37   566 Matthew Seybold          14:56.85   M M5054 GEOFORCE                       
+   38   714 Max Beal                 14:58.20   M M2529 KEEPING PACE                   
+   39   665 Patrick Smith            15:09.95   M M4549                                
+   40   562 Tom Essinger-Hileman     15:14.97   M M4044 DAY STARS                      
+   41   572 Rick Carter              15:15.68   M M5559                                
+   42   679 Craig Jones              15:16.23   M M5054 LISA                           
+   43   792 Joseph Hart              15:18.42   M M3034 LISA                           
+   44   593 Megan Hur                15:19.14   F F2024 POST-BAC POSSE                 
+   45   599 Michael Moss             15:19.19   M M3034 DAY STARS                      
+   46   598 Jeremy Perkins           15:26.41   M M4549 DAY STARS                      
+   47   694 Brad Weidema             15:38.28   M M3539 LISA                           
+   48   360 Kenneth Christian        15:41.05   M M3539                                
+   49   610 Kate McGinnis            15:41.90   F F4044 KEEPING PACE                   
+   50   625 Lucas Snyder             15:47.12   M M2024                                
+   51   377 Vivek Laljani            15:48.78   M M2529 DRAGONFLYERS                   
+   52   595 Jacob Schaperow          15:50.32   M M3034 DC TRI                         
+   53   404 Patrick Lynch            15:52.66   M M4549                                
+   54   812 Stefano Bertone          15:53.55   M M4044 CRESST                         
+   55   910 Taylor Johnson           15:54.60   M M4044 OCOMM AND GET IT               
+   56   902 Matthew Kowalewski       15:55.24   M M5054 DRAGONFLYERS                   
+   57   825 Michael Jones            15:56.30   M M4044 COLUMBUS                       
+   58   730 Ryan Dimarzio            16:04.81   M M0119 KBR                            
+   59   557 Emily Bowman             16:07.52   F F2024 TEAM TELTRIUM                  
+   60   369 David Giles              16:09.79   M M5054                                
+   61   840 Chris Moller             16:13.17   M M3539 DRAGONFLYERS                   
+   62   636 Charles Bacon            16:22.51   M M4044                                
+   63   553 Sean McCartney           16:24.74   M M4549                                
+   64   536 Aseer Ahmad              16:26.68   M M3034                                
+   65   525 David Russell            16:29.18   M M4044 GCDC                           
+   66   560 Jonathan Duntze          16:30.68   M M4044 TEAM TELTRIUM                  
+   67   552 Michael Major            16:31.42   M M4549 TEAM TELTRIUM                  
+   68   596 Peter Barfknecht         16:32.60   M M4044 DRAGONFLYERS                   
+   69   875 Jacob Pinter             16:41.00   M M3034 OCOMM AND GET IT               
+   70   604 Jillian Rastinejad       16:41.50   F F2529                                
+   71   530 Austin Lanham            16:42.80   M M4549 DRAGONFLYERS                   
+   72   576 Kevin Hong               16:44.19   M M2529 FASTILITIES                    
+   73   823 Raymond Jones            16:45.32   M M4549                                
+   74   738 Jessie Duncan            16:49.37   F F3034 HELIOPHYSICS                   
+   75   645 Edward Seiler            16:50.96   M M6569                                
+   76   844 Wei Gu                   16:54.25   M M6064 GMAO 610.1                     
+   77   673 Miguel Hernandez         16:56.10   M M3539 4PM-BUT-ACTUALLY-415PM-WALKERS 
+   78   940 Amy McNally              16:56.94   F F4044 KEEPING PACE                   
+   79   556 Lori Levine              16:58.10   F F5054 MEMD                           
+   80   668 Annalisa Jarecki         17:01.47   F F2529                                
+   81    99 Eniola Awowale           17:01.57   F                                      
+   82   884 Paul Padgett             17:03.32   M M4044 KBR                            
+   83   550 Karin Lehnigk            17:04.42   F F3034 DC TRI                         
+   84   678 Yihua Zheng              17:06.83   F F5054 HELIOPHYSICS                   
+   85   703 Stephanie McLaughlin     17:08.82   F F6064 PEDIBYTES (690.1)              
+   86   818 Chensheng Wu             17:13.40   M M3539 LIGHTSPEED522                  
+   87   563 Evan Ryder               17:15.13   M M2529                                
+   88   688 Kohei Yamamoto           17:17.88   M M3034 LISA                           
+   89   848 Joshua Lafountain        17:21.85   M M2529                                
+   90   591 Stephen Lebair           17:24.13   M M3034                                
+   91   364 Rodrigo Ibacache         17:29.85   M M5054                                
+   92   726 Daniel Gallagher         17:30.81   M M4549 OCOMM AND GET IT               
+   93   376 Jim Whipple              17:31.47   M M3034 LEMS RUNS ON NERDS GUMMY CLUST 
+   94   948 Matthew Minogue          17:32.36   M M2529                                
+   95   734 Jeremy Werdell           17:33.46   M M5054 KEEPING PACE                   
+   96   626 Minnie Wong              17:35.69   F F4549 MVS                            
+   97   690 Emily Beckman            17:38.03   F F3034 GODDARD EXTREMELY SPEEDY TERRE 
+   98   629 Michael Bosilovich       17:38.68   M M5559 GMAO 610.1                     
+   99   752 Jacob Reed               17:38.68   M M4044 TELOPHASE                      
+  100   700 Peter Somkuti            17:38.84   M M4044 GMAO 610.1                     
+  101   760 Luke Amatucci            17:41.36   M M2529 KEEP UP THE PACE               
+  102   677 Andrew Inglis            17:45.51   M M4044 DAY STARS                      
+  103   586 Griffin Haz              17:59.74   M M2529                                
+  104   764 Robert Spengler          18:07.06   M M4044 DAY STARS                      
+  105   605 Regina Caputo            18:07.10   F F4044 DAY STARS                      
+  106   716 Emerson Sirk             18:11.08   M M2529 KEEPING PACE                   
+  107   751 James Marshall           18:12.56   M M4044 530 LIGHTNING TALKERS          
+  108   577 Douglas McGuffey         18:13.48   M M6569                                
+  109   520 Hua Jiao                 18:16.00   M M5054 LISA                           
+  110   710 Joanne Santiago          18:21.54   F F6064                                
+  111   513 Eish Patel               18:24.82   M M3539                                
+  112   632 Adam Matuszeski          18:27.45   M M4549 DRAGONFLYERS                   
+  113   622 Aaron Curtis             18:28.16   M M4549 MVS                            
+  114   777 Kimberly Drummond        18:28.48   F F3539                                
+  115   707 Andrew Tennenbaum        18:34.26   M M3539 GODDARD EXTREMELY SPEEDY TERRE 
+  116   698 Dalia Kirschbaum         18:34.59   F F3539                                
+  117   697 Tom Neumann              18:35.58   M M5054                                
+  118   597 Emmie Aufderheide        18:38.16   F F2024 POST-BAC POSSE                 
+  119   191 Andrew Lee               18:44.89   M M3034                                
+  120   535 Jason Upchurch           18:45.35   M M5054                                
+  121   567 Anu Kundu                18:48.74   F F3539 LISA                           
+  122   891 Charles Dickson          18:54.32   M M5559 COLUMBUS                       
+  123   809 Carolyn Kierans          18:54.64   F F3539 DAY STARS                      
+  124   614 Jia Yue                  19:02.43   M M4549 HELIOPHYSICS                   
+  125   407 Joe Miko                 19:07.15   M M6569                                
+  126   656 Holly Leopardi           19:08.07   F F3539 LISA                           
+  127   800 Conor Hyatt              19:10.36   M M3034 CONTRACT CLAUSE CRUISERS       
+  128   945 Elena Talanova           19:17.12   F F5559                                
+  129   750 Kelly Whalen             19:17.19   F F3034 DAY STARS                      
+  130   817 Wattana Kem              19:26.56   M M4044 LISA                           
+  131   911 Kaleb Johnson            19:28.15   M M2529 TPM                            
+  132   667 Andre Smith              19:28.40   M M4549                                
+  133   739 Min-Yang Chou            19:32.53   M M4044 HELIOPHYSICS                   
+  134   581 Julie Moquin             19:36.97   F F2024 POST-BAC POSSE                 
+  135   724 Katie Jepson             19:37.22   F F3539 OCOMM AND GET IT               
+  136   925 Jonathan Boblitt         19:38.63   M M3539                                
+  137   924 Greg Jamroz              19:41.77   M M4549                                
+  138   351 Carolyn Fisk             19:51.91   F F2529 SUN SYNCHRONOUS STRIDERS       
+  139   842 Jonathan Kelly           19:53.73   M M5559 COLUMBUS                       
+  140   946 Lyudmyla Ochs            19:54.75   F F4044                                
+  141   523 Brian Bean               19:57.32   M M5054 LISA                           
+  142   501 Badri Shirgur            19:57.47   M M5054                                
+  143   923 Gavin Baird              19:57.52   M M3034 LISA                           
+  144   571 Lutz Rastaetter          19:58.77   M M5559 HELIOPHYSICS                   
+  145   686 Kenji Numata             19:58.91   M M5054 LISA                           
+  146   941 Camilla Smallwood        19:59.53   F F5559                                
+  147   616 Hayoung Park             20:03.85   F F3034                                
+  148   863 Joseph Hayden            20:05.14   M M6064 LIGHTSPEED522                  
+  149   603 Nayeong Cho              20:06.72   F F4044                                
+  150   693 Frank Fried              20:07.79   M M4044 LISA                           
+  151   188 David Schwartz           20:14.09   M M4044                                
+  152   882 Zachary Mulhollan        20:24.69   M M3034 LIGHTSPEED522                  
+  153   630 Melissa Trainer          20:29.01   F F4549 DRAGONFLYERS                   
+  154   187 Obivia Humeiau           20:29.93   M M4549                                
+  155   867 Robert Podgurski         20:30.51   M M5559 LIGHTSPEED522                  
+  156   672 Al Moon                  20:32.14   M M5054 TRAX                           
+  157   790 John Almy                20:36.61   M M4044 COLUMBUS                       
+  158   126 Jess Almy                20:36.80   F       COLUMBUS                       
+  159   692 Aaron Bush               20:37.42   M M4044                                
+  160   590 Timothy Filemyr          20:40.19   M M6569                                
+  161   706 Michael Cabrera          20:45.42   M M4044 OMES III                       
+  162   689 Keara Mangan             21:03.14   F F2529                                
+  163   637 Timothy Sarro            21:10.42   M M3034                                
+  164   582 Nickalas Cason           21:17.48   M M3034 4PM-BUT-ACTUALLY-415PM-WALKERS 
+  165   655 Corrine Rojas            21:27.42   F F3034 KEEPING PACE                   
+  166   862 Larysa Paliashchuk       21:29.03   F F3539 PEDIBYTES (690.1)              
+  167   740 Christopher Pirner       21:35.49   M M4044 HELIOPHYSICS                   
+  168   824 Daniel Abernathy         21:35.87   M M4549                                
+  169   937 David Cranor             21:41.01   M M5054 OMES III                       
+  170   409 Hassan Oudrari           21:51.78   M M6064                                
+  171   615 Eddie Kang               21:54.30   M M2529                                
+  172   769 Jillian Sirkis           21:56.17   F F3034                                
+  173   947 Eric Galloway            22:01.48   M M4044                                
+  174   839 Kevin Ballou             22:13.12   M M5559                                
+  175   695 James Roman              22:18.06   M M5054 SSAI                           
+  176   543 Sarah Dewey              22:41.35   F F3539 SSAI                           
+  177   942 Robert Neblett           22:41.98   M M3539 SWOFAST                        
+  178   743 Glenn Rakow              22:48.70   M M6064                                
+  179   410 Manuel Quijada           23:04.10   M M6064                                
+  180   916 Amelia Haymes            23:07.49   F F2529 OCOMM AND GET IT               
+  181   767 Eunsaem Cho              23:14.08   M M3034 GCDC                           
+  182   768 Jeongoh Cho              23:15.00   M       GCDC                           
+  183   370 Divya Pereira            23:19.61   F F4549                                
+  184   836 Ahreum Lee               23:25.14   F F3539 GMAO 610.1                     
+  185   609 Monica Todirita          23:41.43   F F5559 GEOFORCE                       
+  186   648 Christopher Wheeler      23:41.60   M M5559 GEOFORCE                       
+  187   701 Stephan Klene            23:45.03   M M6064 SSAI                           
+  188   512 Karen Scheiber           23:48.05   F F6064 HELIOPHYSICS                   
+  189   877 Juliana Kreuscher        23:48.08   F F2529 HELIOPHYSICS                   
+  190   683 Jessica Noviello         23:59.10   F F3034                                
+  191   843 Kathleen Mandt           23:59.12   F F5054                                
+  192   802 Joel Dahlin              24:03.00   M M3539 HELIOPHYSICS                   
+  193   502 Amy Tuson                24:17.49   F F2529                                
+  194   691 Nicole Schanche          24:18.13   F F3539                                
+  195   747 Nat Gopalswamy           24:25.79   M M7099 HELIOPHYSICS                   
+  196   820 Niama Boukachaba         24:32.28   F F3539 MOMMY AND ME                   
+  197   918 Hannah Boukabara         24:32.85   F       MOMMY AND ME                   
+  198   753 Kathleen Blackman        24:34.37   F F5559 FAST & RELATIVE                
+  199   357 Miead Nikfarjam          24:41.99   M M4044                                
+  200   890 Theria Jean Paul         24:53.85   F       GCDC                           
+  201   548 Jennifer Corekin         24:54.31   F F3539                                
+  202   915 Erin Roberts             24:55.55   F F3539 OCOMM AND GET IT               
+  203   920 Jaime Kline              25:02.89   F F4549 FAST & RELATIVE                
+  204   949 Khaleed Nedrick          25:08.88   M M3539                                
+  205   190 Danielle Mahone          25:21.67   F F4044                                
+  206   885 Emily Callahan           25:47.12   F F5054 CRESST                         
+  207   731 Priya Lugar              25:48.88   F F3034 SUN SYNCHRONOUS STRIDERS       
+  208   847 Milelene Gunyon          25:50.47   F F5054                                
+  209   654 Seth Muse                25:51.11   M M4549 DRAGONFLYERS                   
+  210   666 Samuel Kitchen-Mckinley  25:57.20   M M4044 SSAI                           
+  211   592 Alejandra Barfknecht     25:59.47   F F4549 SWOFAST                        
+  212   776 Diane Briczinski         26:00.02   F F4549 LEMS RUNS ON NERDS GUMMY CLUST 
+  213   779 Naoma McCall             26:00.27   F F4044 LEMS RUNS ON NERDS GUMMY CLUST 
+  214   660 Li Jiang-Harrison        26:01.40   F F4044 SWOFAST                        
+  215   649 Candace Carlisle         26:14.01   F F6064 GEOFORCE                       
+  216   517 Jackson Reid             26:17.13   M       GCDC                           
+  217   845 Monica Gorman            26:17.18   F F3034 GODDARD EXTREMELY SPEEDY TERRE 
+  218   794 Marley Allen             26:20.89   M       GCDC                           
+  219   733 Kathleen Greer           26:32.22   F F3034 OCOMM AND GET IT               
+  220   727 Emily Demarco            26:32.26   F F4044 OCOMM AND GET IT               
+  221   770 Phillip Blackwood        26:32.99   M M3539 LISA                           
+  222   540 Xiaozhen Xu              26:37.31   F F4044 LISA                           
+  223   519 Elizabeth Prince         26:46.53   F F5559                                
+  224   841 Yanqiu Zhu               26:49.09   F F5559 GMAO 610.1                     
+  225   829 Linke Hu                 27:13.68   M       HELIOPHYSICS                   
+  226   828 Junxiang Hu              27:14.90   M M3539 HELIOPHYSICS                   
+  227   628 Paul Stysley             27:23.32   M M5054 DRAGONFLYERS                   
+  228   858 Garnet Hall              27:23.92   F       GCDC                           
+  229   857 Gary Hall                27:24.07   M M4044 GCDC                           
+  230   878 Chanse Devore            27:24.45   F       GCDC                           
+  231   574 Robin Ripley             27:29.32   F F4549 DAVINCI                        
+  232   889 Wolf Kenson Jean Paul    27:30.30   M M3034 GCDC                           
+  233   894 Ralph Welsh Jr           27:31.86   M M7099                                
+  234   880 Nicholas Collins         27:32.58   M M5559 TELOPHASE                      
+  235   359 Guangjun Gao             27:35.54   M M4549 LIGHTSPEED522                  
+  236   886 Hui Li                   27:35.82   M M5559 LIGHTSPEED522                  
+  237   736 Sofie Bates              27:39.44   F F3034 OCOMM AND GET IT               
+  238   745 Garrett Pierce           27:39.67   M M3034 OCOMM AND GET IT               
+  239   793 Salema Allen             28:02.98   F F3034 GCDC                           
+  240   788 Ava Harris               28:05.24   F       GCDC                           
+  241   696 Eric Harris              28:07.70   M M5559 GCDC                           
+  242   787 Natia Harris             28:08.88   F F4044 GCDC                           
+  243   830 Domonique Johnson        28:11.87   F F2529 GCDC                           
+  244   831 Dominick Davis           28:12.89   M       GCDC                           
+  245   365 Robert Fogle             28:13.48   M M6569                                
+  246   926 Ralph Smith              28:15.16   M M6064                                
+  247   532 Kevin Heesh              28:17.03   M M3539 LISA                           
+  248   639 Michael Krainak          28:17.41   M M6569 FAST & RELATIVE                
+  249   189 Shannon Riley            28:36.32   F F3539                                
+  250   182 Jayanh Vealau            28:37.77   M M6064                                
+  251   762 Addison Johnson-Green    28:45.42   M M3034 KEEP UP THE PACE               
+  252   624 Perry Sebreny            28:48.38   M M6569 KBR                            
+  253   533 Sophia Stern             28:51.47   F F4044 KBR                            
+  254   873 Karl Stone               28:52.50   M       GCDC                           
+  255   834 Jenna Stone              28:52.50   F F3539 GCDC                           
+  256   835 Christian Stone          28:52.74   M M5559 GCDC                           
+  257   879 Lakshini Wijeweera       28:53.80   F F6064 GCDC                           
+  258   570 Paula Pruessner          29:09.18   F F4549 LISA                           
+  259   367 Keisha Dyke              29:10.31   F F4549 GCDC                           
+  260   934 Angel Kumari             29:11.85   F F2529 OCOMM AND GET IT               
+  261   516 Tiana Holmes             29:29.95   F F3539 GCDC                           
+  262   744 Elizabeth Wilk           29:30.47   F F3539 OCOMM AND GET IT               
+  263   866 Aaron Stern              29:33.85   M       GCDC                           
+  264   374 Jesslin Parmar           29:45.34   F       GCDC                           
+  265   651 Laura Ottenstein         29:48.04   F F6064                                
+  266   932 Lawrence Coy             29:54.20   M M7099 GMAO 610.1                     
+  267   851 Thomas Moulton           30:00.42   M       GCDC                           
+  268   850 Thomas Moulton           30:00.61   M M3539                                
+  269   773 Zoey Pinchinat           30:07.19   F       GCDC                           
+  270   772 Max Pinchinat            30:09.99   M M4549 GCDC                           
+  271   791 Silvia Romero            30:20.08   F F5559 MVS                            
+  272   822 Aaron Turner             30:20.19   M M7099 GCDC                           
+  273   853 Perry Gerakines          30:21.15   M M5054                                
+  274   715 John Winkert             30:23.25   M M6569                                
+  275   838 Veronica Pinnick         30:25.92   F F4044 DRAGONFLYERS                   
+  276   929 Cassius Asante           30:27.56   M       GCDC                           
+  277   928 Chief Asante             30:27.60   M M4549 GCDC                           
+  278   705 Cheryl Flett             30:36.04   F F6064                                
+  279   585 Kathryn Boerner          30:50.11   F F5559 OMES III                       
+  280   554 Corey Lyon               30:50.20   M M4044 OMES III                       
+  281   782 Porfirio Beltran         31:01.20   M M6569                                
+  282   401 Tryshanda Morton         31:01.81   F F5054                                
+  283   521 Heidi Wood               31:10.34   F F6064                                
+  284   511 Richard Weiss            31:10.42   M M7099 HELIOPHYSICS                   
+  285   897 Angel Oliver-Santos      31:23.39   F       GCDC                           
+  286   178 Brandon Haygood          31:29.51   M M3539                                
+  287   833 Linden Villanueva        31:31.45   M       GCDC                           
+  288   719 Durgesh Rai              31:35.74   M M4044 LISA                           
+  289   699 Aryanne Ferguson         31:54.28   F F4044                                
+  290   606 Mark Subbarao            31:56.61   M M5559                                
+  291   755 Addison Gonzalez         32:06.93   F       GCDC                           
+  292   930 Patrick Kelly            32:11.16   M M2529 FAST & RELATIVE                
+  293   759 Michelle Tamoria         32:25.80   F F4549 KEEP UP THE PACE               
+  294   638 Tenika Jones             32:45.65   F F3539                                
+  295   785 Elin Reed                32:57.20   F F4044                                
+  296   537 George Winkert           33:07.75   M M6569                                
+  297   538 Obi Winkert              33:08.18   M                                      
+  298   898 Nella Oliver-Santos      33:25.98   F       GCDC                           
+  299   358 Terri Lynne Hynson       33:26.47   F F6064                                
+  300   799 Catherine Marx           33:38.18   F F5559 LIGHTSPEED522                  
+  301   864 Bruce Trout              33:38.50   M M6064                                
+  302   805 Christopher Riley        33:51.58   M M4044 GCDC                           
+  303   807 Owen Riley               33:52.00   M       GCDC                           
+  304   846 Mike Stark               34:01.73   M M6569 GODDARD EXTREMELY SPEEDY TERRE 
+  305   674 Wei-Chung Huang          34:01.77   F F4549 GODDARD EXTREMELY SPEEDY TERRE 
+  306   810 Scott Glubke             34:05.89   M M6064 KEEPING PACE                   
+  307   545 Robert Boyle             34:06.07   M M6064 DRAGONFLYERS                   
+  308   778 Alicia Jose              34:25.00   F F3539                                
+  309   405 Chuck Naegeli            34:29.23   M M7099                                
+  310   900 Emmett Rodriguez         34:33.74   M       GCDC                           
+  311   901 Elionex Rodriguez        34:33.87   M M4549 GCDC                           
+  312   613 Paul Alexander           35:19.91   M M6569 FAST & RELATIVE                
+  313   874 Yuqing Zhu               35:20.05   F F5559 LIGHTSPEED522                  
+  314   406 Fourosix Plsidentify     35:20.18   M                                      
+  315   783 Dipal Patel              35:27.54   M M4549 MVS                            
+  316   618 Andrew Pasqualle         35:28.12   M M3034 MVS                            
+  317   784 John Lloyd               35:28.66   M M5559 MVS                            
+  318   904 Lia Lewis                35:33.10   F F3539                                
+  319   907 Eric Stoneking           35:33.54   M M6064                                
+  320   832 Miako Villanueva         35:50.13   F F4549 GCDC                           
+  321   505 Katherine Ernest         35:56.78   F F2529 PEDIBYTES (690.1)              
+  322   808 Jay Friedlander          35:57.78   M M6064 PEDIBYTES (690.1)              
+  323   354 Anna Windle              36:03.27   F F3034 KEEPING PACE                   
+  324   913 Skye Caplan              36:03.31   F F2529 KEEPING PACE                   
+  325   797 Jennie Paine             36:09.71   F F3034 GCDC                           
+  326   798 Lily Melito              36:10.19   F       GCDC                           
+  327   620 Lance Emery              36:11.44   M M4549 MVS                            
+  328   621 Leonard Newman           36:11.68   M M6064 MVS                            
+  329   806 Gabriella Riley          36:12.56   F       GCDC                           
+  330   402 Elizabeth Alexander      36:12.87   F F4549                                
+  331   363 Leona Adams              36:15.96   F F4549 GCDC                           
+  332   931 Onyx Goodwin             36:15.99   M       GCDC                           
+  333   775 Alexis Banks             36:16.44   F       GCDC                           
+  334   906 Joanna Hagerty           36:18.58   F F4044                                
+  335   837 Tanya Boyd               36:19.14   F F5054                                
+  336   933 Darlene Mayo-Seay        36:20.41   F F5054                                
+  337   708 Arul John                36:34.60   M M4549                                
+  338   709 Mildred John             36:34.85   F F5054                                
+  339   627 Carol Williams           36:44.20   F F6064 KBR                            
+  340   640 Sunita Sarin             36:44.24   F F5054                                
+  341   687 Christopher Roberts      36:46.88   M M4549 DOWN WITH APPD                 
+  342   653 Elizabeth Kline          37:00.85   F F4044 GEOFORCE                       
+  343   661 Debbie Rivera            37:00.92   F F6569 GEOFORCE                       
+  344   657 Amanda Demski            37:01.01   F F4044 GEOFORCE                       
+  345   408 Joel Gallun              37:04.28   M M6569                                
+  346   361 Ken Barnes               37:05.72   M M5559 531 FUN RUN TEAM               
+  347   927 Scott Pursley            37:13.76   M M5559                                
+  348   561 Mike Lin                 37:13.94   M M6064                                
+  349   893 Caleb Gray               37:17.22   M       GCDC                           
+  350   366 Dominique Ferguson       37:20.49   F F4549 GCDC                           
+  351   685 Raymond Ohl              37:21.87   M M5054 LIGHTSPEED522                  
+  352   795 Scott Rohrbach           37:21.95   M M5559 LIGHTSPEED522                  
+  353   892 Carmen Gray              37:25.02   F F3539 GCDC                           
+  354   403 Joseph Krygiel           37:26.25   M M5054                                
+  355   558 Jason Houston            37:26.56   M M4044                                
+  356   356 Michelle Rizzo           37:28.00   F F3539 GEOFORCE                       
+  357   663 Elizabeth Goelling       37:28.06   F F4044 GEOFORCE                       
+  358   514 Maxime Rizzo             37:29.05   M M3539 GCDC                           
+  359   515 Elena Rizzo              37:29.37   F       GCDC                           
+  360   871 David Simpson            37:34.66   M M6569                                
+  361   527 Eden Rahin               37:35.80   F       GCDC                           
+  362   756 Taryn Coleman            37:35.83   F F3034 GCDC                           
+  363   526 Roi Rahin                37:36.27   M M3539 GCDC                           
+  364   766 Imara Coleman            37:49.03   F       GCDC                           
+  365   619 Jeff Baron               37:56.76   M M5559 MVS                            
+  366   534 Kallie Bertrand          38:00.80   F       GCDC                           
+  367   771 Nargess Memarsadeghi     38:07.63   F F4549 531 FUN RUN TEAM               
+  368   353 John Gregory             38:08.05   M M4044 531 FUN RUN TEAM               
+  369   774 Christopher Banks        38:22.16   M M4044 GCDC                           
+  370   711 Michelle Smith           38:27.62   F F3539 FAST & RELATIVE                
+  371   611 Brian Hughes             38:28.66   M M5054 FAST & RELATIVE                
+  372   895 Dejahna Oliver           38:40.11   F F3034 GCDC                           
+  373   896 Leah Blanding            38:41.02   F F3034 GCDC                           
+  374   854 Felicia Harrison         38:45.05   F F5054                                
+  375   781 Thao Stolz               38:45.66   F F4044                                
+  376   504 Pastephanie Bertrand     38:47.47   F F4549 GCDC                           
+  377   600 Deanna Yu                38:47.76   F F4044 MVS                            
+  378   664 Bill Thomas              38:48.08   M M4044 MVS                            
+  379   589 Ratan Debnath            38:54.03   M M4549                                
+  380   587 Doris Jallice            38:55.66   F F6569                                
+  381   943 Jasmine Neblett          39:10.58   F F3034 SWOFAST                        
+  382   671 Amani Frazier            39:14.10   F F5054 J CREW                         
+  383   670 Doris Agnew              39:15.38   F F5054 J CREW                         
+  384   373 Kepler Le                39:15.51   M       GCDC                           
+  385   725 Amber Fryza              39:44.50   F F3034 DRAGONFLYERS                   
+  386   742 Gail Rohrbach            40:41.36   F F6064 DOWN WITH APPD                 
+  387   735 Barbara Grofic           40:41.37   F F6569 DOWN WITH APPD                 
+  388   718 John Hartnett            40:41.51   M M4549 DOWN WITH APPD                 
+  389   939 Rodolfo Lavaque          40:49.44   M M5054 TPM                            
+  390   737 Timothy Beach            40:49.53   M M5054 DOWN WITH APPD                 
+  391   826 Elizabeth Sabatino       40:55.50   F F3539 GCDC                           
+  392   827 Liliana Sabatino         40:55.64   F       GCDC                           
+  393   881 Laura McKeon             41:00.75   F F3034 GCDC                           
+  394   903 Chamara Rajapakshe       41:01.21   M M3539 GCDC                           
+  395   921 Avini Rajapakshe         41:02.64   F       GCDC                           
+  396   816 Naomi Adepoju            41:29.62   F       GCDC                           
+  397   815 Akin Adepoju             41:29.80   M M4549 GCDC                           
+  398   870 Kaveesh Maharaja         42:09.24   M                                      
+  399   935 Bruce McLemore           42:30.76   M M7099 KBR                            
+  400   362 Elycia Chew              42:31.13   F F5054 GCDC                           
+  401   888 Jose Tillard             43:13.38   M M4549 DRAGONFLYERS                   
+  402   652 Karen Johnson            43:48.35   F F5559                                
+  403   922 Janeira Latorre          43:58.30   F F5054                                
+  404   804 Wanda Dantos             44:02.62   F F6064                                
+  405   919 Harry White              44:29.87   M M4549 DOWN WITH APPD                 
+  406   684 Anthony Griffin Ii       44:30.39   M M2529 DOWN WITH APPD                 
+  407   507 Brenee Palmer            44:33.22   F F3539                                
+  408   506 Ruby Jackson             44:33.22   F F3034                                
+  409   371 Camila Argueta-Quispe    44:37.28   F       GCDC                           
+  410   355 Schanita Mitchell        44:37.43   F F4549 GCDC                           
+  411   721 Richard Boisclair        44:59.81   M M6569                                
+  412   722 Rick Smith               45:00.44   M M6569                                
+  413   643 Courtney Smith           45:33.00   F F3539 KBR                            
+  414   644 Brian Smith              45:33.00   M M3539 KBR                            
