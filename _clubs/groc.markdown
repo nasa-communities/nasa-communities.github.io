@@ -44,6 +44,13 @@ GROC is a member of the [Road Runners Club of America (RRCA)](https://www.rrca.o
 
 ### Spring 2026 2 mile
 
+RESULTS ARE IN!!!!! 
+
+[All Teams](/clubs/groc/2026/2026 Spring 2 Mile All Teams.TXT)
+[Age Graded](/clubs/groc/2026/2026 Spring 2 Mile Age Graded.TXT)
+[Age Groups](/clubs/groc/2026/2026 Spring 2 Mile Age Groups.TXT)
+
+
 UPDATE: 04/28/26 - Check for rain cancellation (heavcy rain/thunderstorms) here
 [https://runsignup.com/Race/MD/Greenbelt/NASAGoddard2Miler](https://runsignup.com/Race/MD/Greenbelt/NASAGoddard2Miler)
 
