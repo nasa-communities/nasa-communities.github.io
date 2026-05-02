@@ -49,6 +49,7 @@ All Goddard employees (civil servants and contractors, current or retired) and f
 
 ## News
 - **Solar Wind is unavailable** due to pending repairs; the other boats are available for chartering.
+- **Season opener picnic** is planned for May 17, 2026 at Selby Bay, starting at noon. There will be some good food, socializing, and of course casual sailing around the bay. The cost will be $10 to cover the food. Any GSA member and their friends and family are welcome.
 - **The 2026 annual membership meeting** was held on March 4, 11:30 AM on Microsoft Teams.
 - **The 2026 sailing season is underway.**
 - **Merch Store is live,** offering shirts, hats, and mugs.  [Merch Store](https://www.bonfire.com/store/goddard-sailing-association-store/)
@@ -102,8 +103,9 @@ All Goddard employees (civil servants and contractors) and family members are we
 
 | Date | Time | Location | Event |
 |---|---|---|---|
-| Sunday, May 17, 2026 | TBA | Selby Bay | Season Opener Picnic |
-| Wednesday, March 4, 2026 | 11:30 | MS Teams | Annual Membership Meeting |
+| Sunday, July 5, 2026 | TBD | Selby Bay | Sail to Beverly Beach |
+| Sunday, May 17, 2026 | 12:00 PM | Selby Bay | Season Opener Picnic |
+| Wednesday, March 4, 2026 | 11:30 AM | MS Teams | Annual Membership Meeting |
 {: .table .table-stripe}
 
 ---
