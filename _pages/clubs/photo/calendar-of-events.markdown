@@ -184,7 +184,9 @@ th:nth-child(2), td:nth-child(2) {
 
 #### Recent Past Events (2026)
 
-- Apr 8 - Meeting: Travel Photography with David Hobby; featured: Steve Fantasia
+- May 4  - Class: Photo 101: Introduction to Digital photography (Scott Hull)
+- Apr 22 - Snap & Share: Urban
+- Apr 8 -  Meeting: Travel Photography with David Hobby; featured: Steve Fantasia
 - Mar 25 - Snap & Share: Urban
 - Mar 11 - Meeting: BINGO Game Recap - Bill Dusterwald; featured: Raghu Tumkur
 - Feb 25 - Snap & Share: Yellow
