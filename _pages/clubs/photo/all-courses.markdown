@@ -61,7 +61,7 @@ a:hover {
 ## All Courses
 
 - **Photo 101: Introduction to Digital Photography** (2026; Scott Hull)
-  - Slides coming soon
+  - Session 1: [Slides](https://drive.google.com/file/d/1FeGSoptF3vov4zkrPPjjwhigBg37PfN_/view?usp=sharing)
 
 - **Photo 102: Basic Post-Processing** (2022; Scott Hull)
   - Session 1: [Slides (pptx)](https://drive.google.com/uc?export=download&id=1L75ObFPHy6I-Sbx0OAD85aLHMyG7_EmZ) and [Teams video](https://drive.google.com/uc?export=download&id=1Ckc7ZF4hVJbXc9UPL4SEf3Smb9g1cO6s)
