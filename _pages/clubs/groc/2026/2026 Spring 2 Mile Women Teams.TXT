@@ -6,13 +6,13 @@
        (The team score is the sum of the top  finishers of the team)
 
 
-  1.    46  KEEPING PACE                  
+  1.    47  KEEPING PACE                  
 ========================================
   1      3  Kate McGinnis            F     15:13.4 
-  2      7  Amy McNally              F     16:33.9 
+  2      8  Amy McNally              F     16:33.9 
   3     36  Corrine Rojas            F     20:58.3 
-  4   (129) Anna Windle              F     36:19.3 
-  5   (130) Skye Caplan              F     36:19.4 
+  4   (124) Anna Windle              F     35:47.3 
+  5   (125) Skye Caplan              F     35:47.4 
 
   2.    50  POST-BAC POSSE                
 ========================================
@@ -20,18 +20,18 @@
   2     20  Emmie Aufderheide        F     18:15.5 
   3     28  Julie Moquin             F     19:14.0 
 
-  3.    62  HELIOPHYSICS                  
-========================================
-  1      5  Jessie Duncan            F     16:21.8 
-  2     12  Yihua Zheng              F     16:46.2 
-  3     45  Karen Scheiber           F     23:18.1 
-  4   ( 46) Juliana Kreuscher        F     23:22.3 
-
   3.    62  DAY STARS                     
 ========================================
   1     16  Regina Caputo            F     17:40.7 
   2     22  Carolyn Kierans          F     18:26.8 
   3     24  Kelly Whalen             F     18:49.0 
+
+  4.    63  HELIOPHYSICS                  
+========================================
+  1      5  Jessie Duncan            F     16:21.8 
+  2     13  Yihua Zheng              F     16:46.2 
+  3     45  Karen Scheiber           F     23:18.1 
+  4   ( 46) Juliana Kreuscher        F     23:22.3 
 
   5.   112  LISA                          
 ========================================
@@ -51,11 +51,11 @@
   7   ( 84) Angel Kumari             F     28:28.3 
   8   ( 88) Elizabeth Wilk           F     28:58.6 
 
-  7.   178  PEDIBYTES (690.1)             
+  7.   173  PEDIBYTES (690.1)             
 ========================================
-  1     13  Stephanie McLaughlin     F     16:47.5 
+  1     14  Stephanie McLaughlin     F     16:47.5 
   2     37  Larysa Paliashchuk       F     21:05.6 
-  3    128  Katherine Ernest         F     36:12.8 
+  3    122  Katherine Ernest         F     35:40.8 
 
   8.   190  GODDARD EXTREMELY SPEEDY TERRE
 ========================================
@@ -71,9 +71,9 @@
   4   ( 77) Natia Harris             F     27:15.5 
   5   ( 78) Salema Allen             F     27:31.0 
   6   ( 79) Domonique Johnson        F     27:41.5 
-  7   ( 81) Lakshini Wijeweera       F     28:08.4 
-  8   ( 82) Jenna Stone              F     28:20.6 
-  9   ( 83) Ava Harris               F     28:21.3 
+  7   ( 80) Ava Harris               F     27:49.3 
+  8   ( 82) Lakshini Wijeweera       F     28:08.4 
+  9   ( 83) Jenna Stone              F     28:20.6 
  10   ( 85) Keisha Dyke              F     28:37.9 
  11   ( 87) Tiana Holmes             F     28:42.7 
  12   ( 90) Jesslin Parmar           F     29:03.3 
@@ -104,7 +104,7 @@
  37   (158) Naomi Adepoju            F     40:13.7 
  38   (159) Elycia Chew              F     41:30.3 
  39   (162) Schanita Mitchell        F     43:17.7 
- 40   (163) Camila Argueta-Quispe    F     43:48.1 
+ 40   (164) Camila Argueta-Quispe    F     43:48.1 
 
  10.   230  SWOFAST                       
 ========================================
@@ -112,19 +112,19 @@
   2     62  Alejandra Barfknecht     F     25:18.5 
   3    107  Jasmine Neblett          F     33:19.5 
 
- 11.   235  GEOFORCE                      
+ 11.   238  GEOFORCE                      
 ========================================
   1     44  Monica Todirita          F     22:54.2 
   2     66  Candace Carlisle         F     25:48.1 
-  3    125  Debbie Rivera            F     36:05.1 
-  4   (126) Amanda Demski            F     36:06.4 
-  5   (127) Elizabeth Kline          F     36:07.1 
+  3    128  Debbie Rivera            F     36:05.1 
+  4   (129) Amanda Demski            F     36:06.4 
+  5   (130) Elizabeth Kline          F     36:07.1 
   6   (131) Elizabeth Goelling       F     36:32.3 
   7   (132) Michelle Rizzo           F     36:38.0 
 
- 12.   243  MVS                           
+ 12.   244  MVS                           
 ========================================
-  1      9  Minnie Wong              F     16:40.3 
+  1     10  Minnie Wong              F     16:40.3 
   2     93  Silvia Romero            F     29:24.9 
   3    141  Deanna Yu                F     37:47.0 
 
@@ -140,11 +140,11 @@
   2     92  Veronica Pinnick         F     29:24.8 
   3    151  Amber Fryza              F     38:55.4 
 
- 15.   368  KBR                           
+ 15.   374  KBR                           
 ========================================
-  1     80  Sophia Stern             F     27:56.9 
-  2    123  Carol Williams           F     35:47.8 
-  3    165  Courtney Smith           F     44:34.8 
+  1     81  Sophia Stern             F     27:56.9 
+  2    126  Carol Williams           F     35:47.8 
+  3    167  Courtney Smith           F     44:34.8 
 
 
 
@@ -187,7 +187,7 @@ OMES III
          Kathryn Boerner F     29:51.4
 
 KEEP UP THE PACE              
-         Michelle Tamoria F     32:41.8
+         Michelle Tamoria F     32:09.8
 
 LIGHTSPEED522                 
          Catherine Marx F     33:02.0, Yuqing Zhu F     34:38.0
