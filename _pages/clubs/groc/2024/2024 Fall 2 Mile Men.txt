@@ -1,0 +1,170 @@
+                                                                      Page 1
+                         98th NASA Intracenter Run
+                        Goddard Space Flight Center
+                             October 2nd,2024
+                               Male Results
+                    correction to tom.winkert@nasa.gov
+Place Num   Name                     Time    Guntime Age Code  Team                              
+===== ===== ======================== ======= ======= === ===== ============================== 
+    1   135 Maksym Petrenko            11:24   11:26  41       HELIOPHYSICS                   
+    2    10 Tyler Lulich               12:15   12:17  40       OMES III                       
+    3    15 Jamel Lattimore            12:21   12:23  34                                      
+    4   269 Tremor Cale                12:29   12:31  30       DRAGONFLYERS                   
+    5   198 Carter Ficklen             12:34   12:36  50                                      
+    6  3412 David Hollibaugh Baker     12:36   12:39  38       PEDIBYTES (690.1)              
+    7   637 Casey McGrath              12:40   12:44  32       LISA                           
+    8    64 Mircea Grecu               12:50   12:53  55       612ERS                         
+    9   689 Petar Grigorov             12:58   13:01  28                                      
+   10    20 James Chervenak            12:59   13:02  54                                      
+   11   210 Ryan Fitzgibbons           13:06   13:10  43       KEEPINGPACE                    
+   12     4 Bernard Kelly              13:09   13:11  51       LISA                           
+   13  3520 Feng Li                    13:19   13:22  53                                      
+   14   692 Grant Barrett              13:21   13:28  35       SUN SYNCHRONOUS STRIDERS       
+   15   417 Mark Wojenski              13:22   13:25  43       KBR                            
+   16   607 Luis Rodriguez De Marcos   13:25   13:30  39                                      
+   17    28 Mark Bendall               13:27   13:48  38       PAAC                           
+   18   511 Eric Lyness                13:28   13:31  58       DRAGONFLYERS                   
+   19    19 Ian Carroll                13:29   13:32  44       KEEPINGPACE                    
+   20   109 Ryan Carney                13:36   13:40  36       POLAR WANDERERS                
+   21   293 Matthew Francom            13:38   13:46  31       DRAGONFLYERS                   
+   22   621 Douglas Carl               13:39   13:42  48                                      
+   23  3468 Kyle Gregory               13:46   13:48  41       CODE_564                       
+   24  9345 Kenneth Christian          13:49   13:54  36       612ERS                         
+   25   590 Ira Thorpe                 13:50   13:52  45       LISA                           
+   26  3441 Mike Dent                  14:04   14:09  39       POLAR WANDERERS                
+   27   697 Michael Moss               14:15   14:19  29       DAY STARS                      
+   28    59 David Edwards              14:26   14:28  34       LEO RUNNERS                    
+   29   396 Frederick Porter           14:27   14:32  59                                      
+   30   633 Juan Martin De Blas        14:29   14:32  31                                      
+   31   172 Benjamin Winkler           14:29   14:31  23       DRAGONFLYERS                   
+   32   589 Phillip Denton             14:34   14:39  35                                      
+   33   519 Nicholas Kirschner         14:37   14:37  28       DAY STARS                      
+   34   565 Joey Pasterski             14:38   14:52  40       DRAGONFLYERS                   
+   35   582 Tom Essinger-Hileman       14:39   14:51  42       DAY STARS                      
+   36  3223 Corey Spohn                14:42   14:44  29       EXOSPEC                        
+   37   594 Daniel Bae                 14:42   14:46  32       GODDARD THERMAL TRAILBLAZERS   
+   38     7 Peter Barfknecht           14:47   14:53  39       DRAGONFLYERS                   
+   39   681 Gilberto Vicente           14:49   14:51  62       581 FUN RUN TEAM               
+   40   451 Joseph Finlon              14:56   15:01  34       612ERS                         
+   41   563 Vincent Kofman             15:01   15:11  35       WERUNPSG                       
+   42  3414 Craig Jones                15:07   15:11  52                                      
+   43    70 Matthew Kowalewski         15:09   15:16  50       DRAGONFLYERS                   
+   44   628 Joseph Hart                15:09   15:18  32       LISA                           
+   45   620 Deepak Patel               15:13   15:27  37       GODDARD THERMAL TRAILBLAZERS   
+   46  3405 John Baker                 15:15   15:20  55       LISA                           
+   47  3299 Benjamin Petrak            15:29   15:39  43       RELATIVE DYNAMICS RUNNERS      
+   48    51 Neil Zimmerman             15:32   15:39  42       EXOSPEC                        
+   49  9611 Miles Currie               15:33   15:39  30       EXOSPEC                        
+   50   124 Elvis Castillo             15:34   15:41  33       GEO FORCE                      
+   51   647 Michael McElwain           15:41   15:48  45       EXOSPEC                        
+   52    88 James Basl                 15:42   16:01  45       KBR                            
+   53   541 Andrew Lyashko             15:47   15:50  47       POLAR WANDERERS                
+   54   638 Seth Abramczyk             15:56   16:10  28       GODDARD THERMAL TRAILBLAZERS   
+   55   669 Juan Rodriguez             15:57   16:10  40       GODDARD THERMAL TRAILBLAZERS   
+   56   110 Peter Somkuti              16:04   16:11  39       GMAO                           
+   57   239 John Ramsey                16:08   16:26  63                                      
+   58   389 Christopher Pirner         16:15   16:19  40       HELIOPHYSICS                   
+   59   137 Michael Bosilovich         16:17   16:23  56       GMAO                           
+   60  3497 Kyle Grello                16:20   16:34  39       S&MA RISKY BUSINESS            
+   61   653 Tyler Groff                16:24   16:32  39       EXOSPEC                        
+   62   616 Jonathan Edwards           16:29   16:40  35       DRAGONFLYERS                   
+   63   694 Kirk Gordon                16:38   16:48  68                                      
+   64  9598 Michael Szedlmayer         16:38   16:46  39                                      
+   65   114 Jia Yue                    16:39   16:42  45       HELIOPHYSICS                   
+   66   676 Carlos Morell              16:44   16:56  25       GODDARD THERMAL TRAILBLAZERS   
+   67   305 Vivek Laljani              16:52   17:05  23       DRAGONFLYERS                   
+   68   558 Griffin Haz                16:52   17:00  28       CAUTION CRUSADERS              
+   69   672 Darius Simms               17:07   17:17  42       POLAR WANDERERS                
+   70    13 Chris Derr                 17:13   17:43  47                                      
+   71   678 James Leake                17:14   17:32  43       HELIOPHYSICS                   
+   72   557 Gregory Stevens            17:17   17:33  37       SEWP                           
+   73   418 Steven Arvin               17:20   18:04  31       OMES III                       
+   74    63 Christopher Stark          17:28   17:35  43       EXOSPEC                        
+   75    46 Aaron Curtis               17:28   17:36  43                                      
+   76   518 Brian Repp                 17:30   17:38  59       KBR                            
+   77    92 Min-Yang Chou              17:32   17:36  38       HELIOPHYSICS                   
+   78    41 Robert Spengler            17:37   17:50  42       DAY STARS                      
+   79  9659 Frank Fried                17:37   17:48  41                                      
+   80   577 Aseer Ahmad                17:44   17:56  29       SEWP                           
+   81  3450 Noel Grand                 17:49   17:52  55       DRAGONFLYERS                   
+   82  9317 Mohamed Bah                17:59   19:37  37       SEWP                           
+   83   686 Steve Sirotzky             18:00   18:05  51                                      
+   84    35 David Cranor               18:04   18:16  52       POLAR WANDERERS                
+   85  9581 Hua Jiao                   18:07   18:15  51       LISA                           
+   86   682 Robert Levy                18:12   24:00  51                                      
+   87   552 Andrew Inglis              18:19   18:35  40       DAY STARS                      
+   88   584 Adam Matuszeski            18:24   18:59  47       DRAGONFLYERS                   
+   89   663 Terence Doiron             18:31   18:46  56       LISA                           
+   90  3449 Glenn Rosecrans            18:39   18:43  60       KBR                            
+   91   503 Kenji Numata               18:41   18:55  48       LISA                           
+   92   327 Mark Buddoo                18:51   18:55  53                                      
+   93   598 Steven Hacker              19:08   19:23  26       DRAGONFLYERS                   
+   94   495 Joel Gallun                19:10   19:17  65       581 FUN RUN TEAM               
+   95  9305 Adrian Southland           19:18   26:47  46       DRAGONFLYERS                   
+   96  3389 Michal Hlinka              19:20   19:34  44                                      
+   97   544 Nicolas Bobb-Coppola       19:23   19:31  27                                      
+   98   641 Rajesh Kolluri             20:00   20:26  31                                      
+   99   623 Greg Jamroz                20:03   20:24  47                                      
+  100   514 Geronimo Villanueva        20:07   20:18  46       WERUNPSG                       
+  101  1200 Pleaseid Unkown            20:08   20:13  24 250                                  
+  102  9384 Cory Helm                  20:29   20:47  35                                      
+  103   683 Blair Russell              20:50   21:08  54       KBR                            
+  104   488 Anh Van                    20:54   21:03  35                                      
+  105   517 Paul Stysley               21:08   21:18  48       DRAGONFLYERS                   
+  106  3456 Matthew Deland             21:24   21:41  63                                      
+  107   555 Christopher Jenkins        21:47   22:07  37                                      
+  108   144 James Roman                21:54   22:13  51       SSAI PACERS                    
+  109   688 George Rankin              21:59   22:25  47       CAUTION CRUSADERS              
+  110   525 Stephan Klene              22:10   22:19  64       SSAI PACERS                    
+  111   645 Elliot Schwartz            22:11   22:27  30       GODDARD THERMAL TRAILBLAZERS   
+  112    14 Tumkur Raghuram            22:16   22:26  59       RELATIVE DYNAMICS RUNNERS      
+  113  3413 Kohei Yamamoto             22:34   22:45  30       LISA                           
+  114   498 Hassan Oudrari             22:39   22:49  58       SSAI PACERS                    
+  115   665 William Mast               23:08   26:08  56                                      
+  116  3273 Venku Jayanti              23:27   23:35  64                                      
+  117   553 Samuel Kitchen-Mckinley    24:42   24:53  42       SSAI PACERS                    
+  118   619 Kevin Heesh                24:49   25:02  37       LISA                           
+  119  3234 Antriksh Patel             24:49   25:03  34       RELATIVE DYNAMICS RUNNERS      
+  120   539 Marco Castillo             24:52   25:11  35       DRAGONFLYERS                   
+  121    33 Mike Arida                 25:04   25:24  57       GEODESIC DEVIANTS (CODE 660)   
+  122    17 Jakob Lindo                25:21   25:27  23       KEEPINGPACE                    
+  123   570 John Zebley                25:41   26:01  43       RUN SNACK REPEAT               
+  124   613 David Gilliam              26:18   26:34  29       SEWP                           
+  125   696 Daniel Solomon             26:31   26:36  70                                      
+  126    21 Richard Rivera             26:48   27:01  63       KBR                            
+  127   528 Kimathi Tull               27:22   27:58  46       DRAGONFLYERS                   
+  128   521 Ralph Welsh Jr             27:31   27:36  85                                      
+  129   650 Donald Truesdell           27:45   28:02  54       SSAI PACERS                    
+  130  9472 Richard Weiss              28:28   28:44  82       PAAC                           
+  131   398 Ralph Smith                28:36   28:47  59                                      
+  132   560 Kermit Russell             30:03   30:26  61       SEWP                           
+  133  3404 Gary Olson                 30:25   30:43  66       RELATIVE DYNAMICS RUNNERS      
+  134   496 Timothy Wilcox             30:47   31:16  57       KBR                            
+  135   222 Kevin Parker               31:36   32:12  66       KBR                            
+  136  9479 Robert Boyle               32:26   32:39  62       DRAGONFLYERS                   
+  137   610 William Armstrong          32:42   33:10  43       SEWP                           
+  138   614 Courtney Franklin          32:45   33:07  40       SEWP                           
+  139  3419 Young-In Won               33:26   33:50  58       PEDIBYTES (690.1)              
+  140   290 Jay Friedlander            33:27   33:50  63       PEDIBYTES (690.1)              
+  141   679 Benjamin Yevick            33:38   33:48   6       LISA                           
+  142   677 Perry Gerakines            33:50   34:11  53                                      
+  143   485 Alexander Marshall         34:04   34:28  61       SEWP                           
+  144   680 Alexander Yevick           34:10   34:21   4       LISA                           
+  145   581 Melvin Moore               34:10   34:43  60       SEWP                           
+  146   612 Bill Robinson              34:20   34:49  48       SEWP                           
+  147   497 Gil Glass                  34:20   34:43  59                                      
+  148   588 Grant Cole                 34:37   35:03  60       SEWP                           
+  149   657 Jason Derleth              36:16   36:39  54       DOWN WITH APPD                 
+  150   675 James Pierson              36:56   37:28  59       KBR                            
+  151   319 David McClure              36:57   37:28  56       KBR                            
+  152     5 Harry White                38:56   39:21  43       DOWN WITH APPD                 
+  153   466 Raymond Levesque           39:12   39:47  60                                      
+  154  3459 Hong-Fu Ting               39:20   39:34  42       RELATIVE DYNAMICS RUNNERS      
+  155   278 Joseph Shaheen             39:23   39:39  23       RELATIVE DYNAMICS RUNNERS      
+  156   642 Anthony Griffin Ii         39:34   39:58  26       DOWN WITH APPD                 
+  157   591 Ratan Debnath              41:42   42:03  48       MEB STRETCHERS                 
+  158   595 Bill Green                 41:44   42:03  67       MEB STRETCHERS                 
+  159   299 John Pope                  42:06   42:49  52       KBR                            
+  160   611 Michael Vinson             43:35   44:11  66       SEWP                           
+  161   593 Jason Istvan               43:35   44:10  37       SEWP                           
+  162   406 Scott Ritz                 45:10   45:37  54                                      

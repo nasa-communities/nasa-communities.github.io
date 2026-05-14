@@ -1,0 +1,176 @@
+                                                                      Page 1
+                         97th NASA Intracenter Run
+                        Goddard Space Flight Center
+                               May 1st,2024
+                              Female Results
+                    correction to tom.winkert@nasa.gov
+Place Num   Name                     Time    Guntime Age Code  Team                              
+===== ===== ======================== ======= ======= === ===== ============================== 
+    1   262 Katie Levine               12:52   12:54  30       GENESIS ENGINEERING SOLUTIONS  
+    2   273 Melissa Vess               13:32   13:35  44                                      
+    3    79 Rachel Borrelli            13:43   13:46  34                                      
+    4   228 Caitlin Kohli              13:56   13:59  35       DOWN TO EARTH (420)            
+    5   294 Victoria Da Poian          14:02   14:05  28       DRAGONFLYERS                   
+    6    50 Roser Juanola              14:59   15:03  39       EXOSPEC                        
+    7   174 Emily Bowman               15:29   15:42  22       STEPS2MARS                     
+    8   282 Lindsay Haseltine          15:57   16:05  24       GENESIS ENGINEERING SOLUTIONS  
+    9    29 Michelle Lear-Combs        15:58   16:02  40       S&MA RISKY BUSINESS            
+   10    30 Yihua Zheng                16:03   16:07  52       HELIOPHYSICS                   
+   11   321 Christinenbaby Sadlik      16:05   16:05  38                                      
+   12   223 Grethel Fuentes            16:13   16:15  39       KBR                            
+   13   414 Wong Min                   16:37   16:46  43       MVS_SESIII                     
+   14    12 Lori Levine                16:54   16:54  49       MEMD                           
+   15    95 Jennifer White             16:57   17:02  43                                      
+   16   107 Stephanie McLaughlin       17:00   17:09  62       PEDIBYTES (690.1)              
+   17   276 Shannon Wilks              17:01   17:07  30       NEWTON LLC                     
+   18   179 Ariadna Farres Basiana     17:25   17:36  42       TEAM NMDB 595                  
+   19   268 Jordana Blenden            17:44   17:52  26       KBR                            
+   20   112 Alejandra Barfknecht       17:47   17:53  43       SWO FAST/SPACE WEATHER OBSERVA 
+   21   201 Rachel Rice                17:52   18:04  30                                      
+   22   180 Emily Beckman              17:53   18:07  28       PROPULSION                     
+   23   147 Ally Payne                 17:54   18:02  23       WERUNPSG                       
+   24   155 Regina Caputo              18:01   18:25  40       DAY STARS                      
+   25    90 Latoya Griffin             18:02   18:17  42       S&MA RISKY BUSINESS            
+   26   176 Kate McGinnis              18:06   18:06  39       STEPS2MARS                     
+   27   256 Sarah Dangelo              18:08   18:18  26                                      
+   28    72 Katherine Gasaway          18:12   18:20  30                                      
+   29   311 Camilla Smallwood          18:50   19:00  53                                      
+   30   133 Katherine Preston          19:08   19:21  42       POLAR WANDERERS                
+   31   467 Lyudmyla Ochs              19:49   20:14  38                                      
+   32   199 Jessica Noviello           19:56   20:04  32                                      
+   33   168 Larysa Paliashchuk         19:57   20:13  33       PEDIBYTES (690.1)              
+   34   186 Jillianne Shear            20:01   20:29  42                                      
+   35    58 Annalisa Jarecki           20:11   20:38  23       DRAGONFLYERS                   
+   36   206 Tiffany House              20:28   20:37  38       POLAR WANDERERS                
+   37    40 Talia Ballew               21:03   21:26  22       HCO                            
+   38    16 Janine Dolinka             21:05   21:26  57                                      
+   39   424 Rebecca Espina             21:15   21:34  50       KBR                            
+   40    76 Zara Jariol                21:17   21:59  38       SEWP                           
+   41   425 Saima Zobair               21:20   21:41  51       PEDIBYTES (690.1)              
+   42   241 Michelle Lansberg          21:38   21:52  39                                      
+   43     8 Martha Wawro               22:15   22:49  44       OMES III                       
+   44   270 Amelia Haymes              22:22   22:44  25                                      
+   45   152 Stephanie Lepchenske       22:27   23:01  34                                      
+   46    93 Victoria Afram             22:29   23:02  36       S&MA RISKY BUSINESS            
+   47    84 Melissa Trainer            22:38   22:52  46       DRAGONFLYERS                   
+   48   126 Karen Scheiber             22:47   23:01  62       HELIOPHYSICS                   
+   49   237 Cassie Webster             22:54   23:21  36       TEAM NMDB 595                  
+   50   376 Emery Webster              22:55   23:21   4       GCDC                           
+   51   243 Anna Kim                   23:13   23:50  22       KBR                            
+   52     3 Xiaozhen Xu                23:23   23:33  42       LISA                           
+   53   185 Candace Carlisle           23:32   23:46  62       GEO FORCE                      
+   54   128 Corrine Rojas              24:14   24:38  30       KEEPINGPACE                    
+   55   205 Renee Dudley               24:30   24:43  54       GEO FORCE                      
+   56    80 Nat Denigris               24:41   24:51  29                                      
+   57    38 Rachel Lense               25:12   25:38  35       HELIOPHYSICS                   
+   58   226 Vani Starry Manoharan      25:31   25:43  40       POLAR WANDERERS                
+   59   331 Karen Oen Balensiefer      25:40   25:40  49       KBR                            
+   60   310 Jennifer Beall             25:47   26:11  53                                      
+   61   267 Alyssa Frazier             25:53   26:15  26       HCO                            
+   62   190 Joanna Joiner              25:56   26:08  57       GEO FORCE                      
+   63   233 Lu Chou                    25:56   25:56  33       DRAGONFLYERS                   
+   64   249 India Gregory              26:22   26:33  30       PAAC                           
+   65   195 Debora Rivera              26:23   26:35  65       GEO FORCE                      
+   66   375 Piper Wagoner              26:35   27:05   5       GCDC                           
+   67    89 Melissa Olsen              26:43   26:59  35       S&MA RISKY BUSINESS            
+   68   377 Shelly Zeng                26:49   27:18   5       GCDC                           
+   69   337 Allison Collow             26:49   27:18  36       GCDC                           
+   70   363 Hailey Collow              26:49   27:17   5       GCDC                           
+   71   216 Sophia Stern               26:54   27:01  39       KBR                            
+   72   344 Kate Queram                26:59   27:29  42       GCDC                           
+   73   329 Julie Shane                27:12   27:28  56                                      
+   74   492 Kshama Hegde               27:48   28:07  48       MVS_SESIII                     
+   75   335 Christine Knudson          27:54   28:27  33       GCDC                           
+   76    74 Sherita Mance              28:00   28:39  47                                      
+   77   302 Paula Pruessner            28:25   28:39  45       LISA                           
+   78   404 Silvia Romero              28:29   29:14  50       MVS_SESIII                     
+   79   456 Danielle Mahone            28:39   28:39  39                                      
+   80    27 Jennifer Nguyen            28:40   29:00  24       POLAR WANDERERS                
+   81   432 Miranda McCarthy           28:50   29:05  24       POSTBAC PACERS                 
+   82   480 Christine Bloecker         29:46   29:46  32                                      
+   83   258 Natia Harris               29:48   30:27  42                                      
+   84   356 Lakshini Wajiweera         29:52   30:21  61       GCDC                           
+   85   271 Lisa Adams                 30:26   30:46  52                                      
+   86   438 Cindy Hasselbring          30:27   30:46  50                                      
+   87   391 Luhena Henock              30:27   31:05   4       GCDC                           
+   88   212 Kim Wilson                 30:45   31:03  55       POLAR WANDERERS                
+   89   106 Karen Latham               30:56   31:15  58       POLAR WANDERERS                
+   90   224 Kathryn Boerner            31:08   31:17  55       POLAR WANDERERS                
+   91   387 Lily Lamers                32:19   32:57   4       GCDC                           
+   92   359 Keisha Dyke                32:20   32:58  47       GCDC                           
+   93    23 Barbara Bromley            32:42   33:14  54       PAAC                           
+   94   229 Diane Trakas               32:43   33:15  54       PAAC                           
+   95   232 Isabella Carlton           32:57   33:20  23       POSTBAC PACERS                 
+   96   328 Emily Broadbent            32:59   33:23  24       POSTBAC PACERS                 
+   97   145 Michele Woodland           33:01   33:25  23       POSTBAC PACERS                 
+   98   388 Rosalia Pucella            33:17   33:57   5       GCDC                           
+   99   470 Vickey Edzodo              33:18   33:57  47                                      
+  100   326 Terri Lynne Hynson         33:48   37:56  59       PAAC                           
+  101   358 Tiffany Jacobs             34:16   34:49  50       GCDC                           
+  102   368 June Markus                34:31   35:08   5       GCDC                           
+  103   340 Bindu Rani                 34:31   35:08  39       GCDC                           
+  104   254 Lakeshia Rawlings          34:34   34:52  45                                      
+  105   218 Viha Nguyen                34:34   34:47  61       POLAR WANDERERS                
+  106   372 Katherine Shih             35:15   35:44   5       GCDC                           
+  107   360 Laura McKeon               35:19   35:51  29       GCDC                           
+  108   192 Tina Gentry                35:44   36:06  59       GEO FORCE                      
+  109   148 Kelly Hall                 35:45   36:26  42       SEWP                           
+  110   103 Erika Rocha                35:49   36:30  48       SEWP                           
+  111    99 Terita Wilson              35:50   36:30  51       SEWP                           
+  112   324 Amber Fryza                35:52   36:18  30       DRAGONFLYERS                   
+  113   436 Donna Warthen              36:33   36:53  63       POLAR WANDERERS                
+  114   108 Cynthia Adams              36:34   36:53  62       POLAR WANDERERS                
+  115   115 Daniele Heiny              36:37   37:01  34       SWO FAST/SPACE WEATHER OBSERVA 
+  116   117 Susan Jacobs               36:38   37:01  29       SWO FAST/SPACE WEATHER OBSERVA 
+  117   350 Alex Lamers                36:45   37:24  36       GCDC                           
+  118    39 Tanya Boyd                 37:00   37:12  52                                      
+  119   125 Lindsey Palardy            37:01   37:01  41       SWO FAST/SPACE WEATHER OBSERVA 
+  120   338 Erica McGrath-Spangler     37:19   37:53  41       GCDC                           
+  121   386 Collin Spangler            37:19   37:53   4       GCDC                           
+  122   362 Schanita Mitchell          37:43   38:22  43       GCDC                           
+  123   325 Karen Smith                38:03   38:21  58                                      
+  124   476 Teresa Hewitt              38:06   38:21  45                                      
+  125   366 Emma Herman                38:15   38:45   5       GCDC                           
+  126   395 Kara Herman                38:20   38:49  40       GCDC                           
+  127   365 Alexandra Herman           38:21   38:49   5       GCDC                           
+  128   478 Lisa Wilson                38:22   38:40  54                                      
+  129   477 Veronika Okai              38:25   38:40  41                                      
+  130   289 Ann Parsons                38:31   38:57  60       DRAGONFLYERS                   
+  131   441 Nita Pszcolka              38:37   38:48  58                                      
+  132    42 Jordan Rice                38:37   39:04  28                                      
+  133    37 Lacey Young                38:38   39:04  28                                      
+  134    44 Madison Elliott            38:38   38:49  25                                      
+  135   235 Francesca Civano           38:43   39:13  44       DAY STARS                      
+  136   149 Carolyn Kierans            38:43   39:13  36       DAY STARS                      
+  137   129 Inia Soto Ramos            38:49   39:31  42       KEEPINGPACE                    
+  138   469 Ivona Cetiwic              38:49   39:31  47       KEEPING PACE                   
+  139   442 Talon Bevan                38:52   40:41  27       MEB STRETCHERS                 
+  140   405 Deanna Yu                  39:34   40:28  38       MVS_SESIII                     
+  141   122 Chelsea Russell            39:41   40:25  24       SEWP                           
+  142   259 Shama Nathan               39:44   40:25  26       SEWP                           
+  143   370 Alivia Reid                39:44   40:16   5       GCDC                           
+  144   140 Zakia Lieske               39:44   40:25  45       SEWP                           
+  145   446 Julia Goyner               39:52   39:52  27       MEB STRETCHERS                 
+  146    69 Angie Martin               40:04   40:45  55       SEWP                           
+  147   164 Andrea Ryan                40:09   40:53  51       SEWP                           
+  148   382 Nadia Martin               40:09   40:46   4       GCDC                           
+  149   143 Brenee Palmer              40:11   40:53  36       SEWP                           
+  150   355 Demeterius Casson          40:14   40:48  37       GCDC                           
+  151   392 Elara Parsai               40:35   41:13   4       GCDC                           
+  152   230 Lynn Kalmbach              40:37   40:37  61       KBR                            
+  153   332 Lisa Downs                 40:49   41:40  53       S&MA RISKY BUSINESS            
+  154   400 Eunice Corbin              40:53   41:49  61       MVS_SESIII                     
+  155   361 Leona Adams                41:41   42:19  46       GCDC                           
+  156   459 Nancy Lindsey              41:44   42:32  61       S&MA RISKY BUSINESS            
+  157   352 Maryam Malone              41:56   42:36  39       GCDC                           
+  158   272 Katie Spotz                43:01   43:25  56       GEO FORCE                      
+  159    87 Unknown Female             44:15   45:06  40       S&MA RISKY BUSINESS            
+  160    85 Deirdre Healey             44:17   45:06  61       S&MA RISKY BUSINESS            
+  161   287 Kenya Wells                44:22   45:05  44       S&MA RISKY BUSINESS            
+  162   468 Jill Young                 44:24   45:43  49                                      
+  163   427 Amanda White               44:24   45:43  34       PAAC                           
+  164   455 Nina Dickson               45:51   46:10  12       TEAM SPACE BASED LASERS        
+  165   158 Valen Johnson              48:13   49:24  26       SWO FAST/SPACE WEATHER OBSERVA 
+  166   238 Krista Radspinner          48:13   49:25  37       PAAC                           
+  167   157 Katherine Mazur            48:16   49:25  39       PAAC                           
+  168   286 Lindsay Zima               48:32   49:50  33                                      

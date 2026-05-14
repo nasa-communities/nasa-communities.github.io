@@ -1,0 +1,23 @@
+1   39:10  34   Maksym Petrenko M 41    
+2   43:20  10  Tyler Lulich     M 40
+3   45:58  15  Jamel Lattimore  M 34
+4   46:00  28  Mark Bendall     M 38
+5   46:28  19  Ian Carroll      M 44
+6   47:54  689 Petar Grigorov   M 28
+7   51:44  7   Pete Barfknecht  M 39
+8   52:20  30  Alan Mulindwa    M 51
+9   52:54  32  Ted Poulos       M 62
+10  54:30  200 Amy McNally      F 43
+11  54:41  607 Luis Rodriguez De Marcos  M 39
+12  55:53  47  Jolyn Russell    F 48
+13  55:54  88  James Basl       M 45
+14  58:16  694 Kirk Gordon      M 68
+15  59:23  00  Tom Winkert      M 60
+16  61:55  41  Rob Spengler     M 41
+17  65:28  35  David Cranor     M 52
+18  68:17  920 Bill Stahr       M 63
+19  69:02  449 Mark Solomon     M 66
+20  71:40  487 Kelvin Garcia    M 52
+21  71:40  486 Delaney Burkhart F 42
+22  78:39  33  Jennifer Nyuyen  F 33
+23  83:55  31  James Moreland   M 72

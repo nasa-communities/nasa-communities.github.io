@@ -1,0 +1,407 @@
+                                                                      Page 1
+                         97th NASA Intracenter Run
+                        Goddard Space Flight Center
+                               May 1st,2024
+                          Gun Time Results (all)
+                    correction to tom.winkert@nasa.gov
+Place Num   Name                     Guntime  Sex Age Code  Team                              
+===== ===== ======================== ======== === === ===== ============================== 
+    1   181 Eliot Toumey             11:19.76   M  27       SUN SYNCHRONOUS STRIDERS       
+    2   135 Maksym Petrenko          11:26.41   M  41       HELIOPHYSICS                   
+    3   182 Chuck Hudson             11:34.32   M  35       SUN SYNCHRONOUS STRIDERS       
+    4   295 Michael Maniscalco       12:17.53   M  34       KEEPINGPACE                    
+    5   307 Niko Fedkin              12:17.95   M  30                                      
+    6   314 Nicholas Zaremba         12:23.70   M  36       SWO FAST/SPACE WEATHER OBSERVA 
+    7   167 Gabriel Segnatelli       12:30.04   M  29       SUN SYNCHRONOUS STRIDERS       
+    8   277 Sam Weingord             12:39.16   M  26       NEWTON LLC                     
+    9   262 Katie Levine             12:53.61   F  30       GENESIS ENGINEERING SOLUTIONS  
+   10   431 David Baker              12:57.96   M  38       PEDIBYTES (690.1)              
+   11   293 Matthew Francom          12:58.91   M  31                                      
+   12    64 Mircea Grecu             13:07.75   M  54       612ERS                         
+   13     4 Bernard Kelly            13:09.01   M  51       GEODESIC DEVIANTS (CODE 660)   
+   14   313 Mark Wojenski            13:09.95   M  43       KBR                            
+   15   464 Feng Li                  13:11.00   M  52                                      
+   16    28 Mark Bendall             13:13.99   M  38       PAAC                           
+   17   318 Joel Allred              13:14.67   M  48       HELIOPHYSICS                   
+   18   264 James Hamill             13:16.79   M  32       GENESIS ENGINEERING SOLUTIONS  
+   19   292 Jacopo Terragni          13:17.83   M  32       WERUNPSG                       
+   20   473 Michael Akkerman         13:20.76   M  44                                      
+   21   312 Kenneth Christian        13:30.02   M  36       612ERS                         
+   22   265 Badri Shirgur            13:30.05   M  49                                      
+   23   269 Tremor Cale              13:32.08   M  29       DRAGONFLYERS                   
+   24   169 Ryan Fitzgibbons         13:32.29   M  43                                      
+   25   273 Melissa Vess             13:34.14   F  44                                      
+   26   109 Ryan Carney              13:40.53   M  35       POLAR WANDERERS                
+   27    79 Rachel Borrelli          13:45.84   F  34                                      
+   28   491 Grant Barrett            13:46.08   M  34       MVS_SESIII                     
+   29   170 Petar Grigorov           13:46.86   M  27                                      
+   30   333 Matthew Seybold          13:51.10   M  50       GEO FORCE                      
+   31   315 Ira Thorpe               13:53.89   M  44       GEODESIC DEVIANTS (CODE 660)   
+   32   228 Caitlin Kohli            13:58.39   F  35       DOWN TO EARTH (420)            
+   33   294 Victoria Da Poian        14:04.98   F  28       DRAGONFLYERS                   
+   34     7 Peter Barfknecht         14:08.64   M  39       DRAGONFLYERS                   
+   35   156 Thibault Lechien         14:23.98   M  23       POSTBAC PACERS                 
+   36   162 Daniel Bae               14:29.42   M  31       DRAGONFLYERS                   
+   37   450 Patrick Smith            14:32.90   M  43                                      
+   38    51 Neil Zimmerman           14:36.73   M  41       EXOSPEC                        
+   39   284 Joey Pasterski           14:39.37   M  40       DRAGONFLYERS                   
+   40   334 Gilberto Vicente         14:43.90   M  62                                      
+   41   172 Benjamin Winkler         14:46.35   M  23       DRAGONFLYERS                   
+   42    19 Ian Carroll              14:47.47   M  43       KEEPINGPACE                    
+   43   187 Louis Freda              14:51.11   M  28                                      
+   44    61 Mike Dent                14:56.15   M  38                                      
+   45   451 Joseph Finlon            14:57.11   M  33       612ERS                         
+   46    50 Roser Juanola            15:02.77   F  39       EXOSPEC                        
+   47   213 Phillip Denton           15:07.34   M  34                                      
+   48   247 Joseph Watson            15:09.77   M  25                                      
+   49   454 James Pontius            15:15.42   M  61       DOWN TO EARTH (420)            
+   50   236 Thomas Fauchez           15:19.01   M  36       WERUNPSG                       
+   51   202 Sean McCartney           15:20.62   M  46                                      
+   52   306 Michael Barth            15:23.00   M  20                                      
+   53   250 Garrett Layne            15:25.41   M  31                                      
+   54   160 Nicholas Kirschner       15:27.76   M  28       DAY STARS                      
+   55   239 John Ramsey              15:35.00   M  63                                      
+   56    53 Corey Spohn              15:38.99   M  28       EXOSPEC                        
+   57   174 Emily Bowman             15:41.82   F  22       STEPS2MARS                     
+   58   304 Matthew Kowalewski       15:42.74   M  50       DRAGONFLYERS                   
+   59   279 Gabriel Maymon           15:43.88   M  28       NEWTON LLC                     
+   60   316 Michael Moss             15:51.32   M  28       DAY STARS                      
+   61   263 Zach Sachs               15:54.29   M  31       GENESIS ENGINEERING SOLUTIONS  
+   62   275 Nate Welsh               16:00.01   M  28       NEWTON LLC                     
+   63    29 Michelle Lear-Combs      16:01.95   F  40       S&MA RISKY BUSINESS            
+   64   227 Rick Carter              16:03.33   M  53       DOWN TO EARTH (420)            
+   65   321 Christinenbaby Sadlik    16:04.16   F  38                                      
+   66   282 Lindsay Haseltine        16:04.40   F  24       GENESIS ENGINEERING SOLUTIONS  
+   67    30 Yihua Zheng              16:07.00   F  52       HELIOPHYSICS                   
+   68   474 Tom Neumann              16:10.35   M  50                                      
+   69   223 Grethel Fuentes          16:14.46   F  39       KBR                            
+   70    48 Kirk Gordon              16:23.83   M  68                                      
+   71   231 Andrew Lyashko           16:31.50   M  47       GEO FORCE                      
+   72   197 Brian Woodson Jr         16:36.32   M  27       SUN SYNCHRONOUS STRIDERS       
+   73   207 Nicholas Cannady         16:36.57   M  35       DAY STARS                      
+   74   285 Sean Smith               16:38.98   M  42                                      
+   75    97 David Giles              16:41.49   M  49                                      
+   76   414 Wong Min                 16:45.77   F  43       MVS_SESIII                     
+   77   322 Robert Levy              16:53.82   M  51       GEO FORCE                      
+   78    12 Lori Levine              16:54.00   F  49       MEMD                           
+   79   437 Charlie Chen             16:55.23   M  53                                      
+   80   484 Alexander Petrov         16:57.23   M  37                                      
+   81   204 Raymond Jones            16:58.26   M  43                                      
+   82   110 Peter Somkuti            16:59.42   M  39       GMAO                           
+   83    95 Jennifer White           17:01.12   F  43                                      
+   84   111 Bryan James              17:02.17   M  36       DRAGONFLYERS                   
+   85    59 David Edwards            17:03.67   M  34       LEO RUNNERS                    
+   86   123 Robert Neblett           17:03.76   M  33       SWO FAST/SPACE WEATHER OBSERVA 
+   87   276 Shannon Wilks            17:06.03   F  30       NEWTON LLC                     
+   88   435 Elliot Goodzeit          17:08.43   M  38       SUN SYNCHRONOUS STRIDERS       
+   89   107 Stephanie McLaughlin     17:08.73   F  62       PEDIBYTES (690.1)              
+   90   465 Robert Lemon             17:09.20   M  51                                      
+   91   175 Keegan Moore             17:18.12   M  29       STEPS2MARS                     
+   92   260 Christopher Pirner       17:23.52   M  40       HELIOPHYSICS                   
+   93   240 Brian Langbein           17:24.10   M  21                                      
+   94   179 Ariadna Farres Basiana   17:35.33   F  42       TEAM NMDB 595                  
+   95   246 Eric Haggquist           17:36.36   M  65                                      
+   96   420 Nathaniel Johnson        17:38.17   M  29       SUN SYNCHRONOUS STRIDERS       
+   97   124 Elvis Castillo           17:39.81   M  33       GEO FORCE                      
+   98   472 Walter Smith             17:41.19   M  58                                      
+   99   305 Vivek Laljani            17:42.12   M  23       DRAGONFLYERS                   
+  100    92 Min-Yang Chou            17:45.31   M  38       HELIOPHYSICS                   
+  101   242 McAlister George         17:47.04   M  36       GEO FORCE                      
+  102   453 Charles Dickson          17:48.85   M  57       TEAM SPACE BASED LASERS        
+  103   401 Aaron Curtis             17:48.97   M  43       MVS_SESIII                     
+  104   268 Jordana Blenden          17:51.17   F  26       KBR                            
+  105   165 Brian Repp               17:51.60   M  58       KBR                            
+  106   112 Alejandra Barfknecht     17:52.76   F  43       SWO FAST/SPACE WEATHER OBSERVA 
+  107   433 David Cranor             17:54.96   M  52       POLAR WANDERERS                
+  108   490 Kyle Grello              17:56.60   M  39       S&MA RISKY BUSINESS            
+  109   274 Ben Esselman             17:56.88   M  23       KBR                            
+  110    22 Salman Sheikh            17:59.77   M  56       CODE_564                       
+  111   147 Ally Payne               18:01.57   F  23       WERUNPSG                       
+  112   201 Rachel Rice              18:03.95   F  30                                      
+  113   176 Kate McGinnis            18:05.23   F  39       STEPS2MARS                     
+  114   180 Emily Beckman            18:06.30   F  28       PROPULSION                     
+  115    66 Andrew Lee               18:08.06   M  33                                      
+  116   146 Andrew Inglis            18:08.66   M  39       DAY STARS                      
+  117    41 Robert Spengler          18:08.81   M  42       DAY STARS                      
+  118    67 Masaru Kogure            18:10.25   M  33                                      
+  119   183 Ricky Burcat             18:11.61   M  34       SUN SYNCHRONOUS STRIDERS       
+  120   301 Steven Arvin             18:15.68   M  30       OMES III                       
+  121    90 Latoya Griffin           18:16.51   F  42       S&MA RISKY BUSINESS            
+  122   256 Sarah Dangelo            18:17.19   F  26                                      
+  123    72 Katherine Gasaway        18:19.54   F  30                                      
+  124   116 Mohamed Bah              18:19.70   M  37       SEWP                           
+  125   155 Regina Caputo            18:24.56   F  40       DAY STARS                      
+  126    60 Jacob Graham             18:27.14   M  36       DRAGONFLYERS                   
+  127   423 Joe Eisenacher           18:30.43   M  29       SUN SYNCHRONOUS STRIDERS       
+  128   208 Rodney Roberts           18:33.03   M  30       OMES III                       
+  129   407 David Brunone            18:33.22   M  39       MVS_SESIII                     
+  130    77 Hua Jiao                 18:34.01   M  51       LISA                           
+  131   184 Christopher Wheeler      18:42.17   M  55       GEO FORCE                      
+  132   137 Michael Bosilovich       18:45.56   M  55       GMAO                           
+  133   327 Mark Buddoo              18:45.90   M  52       GMAO                           
+  134   189 Eish Patel               18:51.05   M  33       KBR                            
+  135   118 Aseer Ahmad              18:51.94   M  28       SEWP                           
+  136   102 Daniel Davis             18:52.62   M  30       SEWP                           
+  137   311 Camilla Smallwood        18:59.03   F  53                                      
+  138   217 Ayinde Wilson            19:06.21   M  36                                      
+  139   133 Katherine Preston        19:20.15   F  42       POLAR WANDERERS                
+  140   234 Geronimo Villanueva      19:21.20   M  46       WERUNPSG                       
+  141    13 Chris Derr               19:24.73   M  47                                      
+  142    54 Tyler Groff              19:27.37   M  39       EXOSPEC                        
+  143   444 Steven Hacker            19:36.44   M  26       DRAGONFLYERS                   
+  144   479 Adrian Southord          19:47.41   M  46       DRAGONFLYERS                   
+  145   440 Brian Smith              19:49.57   M  34       POLAR WANDERERS                
+  146    36 Greg Jamroz              19:50.63   M  46                                      
+  147    34 Kenji Numata             20:02.54   M  48       LISA                           
+  148   221 Chris Vandyke            20:03.12   M  55       KBR                            
+  149   199 Jessica Noviello         20:03.80   F  32                                      
+  150   323 Aaron Bush               20:08.05   M  42       S&MA RISKY BUSINESS            
+  151   168 Larysa Paliashchuk       20:12.63   F  33       PEDIBYTES (690.1)              
+  152   139 Douglas McGuffey         20:12.75   M  65                                      
+  153   467 Lyudmyla Ochs            20:13.73   F  38                                      
+  154   283 Mike MacKlin             20:18.19   M  27       GENESIS ENGINEERING SOLUTIONS  
+  155   320 Colby Azersky            20:18.29   M  27                                      
+  156   349 Jack Sadleir             20:25.54   M  49       GCDC                           
+  157   371 Redmund Sadleir          20:25.89   M   5       GCDC                           
+  158   186 Jillianne Shear          20:28.40   F  42                                      
+  159   253 Ben Leser                20:30.56   M  27       SUN SYNCHRONOUS STRIDERS       
+  160   206 Tiffany House            20:36.54   F  38       POLAR WANDERERS                
+  161    58 Annalisa Jarecki         20:37.92   F  23       DRAGONFLYERS                   
+  162    55 Matthew Deland           20:40.69   M  62                                      
+  163    18 Adam Sponsky             20:41.18   M  29       HAPPY FEET (177)               
+  164    31 Nicholas Booth           20:41.21   M  37       HAPPY FEET (177)               
+  165   171 Michael Shoemaker        20:48.89   M  42       TEAM NMDB 595                  
+  166   330 Cory Helm                20:49.09   M  34       PAAC                           
+  167    45 Francois Mernier         20:50.74   M  34                                      
+  168   471 Nathaniel Ellis          20:57.12   M  63                                      
+  169   196 Caio Accioly             21:15.15   M  23                                      
+  170    33 Mike Arida               21:17.24   M  56       GEODESIC DEVIANTS (CODE 660)   
+  171    40 Talia Ballew             21:25.51   F  22       HCO                            
+  172    16 Janine Dolinka           21:25.79   F  57                                      
+  173   424 Rebecca Espina           21:34.00   F  50       KBR                            
+  174   425 Saima Zobair             21:40.86   F  51       PEDIBYTES (690.1)              
+  175   241 Michelle Lansberg        21:51.21   F  39                                      
+  176    76 Zara Jariol              21:58.23   F  38       SEWP                           
+  177   113 Hudson Delee             22:09.71   M  41       SWO FAST/SPACE WEATHER OBSERVA 
+  178   449 Mark Solomon             22:17.18   M  66       GMAO                           
+  179   369 Damian Pescatore         22:18.72   M   5       GCDC                           
+  180   178 Joe Warren               22:31.22   M  61                                      
+  181   298 Lucas Moxey              22:32.14   M  44       SWO FAST/SPACE WEATHER OBSERVA 
+  182   270 Amelia Haymes            22:43.20   F  25                                      
+  183     8 Martha Wawro             22:48.01   F  44       OMES III                       
+  184   447 Frank Fried              22:49.23   M  41                                      
+  185    84 Melissa Trainer          22:51.93   F  46       DRAGONFLYERS                   
+  186   121 Revilo Winfrey           22:53.64   M  37       SEWP                           
+  187   126 Karen Scheiber           23:00.16   F  62       HELIOPHYSICS                   
+  188   152 Stephanie Lepchenske     23:00.72   F  34                                      
+  189    93 Victoria Afram           23:01.92   F  36       S&MA RISKY BUSINESS            
+  190   237 Cassie Webster           23:20.91   F  36       TEAM NMDB 595                  
+  191   376 Emery Webster            23:20.98   F   4       GCDC                           
+  192   154 Kevin Heesh              23:24.05   M  37       LISA                           
+  193     3 Xiaozhen Xu              23:32.91   F  42       LISA                           
+  194   104 Sara Faggi               23:37.67   M  40       WERUNPSG                       
+  195   185 Candace Carlisle         23:45.25   F  62       GEO FORCE                      
+  196   243 Anna Kim                 23:49.11   F  22       KBR                            
+  197   266 Haijun Shen              24:04.83   M  52       SUN SYNCHRONOUS STRIDERS       
+  198   119 Jeff Hopkins             24:15.42   M  60       SEWP                           
+  199   308 Mahendra Karki           24:23.57   M  72       GMAO                           
+  200   445 Emerson Sirk             24:35.12   M  27       KEEPINGPACE                    
+  201   128 Corrine Rojas            24:37.45   F  30       KEEPINGPACE                    
+  202   252 Lorenzo Narducci         24:41.44   M  28       SUN SYNCHRONOUS STRIDERS       
+  203   205 Renee Dudley             24:42.43   F  54       GEO FORCE                      
+  204    80 Nat Denigris             24:50.71   F  29                                      
+  205   430 Venku Jayanti            25:07.34   M  64                                      
+  206    38 Rachel Lense             25:37.49   F  35       HELIOPHYSICS                   
+  207   380 Sebastian Kurz           25:38.20   M   4       GCDC                           
+  208   291 Douglas Ward             25:39.55   M  63       KBR                            
+  209   331 Karen Oen Balensiefer    25:39.56   F  49       KBR                            
+  210   226 Vani Starry Manoharan    25:42.94   F  40       POLAR WANDERERS                
+  211   245 Noah Williams            25:51.15   M  43       KBR                            
+  212   309 Desmond Kaplan           25:54.52   M  44       DRAGONFLYERS                   
+  213   233 Lu Chou                  25:55.87   F  33       DRAGONFLYERS                   
+  214   190 Joanna Joiner            26:07.22   F  57       GEO FORCE                      
+  215   310 Jennifer Beall           26:10.42   F  53                                      
+  216   267 Alyssa Frazier           26:14.30   F  26       HCO                            
+  217   131 Christopher Walker       26:31.73   M  31       SEWP                           
+  218   249 India Gregory            26:32.77   F  30       PAAC                           
+  219   195 Debora Rivera            26:34.51   F  65       GEO FORCE                      
+  220   194 Richard Rivera           26:34.57   M  62       GEO FORCE                      
+  221   297 Thomas Repczynski        26:38.73   M  24       GEO FORCE                      
+  222    89 Melissa Olsen            26:58.93   F  35       S&MA RISKY BUSINESS            
+  223   216 Sophia Stern             27:00.86   F  39       KBR                            
+  224   375 Piper Wagoner            27:04.85   F   5       GCDC                           
+  225   343 Brandon Wagoner          27:04.92   M  34       GCDC                           
+  226   363 Hailey Collow            27:16.28   F   5       GCDC                           
+  227   337 Allison Collow           27:17.12   F  36       GCDC                           
+  228   377 Shelly Zeng              27:17.28   F   5       GCDC                           
+  229   329 Julie Shane              27:27.89   F  56                                      
+  230   344 Kate Queram              27:28.38   F  42       GCDC                           
+  231   374 Harrison Wagoner         27:28.41   M   5       GCDC                           
+  232   251 Scott Glubke             27:51.51   M  61                                      
+  233   462 Ralph Welsh              27:51.98   M  84                                      
+  234   492 Kshama Hegde             28:06.68   F  48       MVS_SESIII                     
+  235   452 Rob Williamson           28:09.34   M  56       POLAR WANDERERS                
+  236   219 Marco Castillo           28:12.02   M  34       DRAGONFLYERS                   
+  237   378 Arlo Castillo            28:12.13   M   4       GCDC                           
+  238   127 Philip Hochendoner       28:19.13   M  36                                      
+  239   335 Christine Knudson        28:26.51   F  33       GCDC                           
+  240   403 Don Frank                28:30.21   M  51       MVS_SESIII                     
+  241   261 Robert Fogle             28:35.99   M  63                                      
+  242   290 Jay Friedlander          28:36.04   M  62       PEDIBYTES (690.1)              
+  243   211 Ralph Smith              28:36.43   M  59                                      
+  244   456 Danielle Mahone          28:38.06   F  39                                      
+  245    74 Sherita Mance            28:38.63   F  47                                      
+  246   302 Paula Pruessner          28:38.94   F  45       LISA                           
+  247   475 James Rogus              28:52.32   M  30                                      
+  248    27 Jennifer Nguyen          28:59.05   F  24       POLAR WANDERERS                
+  249   432 Miranda McCarthy         29:04.47   F  24       POSTBAC PACERS                 
+  250   404 Silvia Romero            29:13.07   F  50       MVS_SESIII                     
+  251   408 Tre Cornish              29:17.48   M  26       MVS_SESIII                     
+  252   280 Christopher Holtery      29:20.72   M  56       PAAC                           
+  253   482 William River            29:21.85   M  34                                      
+  254   457 Michal Hlinka            29:22.61   M  44                                      
+  255   500 John Winkert             29:34.77   M  67                                      
+  256   480 Christine Bloecker       29:45.61   F  32                                      
+  257   390 Myzel Ossei              30:11.64   M   4       GCDC                           
+  258   346 Ben Ossei                30:13.51   M  52       GCDC                           
+  259   356 Lakshini Wajiweera       30:20.48   F  61       GCDC                           
+  260   258 Natia Harris             30:26.80   F  42                                      
+  261   209 Perry Sebreny            30:31.35   M  63       KBR                            
+  262   379 Kevin O Harris           30:44.71   M   4       GCDC                           
+  263   438 Cindy Hasselbring        30:45.60   F  50                                      
+  264   271 Lisa Adams               30:45.72   F  52                                      
+  265   448 Eric Harris              30:47.92   M  53                                      
+  266   212 Kim Wilson               31:02.88   F  55       POLAR WANDERERS                
+  267   391 Luhena Henock            31:04.79   F   4       GCDC                           
+  268   347 Woubit Langano           31:05.11   M  39       GCDC                           
+  269    98 Will Conn                31:13.13   M  62       S&MA RISKY BUSINESS            
+  270   106 Karen Latham             31:14.19   F  58       POLAR WANDERERS                
+  271   224 Kathryn Boerner          31:16.57   F  55       POLAR WANDERERS                
+  272   163 Nicolaie Todirita        31:26.83   M  55       POLAR WANDERERS                
+  273   461 Richie Weiss             31:36.90   M  82                                      
+  274   357 Breeze Cofield           31:42.60   M  26       GCDC                           
+  275   130 Paul Lieberman           31:47.92   M  71       SEWP                           
+  276    73 Kimathi Tull             32:13.43   M  45       DRAGONFLYERS                   
+  277   463 Carlos Duran             32:51.28   M  40                                      
+  278   387 Lily Lamers              32:56.57   F   4       GCDC                           
+  279   359 Keisha Dyke              32:57.11   F  47       GCDC                           
+  280    23 Barbara Bromley          33:13.87   F  54       PAAC                           
+  281   229 Diane Trakas             33:14.01   F  54       PAAC                           
+  282   255 Ferris Bosworth          33:19.03   M  25       POSTBAC PACERS                 
+  283   232 Isabella Carlton         33:19.56   F  23       POSTBAC PACERS                 
+  284   328 Emily Broadbent          33:22.74   F  24       POSTBAC PACERS                 
+  285   145 Michele Woodland         33:24.38   F  23       POSTBAC PACERS                 
+  286    94 Jogi Patel               33:25.58   M  29       LMOC                           
+  287   248 Michael Cannistraro      33:25.73   M  22       KBR                            
+  288   388 Rosalia Pucella          33:56.38   F   5       GCDC                           
+  289   470 Vickey Edzodo            33:56.55   F  47                                      
+  290   421 Rajarshi Roy             34:21.32   M  26       DRAGONFLYERS                   
+  291    68 Dwight Patel             34:39.51   M  51       SEWP                           
+  292   422 Robert Boyle             34:40.09   M  62       DRAGONFLYERS                   
+  293   218 Viha Nguyen              34:46.11   F  61       POLAR WANDERERS                
+  294   288 Doug Adams               34:46.31   M  29                                      
+  295   358 Tiffany Jacobs           34:48.89   F  50       GCDC                           
+  296   254 Lakeshia Rawlings        34:51.13   F  45                                      
+  297   222 Kevin Parker             35:00.15   M  65       KBR                            
+  298   373 Aaron Tomar- Kumar       35:07.16   M   4       GCDC                           
+  299   368 June Markus              35:07.20   F   5       GCDC                           
+  300   340 Bindu Rani               35:07.48   F  39       GCDC                           
+  301    96 Kermit Russell           35:08.40   M  60       SEWP                           
+  302    52 Michael McClelllan       35:27.95   M  87                                      
+  303   303 Timothy Wilcox           35:28.49   M  56       KBR                            
+  304   348 Albert Shih              35:43.23   M  43       GCDC                           
+  305   372 Katherine Shih           35:43.53   F   5       GCDC                           
+  306   360 Laura McKeon             35:50.82   F  29       GCDC                           
+  307   192 Tina Gentry              36:05.40   F  59       GEO FORCE                      
+  308   428 Pete Phillips            36:05.71   M  55       GEO FORCE                      
+  309   324 Amber Fryza              36:17.80   F  30       DRAGONFLYERS                   
+  310   153 Alexander Marshall       36:22.19   M  60       SEWP                           
+  311   148 Kelly Hall               36:25.22   F  42       SEWP                           
+  312   142 Michael Toeller          36:28.07   M  37       SEWP                           
+  313    99 Terita Wilson            36:29.55   F  51       SEWP                           
+  314   103 Erika Rocha              36:29.85   F  48       SEWP                           
+  315   342 Joseph Eggen             36:41.89   M  39       GCDC                           
+  316   364 Audrey Eggen             36:41.93   M   5       GCDC                           
+  317   108 Cynthia Adams            36:52.68   F  62       POLAR WANDERERS                
+  318   436 Donna Warthen            36:52.74   F  63       POLAR WANDERERS                
+  319   125 Lindsey Palardy          37:00.12   F  41       SWO FAST/SPACE WEATHER OBSERVA 
+  320   115 Daniele Heiny            37:00.17   F  34       SWO FAST/SPACE WEATHER OBSERVA 
+  321   117 Susan Jacobs             37:00.64   F  29       SWO FAST/SPACE WEATHER OBSERVA 
+  322   317 Shiva Anand              37:00.66   M  69       SWO FAST/SPACE WEATHER OBSERVA 
+  323    39 Tanya Boyd               37:11.65   F  52                                      
+  324   350 Alex Lamers              37:23.13   F  36       GCDC                           
+  325   402 Lance Emery              37:32.32   M  43       MVS_SESIII                     
+  326   426 Tom Hughes               37:49.03   M  60       PEDIBYTES (690.1)              
+  327   386 Collin Spangler          37:52.87   F   4       GCDC                           
+  328   338 Erica McGrath-Spangler   37:52.91   F  41       GCDC                           
+  329   339 Tim Spangler             37:53.05   M  43       GCDC                           
+  330   326 Terri Lynne Hynson       37:55.51   F  59       PAAC                           
+  331   214 Brian Humensky           37:57.24   M  48       DAY STARS                      
+  332   381 Isaac Stern              38:11.04   M   4       GCDC                           
+  333   476 Teresa Hewitt            38:20.26   F  45                                      
+  334   325 Karen Smith              38:20.56   F  58                                      
+  335   362 Schanita Mitchell        38:21.57   F  43       GCDC                           
+  336   478 Lisa Wilson              38:39.63   F  54                                      
+  337   477 Veronika Okai            38:39.84   F  41                                      
+  338   366 Emma Herman              38:44.45   F   5       GCDC                           
+  339   441 Nita Pszcolka            38:47.28   F  58                                      
+  340   395 Kara Herman              38:48.24   F  40       GCDC                           
+  341    43 Vince Elliott            38:48.26   M  53                                      
+  342    44 Madison Elliott          38:48.30   F  25                                      
+  343   365 Alexandra Herman         38:48.83   F   5       GCDC                           
+  344   105 Vincent Kofman           38:50.53   M  35       WERUNPSG                       
+  345    56 Eric Lyness              38:56.67   M  58       DRAGONFLYERS                   
+  346    83 Todd King                38:56.99   M  55       DRAGONFLYERS                   
+  347   289 Ann Parsons              38:57.00   F  60       DRAGONFLYERS                   
+  348    37 Lacey Young              39:03.39   F  28                                      
+  349    42 Jordan Rice              39:03.90   F  28                                      
+  350   149 Carolyn Kierans          39:12.41   F  36       DAY STARS                      
+  351   235 Francesca Civano         39:12.47   F  44       DAY STARS                      
+  352   469 Ivona Cetiwic            39:30.64   F  47       KEEPING PACE                   
+  353   129 Inia Soto Ramos          39:30.97   F  42       KEEPINGPACE                    
+  354   191 Markus Sorrells          39:38.07   M  64       PAAC                           
+  355   446 Julia Goyner             39:51.69   F  27       MEB STRETCHERS                 
+  356   443 Bill Green               39:56.31   M  66       MEB STRETCHERS                 
+  357   439 Ratan Debnath            39:59.57   M  47       MEB STRETCHERS                 
+  358   370 Alivia Reid              40:15.50   F   5       GCDC                           
+  359   122 Chelsea Russell          40:24.49   F  24       SEWP                           
+  360   140 Zakia Lieske             40:24.68   F  45       SEWP                           
+  361   259 Shama Nathan             40:24.69   F  26       SEWP                           
+  362   405 Deanna Yu                40:27.75   F  38       MVS_SESIII                     
+  363   409 Bill Thomas              40:28.27   M  42       MVS_SESIII                     
+  364   230 Lynn Kalmbach            40:36.88   F  61       KBR                            
+  365   257 Devin Longo              40:40.24   M  27                                      
+  366   442 Talon Bevan              40:40.79   F  27       MEB STRETCHERS                 
+  367    82 Michael Viens            40:43.07   M  67       S&MA RISKY BUSINESS            
+  368   120 Bill Robinson            40:43.85   M  48       SEWP                           
+  369    69 Angie Martin             40:44.06   F  55       SEWP                           
+  370   429 Charles Martin           40:44.94   M  35                                      
+  371   382 Nadia Martin             40:45.74   F   4       GCDC                           
+  372   393 Ethan Manning            40:47.31   M   4       GCDC                           
+  373   355 Demeterius Casson        40:47.32   F  37       GCDC                           
+  374   164 Andrea Ryan              40:52.23   F  51       SEWP                           
+  375   143 Brenee Palmer            40:52.67   F  36       SEWP                           
+  376   481 Khashayar Parsay         41:11.91   M  40                                      
+  377   392 Elara Parsai             41:12.04   F   4       GCDC                           
+  378   341 Antwan Reid              41:19.84   M  43       GCDC                           
+  379   332 Lisa Downs               41:39.48   F  53       S&MA RISKY BUSINESS            
+  380   400 Eunice Corbin            41:48.24   F  61       MVS_SESIII                     
+  381   410 Gary Smith               41:48.93   M  65       MVS_SESIII                     
+  382   177 Perry Gerakines          42:01.52   M  52                                      
+  383   383 Odel Malone              42:18.23   M   4       GCDC                           
+  384   361 Leona Adams              42:18.59   F  46       GCDC                           
+  385   459 Nancy Lindsey            42:31.88   F  61       S&MA RISKY BUSINESS            
+  386    86 Asaf S.                  42:32.14   M  32       S&MA RISKY BUSINESS            
+  387   352 Maryam Malone            42:35.62   F  39       GCDC                           
+  388   272 Katie Spotz              43:24.90   F  56       GEO FORCE                      
+  389   287 Kenya Wells              45:04.87   F  44       S&MA RISKY BUSINESS            
+  390    87 Unknown Female           45:05.49   F  40       S&MA RISKY BUSINESS            
+  391    85 Deirdre Healey           45:05.89   F  61       S&MA RISKY BUSINESS            
+  392   468 Jill Young               45:42.31   F  49                                      
+  393   427 Amanda White             45:42.35   F  34       PAAC                           
+  394   455 Nina Dickson             46:09.29   F  12       TEAM SPACE BASED LASERS        
+  395   158 Valen Johnson            49:23.99   F  26       SWO FAST/SPACE WEATHER OBSERVA 
+  396   238 Krista Radspinner        49:24.13   F  37       PAAC                           
+  397   157 Katherine Mazur          49:24.25   F  39       PAAC                           
+  398   220 Adam Lambros             49:46.13   M  35       PAAC                           
+  399   286 Lindsay Zima             49:49.98   F  33                                      

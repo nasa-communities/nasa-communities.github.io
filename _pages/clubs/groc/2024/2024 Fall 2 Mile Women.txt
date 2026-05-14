@@ -1,0 +1,120 @@
+                                                                      Page 1
+                         98th NASA Intracenter Run
+                        Goddard Space Flight Center
+                             October 2nd,2024
+                              Female Results
+                    correction to tom.winkert@nasa.gov
+Place Num   Name                     Time    Guntime Age Code  Team                              
+===== ===== ======================== ======= ======= === ===== ============================== 
+    1   419 Rachel Borrelli            13:57   13:58  34                                      
+    2   599 Molly Fahey                14:30   14:38  41       LISA                           
+    3   600 Roser Juanola              15:30   15:35  39       EXOSPEC                        
+    4   571 Kate McGinnis              15:33   15:43  39       STEPS2MARS                     
+    5   631 Naomi Park                 15:36   15:47  23       G-FORCE FLEET                  
+    6   399 Grethel Fuentes            15:48   15:50  39       KBR                            
+    7   397 Emily Bowman               15:59   16:20  23       STEPS2MARS                     
+    8   562 Lauren Martin              16:10   16:19  34       WERUNPSG                       
+    9   506 Lori Levine                16:24   16:29  49       MEMD                           
+   10   609 Nina Dickson               16:32   16:38  12                                      
+   11   537 Stephanie McLaughlin       16:32   16:39  62       PEDIBYTES (690.1)              
+   12  9586 Michelle Lear-Combs        16:46   16:49  40                                      
+   13   573 Sarah Moran                16:47   16:57  31       WERUNPSG                       
+   14   567 Mayra Nieves               17:17   17:36  43       RUN SNACK REPEAT               
+   15   133 Katherine Preston          17:19   17:27  42       POLAR WANDERERS                
+   16  3417 Tiffany Holden             17:19   17:29  39       PEDIBYTES (690.1)              
+   17   646 Ariadna Farres-Basiana     17:37   17:43  43       TEAM NMDB 595                  
+   18  3418 K. Emma Knowland           17:53   18:00  40       GMAO                           
+   19   201 Rachel Rice                18:06   18:16  31                                      
+   20  9616 Alejandra Borfknecht       18:13   18:23  43                                      
+   21   542 Natalya Kramarova          18:34   18:41  46                                      
+   22  3408 Joanne Santiago            18:37   18:45  59                                      
+   23   531 Nayeong Cho                18:46   18:55  39                                      
+   24   629 Kelly Whalen               18:56   19:13  29                                      
+   25   632 Janine Moses               18:59   19:13  28       GODDARD THERMAL TRAILBLAZERS   
+   26   136 Camilla Smallwood          19:00   19:10  54                                      
+   27   699 Aileen Kroll               19:37   19:40  68                                      
+   28   548 Keara Mangan               20:21   20:34  27       SEWP                           
+   29  3496 Ally Payne                 20:33   20:45  24       WERUNPSG                       
+   30   578 Miriam Wennersten          20:35   20:42  57       581 FUN RUN TEAM               
+   31   684 Regina Caputo              20:41   20:56  40       DAY STARS                      
+   32   411 Allison Collow             20:44   20:58  36       GMAO                           
+   33   698 Carolyn Kierans            20:44   20:59  36       DAY STARS                      
+   34   668 Anna Kim                   21:03   21:19  23       KBR                            
+   35  9570 Jennifer Nguyen            21:05   21:20  25                                      
+   36  3435 Jillianne Shear            21:14   21:35  43       RELATIVE DYNAMICS RUNNERS      
+   37   499 Eleonora Castelli          21:27   21:36  31       LISA                           
+   38    76 Zara Jariol                21:35   21:49  39       SEWP                           
+   39   579 Veronica Pinnick           21:36   22:18  42       DRAGONFLYERS                   
+   40   554 Michelle Lansberg          21:48   22:06  39                                      
+   41   524 Annalisa Jarecki           22:08   22:39  23       DRAGONFLYERS                   
+   42   173 Debbie Sallitt             22:36   22:40  57       DOWN WITH APPD                 
+   43   126 Karen Scheiber             22:42   23:03  63       HELIOPHYSICS                   
+   44   574 Nicole Schanche            22:56   23:13  35                                      
+   45   630 Xiaozhen Xu                23:05   23:22  42       LISA                           
+   46  9344 Chen Crane                 23:38   23:49  30       RELATIVE DYNAMICS RUNNERS      
+   47   543 Karen Latham               23:38   23:52  59       POLAR WANDERERS                
+   48   622 Nat Denigris               24:21   24:47  30                                      
+   49   568 Vanessa Soto Mejias        25:39   25:58  41       RUN SNACK REPEAT               
+   50   670 Corrine Rojas              25:46   25:58  31       KEEPINGPACE                    
+   51   666 Sophia Stern               25:51   26:07  39       KBR                            
+   52   512 Sara Faggi                 25:52   26:02  40       WERUNPSG                       
+   53   671 Skye Caplan                25:54   26:06  25       KEEPINGPACE                    
+   54   302 Paula Pruessner            26:29   26:46  46       LISA                           
+   55   515 Janine Dolinka             26:33   26:54  57       HCO                            
+   56   516 Katelyn Lively             26:34   26:54  25       HCO                            
+   57   662 Talia Ballew               26:34   26:55  23       HCO                            
+   58   141 Debora Rivera              26:48   27:01  66       GEO FORCE                      
+   59    11 Shannon Riley              27:21   27:31  36                                      
+   60  3529 Miranda McCarthy           29:57   30:14  24                                      
+   61   603 Chelsea Russell            30:59   31:29  25       SEWP                           
+   62     9 Robin Ripley               31:29   31:55  43                                      
+   63   690 Darnita Tyler              31:40   32:18  52       KBR                            
+   64    81 Sandra Irish               32:25   32:38  63       DRAGONFLYERS                   
+   65   576 Andrea Martin              32:48   33:11  36       SEWP                           
+   66   494 Laila Yates                33:14   33:27  44       GEO FORCE                      
+   67   687 Gabrielle Schweitzer       33:39   34:06  24       DRAGONFLYERS                   
+   68   458 Victoria Afram             33:39   34:07  36                                      
+   69   617 Adrianne Jones             34:09   34:43  71       SEWP                           
+   70  9385 Lisa Wilson                34:16   34:45  54                                      
+   71  9651 Nargess Memarsadeghi       34:23   34:31  45       581 FUN RUN TEAM               
+   72   586 Wendy Smith                34:33   35:10  36       SEWP                           
+   73   649 Itunu Jagun                35:07   35:13  23       MOSTLY WALKING                 
+   74   634 Laurene Brown              35:59   36:22  32       MOSTLY WALKING                 
+   75   138 Devona Jackson             36:02   36:28  39                                      
+   76  3402 Tiera Greene               36:03   36:28  30                                      
+   77   651 Janicea McCree             36:04   36:30  44                                      
+   78   615 Angela Taylor              36:23   36:53  57       SEWP                           
+   79   550 Acacia Henry               36:32   37:01  44       SEWP                           
+   80   300 Qianne Whitmire            37:55   38:03  34                                      
+   81  3485 Teresa Hewitt              38:06   38:30  45       MOSTLY WALKING                 
+   82  3425 Veronica Okai              38:08   38:32  42       MOSTLY WALKING                 
+   83   661 Katie Jepson               38:24   38:44  36                                      
+   84  9333 Dorris Jallice             38:31   39:10  65       MEB STRETCHERS                 
+   85   605 Sofia Butler               38:39   39:11  40       SEWP                           
+   86   604 Bimala Ojha                38:39   39:11  31       SEWP                           
+   87   648 Dominique Allen            38:40   39:06  38       DOWN WITH APPD                 
+   88   592 Terita Wilson              38:43   39:15  52       SEWP                           
+   89   644 Barbara Grofic             38:45   39:09  64       DOWN WITH APPD                 
+   90   166 Christine Windsor          39:12   39:48  54       KBR                            
+   91  3287 Diane Ngo                  39:20   39:34  28       RELATIVE DYNAMICS RUNNERS      
+   92   587 Ebony Davis                39:24   39:55  32       SEWP                           
+   93   549 Lauren Jayne               39:49   40:20  38       POLAR WANDERERS                
+   94   547 Kimberly Delong            39:50   40:19  39       POLAR WANDERERS                
+   95   674 Ann Cardiff                40:07   40:37  49                                      
+   96  3438 Padi Boyd                  40:08   40:37  59                                      
+   97   281 Carol Williams             40:27   41:02  59       KBR                            
+   98   693 Shannon Smith              40:30   41:03  27       KBR                            
+   99   691 Barbara Conoway            40:31   41:03  60       KBR                            
+  100   569 Susan Wright               40:43   41:10  65                                      
+  101   483 Tracy Felton               40:44   41:09  51       DOWN WITH APPD                 
+  102   161 Patricia Butler            40:46   41:09  39       DOWN WITH APPD                 
+  103   597 Julia Goyer                41:13   41:55  27       MEB STRETCHERS                 
+  104   627 Brooke Dine                41:21   41:49  56       DATA LADIES                    
+  105   654 Nidhi Wahi                 41:24   41:49  40       DATA LADIES                    
+  106   640 Jessica Deibert            41:25   41:48  29       DATA LADIES                    
+  107   626 Krista Kinnard             41:26   41:49  36       DATA LADIES                    
+  108   660 Maxine Saylor              42:09   42:52  51       KBR                            
+  109   413 Courtney Ritz              45:09   45:37  47                                      
+  110   415 Mary Collins               45:11   45:37  64                                      
+  111   585 Ruby Jackson               46:01   46:35  33       SEWP                           
+  112   583 Angela Berry               46:42   47:18  54       SEWP                           

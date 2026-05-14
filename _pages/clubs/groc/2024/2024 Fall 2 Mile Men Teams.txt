@@ -1,0 +1,189 @@
+                         98th NASA Intracenter Run
+                        Goddard Space Flight Center
+                             October 2nd,2024
+
+                               Team Results
+      (The team score is the sum of the top 5 finishers of the team)
+
+
+  1.   108  DRAGONFLYERS                  
+========================================
+  1      4  Tremor Cale              M     12:28.8 
+  2     18  Eric Lyness              M     13:27.5 
+  3     21  Matthew Francom          M     13:37.6 
+  4     31  Benjamin Winkler         M     14:28.8 
+  5     34  Joey Pasterski           M     14:37.2 
+  6   ( 38) Peter Barfknecht         M     14:46.8 
+  7   ( 43) Matthew Kowalewski       M     15:08.3 
+  8   ( 62) Jonathan Edwards         M     16:28.8 
+  9   ( 67) Vivek Laljani            M     16:51.8 
+ 10   ( 81) Noel Grand               M     17:49.0 
+ 11   ( 88) Adam Matuszeski          M     18:23.9 
+ 12   ( 93) Steven Hacker            M     19:07.6 
+ 13   ( 95) Adrian Southland         M     19:17.8 
+ 14   (105) Paul Stysley             M     21:07.9 
+ 15   (120) Marco Castillo           M     24:51.2 
+ 16   (127) Kimathi Tull             M     27:21.7 
+ 17   (136) Robert Boyle             M     32:25.6 
+
+  2.   134  LISA                          
+========================================
+  1      7  Casey McGrath            M     12:39.9 
+  2     12  Bernard Kelly            M     13:09.0 
+  3     25  Ira Thorpe               M     13:50.0 
+  4     44  Joseph Hart              M     15:09.0 
+  5     46  John Baker               M     15:14.3 
+  6   ( 85) Hua Jiao                 M     18:06.2 
+  7   ( 89) Terence Doiron           M     18:31.0 
+  8   ( 91) Kenji Numata             M     18:40.4 
+  9   (113) Kohei Yamamoto           M     22:33.9 
+ 10   (118) Kevin Heesh              M     24:48.1 
+ 11   (141) Benjamin Yevick          M     33:37.3 
+ 12   (144) Alexander Yevick         M     34:09.2 
+
+  3.   245  EXOSPEC                       
+========================================
+  1     36  Corey Spohn              M     14:41.5 
+  2     48  Neil Zimmerman           M     15:31.4 
+  3     49  Miles Currie             M     15:32.4 
+  4     51  Michael McElwain         M     15:40.4 
+  5     61  Tyler Groff              M     16:23.8 
+  6   ( 74) Christopher Stark        M     17:27.2 
+
+  4.   252  POLAR WANDERERS               
+========================================
+  1     20  Ryan Carney              M     13:35.7 
+  2     26  Mike Dent                M     14:03.7 
+  3     53  Andrew Lyashko           M     15:46.1 
+  4     69  Darius Simms             M     17:06.3 
+  5     84  David Cranor             M     18:03.3 
+
+  5.   257  GODDARD THERMAL TRAILBLAZERS  
+========================================
+  1     37  Daniel Bae               M     14:41.8 
+  2     45  Deepak Patel             M     15:12.4 
+  3     54  Seth Abramczyk           M     15:55.9 
+  4     55  Juan Rodriguez           M     15:56.3 
+  5     66  Carlos Morell            M     16:43.3 
+  6   (111) Elliot Schwartz          M     22:10.6 
+
+  6.   260  DAY STARS                     
+========================================
+  1     27  Michael Moss             M     14:14.1 
+  2     33  Nicholas Kirschner       M     14:36.5 
+  3     35  Tom Essinger-Hileman     M     14:38.7 
+  4     78  Robert Spengler          M     17:36.2 
+  5     87  Andrew Inglis            M     18:18.5 
+
+  7.   272  HELIOPHYSICS                  
+========================================
+  1      1  Maksym Petrenko          M     11:23.4 
+  2     58  Christopher Pirner       M     16:14.8 
+  3     65  Jia Yue                  M     16:38.1 
+  4     71  James Leake              M     17:13.8 
+  5     77  Min-Yang Chou            M     17:31.3 
+
+  8.   336  KBR                           
+========================================
+  1     15  Mark Wojenski            M     13:21.5 
+  2     52  James Basl               M     15:41.4 
+  3     76  Brian Repp               M     17:29.3 
+  4     90  Glenn Rosecrans          M     18:38.1 
+  5    103  Blair Russell            M     20:49.6 
+  6   (126) Richard Rivera           M     26:47.1 
+  7   (134) Timothy Wilcox           M     30:46.1 
+  8   (135) Kevin Parker             M     31:35.6 
+  9   (150) James Pierson            M     36:55.8 
+ 10   (151) David McClure            M     36:56.1 
+ 11   (159) John Pope                M     42:05.1 
+
+  9.   490  SEWP                          
+========================================
+  1     72  Gregory Stevens          M     17:16.2 
+  2     80  Aseer Ahmad              M     17:43.4 
+  3     82  Mohamed Bah              M     17:58.8 
+  4    124  David Gilliam            M     26:17.5 
+  5    132  Kermit Russell           M     30:02.8 
+  6   (137) William Armstrong        M     32:41.7 
+  7   (138) Courtney Franklin        M     32:44.1 
+  8   (143) Alexander Marshall       M     34:03.1 
+  9   (145) Melvin Moore             M     34:09.6 
+ 10   (146) Bill Robinson            M     34:19.5 
+ 11   (148) Grant Cole               M     34:36.3 
+ 12   (160) Michael Vinson           M     43:34.4 
+ 13   (161) Jason Istvan             M     43:34.6 
+
+ 10.   565  RELATIVE DYNAMICS RUNNERS     
+========================================
+  1     47  Benjamin Petrak          M     15:28.2 
+  2    112  Tumkur Raghuram          M     22:15.3 
+  3    119  Antriksh Patel           M     24:48.7 
+  4    133  Gary Olson               M     30:24.9 
+  5    154  Hong-Fu Ting             M     39:19.8 
+  6   (155) Joseph Shaheen           M     39:22.4 
+
+ 11.   578  SSAI PACERS                   
+========================================
+  1    108  James Roman              M     21:53.8 
+  2    110  Stephan Klene            M     22:09.2 
+  3    114  Hassan Oudrari           M     22:38.7 
+  4    117  Samuel Kitchen-Mckinley  M     24:41.5 
+  5    129  Donald Truesdell         M     27:44.1 
+
+
+
+Incomplete Teams:
+
+OMES III                      
+         Tyler Lulich M     12:14.9, Steven Arvin M     17:20.0
+
+PEDIBYTES (690.1)             
+         David Hollibaugh Baker M     12:35.5, Young-In Won M     33:25.5, Jay Friedlander M     33:26.7
+
+612ERS                        
+         Mircea Grecu M     12:49.7, Kenneth Christian M     13:48.6, Joseph Finlon M     14:55.2
+
+KEEPINGPACE                   
+         Ryan Fitzgibbons M     13:05.1, Ian Carroll M     13:28.3, Jakob Lindo M     25:20.2
+
+SUN SYNCHRONOUS STRIDERS      
+         Grant Barrett M     13:20.6
+
+PAAC                          
+         Mark Bendall M     13:26.3, Richard Weiss M     28:27.8
+
+CODE_564                      
+         Kyle Gregory M     13:45.3
+
+LEO RUNNERS                   
+         David Edwards M     14:25.1
+
+581 FUN RUN TEAM              
+         Gilberto Vicente M     14:48.3, Joel Gallun M     19:09.3
+
+WERUNPSG                      
+         Vincent Kofman M     15:00.9, Geronimo Villanueva M     20:07.0
+
+GEO FORCE                     
+         Elvis Castillo M     15:33.5
+
+GMAO                          
+         Peter Somkuti M     16:03.6, Michael Bosilovich M     16:17.0
+
+S&MA RISKY BUSINESS           
+         Kyle Grello M     16:19.1
+
+CAUTION CRUSADERS             
+         Griffin Haz M     16:51.8, George Rankin M     21:58.3
+
+GEODESIC DEVIANTS (CODE 660)  
+         Mike Arida M     25:03.7
+
+RUN SNACK REPEAT              
+         John Zebley M     25:40.7
+
+DOWN WITH APPD                
+         Jason Derleth M     36:15.9, Harry White M     38:55.1, Anthony Griffin Ii M     39:33.4
+
+MEB STRETCHERS                
+         Ratan Debnath M     41:42.0, Bill Green M     41:43.2
