@@ -117,11 +117,11 @@ We'll add some maps of typical runs on GSFC campus.
 * [Graded](/clubs/groc/2025/2025 Fall 2 Mile Age Graded.txt)
 * [Gun Time](/clubs/groc/2025/2025 Fall 2 Mile guntime.txt)
 
-### Previous Race Results
+### Previous Race Results [NEW PAGE TO BE UPDATED]
 
 <a href="/clubs/groc/race-results" class="btn btn-primary">View Past Race Results</a>
 
-### Older Race Results
+### Older Race Results [OLD PAGE]
 
 [Older Results](/clubs/groc/results/)
 
