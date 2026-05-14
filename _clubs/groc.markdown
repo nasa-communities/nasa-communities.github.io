@@ -91,7 +91,7 @@ We'll add some maps of typical runs on GSFC campus.
 ### 2026
 
 **Spring 10k (05/13/26):**
-* [Overall Results](/clubs/groc/2026/2026 10K.txt) 
+* [Overall Results](/clubs/groc/2026/2026 Spring 10K.TXT) 
 
 **Spring 2 Mile Fun Run (04/29/26):**
 * [Guntime](/clubs/groc/2026/2026 Spring 2 Mile guntime.TXT) 
