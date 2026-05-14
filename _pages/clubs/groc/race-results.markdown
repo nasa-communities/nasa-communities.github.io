@@ -84,7 +84,7 @@ Please [contact GROC](https://nasa-communities.org/clubs/groc/#contact-us) for r
 * [Men](/clubs/groc/2024/2024 Spring 2 Mile Men.txt)
 * [Women Teams](/clubs/groc/2024/2024 Spring 2 Mile Women Teams.txt)
 * [Men Teams](/clubs/groc/2024/2024 Spring 2 Mile Men Teams.txt)
-* [Overall Teams](/clubs/groc/2024/2025 Spring 2 Mile All Teams.txt)
+* [Overall Teams](/clubs/groc/2024/2024 Spring 2 Mile All Teams.txt)
 * [Graded](/clubs/groc/2024/2024 Spring 2 Mile Age Graded.txt)
 * [Graded](/clubs/groc/2024/2024 Spring 2 Mile Age Groups.txt)
 * [Gun Time](/clubs/groc/2024/2024 Spring 2 Mile guntime.txt)
@@ -93,7 +93,32 @@ Please [contact GROC](https://nasa-communities.org/clubs/groc/#contact-us) for r
 
 ### 2023 Fall
 
+**Fall 10K:**
+* [Overall Results](/clubs/groc/2023/2023 Fall 10K.txt)
+
+**Fall 2 Mile Fun Run:**
+* [Women](/clubs/groc/2023/2023 Fall 2 Mile Women.txt)
+* [Men](/clubs/groc/2023/2023 Fall 2 Mile Men.txt)
+* [Women Teams](/clubs/groc/2023/2023 Fall 2 Mile Women Teams.txt)
+* [Men Teams](/clubs/groc/2023/2023 Fall 2 Mile Men Teams.txt)
+* [Overall Teams](/clubs/groc/2023/2023 Fall 2 Mile All Teams.txt)
+* [Graded](/clubs/groc/2023/2023 Fall 2 Mile Age Graded.txt)
+* [Gun Time](/clubs/groc/2023/2023 Fall 2 Mile guntime.txt)
+
 ### 2023 Spring
+
+**Spring 10K:**
+* [Overall Results](/clubs/groc/2023/2023 Spring 10K.txt)
+
+**Spring 2m Fun Run:**
+* [Women](/clubs/groc/2023/2023 Spring 2 Mile Women.txt)
+* [Men](/clubs/groc/2023/2023 Spring 2 Mile Men.txt)
+* [Women Teams](/clubs/groc/2023/2023 Spring 2 Mile Women Teams.txt)
+* [Men Teams](/clubs/groc/2023/2023 Spring 2 Mile Men Teams.txt)
+* [Overall Teams](/clubs/groc/2023/2023 Spring 2 Mile All Teams.txt)
+* [Graded](/clubs/groc/2023/2023 Spring 2 Mile Age Graded.txt)
+* [Graded](/clubs/groc/2023/2023 Spring 2 Mile Age Groups.txt)
+* [Gun Time](/clubs/groc/2023/2023 Spring 2 Mile guntime.txt)
 
 ## 2022
 
