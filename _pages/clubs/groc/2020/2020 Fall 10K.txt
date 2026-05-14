@@ -1,0 +1,17 @@
+   1    Sean    Napier      39:41   M    28  10/4-Crofton         First Male but should be Dqed for only beating Maksym by 4 seconds
+   2    Maksym  Petrenko    39:45   M    37  10/4-Crofton
+   3    Ted     Poulos      42:58   M    58  11/14-Burke          First Masters Male
+   4    Melissa Vess        46:10   F    41  11/5 - Crofton       First Female
+   5    Jim     Basl        51:06   M    41  11/20-Baltimore
+   6    William Teng        53:13   M    67  11/21-Burtonsville
+   7    Jolyn   Russell     53:17   F    43  11/17-Rock Creek     First Female Masters
+   8    Tom     Winkert     53:40   M    56  11/21-PVTC 10k Haines Point
+   9    Andrew  Lyashko     56:40   M    43  11/18- somewhere
+   10   Michael Bosilovich  57:08   M    51  11/15-Chevy Chase
+   11   Ian     Richardson  57:18   M    63  11/14-Seabrook
+   12   Lori    Levine      58:55   F    45  10/9 - Columbia
+   13   Joel    Gallun      61:45   M    61  11/18-Kennsington
+   14   Patty   Hall        63:39   F    28  11/8 - Anacostia Tributary Trail
+   15   John    Winkert     80:40   M    64  10/24-Virginia
+   16   Lynette Sullivan    84:45   F    50  11/9- Odenton
+   17   Joe     Warren      93:06   M    57  10/30- Westgate

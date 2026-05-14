@@ -1,0 +1,42 @@
+1   Munchak     Joe         10:52   M   36  Goddard Track Club      7/31 - Track            1st Male
+2   Yew         Alvin       10:58   M   35                          8/7 - Fairland      
+3   Kelly       Bernard     12:24   M   47  Geodesic Deviants(660)  8/3 - WB&A              1st Male Master
+4   Petrenko    Maksym      12:31   M   37  Goddard Track Club      7/31 - WB&A     
+5   Napier      Sean        12:38   M   28  Goddard Track Club      8/2 - WB&A      
+6   Poulos      Ted         12:53   M   58                          7/23 - Track        
+7   Wendt       Meghan      13:53   F   33                          7/31 - Candy Cane       1st Female
+8   Vess        Melissa     14:06   F   41  Off the Mesa            7/27 - USA      
+9   Basl        Jim         14:10   M   41                          7/17 - Baltimore        
+10  Grecu       Mircea      14:36   M   51                          7/17 - Howard County        
+11  Mccullough  Kent	    14:57   M   63                          6/21 - B&A
+12  Ding        Leibo       14:59   M   49  Goddard Track Club      7/31 - WB&A     
+13  Russell     Jolyn       15:05   F   43                          7/19 - Silver Spring    1st Female Master
+14  Teng        William     16:43   M   67  Powered By Earth Science7/25 -Burtonsville      
+15  Richardson  Ian         16:58   M   63  HelioPhysics            7/25 - WB&A     
+16  Santiago    Joanne      17:13   F   54                          6/11 - Owings Mill      
+17  Chamberlin  Keith       18:38   M   55                          7/20 - USA      
+18  Gallun      Joel        18:40   M   60                          7/20 - Kensington       
+19  Holden      Tiffany     19:06   F   35  Pedibytes               7/28 - USA      
+20  Gaeng       Thomas      19:11   M   55                          7/12- Westover Rd       
+21  Madhavan    Sriharsha   19:42   M   39                          6/29 -WB&A      
+22  Klene       Stephan     20:32   M   59  Powered By Earth Science7/12 - Earth            
+23  Karki       Mahendra    20:47   M   63                          8/11 - USA      
+24  Zobair      Saima       21:15   F   47  Pedibytes               6/25 - Chantilly        
+25  Balman      Matthew     21:44   M   40  Goddard Track Club      7/22 - Lock Raven       
+26  Jackman     Charles     23:14   M   69                          6/14 - WB&A     
+27  Williams    Dave        23:55   M   62  Pedibytes               8/5 - USA       
+28  Szafran     Jamie       26:00   F   35                          8/5 - KSC!!     
+29  Friedlander Jay         26:05   M   58  Pedibytes               7/28 - Land     
+30  Dougherty   Melissa     26:08   F   52                          6/24 - Outside      
+31  Winkert     Tom         29:52   M   56  Goddard Track Club      7/30 - Rock Creek       
+32  Bacon       Myra        30:00   F   58                          8/6 - Damascus      
+33  Bell        Edwin       30:41   M   61  Pedibytes               6/20 - Clinton      
+34  Bordeaux    Judi        32:06   F   73                          6/14 - WB&A     
+35  Hu          Karen       37:04   F   54  Pedibytes               7/24 - BW Parkway       
+    Farrell     William     9:45    M                               Dqed because he sent in a time from July 1981       
+                                    
+                                    
+    Team Results                                
+                                    
+    1st Male Team - Goddard Track Club                              
+    1st Female Team - Pedibytes                                 

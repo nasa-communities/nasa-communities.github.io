@@ -1,0 +1,13 @@
+1	Petrenko	Maksym		    42:08	M	37	8/4    WB&A
+2	Napier		Sean		    50:38	M	28	6/29   Rockville
+3	Mccullough	Kent		    50:59	M	63	7/31   WB&A
+4	Russell		Jolyn		    53:53	F	43	7/12   Silver Spring 
+5	Dornblaser	Jonathan	    54:31	M	39	7/19   Kinder Farm
+6	Richardson	Ian		    56:21	M	63	7/20   WB&A
+7	Levine		Lori		    57:11	F	45	6/18   Baltimore Druid Hill
+8	Snee		James		  1:01:10	M	60	7/27   Laytonsville
+9	Sooy		Peter		  1:04:35	M	32	7/11   Rock Creek
+10	Madhavan	Sriharsha	  1:04:43	M	39	6/29   WB&A
+11	Gallun		Joel		  1:04:46	M	60	7/26   Kensington
+12	Xiong		Sanxiong	  1:19:37	M	60	6/21   WB&A
+13	Winkert		Tom		 34:10:00	M	56	8/7    I took a 32 hour break 
