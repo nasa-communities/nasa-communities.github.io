@@ -1,0 +1,139 @@
+                                                                      Page 1
+                         94th NASA Intracenter Run
+                        Goddard Space Flight Center
+                             October 5th,2022
+                               Male Results
+                    correction to tom.winkert@nasa.gov
+Place Num   Name                     Guntime  Sex Age Code  Team                              
+===== ===== ======================== ======== === === ===== ============================== 
+    1   437 Ethan Burbridge          11:34.00   M  26       VERY EXCITING RACE/TRACK EXPER 
+    2   460 Maksym Petrenko          11:43.00   M  39       GODDARD TRACK CLUB             
+    3   171 Niko Fedkin              11:56.00   M  28                                      
+    4   498 Zachary Nasipak          12:13.00   M  29       GEODESIC DEVIANTS660           
+    5   475 David Hollibaugh Baker   12:32.00   M  36       PEDIBYTES                      
+    6    41 Bernard Kelly            12:45.00   M  49       GEODESIC DEVIANTS660           
+    7   487 Feng Li                  13:03.00   M  51                                      
+    8   493 Ryan Fitzgibbons         13:06.00   M  41                                      
+    9   312 Anthony Brazil           13:12.00   M  41                                      
+   10   316 Badri Shirgur            14:02.00   M  48                                      
+   11   465 Mark Bendall             14:14.00   M  36       PRITI'S PEEPS                  
+   12    86 David Edwards            14:19.00   M  32                                      
+   13   280 Tom Nolan                14:23.00   M  70                                      
+   14   455 Rick Carter              14:25.00   M  51                                      
+   15   321 Robert Leamon            14:40.00   M  50                                      
+   16   453 Gilberto Vicente         14:49.00   M  60       CCRS                           
+   17   459 Chensheng Wu             15:14.00   M  33       KBR                            
+   18   306 Leibo Ding               15:15.00   M  52                                      
+   19   128 Michael Sekerak          15:27.00   M  45                                      
+   20   476 Nicole Leung             15:29.00   F  22                                      
+   21    50 John Baker               15:30.00   M  53       GEODESIC DEVIANTS660           
+   22    47 Kirk Gordon              15:35.00   M  66                                      
+   23   441 Isak Wold                16:05.00   M  44       GEODESIC DEVIANTS660           
+   24   202 Jessica Queen            16:14.00   F  23                                      
+   25   319 Carly Sandin             16:20.00   F  30       MATERIALS TEAM                 
+   26   483 Aveek Gangopadhyay       16:58.00   M  40       RED BEACON                     
+   27    70 Michael Boland           16:59.00   M  45                                      
+   28   206 Jinan Zeng               17:06.00   M  58                                      
+   29   256 Douglas McGuffey         17:09.00   M  64                                      
+   30   152 K. Emma Knowland         17:14.00   F  38       GMAO INCREMENTALISTS           
+   31   403 Kimberly Drummond        17:14.00   F  34       ASRC PAAC                      
+   32   496 Shannon Wilks            17:23.00   F  28                                      
+   33   469 Jillianne Shear          17:31.00   F  41       SAIC/OMES-II                   
+   34   435 Robert Spengler          17:45.00   M  40       GEODESIC DEVIANTS660           
+   35   445 Mariah Pulver            17:53.00   F  29       ASRC PAAC                      
+   36   440 Brian Repp               17:58.00   M  57       KBR                            
+   37   381 Anh Van                  18:07.00   M  33                                      
+   38   418 Salman Sheikh            18:11.00   M  54       ISLAMIC STUDY GROUP OF GEWA    
+   39   463 Steven Queen             18:17.00   M  53                                      
+   40   471 Dagem Zebenay            18:29.00   M  12       SAIC/OMES-II                   
+   41   387 Darius Simms             18:30.00   M  40       SAIC/OMES-II                   
+   42   400 Andrew Inglis            18:36.00   M  38       DAY STARS                      
+   43   191 Michael Cabrera          18:39.00   M  40       SAIC/OMES-II                   
+   44   464 Asha Rani                18:47.00   F  43       RED BEACON                     
+   45   481 Ricardo Morales          18:50.00   M  22                                      
+   46   402 Carolyn Kierans          18:54.00   F  34       DAY STARS                      
+   47   318 Carmel Conaty            18:55.00   F  55                                      
+   48    46 Glenn Tamkin             18:56.00   M  59                                      
+   49    97 Rodney Roberts           19:04.00   M  28       SAIC/OMES-II                   
+   50   473 Joanne Santiago          19:04.00   F  57                                      
+   51   397 Joshua Schlieder         19:11.00   M  39       DAY STARS                      
+   52   494 Tiffany Holden           19:15.00   F  37       PEDIBYTES                      
+   53   401 Regina Caputo            19:19.00   F  38       DAY STARS                      
+   54   405 Matthew Balman           19:22.00   M  42       AI-SOLUTIONS                   
+   55    19 Natalya Kramarova        19:42.00   F  44                                      
+   56   393 David Brunone            19:48.00   M  37       SAIC/OMES-II                   
+   57   436 Eleonora Castelli        19:55.00   F  29       GEODESIC DEVIANTS660           
+   58   323 Jonathan Boblitt         20:02.00   M  34                                      
+   59   320 Jonathan Kelly           20:13.00   M  54                                      
+   60   492 Nathan Smith             20:42.00   M  37       MATERIALS TEAM                 
+   61   380 Larysa Paliashchuk       20:53.00   F  32       PEDIBYTES                      
+   62   264 Rebecca Espina           20:57.00   F  49                                      
+   63   442 M Scopes                 21:00.00   M  55       GEODESIC DEVIANTS660           
+   64   398 Allison Collow           21:08.00   F  34       GMAO INCREMENTALISTS           
+   65   395 Zara Jariol              21:10.00   F  37       TEAM SITSS                     
+   66   486 Saima Zobair             21:42.00   F  49       PEDIBYTES                      
+   67   480 Inia M. Soto Ramos       21:44.00   F  40                                      
+   68    14 Martha Wawro             21:44.00   F  44       KBR                            
+   69   450 Kevin Heesh              21:46.00   M  35       LISA                           
+   70   430 John Ruth                21:52.00   M  26                                      
+   71   145 Joseph Minty             21:52.00   M  31       SAIC/OMES-II                   
+   72   426 Janine Dolinka           22:05.00   F  55                                      
+   73   257 Tumkur Raghuram          22:25.00   M  58       SAIC/OMES-II                   
+   74     5 Robin Ripley             22:26.00   F  41       DAVINCI                        
+   75   310 Ken Yargus               22:50.00   M  61                                      
+   76   488 Yaping Zhou              23:32.00   F  55       612ERS                         
+   77   484 Mahendra Karki           23:33.00   M  71       GMAO INCREMENTALISTS           
+   78   457 Robert Fogle             23:39.00   M  62                                      
+   79   391 Tommy Suriel             24:08.00   M  31       SAIC/OMES-II                   
+   80   439 Ralph Smith              24:23.00   M  57                                      
+   81    38 Ralph Welsh Jr           25:05.00   M  83                                      
+   82   478 Maria Foster             25:36.00   F  51       SAIC/OMES-II                   
+   83   428 Justin Morris            26:18.00   M  28       SAIC/OMES-II                   
+   84   497 Darryl Waddy             26:31.00   M  36                                      
+   85   491 Scott Santoro            26:48.00   M  23       MATERIALS TEAM                 
+   86   458 David Williams           27:30.00   M  64       PEDIBYTES                      
+   87   421 Jay Friedlander          27:32.00   M  61       PEDIBYTES                      
+   88   315 Kimberly Finch           28:14.00   F  58                                      
+   89   467 Julie Shane              28:14.00   F  54                                      
+   90   386 John Hartnett            28:21.00   M  44       TEAM SITSS                     
+   91   446 Jelila Stanton           28:27.00   F  41       MATERIALS TEAM                 
+   92   307 Myra Bacon               28:47.00   F  61                                      
+   93   388 Kevin Parker             30:57.00   M  64       SAIC/OMES-II                   
+   94   109 Thomas Buchanan          31:18.00   M  59       TEAM SITSS                     
+   95   422 Patty Manalansan         31:51.00   F  56                                      
+   96   434 Loress Brown             31:51.00   F  53       SAIC/OMES-II                   
+   97   449 Sandra Irish             31:52.00   F  61                                      
+   98   322 Marva Johnson            31:52.00   F  68                                      
+   99    11 Beth Booker              31:56.00   F  54                                      
+  100   417 Rachel Oster             31:56.00   F  43                                      
+  101   444 Ed Bell                  32:08.00   M  63       PEDIBYTES                      
+  102   454 Barbara Grofic           32:45.00   F  62                                      
+  103   472 Eklesia Zebenay          32:46.00   F  10       SAIC/OMES-II                   
+  104   470 Jeremiah Zebenay         32:55.00   M   5       SAIC/OMES-II                   
+  105   468 Melak Zebenay            32:56.00   M  42       SAIC/OMES-II                   
+  106   150 Christine Bloecker       33:37.00   F  30                                      
+  107   175 Lisa Wilson              33:38.00   F  52       CCRS                           
+  108   438 Robin Kovach             33:38.00   F  49       RUN SAMDA, RUN                 
+  109   474 Sterling Spangler        33:43.00   M  57       RUN SAMDA, RUN                 
+  110   415 Amidu Oloso              33:44.00   M  58       ISLAMIC STUDY GROUP OF GEWA    
+  111   424 Michael McClelllan       34:00.00   M  85       LANDSAT                        
+  112   314 Tim Wilcox               34:01.00   M  55                                      
+  113   308 Jennifer Winkert         34:45.00   F  28                                      
+  114   376 Doris Jallice            34:46.00   F  63       MATERIALS TEAM                 
+  115   456 Ratan Debnath            34:47.00   M  46       MATERIALS TEAM                 
+  116   427 Kasey Bond               34:56.00   F  31       DAVINCI                        
+  117   313 Michelle Crigger         36:03.00   F  41                                      
+  118   447 Elizabeth McCall         36:04.00   F  41       DAVINCI                        
+  119   195 Tosh Keune               36:16.00   M  63                                      
+  120   107 Lynn Baker               37:28.00   F  51                                      
+  121   419 Michelle Hutchison       37:28.00   F  31       ASRC PAAC                      
+  122   411 Giada Arney              37:33.00   F  36       DAVINCI                        
+  123   413 Vince Elliott            37:33.00   M  52       DAVINCI                        
+  124   414 Madison Elliott          37:33.00   F  23       ASRC PAAC                      
+  125   431 Stephanie Getty          37:33.00   F  45       DAVINCI                        
+  126   448 Talon Bevan              38:22.00   F  25       MATERIALS TEAM                 
+  127   462 Bruno Munoz              38:22.00   M  61       MATERIALS TEAM                 
+  128   423 Bill Green               38:30.00   M  65       MATERIALS TEAM                 
+  129   499 Dave Littmann            39:17.00   M  58                                      
+  130   452 Jessica Nelson           39:50.00   F  26                                      
+  131   485 Jamia Dove               39:50.00   F  24       MATERIALS TEAM                 

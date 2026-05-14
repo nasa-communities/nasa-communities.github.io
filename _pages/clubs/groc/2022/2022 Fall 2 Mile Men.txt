@@ -1,0 +1,84 @@
+                                                                      Page 1
+                         94th NASA Intracenter Run
+                        Goddard Space Flight Center
+                             October 5th,2022
+                               Male Results
+                    correction to tom.winkert@nasa.gov
+Place Num   Name                     Time    Guntime Age Code  Team                              
+===== ===== ======================== ======= ======= === ===== ============================== 
+    1   437 Ethan Burbridge            11:34   11:34  26       VERY EXCITING RACE/TRACK EXPER 
+    2   460 Maksym Petrenko            11:43   11:43  39       GODDARD TRACK CLUB             
+    3   171 Niko Fedkin                11:56   11:56  28                                      
+    4   498 Zachary Nasipak            12:13   12:13  29       GEODESIC DEVIANTS660           
+    5   475 David Hollibaugh Baker     12:32   12:32  36       PEDIBYTES                      
+    6    41 Bernard Kelly              12:45   12:45  49       GEODESIC DEVIANTS660           
+    7   487 Feng Li                    13:03   13:03  51                                      
+    8   493 Ryan Fitzgibbons           13:06   13:06  41                                      
+    9   312 Anthony Brazil             13:12   13:12  41                                      
+   10   316 Badri Shirgur              14:02   14:02  48                                      
+   11   465 Mark Bendall               14:14   14:14  36       PRITI'S PEEPS                  
+   12    86 David Edwards              14:19   14:19  32                                      
+   13   280 Tom Nolan                  14:23   14:23  70                                      
+   14   455 Rick Carter                14:25   14:25  51                                      
+   15   321 Robert Leamon              14:40   14:40  50                                      
+   16   453 Gilberto Vicente           14:49   14:49  60       CCRS                           
+   17   459 Chensheng Wu               15:14   15:14  33       KBR                            
+   18   306 Leibo Ding                 15:15   15:15  52                                      
+   19   128 Michael Sekerak            15:27   15:27  45                                      
+   20    50 John Baker                 15:30   15:30  53       GEODESIC DEVIANTS660           
+   21    47 Kirk Gordon                15:35   15:35  66                                      
+   22   441 Isak Wold                  16:05   16:05  44       GEODESIC DEVIANTS660           
+   23   483 Aveek Gangopadhyay         16:58   16:58  40       RED BEACON                     
+   24    70 Michael Boland             16:59   16:59  45                                      
+   25   206 Jinan Zeng                 17:06   17:06  58                                      
+   26   256 Douglas McGuffey           17:09   17:09  64                                      
+   27   435 Robert Spengler            17:45   17:45  40       GEODESIC DEVIANTS660           
+   28   440 Brian Repp                 17:58   17:58  57       KBR                            
+   29   381 Anh Van                    18:07   18:07  33                                      
+   30   418 Salman Sheikh              18:11   18:11  54       ISLAMIC STUDY GROUP OF GEWA    
+   31   463 Steven Queen               18:17   18:17  53                                      
+   32   471 Dagem Zebenay              18:29   18:29  12       SAIC/OMES-II                   
+   33   387 Darius Simms               18:30   18:30  40       SAIC/OMES-II                   
+   34   400 Andrew Inglis              18:36   18:36  38       DAY STARS                      
+   35   191 Michael Cabrera            18:39   18:39  40       SAIC/OMES-II                   
+   36   481 Ricardo Morales            18:50   18:50  22                                      
+   37    46 Glenn Tamkin               18:56   18:56  59                                      
+   38    97 Rodney Roberts             19:04   19:04  28       SAIC/OMES-II                   
+   39   397 Joshua Schlieder           19:11   19:11  39       DAY STARS                      
+   40   405 Matthew Balman             19:22   19:22  42       AI-SOLUTIONS                   
+   41   393 David Brunone              19:48   19:48  37       SAIC/OMES-II                   
+   42   323 Jonathan Boblitt           20:02   20:02  34                                      
+   43   320 Jonathan Kelly             20:13   20:13  54                                      
+   44   492 Nathan Smith               20:42   20:42  37       MATERIALS TEAM                 
+   45   442 M Scopes                   21:00   21:00  55       GEODESIC DEVIANTS660           
+   46   450 Kevin Heesh                21:46   21:46  35       LISA                           
+   47   430 John Ruth                  21:52   21:52  26                                      
+   48   145 Joseph Minty               21:52   21:52  31       SAIC/OMES-II                   
+   49   257 Tumkur Raghuram            22:25   22:25  58       SAIC/OMES-II                   
+   50   310 Ken Yargus                 22:50   22:50  61                                      
+   51   484 Mahendra Karki             23:33   23:33  71       GMAO INCREMENTALISTS           
+   52   457 Robert Fogle               23:39   23:39  62                                      
+   53   391 Tommy Suriel               24:08   24:08  31       SAIC/OMES-II                   
+   54   439 Ralph Smith                24:23   24:23  57                                      
+   55    38 Ralph Welsh Jr             25:05   25:05  83                                      
+   56   428 Justin Morris              26:18   26:18  28       SAIC/OMES-II                   
+   57   497 Darryl Waddy               26:31   26:31  36                                      
+   58   491 Scott Santoro              26:48   26:48  23       MATERIALS TEAM                 
+   59   458 David Williams             27:30   27:30  64       PEDIBYTES                      
+   60   421 Jay Friedlander            27:32   27:32  61       PEDIBYTES                      
+   61   386 John Hartnett              28:21   28:21  44       TEAM SITSS                     
+   62   388 Kevin Parker               30:57   30:57  64       SAIC/OMES-II                   
+   63   109 Thomas Buchanan            31:18   31:18  59       TEAM SITSS                     
+   64   444 Ed Bell                    32:08   32:08  63       PEDIBYTES                      
+   65   470 Jeremiah Zebenay           32:55   32:55   5       SAIC/OMES-II                   
+   66   468 Melak Zebenay              32:56   32:56  42       SAIC/OMES-II                   
+   67   474 Sterling Spangler          33:43   33:43  57       RUN SAMDA, RUN                 
+   68   415 Amidu Oloso                33:44   33:44  58       ISLAMIC STUDY GROUP OF GEWA    
+   69   424 Michael McClelllan         34:00   34:00  85       LANDSAT                        
+   70   314 Tim Wilcox                 34:01   34:01  55                                      
+   71   456 Ratan Debnath              34:47   34:47  46       MATERIALS TEAM                 
+   72   195 Tosh Keune                 36:16   36:16  63                                      
+   73   413 Vince Elliott              37:33   37:33  52       DAVINCI                        
+   74   462 Bruno Munoz                38:22   38:22  61       MATERIALS TEAM                 
+   75   423 Bill Green                 38:30   38:30  65       MATERIALS TEAM                 
+   76   499 Dave Littmann              39:17   39:17  58                                      
