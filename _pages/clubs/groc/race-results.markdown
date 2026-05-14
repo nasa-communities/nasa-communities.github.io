@@ -197,129 +197,146 @@ Please [contact GROC](https://nasa-communities.org/clubs/groc/#contact-us) for r
 
 ## 2000 Spring
 
+# 1999
+
 ## 1999 Fall
 
 ## 1999 Spring
+
+# 1998
 
 ## 1998 Fall
 
 ## 1998 Spring
 
+# 1997
+
 ## 1997 Fall
 
 ## 1997 Spring
+
+# 1996
 
 ## 1996 Fall
 
 ## 1996 Spring
 
+# 1995
+
 ## 1995 Fall
 
 ## 1995 Spring
+
+# 1994
 
 ## 1994 Fall
 
 ## 1994 Spring
 
+# 1993
+
 ## 1993 Fall
 
 ## 1993 Spring
+
+# 1992
 
 ## 1992 Fall
 
 ## 1992 Spring
 
+# 1991
+
 ## 1991 Fall
 
 ## 1991 Spring
+
+# 1990
 
 ## 1990 Fall
 
 ## 1990 Spring
 
+# 1989
+
 ## 1989 Fall
 
 ## 1989 Spring
+
+# 1988
 
 ## 1988 Fall
 
 ## 1988 Spring
 
+# 1987
+
 ## 1987 Fall
 
 ## 1987 Spring
+
+# 1986
 
 ## 1986 Fall
 
 ## 1986 Spring
 
+# 1985
+
 ## 1985 Fall
 
 ## 1985 Spring
+
+# 1984
 
 ## 1984 Fall
 
 ## 1984 Spring
 
+# 1983
+
 ## 1983 Fall
 
 ## 1983 Spring
+
+# 1982
 
 ## 1982 Fall
 
 ## 1982 Spring
 
+# 1981
+
 ## 1981 Fall
 
 ## 1981 Spring
+
+# 1980
 
 ## 1980 Fall
 
 ## 1980 Spring
 
+# 1979
+
 ## 1979 Fall
 
 ## 1979 Spring
+
+# 1978
 
 ## 1978 Fall
 
 ## 1978 Spring
 
+# 1977
+
 ## 1977 Fall
 
 ## 1977 Spring
 
+# 1976
+
 ## 1976 Fall
 
 ## 1976 Spring
-
-## 1975 Fall
-
-## 1975 Spring
-
-## 1974 Fall
-
-## 1974 Spring
-
-## 1973 Fall
-
-## 1973 Spring
-
-## 1972 Fall
-
-## 1972 Spring
-
-## 1971 Fall
-
-## 1971 Spring
-
-## 1970 Fall
-
-## 1970 Spring
-
-
-
-
-
-
-
