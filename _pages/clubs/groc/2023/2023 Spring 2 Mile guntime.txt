@@ -1,0 +1,338 @@
+                                                                      Page 1
+                         95th NASA Intracenter Run
+                        Goddard Space Flight Center
+                              April 19th,2023
+                               Male Results
+                    correction to tom.winkert@nasa.gov
+Place Num   Name                     Guntime  Sex Age Code  Team                              
+===== ===== ======================== ======== === === ===== ============================== 
+    1    38 Maksym Petrenko          11:38.60   M  40       NASA GODDARD TRACK AND FIELD   
+    2   197 Niko Fedkin              11:45.64   M  29       SAMDALICIOUS                   
+    3   139 Zachary Nasipak          12:08.81   M  29       GEODESIC DEVIANTS (CODE 660)   
+    4    73 Tyler Lulich             12:29.12   M  39       SAIC / OMES II                 
+    5    59 Bernard Kelly            12:38.75   M  50       GEODESIC DEVIANTS (CODE 660)   
+    6   288 Feng Li                  12:55.87   M  51                                      
+    7   251 Ryan Fitzgibbons         13:03.67   M  42                                      
+    8    61 Mircea Grecu             13:05.67   M  53       612ERS                         
+    9   117 Mitchell Hamann          13:15.50   M  27       GDC                            
+   10   125 Eric Lyness              13:31.64   M  57       DRAGONFLYERS                   
+   11    14 Peter Barfknecht         13:37.09   M  38       DRAGONFLYERS                   
+   12   111 Jeremy McFarlane         13:40.78   M  28       2REASONS                       
+   13   149 Matthew Francom          13:42.58   M  30       DRAGONFLYERS                   
+   14   104 Caitlin Kohli            13:48.56   F  33       DOWN TO EARTH (CODE 420 DIVISI 
+   15   249 Badri Shirgur            13:49.90   M  48                                      
+   16   294 Will Covington           13:53.08   M  20                                      
+   17    65 James Chervenak          13:54.56   M  53       THE SPUTTERERS                 
+   18    18 Rachel Borrelli          13:56.20   F  33       THE SPUTTERERS                 
+   19   114 Ben Busler               14:02.03   M  21                                      
+   20    32 Mark Bendall             14:02.59   M  37       PAAC                           
+   21   254 M Scopes                 14:05.53      55                                      
+   22   260 Victoria Poian           14:21.21   F  27       DRAGONFLYERS                   
+   23   205 Gilberto Vicente         14:24.34   M  61                                      
+   24   350 Jim Pontius              14:33.56   M  60       DOWN TO EARTH (CODE 420 DIVISI 
+   25   161 Matthew Seybold          14:46.17   M  49                                      
+   26   118 Rick Carter              14:54.58   M  52       DOWN TO EARTH (CODE 420 DIVISI 
+   27   130 Brandt Schwer            15:02.97   M  30       DRAGONFLYERS                   
+   28   351 Matthew Kowalewski       15:06.61   M  49       DRAGONFLYERS                   
+   29   261 John Ramsey              15:06.65   M  62                                      
+   30   129 Ryan Flora               15:13.20   M  22                                      
+   31   239 James Thompson           15:21.43   M  54                                      
+   32   377 Neil Zimmerman           15:25.87   M  40       EXOSPEC                        
+   33   379 Francis Cullen           15:30.58   M  28       NEWTON LLC                     
+   34   137 Evan Sheehan             15:55.95   M  32       DRAGONFLYERS                   
+   35   371 Yihua Zheng              16:05.05   F  51       SOLAR SOCIAL                   
+   36   278 Elvis Castillo           16:05.52   M  32                                      
+   37   174 Carlos Morell            16:05.84   M  24       DRAGONFLYERS                   
+   38   196 Lori Levine              16:06.72   F  48                                      
+   39   256 John Baker               16:08.06   M  54       GEODESIC DEVIANTS (CODE 660)   
+   40   347 Stefano Bertone          16:10.19   M  37       GEODESIC DEVIANTS (CODE 660)   
+   41   112 Sierra Budinoff          16:15.94   F  22                                      
+   42   362 Cassie Webster           16:17.72   F  35                                      
+   43    81 Michelle Lear-Combs      16:18.28   F  39       THE SAFETY FACTOR (& MA!) CODE 
+   44   115 David Giles              16:20.62   M  47                                      
+   45    75 Sarah Ringerud           16:25.36   F  48       612ERS                         
+   46    48 Nicholas Cannady         16:27.91   M  34       DAY STARS                      
+   47   375 Nate Welsh               16:29.11   M  27       NEWTON LLC                     
+   48   280 Scott Noble              16:34.29   M  47       GEODESIC DEVIANTS (CODE 660)   
+   49   119 Stephanie McLaughlin     16:36.57   F  61       PEDIBYTES (690.1)              
+   50   153 Miguel Hernandez         16:42.59   M  32       SMALL SATS                     
+   51    66 Sean Smith               16:44.35   M  41                                      
+   52    80 Christopher King         16:49.73   M  29       HAPPY FAR FEET                 
+   53   162 Aaron Curtis             16:50.24   M  42                                      
+   54   128 Colby Azersky            16:58.66   M  25       WALK ORDER AUTHORIZATION       
+   55   123 Rodney Roberts           17:01.52   M  29       SAIC / OMES II                 
+   56   383 Tyler Groff              17:03.19   M  38       EXOSPEC                        
+   57   160 Daniel Bae               17:04.36   M  30       DRAGONFLYERS                   
+   58   374 Shannon Wilks            17:05.51   F  29       NEWTON LLC                     
+   59   124 William Halaburda        17:12.14   M  26       DRAGONFLYERS                   
+   60   385 Francois Mernier         17:13.99   M  33                                      
+   61   192 Carlos Aguilar           17:17.69   M  33       GPM: GLOBAL PERSPIRATION MISSI 
+   62   194 Darius Simms             17:19.30   M  41       SAIC / OMES II                 
+   63    26 Jacob Reed               17:20.87   M  37       TELOPHASE                      
+   64    44 Jordan Eagle             17:24.40   F  29       DAY STARS                      
+   65   257 Myungje Choi             17:30.00   M  33                                      
+   66   187 Jordana Blenden          17:31.49   F  25       GPM: GLOBAL PERSPIRATION MISSI 
+   67    33 Mariah Pulver            17:32.28   F  30       PAAC                           
+   68   140 Katherine Gasaway        17:39.61   F  29                                      
+   69   136 Mark Buddoo              17:45.90   M  51                                      
+   70    19 Jennifer White           17:52.19   F  42       CARA                           
+   71   388 Charles Dickson          17:52.41   M  56                                      
+   72   364 Roser Juanola            17:57.28   F  38       EXOSPEC                        
+   73   133 Bryan James              17:59.49   M  35       DRAGONFLYERS                   
+   74   121 Jonathan Boblitt         18:01.56   M  35                                      
+   75    54 Robert Spengler          18:05.45   M  41                                      
+   76    45 Carolyn Kierans          18:05.94   F  35       DAY STARS                      
+   77    35 David Brunone            18:09.78   M  38       SAIC / OMES II                 
+   78   169 Geri Lyle                18:09.86   F  38       SAIC / OMES II                 
+   79    85 Kirk Gordon              18:10.46   M  67                                      
+   80   148 Daniel Han               18:13.04   M  34       HAPPY FAR FEET                 
+   81     5 Milena Bur               18:14.57   F   8                                      
+   82   134 Douglas McGuffey         18:16.12   M  64                                      
+   83   297 Robert Hancock           18:27.91   M  22       SAIC / OMES II                 
+   84   277 Diane Diamond            18:27.93   F  30       SAIC / OMES II                 
+   85   363 Joseph Watson            18:29.29   M  24                                      
+   86   186 Timothy Sarro            18:37.50   M  27       GPM: GLOBAL PERSPIRATION MISSI 
+   87    95 Niko Minasola            18:43.14   M  27       DRAGONFLYERS                   
+   88   281 Jillianne Shear          18:46.88   F  41       SAIC / OMES II                 
+   89   276 Chris Derr               18:51.52   M  46                                      
+   90   283 McAlister George         18:53.00      38                                      
+   91   120 Larysa Paliashchuk       18:57.40   F  32       PEDIBYTES (690.1)              
+   92   216 Katherine Preston        19:00.51   F  41                                      
+   93   284 Steven Hacker            19:02.32   M  25       DRAGONFLYERS                   
+   94   102 Melanie Frost            19:11.15   F  38       POOR RUNTIME COMPLEXITY        
+   95   132 Adrian Southard          19:12.57   M  45       DRAGONFLYERS                   
+   96   274 Lisa Wu                  19:14.97   F  28       GDC                            
+   97    98 Juan Gomez               19:16.60   M  41       2REASONS                       
+   98   300 Joanne Santiago          19:16.96   F  57                                      
+   99    16 Janine Dolinka           19:17.09   F  56                                      
+  100   208 Molly Jackson            19:20.04   F  41       GODDARD CHILD DEVELOPMENT CENT 
+  101    36 Michael Cabrera          19:21.52   M  39       SAIC / OMES II                 
+  102   113 Keven Nguyen             19:25.73   M  22       SAIC / OMES II                 
+  103   201 A Bart                   19:29.15   F  23                                      
+  104   108 Gion Lalican             19:31.74   M  40       GODDARD GOVETS                 
+  105    49 Regina Caputo            19:32.15   F  39       DAY STARS                      
+  106   106 Ricardo Sanchez          19:34.30   M  23       THE SPUTTERERS                 
+  107    13 Kenji Numata             19:42.03   M  47       LISA                           
+  108   182 Christopher Wheeler      19:54.00   M  54                                      
+  109   147 Hak Lee                  20:15.30   M  43       DRAGONFLYERS                   
+  110   170 Keith Chamberlin         20:17.07   M  57                                      
+  111    43 Rebecca Espina           20:25.88   F  49       WEST                           
+  112   367 Tupper Hyde              20:30.54   M  57       LISA                           
+  113   178 Hudson Delee             20:33.21   M  40       DRAGONFLYERS                   
+  114   144 Daniel Senai             20:36.09   M  40       DRAGONFLYERS                   
+  115   370 Scott Will               20:56.31   M  29       EXOSPEC                        
+  116   315 Edison Arcido            21:05.51   M   5       GODDARD CHILD DEVELOPMENT CENT 
+  117    84 George Rankin            21:06.87   M  46       THE SAFETY FACTOR (& MA!) CODE 
+  118   103 Daniel Berdugo           21:07.00   M  29                                      
+  119    69 Sambid Wasti             21:09.74   M  33       DAY STARS                      
+  120   313 Mavis Wilkicki-Shepherd  21:13.70   F   5       GODDARD CHILD DEVELOPMENT CENT 
+  121    90 Jericho Kerber           21:13.92   M   6       SOLEIL                         
+  122    41 Ian Carroll              21:14.89   M  42                                      
+  123   317 Quentin Katchinoff       21:15.97   M   5       GODDARD CHILD DEVELOPMENT CENT 
+  124   200 Amy McNally              21:16.22   F  41                                      
+  125    96 Julie Llano              21:18.50   F  24       DRAGONFLYERS                   
+  126    62 Mark Solomon             21:22.80   M  65       GMAO                           
+  127   105 John Hartnett            21:30.43   M  45       TEAM SEWP / SITSS              
+  128   101 Steven Magnusen          21:41.53   M  38       CARA                           
+  129   243 Michael Shoemaker        21:52.38   M  41       DAVINCI PROJECT                
+  130   259 Jennette Mateo           21:57.54   F  41       THE SPUTTERERS                 
+  131    11 Tumkur Raghuram          21:59.12   M  57                                      
+  132   217 Patty Hall               22:04.67   F  31       WEST                           
+  133    57 Nayeong Cho              22:05.69   F  37                                      
+  134   432 Alex Durkin              22:07.12   M  39                                      
+  135   244 Stephan Klene            22:09.68   M  62       HBG PACERS                     
+  136    97 Marvin Noreiga           22:11.85   M  45       DRAGONFLYERS                   
+  137     6 Matthias Bur             22:14.26   M   6                                      
+  138   354 Cory Dudley              22:17.47   F  30       DRAGONFLYERS                   
+  139     3 Michael Bur              22:21.18   M  58                                      
+  140   380 Lucia Tian               22:22.37   F  26       DAY STARS                      
+  141   477 Fabrizzio Coronado       22:23.14   M  24                                      
+  142   296 Kevin Heesh              22:23.65   M  35       LISA                           
+  143    60 Eleonora Castelli        22:27.90   F  30       GEODESIC DEVIANTS (CODE 660)   
+  144   222 Molly Baird              22:28.88   F  26                                      
+  145    28 Sandra MacLin            22:29.16   F  62       PAAC                           
+  146     8 Martha Wawro             22:29.89   F  43       TEAM KBR                       
+  147   490 Joe Warren               22:32.33   M  60       PAAC                           
+  148   307 Adrian Silva             22:37.36   M   5       GODDARD CHILD DEVELOPMENT CENT 
+  149   152 Inia Ramos               22:37.99   F  40                                      
+  150   176 Mark Moussa              22:43.21   M  26                                      
+  151   348 Yaping Zhou              22:45.73   F  56       613                            
+  152   271 Hassan Oudrari           22:57.84   M  57       HBG PACERS                     
+  153   198 Adam Sponsky             23:01.07   M  28       HAPPY FAR FEET                 
+  154   158 Nicole Schanche          23:10.52   F  34                                      
+  155   253 Samuel Kitchen-Mckinley  23:26.67   M  41       HBG PACERS                     
+  156   293 Timothy Wilcox           23:31.14   M  55       TEAM KBR                       
+  157   155 Patrick Haas             23:36.85   M  60                                      
+  158   372 Deborah Amato            23:36.90   F  50                                      
+  159   213 Vera Delfavero           23:38.99   F  27       GEODESIC DEVIANTS (CODE 660)   
+  160   252 Charles Martin           23:55.93   M  34                                      
+  161    74 Nancy Dixon              24:06.84   F  51       PAAC                           
+  162   127 Wally Rodriguez          24:25.58   F  33       GDC                            
+  163   272 Sylvain Ligonde          24:33.47   M  13                                      
+  164   282 Marco Castillo           24:43.61   M  33       DRAGONFLYERS                   
+  165   165 Gary Wilder              25:18.29   M  58                                      
+  166   268 Asha Rani                25:27.57   F  43       THE SPUTTERERS                 
+  167   290 Michael Fritsch          25:44.43   M  36                                      
+  168   292 Carlos Vazquez           25:45.33   M  46                                      
+  169    87 Justin Kerber            25:45.95   M  39       SOLEIL                         
+  170    12 Ralph Welsh              25:53.41   M  83                                      
+  171   285 John Sadleir             26:00.99   M  48                                      
+  172   328 Sadleir Redmund          26:01.04   M   4       GODDARD CHILD DEVELOPMENT CENT 
+  173   369 Anna Borovikov           26:03.60   F  51       GMAO                           
+  174   250 Byron Peters             26:09.18   M  71       HBG PACERS                     
+  175   359 Karen Hu                 26:15.00   F  56       PEDIBYTES (690.1)              
+  176   325 Damian Pescatore         26:22.85   M   4       GODDARD CHILD DEVELOPMENT CENT 
+  177   349 Robert Williamson        26:47.23   M  63       SAIC / OMES II                 
+  178   365 Breann Sitarski          26:47.87   F  35       EXOSPEC                        
+  179   308 Kuzey Aymergen           27:09.97   M   5       GODDARD CHILD DEVELOPMENT CENT 
+  180   267 Cagatay Aymergen         27:10.60   M  43       GODDARD CHILD DEVELOPMENT CENT 
+  181   312 Paula Guzman-Valle       27:14.62   F   4       GODDARD CHILD DEVELOPMENT CENT 
+  182   286 David Guzman-Garcia      27:15.06   M  44                                      
+  183   306 Janet Materese           27:20.31   F   4       GODDARD CHILD DEVELOPMENT CENT 
+  184   335 Kendra Bell              27:20.96   F  49       GODDARD CHILD DEVELOPMENT CENT 
+  185   336 Lakshini Wijeweera       27:22.20   F  60       GODDARD CHILD DEVELOPMENT CENT 
+  186   302 Bib302 Bib302            27:29.42   F   5       GODDARD CHILD DEVELOPMENT CENT 
+  187   311 Yasmeen Boukabara        27:29.63   F   4       GODDARD CHILD DEVELOPMENT CENT 
+  188   188 Niama Boukachaba         27:29.93   F  34       ME & MOMMY                     
+  189    89 Malaika Nji-Kerber       27:30.13   F  43       SOLEIL                         
+  190   159 Jay Friedlander          27:37.79   M  61       PEDIBYTES (690.1)              
+  191   314 Anne Cenko               27:46.34   F   5       GODDARD CHILD DEVELOPMENT CENT 
+  192   145 Stephen Cenko            27:46.56   M  43                                      
+  193   346 Alana Semple             27:55.26   F  30       HBG PACERS                     
+  194   482 Renee Reynolds           28:11.85   F  45                                      
+  195   181 Karen Smale              28:24.28   F  58                                      
+  196   360 Tosh Keune               28:34.91   M  64       SAIC / OMES II                 
+  197   206 Stephenie Arcido         28:39.23   F  41                                      
+  198   318 Idris Koca               28:39.45   M   5       GODDARD CHILD DEVELOPMENT CENT 
+  199   433 Louis Thomas             28:45.55   M  65                                      
+  200    10 Robin Ripley             29:12.00   F  42       DAVINCI PROJECT                
+  201   131 Sandra Irish             29:27.83   F  61       WEST                           
+  202   361 Kevin Parker             29:32.58   M  64       SAIC / OMES II                 
+  203   177 Candace Carlisle         29:54.74   F  61                                      
+  204   265 Emanuel Hernandez        30:09.73   M  38       GDC                            
+  205   154 Latoya Griffin           30:24.60   F  41       THE SAFETY FACTOR (& MA!) CODE 
+  206    31 Terri Lynne Hynson       31:03.26   F  58       PAAC                           
+  207   126 Alex Mikulich            31:10.09   M  24       DRAGONFLYERS                   
+  208   247 Beth Booker              31:38.31   F  55                                      
+  209   400 John Winkert             32:02.44   M  66                                      
+  210   270 Zev Bleich               32:03.23   M  11                                      
+  211    29 John Stupfel             32:03.81   M  34       PAAC                           
+  212   298 N Simpson                32:04.92   M  59                                      
+  213   305 Cooper Davis             32:05.26   M   5       GODDARD CHILD DEVELOPMENT CENT 
+  214    86 Laura Ottenstein         32:29.93   F  61                                      
+  215   356 Ed Bell                  32:32.10   M  64       PEDIBYTES (690.1)              
+  216   386 Juan Argueta             33:15.97   M  36                                      
+  217   320 Aria Whitmire            33:16.71   F   5       GODDARD CHILD DEVELOPMENT CENT 
+  218   304 Jesus Argueta-Ruispe     33:16.75   M   5       GODDARD CHILD DEVELOPMENT CENT 
+  219   289 Laura Pham               33:17.53      13                                      
+  220   199 Jessica Lamers           33:18.38   F  35                                      
+  221   387 Ted Ying                 33:20.46   M  58       SAIC / OMES II                 
+  222   266 Qianne Whitmire          33:21.20      32                                      
+  223    91 Lacey Young              33:27.34   F  27                                      
+  224    50 Catherine Gray           33:29.72   F  59       GODDARD GOVETS                 
+  225    51 Mary Geinzer             33:29.98   F  67       GODDARD GOVETS                 
+  226   366 Renita Shields           33:33.58   F  53                                      
+  227    22 Jordan Rice              33:44.33   F  27       PAAC                           
+  228   334 Kiara Clark              33:47.73      24       GODDARD CHILD DEVELOPMENT CENT 
+  229   368 Darlene Mayo-Seay        33:48.77   F  50                                      
+  230   156 Ravi Palaniandy          34:39.00   M  58                                      
+  231   142 Sharon Berg              34:45.00   F  59       TEAM SEWP / SITSS              
+  232   195 Shana Faris              34:51.68   F  37       HAPPY FAR FEET                 
+  233    67 Kelly Torres             34:51.93   F  35       HAPPY FAR FEET                 
+  234   138 Gina Visnansky           34:54.35   F  44       TEAM SEWP / SITSS              
+  235    93 Barbara Bromley          34:59.01   F  53       PAAC                           
+  236    92 Diane Trakas             34:59.44   F  53       PAAC                           
+  237   209 Rachel Oster             35:01.88   F  43                                      
+  238    27 Chris MacLin             35:04.28   M  62       PAAC                           
+  239   269 Amy Bleich               35:10.19   F  58                                      
+  240   319 Enrico Sabatino          35:20.48   M   5       GODDARD CHILD DEVELOPMENT CENT 
+  241   214 Chris Sabatino           35:21.04   M  35       GODDARD CHILD DEVELOPMENT CENT 
+  242   183 Samantha Weltz           35:25.19   F  37       GODDARD CHILD DEVELOPMENT CENT 
+  243   184 Amir Ibrahim             35:25.40   M  37       GODDARD CHILD DEVELOPMENT CENT 
+  244   329 Noah Ibrahim             35:25.45   M   4       GODDARD CHILD DEVELOPMENT CENT 
+  245   420 Christine Bloecker       35:33.04   F  30                                      
+  246   333 Keisha Dyke              35:41.36   F  46       GODDARD CHILD DEVELOPMENT CENT 
+  247    58 Donna Warthen            35:42.21   F  62       PAAC                           
+  248    72 Melissa Trainer          35:42.23   F  44       DAVINCI PROJECT                
+  249    79 Erika Kohler             35:43.00   F  33       DAVINCI PROJECT                
+  250   150 Terita Wilson            35:43.10   F  50                                      
+  251   373 Paula Pruessner          35:43.22   F  44       LISA                           
+  252   116 Michael Boland           35:43.78   M  46       TEAM SEWP / SITSS              
+  253    30 Davena Moore             35:44.35   F  28       PAAC                           
+  254   135 Robert Boyle             35:45.96   M  61       DRAGONFLYERS                   
+  255   425 Gil Glass                35:49.38   M  58                                      
+  256   263 Michelle Hutchison       35:50.22   F  31                                      
+  257    21 Madison Elliott          35:50.40   F  23                                      
+  258    99 Vince Elliott            35:50.91   M  52       DAVINCI PROJECT                
+  259   343 Bib343 Bib343            36:07.11   M  13       GODDARD CHILD DEVELOPMENT CENT 
+  260   338 Elycia Chew              36:07.45   F  47       GODDARD CHILD DEVELOPMENT CENT 
+  261    68 Nita Pszcolka            36:33.60   F  57       DAVINCI PROJECT                
+  262   100 Dee Bradel               36:33.97   F  58       DAVINCI PROJECT                
+  263   327 Katherine Shih           36:36.08   F   4       GODDARD CHILD DEVELOPMENT CENT 
+  264   180 Albert Shih              36:36.49   M  42                                      
+  265    24 Kelly Blackwood          36:51.77   F  35       PAAC                           
+  266   238 Ellee Acevedo            36:52.12   F  27       PAAC                           
+  267    82 Eliana Schruefer         36:52.26   F  32                                      
+  268   146 Bill Robinson            36:58.51   M  47       TEAM SEWP / SITSS              
+  269   173 Dionisio Tato            36:59.08   M  60                                      
+  270    55 Nelson Morales           37:31.20   M  69       GODDARD GOVETS                 
+  271    56 Ginger Morales           37:31.52   F  65       GODDARD GOVETS                 
+  272   166 Monica Shepherd          37:33.17   F  48       TEAM SEWP / SITSS              
+  273   295 Tom Hughes               37:33.63   M  59       PEDIBYTES (690.1)              
+  274   240 Kendall Murphy           37:37.01   F  34                                      
+  275   204 Katherine Schauer        37:37.36   F  27                                      
+  276   309 Julia Bock               37:37.74   F   4       GODDARD CHILD DEVELOPMENT CENT 
+  277   190 Kevin Bock               37:39.92   M  39                                      
+  278   275 Guoqing Wang             37:44.31   F  36       GODDARD CHILD DEVELOPMENT CENT 
+  279   342 Jeannie Li               37:44.89       4       GODDARD CHILD DEVELOPMENT CENT 
+  280   316 Elena Schwer             37:46.56   F   5       GODDARD CHILD DEVELOPMENT CENT 
+  281   171 Doug Schwer              37:46.97   M  53                                      
+  282    77 Sharon Zehner            37:56.14   F  61                                      
+  283   345 Ethan Carton             37:56.35   M  33       GODDARD CHILD DEVELOPMENT CENT 
+  284   167 Andrea McClendon         37:59.01   F  67       TEAM SEWP / SITSS              
+  285   384 Chaka Street             38:05.24   F  44                                      
+  286   242 Lynn Baker               38:09.27   F  52                                      
+  287   219 Bonnie Seaton            38:10.25   F  66                                      
+  288   218 Jonnelle Goff            38:18.88   F  42                                      
+  289   211 Janicea McCree           38:19.42   F  43                                      
+  290   215 Cassandra Moore          38:19.98   F  49                                      
+  291   210 Russellyn Hart           38:21.00   F  47                                      
+  292   352 Henry Mulkey             38:41.33   M  43       GODDARD CHILD DEVELOPMENT CENT 
+  293   332 Asa Mulkey               38:41.49   M   4       GODDARD CHILD DEVELOPMENT CENT 
+  294   326 Oliver Roberts           38:46.91   M   4       GODDARD CHILD DEVELOPMENT CENT 
+  295   122 Erin Roberts             38:47.12   F  33       GODDARD CHILD DEVELOPMENT CENT 
+  296   355 Talon Bevan              39:49.73   F  26       STRUTS OF STEEL                
+  297   357 Bill Green               39:50.73   M  65       STRUTS OF STEEL                
+  298   221 Tia McCoy                41:03.79   F  25                                      
+  299   220 Roberta Abernathy        41:04.23   F  52                                      
+  300   279 Linda Dyson              41:09.71   F  53                                      
+  301   479 Jill Sharp               41:10.09   F  50                                      
+  302   172 Sherelle Pettus          41:13.36   F  59                                      
+  303   381 Emily Mink               41:38.19   M  27       NEWTON LLC                     
+  304   382 Nathan Scott             41:38.54   M  13       NEWTON LLC                     
+  305   212 Maria Foster             41:40.87   F  52       SAIC / OMES II                 
+  306   191 Cecile Yarbrough         41:41.65   F  44                                      
+  307   193 Candace McCrae           41:41.81   F  41       TEAM SEWP / SITSS              
+  308   151 Loress Brown             41:44.81   F  53                                      
+  309   230 Patty Manalansan         41:50.78   F  56       PAAC                           
+  310   229 Candace Dillon           41:50.86   F  30       PAAC                           
+  311   110 Emily Lies               42:06.62   F  32       TEAM SEWP / SITSS              
+  312   233 Zakia Lieske             42:06.65   F  44       TEAM SEWP / SITSS              
+  313   141 Shama Nathan             42:07.18   F  25       TEAM SEWP / SITSS              
+  314   227 Valen Johnson            42:43.36   F  25       PAAC                           
+  315   175 Joy Lampkin              42:46.31   F  34                                      
+  316   245 Theresa Coulson          44:02.27   F  53                                      
+  317   248 Robert Amos              44:02.68   M  64                                      
+  318   235 Ann Melton               44:08.50   F  66                                      
+  319   331 Alivia Reid              44:23.80   F   4       GODDARD CHILD DEVELOPMENT CENT 
+  320   322 Zachary Plachta          44:27.70   M   4       GODDARD CHILD DEVELOPMENT CENT 
+  321   337 Schanita Mitchell        44:29.80   F  42       GODDARD CHILD DEVELOPMENT CENT 
+  322   237 Amber Tollefson          44:37.36   F  38                                      
+  323   324 Mabel Walker             44:37.37   F   3       GODDARD CHILD DEVELOPMENT CENT 
+  324   207 Joseph Eggen             44:54.79   M  38                                      
+  325   323 Audrey Eggen             44:54.84   F   4       GODDARD CHILD DEVELOPMENT CENT 
+  326   189 Megan Bock               46:31.45   F  38                                      
+  327   168 Maggie Masetti           46:32.35   F  48                                      
+  328   321 Isaac Stern              47:12.10   M   3       GODDARD CHILD DEVELOPMENT CENT 
+  329   341 Bib341 Bib341            47:13.36       5       GODDARD CHILD DEVELOPMENT CENT 
+  330   339 Leona Adams              47:14.67   F  45       GODDARD CHILD DEVELOPMENT CENT 

@@ -1,0 +1,362 @@
+                         95th NASA Intracenter Run
+                        Goddard Space Flight Center
+                              April 19th,2023
+
+
+                         MALE AGE GROUP:  20 - 29
+Place O'All Name                     Code  Time       
+===== ===== ======================== ===== ======= 
+    1     2 Niko Fedkin                      11:45 
+    2     3 Zachary Nasipak                  12:06 
+    3     6 Will Covington                   12:44 
+    4    10 Mitchell Hamann                  13:13 
+    5    13 Jeremy McFarlane                 13:38 
+    6    20 Ben Busler                       14:01 
+    7    30 Ryan Flora                       15:11 
+    8    32 Francis Cullen                   15:12 
+    9    38 Carlos Morell                    16:01 
+   10    42 Nate Welsh                       16:11 
+   11    50 Christopher King                 16:35 
+   12    56 Colby Azersky                    16:52 
+   13    57 Rodney Roberts                   16:53 
+   14    63 William Halaburda                17:10 
+   15    80 Joseph Watson                    18:01 
+   16    86 Robert Hancock                   18:16 
+   17    87 Timothy Sarro                    18:29 
+   18    88 Niko Minasola                    18:31 
+   19    91 Steven Hacker                    18:48 
+   20    95 Keven Nguyen                     18:53 
+   21   107 Ricardo Sanchez                  19:29 
+   22   119 Scott Will                       20:50 
+   23   124 Daniel Berdugo                   20:56 
+   24   132 Fabrizzio Coronado               21:51 
+   25   152 Adam Sponsky                     22:43 
+   26   153 Mark Moussa                      22:44 
+   27   156 Alex Mikulich                    23:17 
+   28   311 Emily Mink                       41:12 
+
+
+                        FEMALE AGE GROUP:  20 - 29
+Place O'All Name                     Code  Time       
+===== ===== ======================== ===== ======= 
+    1    22 Victoria Poian                   14:18 
+    2    41 Sierra Budinoff                  16:10 
+    3    55 Shannon Wilks                    16:47 
+    4    64 Jordan Eagle                     17:14 
+    5    66 Jordana Blenden                  17:23 
+    6    68 Katherine Gasaway                17:32 
+    7   101 Lisa Wu                          19:10 
+    8   105 A Bart                           19:25 
+    9   126 Julie Llano                      21:05 
+   10   145 Lucia Tian                       22:12 
+   11   149 Molly Baird                      22:22 
+   12   160 Vera Delfavero                   23:26 
+   13   229 Lacey Young                      33:17 
+   14   231 Jordan Rice                      33:34 
+   15   234 Davena Moore                     34:20 
+   16   261 Madison Elliott                  35:28 
+   17   273 Ellee Acevedo                    36:53 
+   18   277 Katherine Schauer                36:58 
+   19   301 Talon Bevan                      39:18 
+   20   303 Valen Johnson                    39:59 
+   21   305 Tia McCoy                        40:40 
+   22   315 Shama Nathan                     41:23 
+
+
+                         MALE AGE GROUP:  30 - 39
+Place O'All Name                     Code  Time       
+===== ===== ======================== ===== ======= 
+    1     4 Tyler Lulich                     12:28 
+    2    12 Peter Barfknecht                 13:35 
+    3    14 Matthew Francom                  13:41 
+    4    19 Mark Bendall                     13:57 
+    5    27 Brandt Schwer                    15:01 
+    6    34 Evan Sheehan                     15:52 
+    7    36 Stefano Bertone                  15:57 
+    8    37 Elvis Castillo                   16:01 
+    9    44 Nicholas Cannady                 16:16 
+   10    51 Miguel Hernandez                 16:35 
+   11    54 Jacob Reed                       16:45 
+   12    58 Tyler Groff                      16:58 
+   13    60 Daniel Bae                       17:00 
+   14    61 Francois Mernier                 17:02 
+   15    62 Carlos Aguilar                   17:09 
+   16    65 Myungje Choi                     17:15 
+   17    70 David Brunone                    17:45 
+   18    74 Jonathan Boblitt                 17:55 
+   19    75 Daniel Han                       17:56 
+   20    77 Bryan James                      17:58 
+   21    92 Michael Cabrera                  18:49 
+   22   125 Sambid Wasti                     20:59 
+   23   128 Steven Magnusen                  21:30 
+   24   139 Kevin Heesh                      22:07 
+   25   141 Alex Durkin                      22:08 
+   26   161 Charles Martin                   23:37 
+   27   165 Marco Castillo                   24:39 
+   28   167 Justin Kerber                    25:16 
+   29   171 Ethan Carton                     25:25 
+   30   172 Michael Fritsch                  25:32 
+   31   207 Emanuel Hernandez                30:10 
+   32   212 John Stupfel                     31:34 
+   33   220 Juan Argueta                     32:29 
+   34   247 Amir Ibrahim                     34:49 
+   35   249 Chris Sabatino                   34:53 
+   36   276 Kevin Bock                       36:58 
+   37   325 Joseph Eggen                     44:14 
+
+
+                        FEMALE AGE GROUP:  30 - 39
+Place O'All Name                     Code  Time       
+===== ===== ======================== ===== ======= 
+    1    15 Caitlin Kohli                    13:48 
+    2    18 Rachel Borrelli                  13:53 
+    3    43 Cassie Webster                   16:14 
+    4    45 Michelle Lear-Combs              16:17 
+    5    67 Mariah Pulver                    17:24 
+    6    72 Roser Juanola                    17:52 
+    7    76 Carolyn Kierans                  17:57 
+    8    83 Geri Lyle                        18:05 
+    9    85 Diane Diamond                    18:16 
+   10    93 Larysa Paliashchuk               18:50 
+   11    97 Melanie Frost                    19:02 
+   12   103 Regina Caputo                    19:21 
+   13   133 Nayeong Cho                      21:51 
+   14   134 Patty Hall                       21:52 
+   15   144 Cory Dudley                      22:11 
+   16   146 Eleonora Castelli                22:15 
+   17   154 Nicole Schanche                  22:59 
+   18   163 Wally Rodriguez                  24:22 
+   19   180 Breann Sitarski                  26:41 
+   20   194 Alana Semple                     27:30 
+   21   195 Niama Boukachaba                 27:30 
+   22   218 Christine Bloecker               32:13 
+   23   222 Jessica Lamers                   32:42 
+   24   235 Shana Faris                      34:27 
+   25   236 Kelly Torres                     34:28 
+   26   245 Samantha Weltz                   34:48 
+   27   253 Erika Kohler                     35:06 
+   28   260 Michelle Hutchison               35:27 
+   29   264 Joy Lampkin                      35:50 
+   30   272 Kelly Blackwood                  36:52 
+   31   274 Eliana Schruefer                 36:53 
+   32   275 Kendall Murphy                   36:57 
+   33   278 Guoqing Wang                     37:05 
+   34   296 Erin Roberts                     38:13 
+   35   299 Candace Dillon                   39:06 
+   36   314 Emily Lies                       41:22 
+   37   321 Amber Tollefson                  44:01 
+   38   326 Megan Bock                       45:49 
+
+
+                         MALE AGE GROUP:  40 - 49
+Place O'All Name                     Code  Time       
+===== ===== ======================== ===== ======= 
+    1     1 Maksym Petrenko                  11:38 
+    2     8 Ryan Fitzgibbons                 13:00 
+    3    16 Badri Shirgur                    13:49 
+    4    25 Matthew Seybold                  14:45 
+    5    29 Matthew Kowalewski               15:04 
+    6    33 Neil Zimmerman                   15:20 
+    7    46 David Giles                      16:18 
+    8    48 Scott Noble                      16:21 
+    9    52 Sean Smith                       16:38 
+   10    53 Aaron Curtis                     16:43 
+   11    59 Darius Simms                     17:00 
+   12    78 Robert Spengler                  18:00 
+   13    89 Chris Derr                       18:38 
+   14    98 Adrian Southard                  19:06 
+   15   102 Juan Gomez                       19:13 
+   16   104 Gion Lalican                     19:24 
+   17   106 Kenji Numata                     19:26 
+   18   110 Hak Lee                          20:03 
+   19   112 Hudson Delee                     20:18 
+   20   113 Daniel Senai                     20:23 
+   21   117 Ian Carroll                      20:49 
+   22   122 John Hartnett                    20:54 
+   23   123 George Rankin                    20:54 
+   24   129 Michael Shoemaker                21:33 
+   25   136 Marvin Noreiga                   21:57 
+   26   155 Samuel Kitchen-Mckinley          23:03 
+   27   170 John Sadleir                     25:18 
+   28   173 Carlos Vazquez                   25:34 
+   29   183 Cagatay Aymergen                 26:44 
+   30   184 David Guzman-Garcia              26:45 
+   31   191 Stephen Cenko                    27:18 
+   32   250 Michael Boland                   35:03 
+   33   265 Albert Shih                      35:55 
+   34   270 Bill Robinson                    36:20 
+   35   295 Henry Mulkey                     38:03 
+
+
+                        FEMALE AGE GROUP:  40 - 49
+Place O'All Name                     Code  Time       
+===== ===== ======================== ===== ======= 
+    1    40 Lori Levine                      16:04 
+    2    47 Sarah Ringerud                   16:18 
+    3    71 Jennifer White                   17:49 
+    4    84 Jillianne Shear                  18:10 
+    5    94 Katherine Preston                18:51 
+    6    96 Molly Jackson                    18:53 
+    7   111 Rebecca Espina                   20:11 
+    8   120 Amy McNally                      20:51 
+    9   130 Jennette Mateo                   21:47 
+   10   138 Martha Wawro                     22:03 
+   11   143 Inia Ramos                       22:10 
+   12   168 Asha Rani                        25:16 
+   13   186 Kendra Bell                      26:54 
+   14   188 Malaika Nji-Kerber               26:59 
+   15   196 Renee Reynolds                   27:51 
+   16   198 Stephenie Arcido                 28:07 
+   17   202 Robin Ripley                     28:51 
+   18   206 Latoya Griffin                   30:08 
+   19   233 Gina Visnansky                   34:10 
+   20   239 Rachel Oster                     34:32 
+   21   252 Melissa Trainer                  35:05 
+   22   254 Paula Pruessner                  35:06 
+   23   255 Keisha Dyke                      35:08 
+   24   256 Chaka Street                     35:10 
+   25   259 Elycia Chew                      35:25 
+   26   280 Monica Shepherd                  37:10 
+   27   286 Jonnelle Goff                    37:28 
+   28   288 Janicea McCree                   37:30 
+   29   290 Russellyn Hart                   37:32 
+   30   298 Cassandra Moore                  38:20 
+   31   309 Cecile Yarbrough                 40:58 
+   32   310 Candace McCrae                   41:00 
+   33   313 Zakia Lieske                     41:22 
+   34   318 Schanita Mitchell                43:45 
+   35   327 Maggie Masetti                   45:51 
+   36   328 Leona Adams                      46:21 
+
+
+                         MALE AGE GROUP:  50 - 59
+Place O'All Name                     Code  Time       
+===== ===== ======================== ===== ======= 
+    1     5 Bernard Kelly                    12:37 
+    2     7 Feng Li                          12:55 
+    3     9 Mircea Grecu                     13:05 
+    4    11 Eric Lyness                      13:29 
+    5    17 James Chervenak                  13:51 
+    6    26 Rick Carter                      14:53 
+    7    31 James Thompson                   15:12 
+    8    35 John Baker                       15:56 
+    9    69 Mark Buddoo                      17:43 
+   10    73 Charles Dickson                  17:53 
+   11   108 Christopher Wheeler              19:54 
+   12   109 Keith Chamberlin                 20:00 
+   13   114 Tupper Hyde                      20:25 
+   14   135 Tumkur Raghuram                  21:52 
+   15   140 Michael Bur                      22:07 
+   16   151 Hassan Oudrari                   22:36 
+   17   159 Timothy Wilcox                   23:24 
+   18   166 Gary Wilder                      24:57 
+   19   214 N Simpson                        31:38 
+   20   224 Ted Ying                         32:45 
+   21   241 Ravi Palaniandy                  34:39 
+   22   262 Vince Elliott                    35:29 
+   23   263 Gil Glass                        35:50 
+   24   282 Doug Schwer                      37:13 
+   25   285 Tom Hughes                       37:17 
+
+
+                        FEMALE AGE GROUP:  50 - 59
+Place O'All Name                     Code  Time       
+===== ===== ======================== ===== ======= 
+    1    39 Yihua Zheng                      16:04 
+    2    99 Janine Dolinka                   19:08 
+    3   100 Joanne Santiago                  19:09 
+    4   150 Yaping Zhou                      22:31 
+    5   158 Deborah Amato                    23:20 
+    6   162 Nancy Dixon                      24:02 
+    7   175 Anna Borovikov                   25:47 
+    8   178 Karen Hu                         26:03 
+    9   197 Karen Smale                      28:01 
+   10   208 Renita Shields                   30:51 
+   11   209 Terri Lynne Hynson               30:56 
+   12   210 Darlene Mayo-Seay                31:02 
+   13   211 Beth Booker                      31:12 
+   14   226 Catherine Gray                   33:12 
+   15   232 Sharon Berg                      34:07 
+   16   237 Barbara Bromley                  34:28 
+   17   238 Diane Trakas                     34:32 
+   18   242 Amy Bleich                       34:45 
+   19   243 Maria Foster                     34:47 
+   20   246 Loress Brown                     34:48 
+   21   251 Terita Wilson                    35:04 
+   22   268 Nita Pszcolka                    36:12 
+   23   269 Dee Bradel                       36:13 
+   24   292 Lynn Baker                       37:50 
+   25   300 Patty Manalansan                 39:06 
+   26   304 Roberta Abernathy                40:40 
+   27   306 Sherelle Pettus                  40:50 
+   28   307 Jill Sharp                       40:53 
+   29   308 Linda Dyson                      40:54 
+   30   317 Theresa Coulson                  43:32 
+
+
+                         MALE AGE GROUP:  60 - 69
+Place O'All Name                     Code  Time       
+===== ===== ======================== ===== ======= 
+    1    23 Gilberto Vicente                 14:24 
+    2    24 Jim Pontius                      14:31 
+    3    28 John Ramsey                      15:01 
+    4    81 Douglas McGuffey                 18:03 
+    5    82 Kirk Gordon                      18:04 
+    6   127 Mark Solomon                     21:21 
+    7   131 Stephan Klene                    21:47 
+    8   147 Joe Warren                       22:16 
+    9   157 Patrick Haas                     23:20 
+   10   179 Robert Williamson                26:21 
+   11   193 Jay Friedlander                  27:26 
+   12   200 Tosh Keune                       28:24 
+   13   201 Louis Thomas                     28:46 
+   14   204 Kevin Parker                     29:33 
+   15   215 John Winkert                     31:41 
+   16   219 Ed Bell                          32:18 
+   17   240 Chris MacLin                     34:35 
+   18   257 Robert Boyle                     35:12 
+   19   271 Dionisio Tato                    36:21 
+   20   289 Nelson Morales                   37:32 
+   21   302 Bill Green                       39:20 
+   22   316 Robert Amos                      43:31 
+
+
+                        FEMALE AGE GROUP:  60 - 69
+Place O'All Name                     Code  Time       
+===== ===== ======================== ===== ======= 
+    1    49 Stephanie McLaughlin             16:34 
+    2   148 Sandra MacLin                    22:20 
+    3   189 Lakshini Wijeweera               27:03 
+    4   203 Sandra Irish                     29:04 
+    5   205 Candace Carlisle                 29:38 
+    6   217 Laura Ottenstein                 32:11 
+    7   227 Mary Geinzer                     33:13 
+    8   258 Donna Warthen                    35:17 
+    9   283 Ginger Morales                   37:15 
+   10   287 Sharon Zehner                    37:29 
+   11   291 Andrea McClendon                 37:36 
+   12   293 Bonnie Seaton                    37:51 
+   13   323 Ann Melton                       44:09 
+
+
+                         MALE AGE GROUP:  70 - 79
+Place O'All Name                     Code  Time       
+===== ===== ======================== ===== ======= 
+    1   174 Byron Peters                     25:45 
+
+
+                        FEMALE AGE GROUP:  70 - 79
+Place O'All Name                     Code  Time       
+===== ===== ======================== ===== ======= 
+
+
+                         MALE AGE GROUP:  80 - 99
+Place O'All Name                     Code  Time       
+===== ===== ======================== ===== ======= 
+    1   176 Ralph Welsh                      25:51 
+
+
+                        FEMALE AGE GROUP:  80 - 99
+Place O'All Name                     Code  Time       
+===== ===== ======================== ===== ======= 
+

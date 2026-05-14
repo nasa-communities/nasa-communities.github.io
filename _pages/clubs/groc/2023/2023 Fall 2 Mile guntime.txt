@@ -1,0 +1,233 @@
+                                                                      Page 1
+                         96th NASA Intracenter Run
+                        Goddard Space Flight Center
+                             October 4th,2023
+                          Gun Time Results (all)
+                    correction to tom.winkert@nasa.gov
+Place Num   Name                     Guntime  Sex Age Code  Team                              
+===== ===== ======================== ======== === === ===== ============================== 
+    1   228 Ethan Burbridge          11:17.53   M  27                                      
+    2   500 Jacob Isaacson           11:29.94   M  23       GENESIS ENGINEERING SOLUTIONS  
+    3   523 Maksym Petrenko          11:38.91   M  40       NASA GODDARD RUN CLUB          
+    4   396 Michael Maniscalco       11:49.45   M  34       KEEPIN' PACE                   
+    5   451 Eliot Toumey             12:05.00   M  27       EOS FLIGHT DYNAMICS            
+    6   568 Nicholas Zaremba         12:17.34   M  36                                      
+    7   179 Mitchell Hamann          12:39.44   M  27       GDC                            
+    8   448 Eric Lyness              12:43.43   M  57       DRAGONFLYERS                   
+    9   495 Katie Levine             12:56.00   F  29       GENESIS ENGINEERING SOLUTIONS  
+   10   561 David Hollibaugh Baker   13:06.13   M  37       PEDIBYTES (690.1)              
+   11   555 Petar Grigorov           13:07.50   M  27                                      
+   12   507 Ryan Fitzgibbons         13:16.42   M  42                                      
+   13    32 Mark Bendall             13:16.44   M  37       PAAC                           
+   14   572 Theresa Bender           13:23.37   F  26                                      
+   15    61 Mircea Grecu             13:32.13   M  54       612ERS                         
+   16   163 Matthew Francom          13:41.58   M  30       DRAGONFLYERS                   
+   17   421 Keshav Swaminathan       13:41.76   M  32       NOODLE BOWL                    
+   18    94 Badri Shirgur            13:42.08   M  49       NASA GODDARD RUN CLUB          
+   19   397 Caitlin Kohli            13:42.30   F  34       DOWN TO EARTH (CODE 420 DIVISI 
+   20    41 Ian Carroll              13:52.73   M  43       KEEPIN' PACE                   
+   21   547 James Chervenak          14:03.47   M  53                                      
+   22   521 Tom Nolan                14:04.54   M  71       DRAGONFLYERS                   
+   23   548 Rachel Borrelli          14:05.78   F  33                                      
+   24   549 Casey McGrath            14:20.39   M  31       GEODESIC DEVIANTS (CODE 660)   
+   25   569 Joseph Finlon            14:34.02   M  33       612ERS                         
+   26    63 John Ramsey              14:35.20   M  62                                      
+   27   530 Thibault Lechien         14:38.09   M  23       POSTBAC PACERS                 
+   28   453 Travis Tucker            14:38.13   M  27                                      
+   29   118 Rick Carter              14:44.90   M  52       DOWN TO EARTH (CODE 420 DIVISI 
+   30   422 Ryan Carney              14:46.23   M  35       PAAC                           
+   31   391 Neil Zimmerman           14:47.24   M  41       EXOSPEC                        
+   32    14 Peter Barfknecht         14:47.72   M  38       DRAGONFLYERS                   
+   33   514 Matthew Kowalewski       14:47.90   M  49       DRAGONFLYERS                   
+   34   506 Joe Somerville           14:48.22   M  23       GENESIS ENGINEERING SOLUTIONS  
+   35   539 Joey Pasterski           14:51.82   M  39       DRAGONFLYERS                   
+   36   350 Jim Pontius              14:58.39   M  61       DOWN TO EARTH (CODE 420 DIVISI 
+   37   527 Phillip Denton           15:07.65   M  34                                      
+   38    83 Garrett Layne            15:09.63   M  30                                      
+   39   466 James Basl               15:18.83   M  44       TEAM KBR                       
+   40    15 Jonathan Dornblaser      15:19.72   M  43       PAAC                           
+   41   403 Michael Sekerak          15:22.51   M  46       DAVINCI PROJECT                
+   42   537 Jeremy Perkins           15:33.82   M  44       DAY STARS                      
+   43   505 Vincent Kofman           15:53.63   M  34       EXOSPEC                        
+   44   571 Nico Lagendyk            15:55.83   M  23       GENESIS ENGINEERING SOLUTIONS  
+   45    20 Cassie Webster           15:56.25   F  36       OFF THE MESA                   
+   46   504 Roser Juanola            16:07.11   F  38       EXOSPEC                        
+   47    66 Sean Smith               16:14.76   M  42                                      
+   48   562 Ariadna Farres Basiana   16:20.11   F  42                                      
+   49   424 Ian Adams                16:21.93   M  45       612ERS                         
+   50   434 John Ruth                16:24.30   M  27       ACCOKEEKERS                    
+   51   512 Michael McElwain         16:27.22   M  44       EXOSPEC                        
+   52   496 Zachary Sachs            16:27.45   M  30       GENESIS ENGINEERING SOLUTIONS  
+   53   358 Kent McCullough          16:35.38   M  66                                      
+   54   472 David Steinfeld          16:44.59   M  60       DRAGONFLYERS                   
+   55   501 Michael Bosilovich       16:46.30   M  55       GMAO                           
+   56   510 Sarah Dangelo            16:52.33   F  25                                      
+   57   443 Stephanie McLaughlin     16:54.30   F  61       PEDIBYTES (690.1)              
+   58   194 Darius Simms             16:56.30   M  41       SAIC / OMES II                 
+   59    75 Sarah Ringerud           16:56.69   F  48       612ERS                         
+   60   439 Lori Levine              16:57.85   F  48       MEMD                           
+   61   452 Brian Woodson Jr         16:58.65   M  26       EOS FLIGHT DYNAMICS            
+   62   489 Nicholas Cannady         17:02.78   M  35       DAY STARS                      
+   63   491 Jahlil Best              17:06.90   M  35                                      
+   64   480 Jennifer White           17:09.07   F  42       AOS PROJECT                    
+   65   545 Robert Levy              17:14.11   M  50                                      
+   66   431 Francois Mernier         17:15.50   M  34                                      
+   67   515 Bryan James              17:16.00   M  35       DRAGONFLYERS                   
+   68   467 David Griffiths          17:18.42   M  61       TEAM KBR                       
+   69   241 Jack Topper              17:20.40   M  22                                      
+   70   494 Charles Dickson          17:29.69   M  56       TEAM564                        
+   71   444 Brian Repp               17:30.95   M  58       TEAM KBR                       
+   72   112 Sierra Budinoff          17:31.16   F  23                                      
+   73    34 Laura Ribeiro            17:32.15   F  27       GENESIS ENGINEERING SOLUTIONS  
+   74    17 Kimberly Drummond        17:32.66   F  35       PAAC                           
+   75   541 Lauren Arkell            17:32.82   F  24       GENESIS ENGINEERING SOLUTIONS  
+   76   392 David Giles              17:33.88   M  48                                      
+   77   543 Lindsay Haseltine        17:34.34   F  23       GENESIS ENGINEERING SOLUTIONS  
+   78   483 Andrew Sayer             17:43.19   M  40       KEEPIN' PACE                   
+   79   407 Tim Barrett              17:45.44   M  28                                      
+   80   429 Jordan Eagle             17:47.58   F  29       DAY STARS                      
+   81   553 Suyaib Ahmed             17:49.55   M  24                                      
+   82   508 Craig Jones              17:50.09   M  51       TEAM KBR                       
+   83    76 K. Emma Knowland         17:56.16   F  39       GMAO                           
+   84   609 Myungje Choi             18:02.00   M  34                                      
+   85   570 Dongchul Kim             18:05.00   M  50                                      
+   86   246 Andre Smith              18:05.65   M  42                                      
+   87   542 Tiffany Holden           18:11.05   F  38       PEDIBYTES (690.1)              
+   88   408 Joanne Santiago          18:11.09   F  58                                      
+   89   535 Christopher Stark        18:14.61   M  42       EXOSPEC                        
+   90   606 Joe Miko                 18:18.00   M  59                                      
+   91   461 Hua Jiao                 18:19.11   M  50       LISA                           
+   92   607 Vivek Laljani            18:20.00   M  22       DRAGONFLYERS                   
+   93    25 Salman Sheikh            18:24.08   M  55       TEAM564                        
+   94   486 Andrew Inglis            18:48.49   M  39       DAY STARS                      
+   95   546 Regina Caputo            18:52.97   F  39       DAY STARS                      
+   96   401 Kenji Numata             18:54.31   M  47       LISA                           
+   97   649 Rickicia Cheatham        19:02.00   F  32                                      
+   98   398 Katherine Preston        19:11.27   F  41                                      
+   99   136 Mark Buddoo              19:15.12   M  52                                      
+  100    54 Robert Spengler          19:20.09   M  41                                      
+  101   415 Gregory Mercer           19:24.13   M  31       PAAC                           
+  102   534 Larysa Paliashchuk       19:24.89   F  33       PEDIBYTES (690.1)              
+  103   226 Eddie Tsui               19:26.58   M  38                                      
+  104   464 Alejandra Constante      19:27.11   F  42       DRAGONFLYERS                   
+  105    71 Jillianne Shear          19:27.39   F  42                                      
+  106   563 Kelly Whalen             19:32.15   F  28       GEODESIC DEVIANTS (CODE 660)   
+  107   465 Timothy Filemyr          19:40.06   M  64       TEAM KBR                       
+  108   487 Carolyn Kierans          19:41.57   F  35       DAY STARS                      
+  109   460 Kimathi Tull             19:42.43   M  45       DRAGONFLYERS                   
+  110   524 James Biesinger          19:47.00   M  52       DRAGONFLYERS                   
+  111   488 Adrian Southard          19:53.72   M  45       DRAGONFLYERS                   
+  112   376 Joel Gallun              19:55.61   M  64                                      
+  113    62 Mark Solomon             20:03.24   M  65       GMAO                           
+  114   102 Melanie Frost            20:14.73   F  39       POOR RUNTIME COMPLEXITY        
+  115    95 Niko Minasola            20:16.06   M  27       DRAGONFLYERS                   
+  116   517 Matthew Deland           20:16.57   M  62                                      
+  117   559 Christopher Wheeler      20:30.60   M  55                                      
+  118   454 Amelia Haymes            20:32.51   F  25                                      
+  119   427 M Scopes                 20:39.69      56       GEODESIC DEVIANTS (CODE 660)   
+  120   428 Adam Sponsky             20:55.64   M  29       HAPPY FAR FEET                 
+  121   416 Terence Doiron           20:59.11   M  55       LISA                           
+  122   442 Masaru Kogure            21:05.81   M  33                                      
+  123   544 Mark Subbarao            21:13.83   M  55                                      
+  124   484 Inia M. Soto Ramos       21:13.99      41       KEEPIN' PACE                   
+  125    97 Marvin Noreiga           21:25.59   M  45       DRAGONFLYERS                   
+  126    96 Julie Llano              21:25.73   F  25       DRAGONFLYERS                   
+  127   276 Chris Derr               21:27.18   M  46                                      
+  128   532 Saima Zobair             21:28.20   F  50       PEDIBYTES (690.1)              
+  129   490 Joe Warren               21:30.47   M  60       PAAC                           
+  130    64 Cory Dudley              21:32.83   F  31       DRAGONFLYERS                   
+  131    16 Janine Dolinka           21:33.17   F  56                                      
+  132    43 Rebecca Espina           21:52.95   F  50       WEST                           
+  133   244 Stephan Klene            22:01.80   M  63       HBG PACERS                     
+  134    10 Robin Ripley             22:12.36   F  42       DAVINCI PROJECT                
+  135    11 Tumkur Raghuram          22:18.94   M  58                                      
+  136    23 Colleen Stakem           22:32.61   F  49                                      
+  137   536 Allison Collow           22:42.48   F  35       GMAO                           
+  138   411 Kevin Heesh              22:59.31   M  36       LISA                           
+  139   533 Karen Scheiber           23:07.67   F  62                                      
+  140   406 Monica Todirita          23:08.39   F  53                                      
+  141   474 Lorenzo Narducci         23:08.62   M  27       EOS FLIGHT DYNAMICS            
+  142   433 Xiaozhen Xu              23:11.05   F  41       LISA                           
+  143   272 Sylvain Ligonde          23:45.87   M  13                                      
+  144   482 Cory Helm                24:05.38   M  34       PAAC                           
+  145   393 Mahendra Karki           24:17.54   M  72       GMAO                           
+  146   567 Gabrielle Dorney         24:27.16   F  29       NOODLE BOWL                    
+  147   615 Renee Dudley             24:42.00   F  54                                      
+  148   420 Joanna Joiner            25:21.31   F  57                                      
+  149   540 Renee Reynolds           25:42.19   F  45                                      
+  150   519 Jonathan Farin           26:06.07   M  36                                      
+  151   231 Wally Rodriguez          26:20.29   F  33       GDC                            
+  152   470 Samuel Kitchen-Mckinley  26:42.07   M  41       HBG PACERS                     
+  153   605 Brij Gamhir              26:47.00   M  80                                      
+  154   522 Philip Hochendoner       26:47.33   M  35       TEAM KBR                       
+  155   440 Julie Shane              27:06.12   F  55       MEMD                           
+  156   511 Charles Martin           27:27.42   M  34                                      
+  157   550 Karen Hu                 27:36.71   F  57       PEDIBYTES (690.1)              
+  158   426 Keisha Tigner            27:54.03   F  49                                      
+  159  1200 Phillip Nessler          27:54.14   M  23 250                                  
+  160   445 David Williams           27:58.57   M  65       PEDIBYTES (690.1)              
+  161   394 Jay Friedlander          27:59.34   M  62       PEDIBYTES (690.1)              
+  162   538 Candace Carlisle         28:58.39   F  62                                      
+  163    12 Ralph Welsh              29:05.07   M  84                                      
+  164   373 Paula Pruessner          29:07.87   F  45       LISA                           
+  165   157 Richie Weiss             30:06.20   M  81                                      
+  166   498 David Harvey             30:17.23   M  33       GENESIS ENGINEERING SOLUTIONS  
+  167   378 John Winkert             30:20.29   M  67                                      
+  168   502 George Huffman           30:43.50   M  64       612ERS                         
+  169   499 Shabnam Memarbashi       30:47.36   F  61       TEAM KBR                       
+  170   560 Nat Denigris             31:37.54   F  29                                      
+  171   209 Rachel Oster             31:46.47   F  44                                      
+  172   247 Beth Booker              31:46.55   F  55                                      
+  173   526 Jennifer Stern           31:53.47   F  47       DRAGONFLYERS                   
+  174   462 Melissa Trainer          31:53.82   F  45       DRAGONFLYERS                   
+  175   513 Robert Boyle             32:02.65   M  61       DRAGONFLYERS                   
+  176   509 Sandra Irish             32:02.78   F  62       DRAGONFLYERS                   
+  177   612 Gregory Jamroz           32:44.00   M  46                                      
+  178   224 Ralph Smith              32:45.18   M  58                                      
+  179   202 Robert Fogle             32:45.94   M  63                                      
+  180   430 Malika Grahham           32:50.00   F  40       HAPPY FAR FEET                 
+  181   528 Ed Bell                  32:57.29   M  64       PEDIBYTES (690.1)              
+  182   518 Barbara Bromley          33:18.38   F  53       PAAC                           
+  183   516 Diane Trakas             33:18.46   F  53       PAAC                           
+  184   493 Thomas Buchanan          33:26.35   M  59       TEAM SEWP / SITSS              
+  185   185 Todd King                34:00.45   M  55       DRAGONFLYERS                   
+  186   151 Loress Brown             34:22.95   F  54                                      
+  187   410 Maria Foster             34:23.20   F  52       SAIC / OMES II                 
+  188   473 Lisa Adams               34:24.97   F  52       GODDARD GOVETS                 
+  189   610 Lyon Corey               34:41.00   M  38                                      
+  190     8 Martha Wawro             34:41.70   F  44       TEAM KBR                       
+  191   613 Christopher Holtery      34:51.00   M  55                                      
+  192    37 Lisa Wilson              34:51.16   F  53                                      
+  193   458 Grayson Burriss          35:56.27   M   0       BURRISS FAMILY                 
+  194   455 Krissen Burriss          35:56.72   F  60       BURRISS FAMILY                 
+  195   457 David Burriss            35:58.17   M  65       BURRISS FAMILY                 
+  196   603 Laurene Brown            36:25.00   F  31                                      
+  197   264 Teresita Hewitt          36:25.69   F  44                                      
+  198   262 Veronica Okai            36:26.25   F  41                                      
+  199   556 Harrison Bradley         36:33.18   M  24       POSTBAC PACERS                 
+  200   565 Emily Broadbent          36:33.56   F  24       POSTBAC PACERS                 
+  201   566 Ferris Bosworth          36:33.56      24       POSTBAC PACERS                 
+  202   554 Marcus Fedeli            36:39.33   M  46       TEAM SEWP / SITSS              
+  203   150 Terita Wilson            36:39.37   F  51                                      
+  204   531 Tom Hughes               36:41.98   M  59       PEDIBYTES (690.1)              
+  205   463 Deborah Compere          36:54.03   F  58       AOS PROJECT                    
+  206   608 Phllip Kalmanson         36:55.00   M  46       CCRS                           
+  207   471 Jennifer Kalmanson       36:56.11   F  49       CCRS                           
+  208   573 Marlena Boyce            37:57.76   F  41       TEAM JAMMIN                    
+  209   574 Felecia Armwood          37:57.90   F  36       TEAM JAMMIN                    
+  210    91 Lacey Young              39:18.50   F  27                                      
+  211   604 Linda Dyson              39:42.00   F  54                                      
+  212    46 Rose Brunning            39:43.70   F  42       TEAM KBR                       
+  213   479 Jill Sharp               39:43.90   F  51                                      
+  214   558 Brian Humensky           39:55.86   M  48       DAY STARS                      
+  215   446 Raymond Levesque         40:56.38   M  59       TEAM KBR                       
+  216   447 Rupinder Singh           40:56.48   F  45       TEAM KBR                       
+  217   492 Nina Bethea              40:56.79   F  64       TEAM KBR                       
+  218   551 Austin L Conaty          42:48.51   M  60       GMAO                           
+  219   552 Agnes Conaty             42:48.55   F  62       GMAO                           
+  220   469 Diane Diamond            43:19.79   F  30       SAIC / OMES II                 
+  221   575 Jennifer Wentzel         43:42.51      49       TEAM JAMMIN                    
+  222   481 Deirdre Healey           43:42.56   F  60                                      
+  223   390 Kenya Wells              43:42.62   F  43                                      
+  224   477 June Oconner             43:42.67   F  50                                      
+  225   478 Maria Nowak              43:42.74   F  54       THE SAFETY FACTOR (& MA!) CODE 

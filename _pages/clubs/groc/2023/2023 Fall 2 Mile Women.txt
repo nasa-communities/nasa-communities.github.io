@@ -1,0 +1,97 @@
+                                                                      Page 1
+                         96th NASA Intracenter Run
+                        Goddard Space Flight Center
+                             October 4th,2023
+                              Female Results
+                    correction to tom.winkert@nasa.gov
+Place Num   Name                     Time    Guntime Age Code  Team                              
+===== ===== ======================== ======= ======= === ===== ============================== 
+    1   495 Katie Levine               12:55   12:56  29       GENESIS ENGINEERING SOLUTIONS  
+    2   572 Theresa Bender             13:19   13:24  26                                      
+    3   397 Caitlin Kohli              13:41   13:43  34       DOWN TO EARTH (CODE 420 DIVISI 
+    4   548 Rachel Borrelli            14:03   14:06  33                                      
+    5    20 Cassie Webster             15:52   15:57  36       OFF THE MESA                   
+    6   504 Roser Juanola              16:01   16:08  38       EXOSPEC                        
+    7   562 Ariadna Farres Basiana     16:16   16:21  42                                      
+    8   510 Sarah Dangelo              16:42   16:53  25                                      
+    9    75 Sarah Ringerud             16:48   16:57  48       612ERS                         
+   10   443 Stephanie McLaughlin       16:51   16:55  61       PEDIBYTES (690.1)              
+   11   439 Lori Levine                16:53   16:58  48       MEMD                           
+   12   480 Jennifer White             17:02   17:10  42       AOS PROJECT                    
+   13    34 Laura Ribeiro              17:14   17:33  27       GENESIS ENGINEERING SOLUTIONS  
+   14   541 Lauren Arkell              17:15   17:33  24       GENESIS ENGINEERING SOLUTIONS  
+   15   543 Lindsay Haseltine          17:16   17:35  23       GENESIS ENGINEERING SOLUTIONS  
+   16   112 Sierra Budinoff            17:17   17:32  23                                      
+   17    17 Kimberly Drummond          17:26   17:33  35       PAAC                           
+   18   429 Jordan Eagle               17:36   17:48  29       DAY STARS                      
+   19    76 K. Emma Knowland           17:49   17:57  39       GMAO                           
+   20   408 Joanne Santiago            17:57   18:12  58                                      
+   21   542 Tiffany Holden             18:02   18:12  38       PEDIBYTES (690.1)              
+   22   546 Regina Caputo              18:40   18:53  39       DAY STARS                      
+   23   398 Katherine Preston          18:57   19:12  41                                      
+   24    71 Jillianne Shear            19:00   19:28  42                                      
+   25   649 Rickicia Cheatham          19:02   19:02  32                                      
+   26   464 Alejandra Constante        19:10   19:28  42       DRAGONFLYERS                   
+   27   534 Larysa Paliashchuk         19:16   19:25  33       PEDIBYTES (690.1)              
+   28   563 Kelly Whalen               19:19   19:33  28       GEODESIC DEVIANTS (CODE 660)   
+   29   487 Carolyn Kierans            19:29   19:42  35       DAY STARS                      
+   30   102 Melanie Frost              19:54   20:15  39       POOR RUNTIME COMPLEXITY        
+   31   454 Amelia Haymes              20:16   20:33  25                                      
+   32    96 Julie Llano                21:11   21:26  25       DRAGONFLYERS                   
+   33    16 Janine Dolinka             21:12   21:34  56                                      
+   34    64 Cory Dudley                21:17   21:33  31       DRAGONFLYERS                   
+   35   532 Saima Zobair               21:19   21:29  50       PEDIBYTES (690.1)              
+   36    43 Rebecca Espina             21:40   21:53  50       WEST                           
+   37    10 Robin Ripley               21:53   22:13  42       DAVINCI PROJECT                
+   38    23 Colleen Stakem             22:12   22:33  49                                      
+   39   536 Allison Collow             22:14   22:43  35       GMAO                           
+   40   533 Karen Scheiber             22:45   23:08  62                                      
+   41   406 Monica Todirita            22:50   23:09  53                                      
+   42   433 Xiaozhen Xu                22:56   23:12  41       LISA                           
+   43   567 Gabrielle Dorney           24:08   24:28  29       NOODLE BOWL                    
+   44   615 Renee Dudley               24:42   24:42  54                                      
+   45   420 Joanna Joiner              25:02   25:22  57                                      
+   46   540 Renee Reynolds             25:31   25:43  45                                      
+   47   231 Wally Rodriguez            26:03   26:21  33       GDC                            
+   48   440 Julie Shane                26:56   27:07  55       MEMD                           
+   49   550 Karen Hu                   27:29   27:37  57       PEDIBYTES (690.1)              
+   50   426 Keisha Tigner              27:33   27:55  49                                      
+   51   538 Candace Carlisle           28:40   28:59  62                                      
+   52   373 Paula Pruessner            28:53   29:08  45       LISA                           
+   53   499 Shabnam Memarbashi         29:56   30:48  61       TEAM KBR                       
+   54   560 Nat Denigris               31:04   31:38  29                                      
+   55   247 Beth Booker                31:17   31:47  55                                      
+   56   209 Rachel Oster               31:17   31:47  44                                      
+   57   526 Jennifer Stern             31:36   31:54  47       DRAGONFLYERS                   
+   58   462 Melissa Trainer            31:36   31:54  45       DRAGONFLYERS                   
+   59   509 Sandra Irish               31:46   32:03  62       DRAGONFLYERS                   
+   60   516 Diane Trakas               32:45   33:19  53       PAAC                           
+   61   518 Barbara Bromley            32:45   33:19  53       PAAC                           
+   62   430 Malika Grahham             32:50   32:50  40       HAPPY FAR FEET                 
+   63   473 Lisa Adams                 33:59   34:25  52       GODDARD GOVETS                 
+   64   151 Loress Brown               34:03   34:23  54                                      
+   65   410 Maria Foster               34:03   34:24  52       SAIC / OMES II                 
+   66     8 Martha Wawro               34:11   34:42  44       TEAM KBR                       
+   67    37 Lisa Wilson                34:32   34:52  53                                      
+   68   455 Krissen Burriss            35:18   35:57  60       BURRISS FAMILY                 
+   69   150 Terita Wilson              35:55   36:40  51                                      
+   70   264 Teresita Hewitt            36:00   36:26  44                                      
+   71   262 Veronica Okai              36:00   36:27  41                                      
+   72   565 Emily Broadbent            36:03   36:34  24       POSTBAC PACERS                 
+   73   471 Jennifer Kalmanson         36:15   36:57  49       CCRS                           
+   74   463 Deborah Compere            36:21   36:55  58       AOS PROJECT                    
+   75   603 Laurene Brown              36:25   36:25  31                                      
+   76   573 Marlena Boyce              37:14   37:58  41       TEAM JAMMIN                    
+   77   574 Felecia Armwood            37:15   37:58  36       TEAM JAMMIN                    
+   78    91 Lacey Young                38:43   39:19  27                                      
+   79    46 Rose Brunning              39:09   39:44  42       TEAM KBR                       
+   80   479 Jill Sharp                 39:17   39:44  51                                      
+   81   604 Linda Dyson                39:42   39:42  54                                      
+   82   492 Nina Bethea                40:28   40:57  64       TEAM KBR                       
+   83   447 Rupinder Singh             40:29   40:57  45       TEAM KBR                       
+   84   552 Agnes Conaty               41:59   42:49  62       GMAO                           
+   85   469 Diane Diamond              42:22   43:20  30       SAIC / OMES II                 
+   86   481 Deirdre Healey             42:59   43:43  60                                      
+   87   477 June Oconner               42:59   43:43  50                                      
+   88   478 Maria Nowak                43:03   43:43  54       THE SAFETY FACTOR (& MA!) CODE 
+   89   390 Kenya Wells                43:04   43:43  43                                      

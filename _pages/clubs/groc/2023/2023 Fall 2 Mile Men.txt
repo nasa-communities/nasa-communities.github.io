@@ -1,0 +1,140 @@
+                                                                      Page 1
+                         96th NASA Intracenter Run
+                        Goddard Space Flight Center
+                             October 4th,2023
+                               Male Results
+                    correction to tom.winkert@nasa.gov
+Place Num   Name                     Time    Guntime Age Code  Team                              
+===== ===== ======================== ======= ======= === ===== ============================== 
+    1   228 Ethan Burbridge            11:17   11:18  27                                      
+    2   500 Jacob Isaacson             11:29   11:30  23       GENESIS ENGINEERING SOLUTIONS  
+    3   523 Maksym Petrenko            11:38   11:39  40       NASA GODDARD RUN CLUB          
+    4   396 Michael Maniscalco         11:48   11:50  34       KEEPIN' PACE                   
+    5   451 Eliot Toumey               12:02   12:05  27       EOS FLIGHT DYNAMICS            
+    6   568 Nicholas Zaremba           12:16   12:18  36                                      
+    7   179 Mitchell Hamann            12:37   12:40  27       GDC                            
+    8   448 Eric Lyness                12:41   12:44  57       DRAGONFLYERS                   
+    9   555 Petar Grigorov             13:01   13:08  27                                      
+   10   561 David Hollibaugh Baker     13:05   13:07  37       PEDIBYTES (690.1)              
+   11    32 Mark Bendall               13:11   13:17  37       PAAC                           
+   12   507 Ryan Fitzgibbons           13:12   13:17  42                                      
+   13    61 Mircea Grecu               13:30   13:33  54       612ERS                         
+   14   163 Matthew Francom            13:33   13:42  30       DRAGONFLYERS                   
+   15   421 Keshav Swaminathan         13:38   13:42  32       NOODLE BOWL                    
+   16    94 Badri Shirgur              13:40   13:43  49       NASA GODDARD RUN CLUB          
+   17    41 Ian Carroll                13:45   13:53  43       KEEPIN' PACE                   
+   18   547 James Chervenak            14:01   14:04  53                                      
+   19   521 Tom Nolan                  14:02   14:05  71       DRAGONFLYERS                   
+   20   549 Casey McGrath              14:15   14:21  31       GEODESIC DEVIANTS (CODE 660)   
+   21   569 Joseph Finlon              14:29   14:35  33       612ERS                         
+   22    63 John Ramsey                14:29   14:36  62                                      
+   23   453 Travis Tucker              14:33   14:39  27                                      
+   24   530 Thibault Lechien           14:36   14:39  23       POSTBAC PACERS                 
+   25   422 Ryan Carney                14:37   14:47  35       PAAC                           
+   26   391 Neil Zimmerman             14:41   14:48  41       EXOSPEC                        
+   27   506 Joe Somerville             14:41   14:49  23       GENESIS ENGINEERING SOLUTIONS  
+   28   514 Matthew Kowalewski         14:42   14:48  49       DRAGONFLYERS                   
+   29   539 Joey Pasterski             14:42   14:52  39       DRAGONFLYERS                   
+   30   118 Rick Carter                14:43   14:45  52       DOWN TO EARTH (CODE 420 DIVISI 
+   31    14 Peter Barfknecht           14:45   14:48  38       DRAGONFLYERS                   
+   32   350 Jim Pontius                14:57   14:59  61       DOWN TO EARTH (CODE 420 DIVISI 
+   33   527 Phillip Denton             15:03   15:08  34                                      
+   34    83 Garrett Layne              15:04   15:10  30                                      
+   35   466 James Basl                 15:11   15:19  44       TEAM KBR                       
+   36   403 Michael Sekerak            15:15   15:23  46       DAVINCI PROJECT                
+   37    15 Jonathan Dornblaser        15:16   15:20  43       PAAC                           
+   38   537 Jeremy Perkins             15:22   15:34  44       DAY STARS                      
+   39   505 Vincent Kofman             15:22   15:54  34       EXOSPEC                        
+   40   571 Nico Lagendyk              15:48   15:56  23       GENESIS ENGINEERING SOLUTIONS  
+   41    66 Sean Smith                 16:01   16:15  42                                      
+   42   434 John Ruth                  16:02   16:25  27       ACCOKEEKERS                    
+   43   496 Zachary Sachs              16:17   16:28  30       GENESIS ENGINEERING SOLUTIONS  
+   44   424 Ian Adams                  16:17   16:22  45       612ERS                         
+   45   512 Michael McElwain           16:20   16:28  44       EXOSPEC                        
+   46   501 Michael Bosilovich         16:24   16:47  55       GMAO                           
+   47   358 Kent McCullough            16:33   16:36  66                                      
+   48   452 Brian Woodson Jr           16:35   16:59  26       EOS FLIGHT DYNAMICS            
+   49   472 David Steinfeld            16:36   16:45  60       DRAGONFLYERS                   
+   50   491 Jahlil Best                16:36   17:07  35                                      
+   51   194 Darius Simms               16:47   16:57  41       SAIC / OMES II                 
+   52   489 Nicholas Cannady           16:51   17:03  35       DAY STARS                      
+   53   431 Francois Mernier           16:53   17:16  34                                      
+   54   545 Robert Levy                16:55   17:15  50                                      
+   55   241 Jack Topper                17:09   17:21  22                                      
+   56   467 David Griffiths            17:11   17:19  61       TEAM KBR                       
+   57   444 Brian Repp                 17:12   17:31  58       TEAM KBR                       
+   58   515 Bryan James                17:16   17:16  35       DRAGONFLYERS                   
+   59   494 Charles Dickson            17:25   17:30  56       TEAM564                        
+   60   392 David Giles                17:25   17:34  48                                      
+   61   483 Andrew Sayer               17:35   17:44  40       KEEPIN' PACE                   
+   62   407 Tim Barrett                17:36   17:46  28                                      
+   63   553 Suyaib Ahmed               17:41   17:50  24                                      
+   64   508 Craig Jones                17:44   17:51  51       TEAM KBR                       
+   65   246 Andre Smith                17:48   18:06  42                                      
+   66   570 Dongchul Kim               17:52   18:05  50                                      
+   67   609 Myungje Choi               18:02   18:02  34                                      
+   68   535 Christopher Stark          18:07   18:15  42       EXOSPEC                        
+   69   461 Hua Jiao                   18:10   18:20  50       LISA                           
+   70    25 Salman Sheikh              18:16   18:25  55       TEAM564                        
+   71   606 Joe Miko                   18:18   18:18  59                                      
+   72   607 Vivek Laljani              18:20   18:20  22       DRAGONFLYERS                   
+   73   486 Andrew Inglis              18:34   18:49  39       DAY STARS                      
+   74   401 Kenji Numata               18:44   18:55  47       LISA                           
+   75   136 Mark Buddoo                18:57   19:16  52                                      
+   76   415 Gregory Mercer             19:03   19:25  31       PAAC                           
+   77   226 Eddie Tsui                 19:04   19:27  38                                      
+   78    54 Robert Spengler            19:06   19:21  41                                      
+   79   465 Timothy Filemyr            19:18   19:41  64       TEAM KBR                       
+   80   460 Kimathi Tull               19:27   19:43  45       DRAGONFLYERS                   
+   81   488 Adrian Southard            19:41   19:54  45       DRAGONFLYERS                   
+   82   376 Joel Gallun                19:42   19:56  64                                      
+   83   524 James Biesinger            19:47   19:47  52       DRAGONFLYERS                   
+   84    95 Niko Minasola              20:01   20:17  27       DRAGONFLYERS                   
+   85    62 Mark Solomon               20:02   20:04  65       GMAO                           
+   86   517 Matthew Deland             20:04   20:17  62                                      
+   87   559 Christopher Wheeler        20:13   20:31  55                                      
+   88   416 Terence Doiron             20:38   21:00  55       LISA                           
+   89   428 Adam Sponsky               20:43   20:56  29       HAPPY FAR FEET                 
+   90   442 Masaru Kogure              20:45   21:06  33                                      
+   91   544 Mark Subbarao              20:51   21:14  55                                      
+   92    97 Marvin Noreiga             21:11   21:26  45       DRAGONFLYERS                   
+   93   276 Chris Derr                 21:11   21:28  46                                      
+   94   490 Joe Warren                 21:14   21:31  60       PAAC                           
+   95   244 Stephan Klene              21:45   22:02  63       HBG PACERS                     
+   96    11 Tumkur Raghuram            22:06   22:19  58                                      
+   97   411 Kevin Heesh                22:43   23:00  36       LISA                           
+   98   474 Lorenzo Narducci           22:52   23:09  27       EOS FLIGHT DYNAMICS            
+   99   272 Sylvain Ligonde            23:22   23:46  13                                      
+  100   482 Cory Helm                  23:34   24:06  34       PAAC                           
+  101   393 Mahendra Karki             24:11   24:18  72       GMAO                           
+  102   519 Jonathan Farin             26:00   26:07  36                                      
+  103   470 Samuel Kitchen-Mckinley    26:25   26:43  41       HBG PACERS                     
+  104   522 Philip Hochendoner         26:26   26:48  35       TEAM KBR                       
+  105   605 Brij Gamhir                26:47   26:47  80                                      
+  106   511 Charles Martin             27:00   27:28  34                                      
+  107   445 David Williams             27:43   27:59  65       PEDIBYTES (690.1)              
+  108   394 Jay Friedlander            27:44   28:00  62       PEDIBYTES (690.1)              
+  109  1200 Phillip Nessler            27:56   27:55  23 250                                  
+  110    12 Ralph Welsh                28:59   29:06  84                                      
+  111   157 Richie Weiss               29:37   30:07  81                                      
+  112   498 David Harvey               29:46   30:18  33       GENESIS ENGINEERING SOLUTIONS  
+  113   378 John Winkert               29:49   30:21  67                                      
+  114   502 George Huffman             30:08   30:44  64       612ERS                         
+  115   513 Robert Boyle               31:46   32:03  61       DRAGONFLYERS                   
+  116   224 Ralph Smith                32:25   32:46  58                                      
+  117   202 Robert Fogle               32:25   32:46  63                                      
+  118   612 Gregory Jamroz             32:44   32:44  46                                      
+  119   528 Ed Bell                    32:46   32:58  64       PEDIBYTES (690.1)              
+  120   493 Thomas Buchanan            32:52   33:27  59       TEAM SEWP / SITSS              
+  121   185 Todd King                  33:41   34:01  55       DRAGONFLYERS                   
+  122   610 Lyon Corey                 34:41   34:41  38                                      
+  123   613 Christopher Holtery        34:51   34:51  55                                      
+  124   458 Grayson Burriss            35:18   35:57   0       BURRISS FAMILY                 
+  125   457 David Burriss              35:20   35:59  65       BURRISS FAMILY                 
+  126   554 Marcus Fedeli              35:54   36:40  46       TEAM SEWP / SITSS              
+  127   556 Harrison Bradley           36:04   36:34  24       POSTBAC PACERS                 
+  128   558 Brian Humensky             36:04   39:56  48       DAY STARS                      
+  129   531 Tom Hughes                 36:18   36:42  59       PEDIBYTES (690.1)              
+  130   608 Phllip Kalmanson           36:55   36:55  46       CCRS                           
+  131   446 Raymond Levesque           40:28   40:57  59       TEAM KBR                       
+  132   551 Austin L Conaty            41:59   42:49  60       GMAO                           

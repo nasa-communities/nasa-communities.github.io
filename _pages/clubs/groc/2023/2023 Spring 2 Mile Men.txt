@@ -1,0 +1,178 @@
+                                                                      Page 1
+                         95th NASA Intracenter Run
+                        Goddard Space Flight Center
+                              April 19th,2023
+                               Male Results
+                    correction to tom.winkert@nasa.gov
+Place Num   Name                     Time    Guntime Age Code  Team                              
+===== ===== ======================== ======= ======= === ===== ============================== 
+    1    38 Maksym Petrenko            11:38   11:39  40       NASA GODDARD TRACK AND FIELD   
+    2   197 Niko Fedkin                11:45   11:46  29       SAMDALICIOUS                   
+    3   139 Zachary Nasipak            12:06   12:09  29       GEODESIC DEVIANTS (CODE 660)   
+    4    73 Tyler Lulich               12:28   12:30  39       SAIC / OMES II                 
+    5    59 Bernard Kelly              12:37   12:39  50       GEODESIC DEVIANTS (CODE 660)   
+    6   294 Will Covington             12:44   13:54  20                                      
+    7   288 Feng Li                    12:55   12:56  51                                      
+    8   251 Ryan Fitzgibbons           13:00   13:04  42                                      
+    9    61 Mircea Grecu               13:05   13:06  53       612ERS                         
+   10   117 Mitchell Hamann            13:13   13:16  27       GDC                            
+   11   125 Eric Lyness                13:29   13:32  57       DRAGONFLYERS                   
+   12    14 Peter Barfknecht           13:35   13:38  38       DRAGONFLYERS                   
+   13   111 Jeremy McFarlane           13:38   13:41  28       2REASONS                       
+   14   149 Matthew Francom            13:41   13:43  30       DRAGONFLYERS                   
+   15   249 Badri Shirgur              13:49   13:50  48                                      
+   16    65 James Chervenak            13:51   13:55  53       THE SPUTTERERS                 
+   17    32 Mark Bendall               13:57   14:03  37       PAAC                           
+   18   114 Ben Busler                 14:01   14:03  21                                      
+   19   205 Gilberto Vicente           14:24   14:25  61                                      
+   20   350 Jim Pontius                14:31   14:34  60       DOWN TO EARTH (CODE 420 DIVISI 
+   21   161 Matthew Seybold            14:45   14:47  49                                      
+   22   118 Rick Carter                14:53   14:55  52       DOWN TO EARTH (CODE 420 DIVISI 
+   23   130 Brandt Schwer              15:01   15:03  30       DRAGONFLYERS                   
+   24   261 John Ramsey                15:01   15:07  62                                      
+   25   351 Matthew Kowalewski         15:04   15:07  49       DRAGONFLYERS                   
+   26   129 Ryan Flora                 15:11   15:14  22                                      
+   27   239 James Thompson             15:12   15:22  54                                      
+   28   379 Francis Cullen             15:12   15:31  28       NEWTON LLC                     
+   29   377 Neil Zimmerman             15:20   15:26  40       EXOSPEC                        
+   30   137 Evan Sheehan               15:52   15:56  32       DRAGONFLYERS                   
+   31   256 John Baker                 15:56   16:09  54       GEODESIC DEVIANTS (CODE 660)   
+   32   347 Stefano Bertone            15:57   16:11  37       GEODESIC DEVIANTS (CODE 660)   
+   33   278 Elvis Castillo             16:01   16:06  32                                      
+   34   174 Carlos Morell              16:01   16:06  24       DRAGONFLYERS                   
+   35   375 Nate Welsh                 16:11   16:30  27       NEWTON LLC                     
+   36    48 Nicholas Cannady           16:16   16:28  34       DAY STARS                      
+   37   115 David Giles                16:18   16:21  47                                      
+   38   280 Scott Noble                16:21   16:35  47       GEODESIC DEVIANTS (CODE 660)   
+   39    80 Christopher King           16:35   16:50  29       HAPPY FAR FEET                 
+   40   153 Miguel Hernandez           16:35   16:43  32       SMALL SATS                     
+   41    66 Sean Smith                 16:38   16:45  41                                      
+   42   162 Aaron Curtis               16:43   16:51  42                                      
+   43    26 Jacob Reed                 16:45   17:21  37       TELOPHASE                      
+   44   128 Colby Azersky              16:52   16:59  25       WALK ORDER AUTHORIZATION       
+   45   123 Rodney Roberts             16:53   17:02  29       SAIC / OMES II                 
+   46   383 Tyler Groff                16:58   17:04  38       EXOSPEC                        
+   47   194 Darius Simms               17:00   17:20  41       SAIC / OMES II                 
+   48   160 Daniel Bae                 17:00   17:05  30       DRAGONFLYERS                   
+   49   385 Francois Mernier           17:02   17:14  33                                      
+   50   192 Carlos Aguilar             17:09   17:18  33       GPM: GLOBAL PERSPIRATION MISSI 
+   51   124 William Halaburda          17:10   17:13  26       DRAGONFLYERS                   
+   52   257 Myungje Choi               17:15   17:30  33                                      
+   53   136 Mark Buddoo                17:43   17:46  51                                      
+   54    35 David Brunone              17:45   18:10  38       SAIC / OMES II                 
+   55   388 Charles Dickson            17:53   17:53  56                                      
+   56   121 Jonathan Boblitt           17:55   18:02  35                                      
+   57   148 Daniel Han                 17:56   18:14  34       HAPPY FAR FEET                 
+   58   133 Bryan James                17:58   18:00  35       DRAGONFLYERS                   
+   59    54 Robert Spengler            18:00   18:06  41                                      
+   60   363 Joseph Watson              18:01   18:30  24                                      
+   61   134 Douglas McGuffey           18:03   18:17  64                                      
+   62    85 Kirk Gordon                18:04   18:11  67                                      
+   63   297 Robert Hancock             18:16   18:28  22       SAIC / OMES II                 
+   64   186 Timothy Sarro              18:29   18:38  27       GPM: GLOBAL PERSPIRATION MISSI 
+   65    95 Niko Minasola              18:31   18:44  27       DRAGONFLYERS                   
+   66   276 Chris Derr                 18:38   18:52  46                                      
+   67   284 Steven Hacker              18:48   19:03  25       DRAGONFLYERS                   
+   68    36 Michael Cabrera            18:49   19:22  39       SAIC / OMES II                 
+   69   113 Keven Nguyen               18:53   19:26  22       SAIC / OMES II                 
+   70   132 Adrian Southard            19:06   19:13  45       DRAGONFLYERS                   
+   71    98 Juan Gomez                 19:13   19:17  41       2REASONS                       
+   72   108 Gion Lalican               19:24   19:32  40       GODDARD GOVETS                 
+   73    13 Kenji Numata               19:26   19:43  47       LISA                           
+   74   106 Ricardo Sanchez            19:29   19:35  23       THE SPUTTERERS                 
+   75   182 Christopher Wheeler        19:54   19:54  54                                      
+   76   170 Keith Chamberlin           20:00   20:18  57                                      
+   77   147 Hak Lee                    20:03   20:16  43       DRAGONFLYERS                   
+   78   178 Hudson Delee               20:18   20:34  40       DRAGONFLYERS                   
+   79   144 Daniel Senai               20:23   20:37  40       DRAGONFLYERS                   
+   80   367 Tupper Hyde                20:25   20:31  57       LISA                           
+   81   315 Edison Arcido              20:33   21:06   5       GODDARD CHILD DEVELOPMENT CENT 
+   82    90 Jericho Kerber             20:44   21:14   6       SOLEIL                         
+   83    41 Ian Carroll                20:49   21:15  42                                      
+   84   317 Quentin Katchinoff         20:50   21:16   5       GODDARD CHILD DEVELOPMENT CENT 
+   85   370 Scott Will                 20:50   20:57  29       EXOSPEC                        
+   86   105 John Hartnett              20:54   21:31  45       TEAM SEWP / SITSS              
+   87    84 George Rankin              20:54   21:07  46       THE SAFETY FACTOR (& MA!) CODE 
+   88   103 Daniel Berdugo             20:56   21:07  29                                      
+   89    69 Sambid Wasti               20:59   21:10  33       DAY STARS                      
+   90    62 Mark Solomon               21:21   21:23  65       GMAO                           
+   91   101 Steven Magnusen            21:30   21:42  38       CARA                           
+   92   243 Michael Shoemaker          21:33   21:53  41       DAVINCI PROJECT                
+   93   244 Stephan Klene              21:47   22:10  62       HBG PACERS                     
+   94   477 Fabrizzio Coronado         21:51   22:24  24                                      
+   95    11 Tumkur Raghuram            21:52   22:00  57                                      
+   96    97 Marvin Noreiga             21:57   22:12  45       DRAGONFLYERS                   
+   97     6 Matthias Bur               22:01   22:15   6                                      
+   98   296 Kevin Heesh                22:07   22:24  35       LISA                           
+   99     3 Michael Bur                22:07   22:22  58                                      
+  100   432 Alex Durkin                22:08   22:08  39                                      
+  101   307 Adrian Silva               22:10   22:38   5       GODDARD CHILD DEVELOPMENT CENT 
+  102   490 Joe Warren                 22:16   22:33  60       PAAC                           
+  103   271 Hassan Oudrari             22:36   22:58  57       HBG PACERS                     
+  104   198 Adam Sponsky               22:43   23:02  28       HAPPY FAR FEET                 
+  105   176 Mark Moussa                22:44   22:44  26                                      
+  106   253 Samuel Kitchen-Mckinley    23:03   23:27  41       HBG PACERS                     
+  107   126 Alex Mikulich              23:17   31:11  24       DRAGONFLYERS                   
+  108   155 Patrick Haas               23:20   23:37  60                                      
+  109   293 Timothy Wilcox             23:24   23:32  55       TEAM KBR                       
+  110   252 Charles Martin             23:37   23:56  34                                      
+  111   272 Sylvain Ligonde            24:22   24:34  13                                      
+  112   282 Marco Castillo             24:39   24:44  33       DRAGONFLYERS                   
+  113   165 Gary Wilder                24:57   25:19  58                                      
+  114    87 Justin Kerber              25:16   25:46  39       SOLEIL                         
+  115   328 Sadleir Redmund            25:17   26:02   4       GODDARD CHILD DEVELOPMENT CENT 
+  116   285 John Sadleir               25:18   26:01  48                                      
+  117   345 Ethan Carton               25:25   37:57  33       GODDARD CHILD DEVELOPMENT CENT 
+  118   290 Michael Fritsch            25:32   25:45  36                                      
+  119   292 Carlos Vazquez             25:34   25:46  46                                      
+  120   250 Byron Peters               25:45   26:10  71       HBG PACERS                     
+  121    12 Ralph Welsh                25:51   25:54  83                                      
+  122   325 Damian Pescatore           25:53   26:23   4       GODDARD CHILD DEVELOPMENT CENT 
+  123   349 Robert Williamson          26:21   26:48  63       SAIC / OMES II                 
+  124   308 Kuzey Aymergen             26:43   27:10   5       GODDARD CHILD DEVELOPMENT CENT 
+  125   267 Cagatay Aymergen           26:44   27:11  43       GODDARD CHILD DEVELOPMENT CENT 
+  126   286 David Guzman-Garcia        26:45   27:16  44                                      
+  127   145 Stephen Cenko              27:18   27:47  43                                      
+  128   159 Jay Friedlander            27:26   27:38  61       PEDIBYTES (690.1)              
+  129   318 Idris Koca                 28:12   28:40   5       GODDARD CHILD DEVELOPMENT CENT 
+  130   360 Tosh Keune                 28:24   28:35  64       SAIC / OMES II                 
+  131   433 Louis Thomas               28:46   28:46  65                                      
+  132   361 Kevin Parker               29:33   29:33  64       SAIC / OMES II                 
+  133   265 Emanuel Hernandez          30:10   30:10  38       GDC                            
+  134    29 John Stupfel               31:34   32:04  34       PAAC                           
+  135   270 Zev Bleich                 31:36   32:04  11                                      
+  136   298 N Simpson                  31:38   32:05  59                                      
+  137   400 John Winkert               31:41   32:03  66                                      
+  138   305 Cooper Davis               31:43   32:06   5       GODDARD CHILD DEVELOPMENT CENT 
+  139   356 Ed Bell                    32:18   32:33  64       PEDIBYTES (690.1)              
+  140   386 Juan Argueta               32:29   33:16  36                                      
+  141   304 Jesus Argueta-Ruispe       32:30   33:17   5       GODDARD CHILD DEVELOPMENT CENT 
+  142   387 Ted Ying                   32:45   33:21  58       SAIC / OMES II                 
+  143    27 Chris MacLin               34:35   35:05  62       PAAC                           
+  144   156 Ravi Palaniandy            34:39   34:39  58                                      
+  145   329 Noah Ibrahim               34:48   35:26   4       GODDARD CHILD DEVELOPMENT CENT 
+  146   184 Amir Ibrahim               34:49   35:26  37       GODDARD CHILD DEVELOPMENT CENT 
+  147   319 Enrico Sabatino            34:52   35:21   5       GODDARD CHILD DEVELOPMENT CENT 
+  148   214 Chris Sabatino             34:53   35:22  35       GODDARD CHILD DEVELOPMENT CENT 
+  149   116 Michael Boland             35:03   35:44  46       TEAM SEWP / SITSS              
+  150   135 Robert Boyle               35:12   35:46  61       DRAGONFLYERS                   
+  151    99 Vince Elliott              35:29   35:51  52       DAVINCI PROJECT                
+  152   425 Gil Glass                  35:50   35:50  58                                      
+  153   180 Albert Shih                35:55   36:37  42                                      
+  154   343 Bib343 Bib343              36:08   36:08  13       GODDARD CHILD DEVELOPMENT CENT 
+  155   146 Bill Robinson              36:20   36:59  47       TEAM SEWP / SITSS              
+  156   173 Dionisio Tato              36:21   37:00  60                                      
+  157   190 Kevin Bock                 36:58   37:40  39                                      
+  158   171 Doug Schwer                37:13   37:47  53                                      
+  159   295 Tom Hughes                 37:17   37:34  59       PEDIBYTES (690.1)              
+  160    55 Nelson Morales             37:32   37:32  69       GODDARD GOVETS                 
+  161   332 Asa Mulkey                 38:02   38:42   4       GODDARD CHILD DEVELOPMENT CENT 
+  162   352 Henry Mulkey               38:03   38:42  43       GODDARD CHILD DEVELOPMENT CENT 
+  163   326 Oliver Roberts             38:13   38:47   4       GODDARD CHILD DEVELOPMENT CENT 
+  164   357 Bill Green                 39:20   39:51  65       STRUTS OF STEEL                
+  165   381 Emily Mink                 41:12   41:39  27       NEWTON LLC                     
+  166   382 Nathan Scott               41:15   41:39  13       NEWTON LLC                     
+  167   248 Robert Amos                43:31   44:03  64                                      
+  168   322 Zachary Plachta            43:52   44:28   4       GODDARD CHILD DEVELOPMENT CENT 
+  169   207 Joseph Eggen               44:14   44:55  38                                      
+  170   321 Isaac Stern                46:38   47:13   3       GODDARD CHILD DEVELOPMENT CENT 
