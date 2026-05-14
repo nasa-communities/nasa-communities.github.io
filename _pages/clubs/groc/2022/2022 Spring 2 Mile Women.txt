@@ -1,0 +1,123 @@
+                                                                      Page 1
+                         93rd NASA Intracenter Run
+                        Goddard Space Flight Center
+                               May 25th,2022
+                              Female Results
+                    correction to tom.winkert@nasa.gov
+Place Num   Name                     Time    Guntime Age Code  Team                              
+===== ===== ======================== ======= ======= === ===== ============================== 
+    1   111 Missie Vess                14:03   14:05  42       OFF THE MESA                   
+    2    27 Lori Levine                15:38   15:41  47       MEMD                           
+    3    31 Joanne Hill-Kittle         15:39   15:45  48       GODDARD SENIOR LEADERS         
+    4    73 Sarah Ringerud             15:42   15:48  47       612ERS                         
+    5   202 Jessica Queen              16:16   16:21  22                                      
+    6    82 Stephanie McLaughlin       16:29   16:29  60       PEDIBYTES                      
+    7   245 Shannon Wilks              16:52   16:59  28       NEWTON                         
+    8    10 Alejandra Constante        17:24   17:28  41       CRYO                           
+    9   297 Mei Han                    17:26   17:33  48       612ERS                         
+   10 19236 Kimberly Stringer          17:45   18:43  20                                      
+   11   287 Yihua Zheng                17:54   18:11  50       HELIOPHYSICS                   
+   12    33 Joanna Delucia             18:22   18:31  53       RACE IPSA LOQUITUR             
+   13   250 Elena Talanova             18:37   18:41  53                                      
+   14   201 Jennette Mateo             18:40   18:46  40       DOODDLE                        
+   15   146 Lia Lewis                  18:58   19:06  33       OFF THE MESA                   
+   16    28 Geri Lyle                  19:00   19:00  37       SAIC / OMES II                 
+   17   101 Kimberly Drummond          19:14   19:20  34       ASRC/PAAC                      
+   18   216 Carolyn Kierans            19:24   19:35  34                                      
+   19   133 Tiffany Holden             19:25   19:33  37       PEDIBYTES                      
+   20   244 Emily Mink                 19:31   19:41  26       NEWTON                         
+   21   261 Milena Bur                 19:36   19:43   7                                      
+   22   260 Laura Bur                  19:36   19:44  42                                      
+   23   138 Larysa Paliashchuk         19:41   19:50  31       PEDIBYTES                      
+   24    58 Eleonora Castelli          20:17   20:25  29       GEODESIC DEVIANTS (660)        
+   25    13 Sadie Duffy                20:48   20:56  47       LENTECH                        
+   26     5 Robin Ripley               21:01   21:10  41       DAVINCI                        
+   27 19112 Juli Lander                21:16   21:28  52       PACE                           
+   28   263 Saima Zobair               21:41   21:50  49       PEDIBYTES                      
+   29    24 Jillianne Shear            21:44   22:05  40       SAIC / OMES II                 
+   30   286 Monica Todirita            22:40   22:55  52       GOE-SWFTLY                     
+   31   154 Allison Collow             23:43   24:09  34       GMAO                           
+   32    85 Kathryn Boerner            24:43   24:58  53       KBR                            
+   33    18 Shaela I Jones Mecholsky   24:59   25:13  42                                      
+   34   148 Sandy Strickland           25:06   25:24  39                                      
+   35 19243 Renee Reynolds             25:20   34:07  44                                      
+   36   205 Asha Rani                  25:50   25:56  42       DOODDLE                        
+   37   163 Lakshini Wijeweera         26:55   27:15  59       GCDC -STUDENTS                 
+   38   234 Teri Gregory               27:33   27:42  57                                      
+   39    54 Molly Jackson              27:38   27:58  40       GCDC -STUDENTS                 
+   40 19195 Tryshanda Moton            28:21   29:38  48                                      
+   41   369 Mavis Wilkicki-Shepherd    28:49   29:13   4                                      
+   42   156 Keisha Tigner              28:59   29:38  48       ACTION JACKSON                 
+   43   267 Kasey Bond                 30:18   30:35  30       DAVINCI                        
+   44   362 Sophia Riley               30:24   30:56   5                                      
+   45   268 Michelle Crigger           30:24   30:41  40       DAVINCI                        
+   46   204 Michele Wockenfuss         30:46   31:52  57       GODDARD SENIOR LEADERS         
+   47    14 Martha Wawro               31:11   31:30  42       KBR                            
+   48   273 Loren Phillips             31:29   32:10  57       RFOERS                         
+   49   232 Amy Bleich                 31:42   32:15  57                                      
+   50   364 Joshua Schuman             31:44   32:11   5                                      
+   51   175 Lisa Wilson                32:19   32:30  52       CCRS                           
+   52   238 Terita Wilson              32:36   33:12  49       TEAM SITSS/GITISS              
+   53   132 Sherita Mance              32:41   33:19  45       ACTION JACKSON                 
+   54   223 Marcy August               33:05   36:51  63       ASRC/PAAC                      
+   55   367 MacKenzie Spangler         33:20   33:46   5                                      
+   56    88 Erica McGrath-Spangler     33:20   33:47  39                                      
+   57   104 Barbara Bromley            33:20   34:29  52       ASRC/PAAC                      
+   58   106 Diane Trakas               33:21   34:29  52       ASRC/PAAC                      
+   59   365 Aida Shih                  33:23   33:47   5                                      
+   60   184 Sandra MacLin              34:10   35:13  61       ASRC/PAAC                      
+   61   152 K. Emma Knowland           34:18   34:52  38       GMAO                           
+   62   150 Christine Bloecker         34:19   34:53  30       GMAO                           
+   63    67 Aanya Gnanakkan            34:29   34:40   8                                      
+   64    61 Vani Starry Manoharan      34:29   34:41  38                                      
+   65   161 Hope Cain                  34:35   35:20  42       GCDC -STUDENTS                 
+   66   159 Elycia Chew                34:36   35:22  46       GCDC -STUDENTS                 
+   67   141 Michelle Hutchison         35:12   36:21  30       ASRC/PAAC                      
+   68   281 Paula Pruessner            35:21   35:46  43       LISA                           
+   69    91 Lisa Milani                35:23   35:58  41       612ERS                         
+   70   193 Mary Wallace               35:44   36:52  59       ASRC/PAAC                      
+   71   186 Adenike Bamgbade           35:50   36:25  46       TEAM SITSS/GITISS              
+   72   174 Katie Bisci                35:57   36:20  36                                      
+   73   160 Lauren Tokarcik            35:57   36:20  35                                      
+   74   177 Renee Dudley               35:59   36:18  53       GOE-SWFTLY                     
+   75   269 Jacquelyn Harris           36:00   36:16  29       RACE IPSA LOQUITUR             
+   76   118 Madison Elliott            36:00   36:21  23       ASRC/PAAC                      
+   77   114 Dee Kerr                   36:02   36:15  62       RACE IPSA LOQUITUR             
+   78   359 Natalya Kramarova          36:04   36:41  44                                      
+   79   129 Jameelah Hunter            36:05   36:42  39       ACTION JACKSON                 
+   80   134 Jody Roberts               36:06   36:44  65       ACTION JACKSON                 
+   81   179 Brittney Faulkner          36:13   36:58  29       TEAM SITSS/GITISS              
+   82 19043 Krissen Burriss            36:15   36:15  58       RACE IPSA LOQUITUR             
+   83   185 Megan Lewis                36:16   37:00  30                                      
+   84   360 Veronica Kerber            36:17   36:45   3                                      
+   85   151 Schanita Mitchell          36:20   37:01  41       GCDC -STUDENTS                 
+   86 19113 Niama Boukachaba           36:48   37:07  33       BOUKABARA'S FAMILY TEAM        
+   87 19133 Hannah Boukabara           36:50   37:08   1                                      
+   88   354 Yasmeen Boukabara          36:50   37:08   3                                      
+   89   357 Arnaz Chitsaz              37:26   37:50   5                                      
+   90   235 Lavida Cooper              37:26   37:50  42                                      
+   91    75 Laura Ottenstein           37:30   37:57  60       NOO KIDS ON THE BLOCK          
+   92   167 Kendra Bell                37:44   38:22  48       GCDC -STUDENTS                 
+   93   120 Jennifer Kalmanson         37:45   37:55  47       CCRS                           
+   94   375 Adalae Douglas             37:56   38:22   5                                      
+   95   155 Leona Dickens-Adams        38:23   39:14  44       GCDC -STUDENTS                 
+   96   181 Qianne Whitmire            38:23   39:07  31                                      
+   97   368 Aria Whitmire              38:24   39:06   4                                      
+   98   254 Jennifer Wentzel           38:47   39:09  48       SAFETY AND MISSION ASSURANCE   
+   99   270 Tayna Wilson               38:48   43:19  59                                      
+  100   203 Nancy Dutan                38:48   39:09  45       ASRC/PAAC                      
+  101   172 Christie Canaria           38:54   39:12  43                                      
+  102   355 Anne Cenko                 38:55   39:13   4                                      
+  103   221 Kadie Esi                  40:23   41:36  35       ASRC/PAAC                      
+  104   124 Jamia Dove                 42:01   43:11  24       THEFIVESTARS                   
+  105   108 Jessica Nelson             42:01   43:11  25       ASRC/PAAC                      
+  106    87 Sarah Conway               42:23   42:53  58       NOO KIDS ON THE BLOCK          
+  107   123 Tenika Jones               42:25   44:24  34       THEFIVESTARS                   
+  108   125 Meghan Krajewski           42:26   44:24  33       THEFIVESTARS                   
+  109    92 Deborah Amato              42:26   42:53  49       NOO KIDS ON THE BLOCK          
+  110    76 Tonjua Hines-Watts         42:26   42:54  58       NOO KIDS ON THE BLOCK          
+  111   210 H B                        42:26   42:53  35       NOO KIDS ON THE BLOCK          
+  112 19037 Irma Neira                 45:42   45:42  40                                      
+  113   302 Charlee Bellamy            47:52   47:52  58                                      
+  114   147 Gillian Ratter             49:22   49:22  36       SAIC / OMES II                 
+  115   121 Diane Diamond              49:22   49:22  29       SAIC / OMES II                 

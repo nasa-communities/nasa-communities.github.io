@@ -1,0 +1,37 @@
+                                                                      Page 1
+                         93rd NASA Intracenter Run
+                        Goddard Space Flight Center
+                               May 25th,2022
+                               Male Results
+                    correction to tom.winkert@nasa.gov
+                                    DNF
+Num   Name                     Time       
+===== ======================== ======= 
+    4 Peter Griffith                   
+   16 David Brunone                    
+   29 Michael Watterson                
+   30 Andrew Miller                    
+   42 David Carabis                    
+   49 Ira Thorpe                       
+   59 Ian Richardson                   
+   77 Warren Shearer                   
+   78 Edwin Garzon                     
+   89 Michael McClelllan               
+   97 Rodney Roberts                   
+   98 John Novotny                     
+  102 John Stupfel                     
+  109 Thomas Buchanan                  
+  113 Gustave Comeyne                  
+  135 James Hunter                     
+  136 Christopher Howard               
+  149 Blake Lorenz                     
+  169 Kevin Bock                       
+  173 Johnson Ejalu                    
+  199 Omar Williams                    
+  243 Frank Cullen                     
+  277 Aderemi Odufuye                  
+  358 Oba Esi                          
+  366 Adrian Silva                     
+  371 Elis Rodriguez                   
+
+Number of records: 26 

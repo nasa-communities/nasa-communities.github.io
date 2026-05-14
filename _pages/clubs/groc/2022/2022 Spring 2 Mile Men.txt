@@ -1,0 +1,152 @@
+                                                                      Page 1
+                         93rd NASA Intracenter Run
+                        Goddard Space Flight Center
+                               May 25th,2022
+                               Male Results
+                    correction to tom.winkert@nasa.gov
+Place Num   Name                     Time    Guntime Age Code  Team                              
+===== ===== ======================== ======= ======= === ===== ============================== 
+    1 19021 Jacob Englander            11:06   11:06  38                                      
+    2   171 Niko Fedkin                11:40   11:41  28                                      
+    3   122 Zachary Nasipak            12:12   12:12  28       GEODESIC DEVIANTS (660)        
+    4    41 Bernard Kelly              12:14   12:17  49       GEODESIC DEVIANTS (660)        
+    5   209 Maksym Petrenko            12:15   12:16  39                                      
+    6   187 Brent Barbee               12:19   12:21  41                                      
+    7   241 Ryan Fitzgibbons           12:33   12:39  41                                      
+    8   228 Joel Malissa               12:47   12:50  29       DRAGONSQRLI                    
+    9    53 Casey McGrath              12:47   12:49  30       GEODESIC DEVIANTS (660)        
+   10    68 Mircea Grecu               13:05   13:08  53       612ERS                         
+   11   225 William Bamford            13:10   13:12  47       SAIC / OMES II                 
+   12   295 Anthony Brazil             13:14   13:16  41       SAIC / OMES II                 
+   13     9 Peter Barfknecht           13:18   13:20  37       CRYO                           
+   14    37 Matthew Francom            13:20   13:22  29       CRYO                           
+   15     8 Matthew Seybold            13:33   13:34  48                                      
+   16   247 Sam Weingord               13:41   13:50  24       NEWTON                         
+   17    69 Ryan Hancock               13:42   13:45  32       LUNAR RELAY RUNNERS            
+   18    86 David Edwards              13:44   13:47  32                                      
+   19   289 Kenneth Christian          13:52   14:00  34       612ERS                         
+   20     6 Ian Carroll                14:00   14:02  41                                      
+   21    12 Keshav Swaminathan         14:02   14:04  31       SPACE NOODLES                  
+   22   212 Gilberto Vicente           14:02   14:03  60       CCRS                           
+   23   288 Brian Bolger               14:05   14:09  46       KBR                            
+   24   194 James Chervenak            14:20   14:26  52       DOODDLE                        
+   25   220 James Basl                 14:23   14:33  43                                      
+   26   280 Tom Nolan                  14:25   14:28  69                                      
+   27    55 Matt Garrison              14:30   14:37  39       DAVINCI                        
+   28    65 John Ruth                  14:31   14:35  26                                      
+   29    79 Zoran Kahric               14:38   14:39  56       TEAM TELOPHASE                 
+   30   105 Jonathan Dornblaser        14:38   14:43  41       ASRC/PAAC                      
+   31   246 Gabriel Maymon             14:43   14:57  24       NEWTON                         
+   32    47 Kirk Gordon                14:49   14:54  66                                      
+   33    22 Isak Wold                  14:56   14:59  44       GEODESIC DEVIANTS (660)        
+   34   128 Michael Sekerak            14:57   15:03  44       DAVINCI                        
+   35    50 John Baker                 15:12   15:18  53       GEODESIC DEVIANTS (660)        
+   36   265 Josh Nichols               15:18   15:29  31       CCRS                           
+   37   214 James Marshall             15:25   15:27  36                                      
+   38   266 Chensheng Wu               15:25   15:25  33       DRAGONSQRLI                    
+   39   300 Jeff Dalhoff               15:29   15:31  52                                      
+   40    80 Evan Ryder                 15:34   16:02  25       KBR                            
+   41   206 Jinan Zeng                 16:11   16:16  58                                      
+   42    23 Tim Barrett                16:17   16:17  26                                      
+   43   115 Philip Larkin              16:17   16:31  46       ESTO                           
+   44    56 Jacob Reed                 16:35   17:14  36       TEAM TELOPHASE                 
+   45   242 Nate Welsh                 16:36   16:49  26       NEWTON                         
+   46 19164 Robert Wolfe               16:51   16:57  64                                      
+   47    94 John Hartnett              17:01   17:08  44       TEAM SITSS/GITISS              
+   48    21 Raymond Ohl                17:05   17:28  49                                      
+   49    51 Charles Dickson            17:08   17:08  55                                      
+   50    60 Robert Levy                17:18   17:26  49                                      
+   51   255 Paul Padgett               17:21   17:34  39       ESTO                           
+   52   256 Douglas McGuffey           17:27   17:39  63                                      
+   53    63 Mark Clampin               17:27   17:32  60                                      
+   54   191 Michael Cabrera            17:35   18:01  38       SAIC / OMES II                 
+   55 19061 Joe Miko                   17:35   17:49  61                                      
+   56   198 Jared Lucey                17:41   18:07  39                                      
+   57 19055 Manuel Quijada             17:48   18:01  60                                      
+   58   283 Anh Van                    18:06   18:15  33                                      
+   59   217 Nicholas Cannady           18:15   18:27  33                                      
+   60   131 Gerd Fischer               18:24   18:32  62       SAFETY AND MISSION ASSURANCE   
+   61   157 Nikolay Balashov           18:28   18:58  34       GMAO                           
+   62   237 Brian Repp                 18:31   18:46  56       KBR                            
+   63 19045 Mark Buddoo                18:34   18:48  51                                      
+   64   213 David Baran                19:09   19:22  47       PACE                           
+   65   253 N. Michael Simpson         19:10   19:39  58       GOE-SWFTLY                     
+   66    35 Hak Seung Lee              19:13   19:17  43       CRYO                           
+   67   215 Andrew Inglis              19:20   19:32  37                                      
+   68   231 Matthew Deland             19:21   19:31  60                                      
+   69   110 Kenji Numata               19:31   19:53  46       LISA                           
+   70    34 Eric Simpson               19:40   20:32  53       TEAM SITSS/GITISS              
+   71    46 Glenn Tamkin               19:49   19:54  58                                      
+   72    74 James Demacek              19:55   19:59  46                                      
+   73 19044 Patrick Haas               20:06   20:19  59                                      
+   74    44 Tracy Dorsey               20:06   20:11  58       KBR                            
+   75   190 Fabrizzio Coronado         20:16   20:16  23       SAIC / OMES II                 
+   76    81 Steven Arvin               20:16   20:44  28       KBR                            
+   77   226 Mark Voyton                20:22   20:34  58       PACE                           
+   78    43 Jeffrey Kronenwetter       20:24   20:39  59       GOE-SWFTLY                     
+   79    83 Mark Solomon               20:52   20:54  64       GMAO                           
+   80   282 Peter Colarco              20:55   21:04  50                                      
+   81   117 Ellis Amo                  20:58   22:00  19                                      
+   82   222 Aaron Bush                 21:10   21:13  40       SAFETY AND MISSION ASSURANCE   
+   83   249 Corey Crawford             21:32   21:42  53       NEWTON                         
+   84    16 David Brunone              22:05   22:05  37       SAIC / OMES II                 
+   85   197 Terence Doiron             23:10   23:38  53       LISA                           
+   86   285 David Kubalak              23:23   23:23  53                                      
+   87   252 Christopher Greenwell      23:40   23:56  61                                      
+   88    64 Robert Leahy               23:49   24:16  60       GODDARD SENIOR LEADERS         
+   89    38 Ralph Welsh Jr             24:10   24:17  82                                      
+   90   192 Justin Mahaney             24:46   24:46  30       SAIC / OMES II                 
+   91   139 Jason Arcido               25:53   26:14  44                                      
+   92   361 Kiran Mahajan              25:57   26:16   4                                      
+   93   350 Edison Arcido              25:57   26:19   4                                      
+   94   262 Matthias Bur               26:33   26:41   5                                      
+   95   259 Michael Bur                26:36   26:44  57                                      
+   96    48 Timothy Wilcox             26:41   26:45  55       LANDSAT                        
+   97   218 Rahman Gunawan             26:43   27:19  51       TEAM SITSS/GITISS              
+   98   145 Joseph Minty               27:16   27:22  31       SAIC / OMES II                 
+   99    25 Philip Hochendoner         27:18   27:18  34       SAIC / OMES II                 
+  100   274 Jay Friedlander            27:29   27:41  60       PEDIBYTES                      
+  101  1200 Phillip Nessler            27:49   27:59  58 250                                  
+  102    19 Nathan Jackson             27:58   27:58   5                                      
+  103   112 Jason Houston              28:18   29:24  37       ASRC/PAAC                      
+  104   227 Jose Tillard               28:39   28:57  45       DRAGONSQRLI                    
+  105   224 Zack Harvatine             29:50   29:56  27       SAIC / OMES II                 
+  106   278 Vince Elliott              30:21   30:41  51                                      
+  107   240 Christopher Riley          30:25   30:56  40                                      
+  108    15 Quentin Katchinoff         31:13   31:30   4       GCDC -STUDENTS                 
+  109   276 Ifemiloluwa Aderemi-Oduf   32:29   32:57   4                                      
+  110   251 Marcus Fedeli              32:35   33:12  45       TEAM SITSS/GITISS              
+  111    70 Michael Boland             32:36   33:12  45       TEAM SITSS/GITISS              
+  112   211 Albert Shih                33:23   33:45  41                                      
+  113   239 Raymond Levesque           34:10   34:49  58       KBR                            
+  114   183 Chris MacLin               34:11   35:13  61       ASRC/PAAC                      
+  115   195 Tosh Keune                 34:31   34:46  63       SAIC / OMES II                 
+  116    96 Kun Ren                    35:09   35:20  47       TEAM SITSS/GITISS              
+  117 19138 Ted Ying                   35:12   35:22  57       SAIC / OMES II                 
+  118   258 Rob Lucchesi               35:23   35:58  55       GMAO                           
+  119   374 Nicholas Cresce            35:33   35:55   5                                      
+  120   373 Alexander Cresce           35:33   35:55   5                                      
+  121   137 Arthur Cresce              35:34   35:55  42                                      
+  122   230 Carlos Vazquez             35:40   36:17  45                                      
+  123   229 Michael Fritsch            35:40   36:18  35                                      
+  124   284 Richard Rivera             35:59   36:19  60       KBR                            
+  125   142 Thomas Browder             36:00   36:15  53       RACE IPSA LOQUITUR             
+  126   180 Colton Debaugh             36:12   36:57   5       TEAM SITSS/GITISS              
+  127   189 Esteban Morales            36:16   37:00  44                                      
+  128    95 Justin Kerber              36:18   36:46  38                                      
+  129   271 Gil Glass                  36:36   36:47  57       SAIC / OMES II                 
+  130   144 Sid Ahmed Boukabara        36:50   37:08  50       BOUKABARA'S FAMILY TEAM        
+  131   279 Tom Hughes                 37:20   37:33  58       PEDIBYTES                      
+  132   236 Kourosh Chitsaz            37:29   37:54  58                                      
+  133   291 Noah Ibrahim               37:40   38:06   3                                      
+  134   290 Amir Ibrahim               37:41   38:07  36                                      
+  135   372 Conrad Jones               38:18   38:58   5                                      
+  136 19033 Jeremiah Zebenay           38:20   38:54   5                                      
+  137   182 Sheldon Whitmire           38:24   39:07  37                                      
+  138   219 Melak Zebenay              38:30   39:03  41       SAIC / OMES II                 
+  139   208 Stephen Cenko              38:54   39:12  42                                      
+  140   233 Kevin Heesh                41:45   41:45  35       LISA                           
+  141    26 Mark Fuerst                42:34   43:07  65       SAIC / OMES II                 
+  142   301 David Simpson              42:36   43:10  61                                      
+  143   351 Kuzey Aymergen             42:37   43:15   4                                      
+  144 19026 Juan Argueta               44:18   45:36  35                                      

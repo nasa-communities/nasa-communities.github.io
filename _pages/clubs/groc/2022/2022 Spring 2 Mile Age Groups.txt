@@ -1,0 +1,295 @@
+                         93rd NASA Intracenter Run
+                        Goddard Space Flight Center
+                               May 25th,2022
+
+
+                         MALE AGE GROUP:  20 - 29
+Place O'All Name                     Code  Time       
+===== ===== ======================== ===== ======= 
+    1     2 Niko Fedkin                      11:40 
+    2     3 Zachary Nasipak                  12:12 
+    3     8 Joel Malissa                     12:47 
+    4    14 Matthew Francom                  13:20 
+    5    16 Sam Weingord                     13:41 
+    6    29 John Ruth                        14:31 
+    7    32 Gabriel Maymon                   14:43 
+    8    41 Evan Ryder                       15:34 
+    9    47 Tim Barrett                      16:17 
+   10    51 Nate Welsh                       16:36 
+   11    98 Fabrizzio Coronado               20:16 
+   12    99 Steven Arvin                     20:16 
+   13   147 Zack Harvatine                   29:50 
+
+
+                        FEMALE AGE GROUP:  20 - 29
+Place O'All Name                     Code  Time       
+===== ===== ======================== ===== ======= 
+    1    46 Jessica Queen                    16:16 
+    2    53 Shannon Wilks                    16:52 
+    3    66 Kimberly Stringer                17:45 
+    4    88 Emily Mink                       19:31 
+    5   100 Eleonora Castelli                20:17 
+    6   200 Jacquelyn Harris                 36:00 
+    7   201 Madison Elliott                  36:00 
+    8   207 Brittney Faulkner                36:13 
+    9   244 Jamia Dove                       42:01 
+   10   245 Jessica Nelson                   42:01 
+   11   259 Diane Diamond                    49:22 
+
+
+                         MALE AGE GROUP:  30 - 39
+Place O'All Name                     Code  Time       
+===== ===== ======================== ===== ======= 
+    1     1 Jacob Englander                  11:06 
+    2     5 Maksym Petrenko                  12:15 
+    3     9 Casey McGrath                    12:47 
+    4    13 Peter Barfknecht                 13:18 
+    5    17 Ryan Hancock                     13:42 
+    6    18 David Edwards                    13:44 
+    7    19 Kenneth Christian                13:52 
+    8    21 Keshav Swaminathan               14:02 
+    9    28 Matt Garrison                    14:30 
+   10    37 Josh Nichols                     15:18 
+   11    38 James Marshall                   15:25 
+   12    39 Chensheng Wu                     15:25 
+   13    50 Jacob Reed                       16:35 
+   14    58 Paul Padgett                     17:21 
+   15    63 Michael Cabrera                  17:35 
+   16    65 Jared Lucey                      17:41 
+   17    69 Anh Van                          18:06 
+   18    70 Nicholas Cannady                 18:15 
+   19    73 Nikolay Balashov                 18:28 
+   20    84 Andrew Inglis                    19:20 
+   21   113 David Brunone                    22:05 
+   22   122 Justin Mahaney                   24:46 
+   23   135 Joseph Minty                     27:16 
+   24   136 Philip Hochendoner               27:18 
+   25   142 Jason Houston                    28:18 
+   26   192 Michael Fritsch                  35:40 
+   27   212 Justin Kerber                    36:18 
+   28   225 Amir Ibrahim                     37:41 
+   29   234 Sheldon Whitmire                 38:24 
+   30   243 Kevin Heesh                      41:45 
+   31   255 Juan Argueta                     44:18 
+
+
+                        FEMALE AGE GROUP:  30 - 39
+Place O'All Name                     Code  Time       
+===== ===== ======================== ===== ======= 
+    1    78 Lia Lewis                        18:58 
+    2    79 Geri Lyle                        19:00 
+    3    83 Kimberly Drummond                19:14 
+    4    86 Carolyn Kierans                  19:24 
+    5    87 Tiffany Holden                   19:25 
+    6    93 Larysa Paliashchuk               19:41 
+    7   118 Allison Collow                   23:43 
+    8   124 Sandy Strickland                 25:06 
+    9   148 Kasey Bond                       30:18 
+   10   167 Erica McGrath-Spangler           33:20 
+   11   175 K. Emma Knowland                 34:18 
+   12   176 Christine Bloecker               34:19 
+   13   178 Vani Starry Manoharan            34:29 
+   14   183 Michelle Hutchison               35:12 
+   15   195 Katie Bisci                      35:57 
+   16   196 Lauren Tokarcik                  35:57 
+   17   204 Jameelah Hunter                  36:05 
+   18   210 Megan Lewis                      36:16 
+   19   215 Niama Boukachaba                 36:48 
+   20   232 Qianne Whitmire                  38:23 
+   21   242 Kadie Esi                        40:23 
+   22   247 Tenika Jones                     42:25 
+   23   248 Meghan Krajewski                 42:26 
+   24   251 H B                              42:26 
+   25   258 Gillian Ratter                   49:22 
+
+
+                         MALE AGE GROUP:  40 - 49
+Place O'All Name                     Code  Time       
+===== ===== ======================== ===== ======= 
+    1     4 Bernard Kelly                    12:14 
+    2     6 Brent Barbee                     12:19 
+    3     7 Ryan Fitzgibbons                 12:33 
+    4    11 William Bamford                  13:10 
+    5    12 Anthony Brazil                   13:14 
+    6    15 Matthew Seybold                  13:33 
+    7    20 Ian Carroll                      14:00 
+    8    24 Brian Bolger                     14:05 
+    9    26 James Basl                       14:23 
+   10    31 Jonathan Dornblaser              14:38 
+   11    34 Isak Wold                        14:56 
+   12    35 Michael Sekerak                  14:57 
+   13    48 Philip Larkin                    16:17 
+   14    54 John Hartnett                    17:01 
+   15    55 Raymond Ohl                      17:05 
+   16    57 Robert Levy                      17:18 
+   17    80 David Baran                      19:09 
+   18    82 Hak Seung Lee                    19:13 
+   19    89 Kenji Numata                     19:31 
+   20    95 James Demacek                    19:55 
+   21   108 Aaron Bush                       21:10 
+   22   127 Jason Arcido                     25:53 
+   23   144 Jose Tillard                     28:39 
+   24   152 Christopher Riley                30:25 
+   25   161 Marcus Fedeli                    32:35 
+   26   163 Michael Boland                   32:36 
+   27   170 Albert Shih                      33:23 
+   28   182 Kun Ren                          35:09 
+   29   190 Arthur Cresce                    35:34 
+   30   191 Carlos Vazquez                   35:40 
+   31   209 Esteban Morales                  36:16 
+   32   235 Melak Zebenay                    38:30 
+   33   240 Stephen Cenko                    38:54 
+
+
+                        FEMALE AGE GROUP:  40 - 49
+Place O'All Name                     Code  Time       
+===== ===== ======================== ===== ======= 
+    1    23 Missie Vess                      14:03 
+    2    42 Lori Levine                      15:38 
+    3    43 Joanne Hill-Kittle               15:39 
+    4    44 Sarah Ringerud                   15:42 
+    5    59 Alejandra Constante              17:24 
+    6    60 Mei Han                          17:26 
+    7    77 Jennette Mateo                   18:40 
+    8    91 Laura Bur                        19:36 
+    9   103 Sadie Duffy                      20:48 
+   10   107 Robin Ripley                     21:01 
+   11   111 Saima Zobair                     21:41 
+   12   112 Jillianne Shear                  21:44 
+   13   123 Shaela I Jones Mecholsky         24:59 
+   14   125 Renee Reynolds                   25:20 
+   15   126 Asha Rani                        25:50 
+   16   139 Molly Jackson                    27:38 
+   17   143 Tryshanda Moton                  28:21 
+   18   146 Keisha Tigner                    28:59 
+   19   151 Michelle Crigger                 30:24 
+   20   154 Martha Wawro                     31:11 
+   21   162 Terita Wilson                    32:36 
+   22   164 Sherita Mance                    32:41 
+   23   180 Hope Cain                        34:35 
+   24   181 Elycia Chew                      34:36 
+   25   185 Paula Pruessner                  35:21 
+   26   186 Lisa Milani                      35:23 
+   27   194 Adenike Bamgbade                 35:50 
+   28   203 Natalya Kramarova                36:04 
+   29   213 Schanita Mitchell                36:20 
+   30   221 Lavida Cooper                    37:26 
+   31   226 Kendra Bell                      37:44 
+   32   227 Jennifer Kalmanson               37:45 
+   33   231 Leona Dickens-Adams              38:23 
+   34   236 Jennifer Wentzel                 38:47 
+   35   238 Nancy Dutan                      38:48 
+   36   239 Christie Canaria                 38:54 
+   37   249 Deborah Amato                    42:26 
+   38   256 Irma Neira                       45:42 
+
+
+                         MALE AGE GROUP:  50 - 59
+Place O'All Name                     Code  Time       
+===== ===== ======================== ===== ======= 
+    1    10 Mircea Grecu                     13:05 
+    2    25 James Chervenak                  14:20 
+    3    30 Zoran Kahric                     14:38 
+    4    36 John Baker                       15:12 
+    5    40 Jeff Dalhoff                     15:29 
+    6    45 Jinan Zeng                       16:11 
+    7    56 Charles Dickson                  17:08 
+    8    74 Brian Repp                       18:31 
+    9    75 Mark Buddoo                      18:34 
+   10    81 N. Michael Simpson               19:10 
+   11    92 Eric Simpson                     19:40 
+   12    94 Glenn Tamkin                     19:49 
+   13    96 Patrick Haas                     20:06 
+   14    97 Tracy Dorsey                     20:06 
+   15   101 Mark Voyton                      20:22 
+   16   102 Jeffrey Kronenwetter             20:24 
+   17   105 Peter Colarco                    20:55 
+   18   110 Corey Crawford                   21:32 
+   19   115 Terence Doiron                   23:10 
+   20   116 David Kubalak                    23:23 
+   21   131 Michael Bur                      26:36 
+   22   132 Timothy Wilcox                   26:41 
+   23   133 Rahman Gunawan                   26:43 
+   24   140 Phillip Nessler          250     27:49 
+   25   149 Vince Elliott                    30:21 
+   26   173 Raymond Levesque                 34:10 
+   27   184 Ted Ying                         35:12 
+   28   187 Rob Lucchesi                     35:23 
+   29   199 Thomas Browder                   36:00 
+   30   214 Gil Glass                        36:36 
+   31   216 Sid Ahmed Boukabara              36:50 
+   32   219 Tom Hughes                       37:20 
+   33   222 Kourosh Chitsaz                  37:29 
+
+
+                        FEMALE AGE GROUP:  50 - 59
+Place O'All Name                     Code  Time       
+===== ===== ======================== ===== ======= 
+    1    68 Yihua Zheng                      17:54 
+    2    71 Joanna Delucia                   18:22 
+    3    76 Elena Talanova                   18:37 
+    4   109 Juli Lander                      21:16 
+    5   114 Monica Todirita                  22:40 
+    6   121 Kathryn Boerner                  24:43 
+    7   134 Lakshini Wijeweera               26:55 
+    8   138 Teri Gregory                     27:33 
+    9   153 Michele Wockenfuss               30:46 
+   10   156 Loren Phillips                   31:29 
+   11   157 Amy Bleich                       31:42 
+   12   159 Lisa Wilson                      32:19 
+   13   168 Barbara Bromley                  33:20 
+   14   169 Diane Trakas                     33:21 
+   15   193 Mary Wallace                     35:44 
+   16   197 Renee Dudley                     35:59 
+   17   208 Krissen Burriss                  36:15 
+   18   237 Tayna Wilson                     38:48 
+   19   246 Sarah Conway                     42:23 
+   20   250 Tonjua Hines-Watts               42:26 
+   21   257 Charlee Bellamy                  47:52 
+
+
+                         MALE AGE GROUP:  60 - 69
+Place O'All Name                     Code  Time       
+===== ===== ======================== ===== ======= 
+    1    22 Gilberto Vicente                 14:02 
+    2    27 Tom Nolan                        14:25 
+    3    33 Kirk Gordon                      14:49 
+    4    52 Robert Wolfe                     16:51 
+    5    61 Douglas McGuffey                 17:27 
+    6    62 Mark Clampin                     17:27 
+    7    64 Joe Miko                         17:35 
+    8    67 Manuel Quijada                   17:48 
+    9    72 Gerd Fischer                     18:24 
+   10    85 Matthew Deland                   19:21 
+   11   104 Mark Solomon                     20:52 
+   12   117 Christopher Greenwell            23:40 
+   13   119 Robert Leahy                     23:49 
+   14   137 Jay Friedlander                  27:29 
+   15   174 Chris MacLin                     34:11 
+   16   179 Tosh Keune                       34:31 
+   17   198 Richard Rivera                   35:59 
+   18   252 Mark Fuerst                      42:34 
+   19   253 David Simpson                    42:36 
+
+
+                        FEMALE AGE GROUP:  60 - 69
+Place O'All Name                     Code  Time       
+===== ===== ======================== ===== ======= 
+    1    49 Stephanie McLaughlin             16:29 
+    2   165 Marcy August                     33:05 
+    3   172 Sandra MacLin                    34:10 
+    4   202 Dee Kerr                         36:02 
+    5   205 Jody Roberts                     36:06 
+    6   223 Laura Ottenstein                 37:30 
+
+
+                         MALE AGE GROUP:  70 - 99
+Place O'All Name                     Code  Time       
+===== ===== ======================== ===== ======= 
+    1   120 Ralph Welsh Jr                   24:10 
+
+
+                        FEMALE AGE GROUP:  70 - 99
+Place O'All Name                     Code  Time       
+===== ===== ======================== ===== ======= 
+

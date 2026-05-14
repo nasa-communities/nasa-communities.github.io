@@ -1,0 +1,267 @@
+                                                                      Page 1
+                         93rd NASA Intracenter Run
+                        Goddard Space Flight Center
+                               May 25th,2022
+                               Male Results
+                    correction to tom.winkert@nasa.gov
+Place Num   Name                     Guntime  Sex Age Code  Team                              
+===== ===== ======================== ======== === === ===== ============================== 
+    1 19021 Jacob Englander          11:05.75   M  38                                      
+    2   171 Niko Fedkin              11:40.12   M  28                                      
+    3   122 Zachary Nasipak          12:11.50   M  28       GEODESIC DEVIANTS (660)        
+    4   209 Maksym Petrenko          12:15.71   M  39                                      
+    5    41 Bernard Kelly            12:16.21   M  49       GEODESIC DEVIANTS (660)        
+    6   187 Brent Barbee             12:20.15   M  41                                      
+    7   241 Ryan Fitzgibbons         12:38.12   M  41                                      
+    8    53 Casey McGrath            12:48.88   M  30       GEODESIC DEVIANTS (660)        
+    9   228 Joel Malissa             12:49.63   M  29       DRAGONSQRLI                    
+   10    68 Mircea Grecu             13:07.70   M  53       612ERS                         
+   11   225 William Bamford          13:11.70   M  47       SAIC / OMES II                 
+   12   295 Anthony Brazil           13:16.00   M  41       SAIC / OMES II                 
+   13     9 Peter Barfknecht         13:19.42   M  37       CRYO                           
+   14    37 Matthew Francom          13:21.87   M  29       CRYO                           
+   15     8 Matthew Seybold          13:34.00   M  48                                      
+   16    69 Ryan Hancock             13:44.99   M  32       LUNAR RELAY RUNNERS            
+   17    86 David Edwards            13:46.36   M  32                                      
+   18   247 Sam Weingord             13:49.90   M  24       NEWTON                         
+   19   289 Kenneth Christian        13:59.54   M  34       612ERS                         
+   20     6 Ian Carroll              14:01.22   M  41                                      
+   21   212 Gilberto Vicente         14:02.33   M  60       CCRS                           
+   22    12 Keshav Swaminathan       14:03.24   M  31       SPACE NOODLES                  
+   23   111 Missie Vess              14:04.87   F  42       OFF THE MESA                   
+   24   288 Brian Bolger             14:08.99   M  46       KBR                            
+   25   194 James Chervenak          14:25.28   M  52       DOODDLE                        
+   26   280 Tom Nolan                14:27.44   M  69                                      
+   27   220 James Basl               14:33.00   M  43                                      
+   28    65 John Ruth                14:34.63   M  26                                      
+   29    55 Matt Garrison            14:36.57   M  39       DAVINCI                        
+   30    79 Zoran Kahric             14:38.95   M  56       TEAM TELOPHASE                 
+   31   105 Jonathan Dornblaser      14:42.42   M  41       ASRC/PAAC                      
+   32    47 Kirk Gordon              14:53.56   M  66                                      
+   33   246 Gabriel Maymon           14:56.77   M  24       NEWTON                         
+   34    22 Isak Wold                14:58.78   M  44       GEODESIC DEVIANTS (660)        
+   35   128 Michael Sekerak          15:02.26   M  44       DAVINCI                        
+   36    50 John Baker               15:17.01   M  53       GEODESIC DEVIANTS (660)        
+   37   266 Chensheng Wu             15:24.33   M  33       DRAGONSQRLI                    
+   38   214 James Marshall           15:26.93   M  36                                      
+   39   265 Josh Nichols             15:28.93   M  31       CCRS                           
+   40   300 Jeff Dalhoff             15:30.91   M  52                                      
+   41    27 Lori Levine              15:40.94   F  47       MEMD                           
+   42    31 Joanne Hill-Kittle       15:44.68   F  48       GODDARD SENIOR LEADERS         
+   43    73 Sarah Ringerud           15:47.58   F  47       612ERS                         
+   44    80 Evan Ryder               16:01.63   M  25       KBR                            
+   45   206 Jinan Zeng               16:15.72   M  58                                      
+   46    23 Tim Barrett              16:16.47   M  26                                      
+   47   202 Jessica Queen            16:20.97   F  22                                      
+   48    82 Stephanie McLaughlin     16:28.08   F  60       PEDIBYTES                      
+   49   115 Philip Larkin            16:30.59   M  46       ESTO                           
+   50   242 Nate Welsh               16:48.22   M  26       NEWTON                         
+   51 19164 Robert Wolfe             16:56.66   M  64                                      
+   52   245 Shannon Wilks            16:58.34   F  28       NEWTON                         
+   53    51 Charles Dickson          17:07.13   M  55                                      
+   54    94 John Hartnett            17:07.79   M  44       TEAM SITSS/GITISS              
+   55    56 Jacob Reed               17:13.14   M  36       TEAM TELOPHASE                 
+   56    60 Robert Levy              17:25.97   M  49                                      
+   57    21 Raymond Ohl              17:27.17   M  49                                      
+   58    10 Alejandra Constante      17:27.98   F  41       CRYO                           
+   59    63 Mark Clampin             17:31.06   M  60                                      
+   60   297 Mei Han                  17:32.81   F  48       612ERS                         
+   61   255 Paul Padgett             17:33.42   M  39       ESTO                           
+   62   256 Douglas McGuffey         17:38.77   M  63                                      
+   63 19061 Joe Miko                 17:48.80   M  61                                      
+   64 19055 Manuel Quijada           18:00.34   M  60                                      
+   65   191 Michael Cabrera          18:00.84   M  38       SAIC / OMES II                 
+   66   198 Jared Lucey              18:06.60   M  39                                      
+   67   287 Yihua Zheng              18:10.02   F  50       HELIOPHYSICS                   
+   68   283 Anh Van                  18:14.28   M  33                                      
+   69   217 Nicholas Cannady         18:26.69   M  33                                      
+   70    33 Joanna Delucia           18:30.45   F  53       RACE IPSA LOQUITUR             
+   71   131 Gerd Fischer             18:31.42   M  62       SAFETY AND MISSION ASSURANCE   
+   72   250 Elena Talanova           18:40.22   F  53                                      
+   73 19236 Kimberly Stringer        18:42.26   F  20                                      
+   74   201 Jennette Mateo           18:45.56   F  40       DOODDLE                        
+   75   237 Brian Repp               18:45.82   M  56       KBR                            
+   76 19045 Mark Buddoo              18:47.84   M  51                                      
+   77   157 Nikolay Balashov         18:57.25   M  34       GMAO                           
+   78    28 Geri Lyle                18:59.61   F  37       SAIC / OMES II                 
+   79   146 Lia Lewis                19:05.63   F  33       OFF THE MESA                   
+   80    35 Hak Seung Lee            19:16.94   M  43       CRYO                           
+   81   101 Kimberly Drummond        19:19.16   F  34       ASRC/PAAC                      
+   82   213 David Baran              19:21.50   M  47       PACE                           
+   83   231 Matthew Deland           19:30.62   M  60                                      
+   84   215 Andrew Inglis            19:31.48   M  37                                      
+   85   133 Tiffany Holden           19:32.96   F  37       PEDIBYTES                      
+   86   216 Carolyn Kierans          19:34.37   F  34                                      
+   87   253 N. Michael Simpson       19:38.47   M  58       GOE-SWFTLY                     
+   88   244 Emily Mink               19:40.33   F  26       NEWTON                         
+   89   261 Milena Bur               19:42.39   F   7                                      
+   90   260 Laura Bur                19:43.19   F  42                                      
+   91   138 Larysa Paliashchuk       19:49.43   F  31       PEDIBYTES                      
+   92   110 Kenji Numata             19:52.62   M  46       LISA                           
+   93    46 Glenn Tamkin             19:53.68   M  58                                      
+   94    74 James Demacek            19:58.88   M  46                                      
+   95    44 Tracy Dorsey             20:10.85   M  58       KBR                            
+   96   190 Fabrizzio Coronado       20:15.10   M  23       SAIC / OMES II                 
+   97 19044 Patrick Haas             20:18.07   M  59                                      
+   98    58 Eleonora Castelli        20:24.05   F  29       GEODESIC DEVIANTS (660)        
+   99    34 Eric Simpson             20:31.64   M  53       TEAM SITSS/GITISS              
+  100   226 Mark Voyton              20:33.02   M  58       PACE                           
+  101    43 Jeffrey Kronenwetter     20:38.72   M  59       GOE-SWFTLY                     
+  102    81 Steven Arvin             20:43.19   M  28       KBR                            
+  103    83 Mark Solomon             20:53.13   M  64       GMAO                           
+  104    13 Sadie Duffy              20:55.85   F  47       LENTECH                        
+  105   282 Peter Colarco            21:03.36   M  50                                      
+  106     5 Robin Ripley             21:09.25   F  41       DAVINCI                        
+  107   222 Aaron Bush               21:12.86   M  40       SAFETY AND MISSION ASSURANCE   
+  108 19112 Juli Lander              21:27.37   F  52       PACE                           
+  109   249 Corey Crawford           21:41.80   M  53       NEWTON                         
+  110   263 Saima Zobair             21:49.88   F  49       PEDIBYTES                      
+  111   117 Ellis Amo                21:59.51   M  19                                      
+  112    24 Jillianne Shear          22:04.61   F  40       SAIC / OMES II                 
+  113    16 David Brunone            22:04.61   M  37       SAIC / OMES II                 
+  114   286 Monica Todirita          22:54.35   F  52       GOE-SWFTLY                     
+  115   285 David Kubalak            23:22.97   M  53                                      
+  116   197 Terence Doiron           23:37.52   M  53       LISA                           
+  117   252 Christopher Greenwell    23:55.41   M  61                                      
+  118   154 Allison Collow           24:08.60   F  34       GMAO                           
+  119    64 Robert Leahy             24:15.11   M  60       GODDARD SENIOR LEADERS         
+  120    38 Ralph Welsh Jr           24:16.02   M  82                                      
+  121   192 Justin Mahaney           24:45.60   M  30       SAIC / OMES II                 
+  122    85 Kathryn Boerner          24:57.42   F  53       KBR                            
+  123    18 Shaela I Jones Mecholsky 25:12.35   F  42                                      
+  124   148 Sandy Strickland         25:23.14   F  39                                      
+  125   205 Asha Rani                25:55.66   F  42       DOODDLE                        
+  126   139 Jason Arcido             26:13.66   M  44                                      
+  127   361 Kiran Mahajan            26:15.47   M   4                                      
+  128   350 Edison Arcido            26:18.27   M   4                                      
+  129   262 Matthias Bur             26:40.78   M   5                                      
+  130   259 Michael Bur              26:43.74   M  57                                      
+  131    48 Timothy Wilcox           26:44.78   M  55       LANDSAT                        
+  132   163 Lakshini Wijeweera       27:14.28   F  59       GCDC -STUDENTS                 
+  133    25 Philip Hochendoner       27:17.50   M  34       SAIC / OMES II                 
+  134   218 Rahman Gunawan           27:18.08   M  51       TEAM SITSS/GITISS              
+  135   145 Joseph Minty             27:21.20   M  31       SAIC / OMES II                 
+  136   274 Jay Friedlander          27:40.93   M  60       PEDIBYTES                      
+  137   234 Teri Gregory             27:41.45   F  57                                      
+  138    19 Nathan Jackson           27:57.63   M   5                                      
+  139    54 Molly Jackson            27:57.64   F  40       GCDC -STUDENTS                 
+  140  1200 Phillip Nessler          27:58.61   M  58 250                                  
+  141   227 Jose Tillard             28:56.69   M  45       DRAGONSQRLI                    
+  142   369 Mavis Wilkicki-Shepherd  29:12.82   F   4                                      
+  143   112 Jason Houston            29:23.09   M  37       ASRC/PAAC                      
+  144 19195 Tryshanda Moton          29:37.62   F  48                                      
+  145   156 Keisha Tigner            29:37.82   F  48       ACTION JACKSON                 
+  146   224 Zack Harvatine           29:55.07   M  27       SAIC / OMES II                 
+  147   267 Kasey Bond               30:34.49   F  30       DAVINCI                        
+  148   278 Vince Elliott            30:40.71   M  51                                      
+  149   268 Michelle Crigger         30:40.77   F  40       DAVINCI                        
+  150   362 Sophia Riley             30:55.30   F   5                                      
+  151   240 Christopher Riley        30:55.80   M  40                                      
+  152    15 Quentin Katchinoff       31:29.67   M   4       GCDC -STUDENTS                 
+  153    14 Martha Wawro             31:30.00   F  42       KBR                            
+  154   204 Michele Wockenfuss       31:51.43   F  57       GODDARD SENIOR LEADERS         
+  155   273 Loren Phillips           32:09.49   F  57       RFOERS                         
+  156   364 Joshua Schuman           32:10.28   F   5                                      
+  157   232 Amy Bleich               32:14.36   F  57                                      
+  158   175 Lisa Wilson              32:29.91   F  52       CCRS                           
+  159   276 Ifemiloluwa Aderemi-Oduf 32:56.43   M   4                                      
+  160   251 Marcus Fedeli            33:11.39   M  45       TEAM SITSS/GITISS              
+  161   238 Terita Wilson            33:11.55   F  49       TEAM SITSS/GITISS              
+  162    70 Michael Boland           33:11.66   M  45       TEAM SITSS/GITISS              
+  163   132 Sherita Mance            33:18.74   F  45       ACTION JACKSON                 
+  164   211 Albert Shih              33:44.79   M  41                                      
+  165   367 MacKenzie Spangler       33:45.79   F   5                                      
+  166    88 Erica McGrath-Spangler   33:46.01   F  39                                      
+  167   365 Aida Shih                33:46.07   F   5                                      
+  168 19243 Renee Reynolds           34:06.24   F  44                                      
+  169   106 Diane Trakas             34:28.70   F  52       ASRC/PAAC                      
+  170   104 Barbara Bromley          34:28.83   F  52       ASRC/PAAC                      
+  171    67 Aanya Gnanakkan          34:40.00   F   8                                      
+  172    61 Vani Starry Manoharan    34:40.46   F  38                                      
+  173   195 Tosh Keune               34:45.13   M  63       SAIC / OMES II                 
+  174   239 Raymond Levesque         34:48.34   M  58       KBR                            
+  175   152 K. Emma Knowland         34:51.84   F  38       GMAO                           
+  176   150 Christine Bloecker       34:52.42   F  30       GMAO                           
+  177   184 Sandra MacLin            35:12.04   F  61       ASRC/PAAC                      
+  178   183 Chris MacLin             35:12.55   M  61       ASRC/PAAC                      
+  179    96 Kun Ren                  35:19.34   M  47       TEAM SITSS/GITISS              
+  180   161 Hope Cain                35:19.90   F  42       GCDC -STUDENTS                 
+  181 19138 Ted Ying                 35:21.08   M  57       SAIC / OMES II                 
+  182   159 Elycia Chew              35:21.26   F  46       GCDC -STUDENTS                 
+  183   281 Paula Pruessner          35:45.02   F  43       LISA                           
+  184   373 Alexander Cresce         35:54.80   M   5                                      
+  185   374 Nicholas Cresce          35:54.94   M   5                                      
+  186   137 Arthur Cresce            35:54.99   M  42                                      
+  187   258 Rob Lucchesi             35:57.24   M  55       GMAO                           
+  188    91 Lisa Milani              35:57.43   F  41       612ERS                         
+  189   142 Thomas Browder           36:14.31   M  53       RACE IPSA LOQUITUR             
+  190 19043 Krissen Burriss          36:14.43   F  58       RACE IPSA LOQUITUR             
+  191   114 Dee Kerr                 36:14.85   F  62       RACE IPSA LOQUITUR             
+  192   269 Jacquelyn Harris         36:15.12   F  29       RACE IPSA LOQUITUR             
+  193   230 Carlos Vazquez           36:16.53   M  45                                      
+  194   229 Michael Fritsch          36:17.07   M  35                                      
+  195   177 Renee Dudley             36:17.72   F  53       GOE-SWFTLY                     
+  196   284 Richard Rivera           36:18.01   M  60       KBR                            
+  197   174 Katie Bisci              36:19.38   F  36                                      
+  198   160 Lauren Tokarcik          36:19.49   F  35                                      
+  199   141 Michelle Hutchison       36:20.34   F  30       ASRC/PAAC                      
+  200   118 Madison Elliott          36:20.65   F  23       ASRC/PAAC                      
+  201   186 Adenike Bamgbade         36:24.59   F  46       TEAM SITSS/GITISS              
+  202   359 Natalya Kramarova        36:40.28   F  44                                      
+  203   129 Jameelah Hunter          36:41.52   F  39       ACTION JACKSON                 
+  204   134 Jody Roberts             36:43.67   F  65       ACTION JACKSON                 
+  205   360 Veronica Kerber          36:44.61   F   3                                      
+  206    95 Justin Kerber            36:45.67   M  38                                      
+  207   271 Gil Glass                36:46.73   M  57       SAIC / OMES II                 
+  208   223 Marcy August             36:50.73   F  63       ASRC/PAAC                      
+  209   193 Mary Wallace             36:51.11   F  59       ASRC/PAAC                      
+  210   180 Colton Debaugh           36:56.45   M   5       TEAM SITSS/GITISS              
+  211   179 Brittney Faulkner        36:57.11   F  29       TEAM SITSS/GITISS              
+  212   185 Megan Lewis              36:59.17   F  30                                      
+  213   189 Esteban Morales          36:59.21   M  44                                      
+  214   151 Schanita Mitchell        37:00.50   F  41       GCDC -STUDENTS                 
+  215 19113 Niama Boukachaba         37:06.82   F  33       BOUKABARA'S FAMILY TEAM        
+  216   354 Yasmeen Boukabara        37:07.22   F   3                                      
+  217   144 Sid Ahmed Boukabara      37:07.72   M  50       BOUKABARA'S FAMILY TEAM        
+  218 19133 Hannah Boukabara         37:07.75   F   1                                      
+  219   279 Tom Hughes               37:32.05   M  58       PEDIBYTES                      
+  220   235 Lavida Cooper            37:49.57   F  42                                      
+  221   357 Arnaz Chitsaz            37:49.85   F   5                                      
+  222   236 Kourosh Chitsaz          37:53.32   M  58                                      
+  223   120 Jennifer Kalmanson       37:54.65   F  47       CCRS                           
+  224    75 Laura Ottenstein         37:56.87   F  60       NOO KIDS ON THE BLOCK          
+  225   291 Noah Ibrahim             38:05.95   M   3                                      
+  226   290 Amir Ibrahim             38:06.95   M  36                                      
+  227   167 Kendra Bell              38:21.51   F  48       GCDC -STUDENTS                 
+  228   375 Adalae Douglas           38:21.94   F   5                                      
+  229 19033 Jeremiah Zebenay         38:53.12   M   5                                      
+  230   372 Conrad Jones             38:57.12   M   5                                      
+  231   219 Melak Zebenay            39:02.50   M  41       SAIC / OMES II                 
+  232   368 Aria Whitmire            39:05.26   F   4                                      
+  233   181 Qianne Whitmire          39:06.39   F  31                                      
+  234   182 Sheldon Whitmire         39:06.92   M  37                                      
+  235   203 Nancy Dutan              39:08.19   F  45       ASRC/PAAC                      
+  236   254 Jennifer Wentzel         39:08.27   F  48       SAFETY AND MISSION ASSURANCE   
+  237   172 Christie Canaria         39:11.41   F  43                                      
+  238   208 Stephen Cenko            39:11.65   M  42                                      
+  239   355 Anne Cenko               39:12.23   F   4                                      
+  240   155 Leona Dickens-Adams      39:13.63   F  44       GCDC -STUDENTS                 
+  241   221 Kadie Esi                41:35.06   F  35       ASRC/PAAC                      
+  242   233 Kevin Heesh              41:44.31   M  35       LISA                           
+  243    87 Sarah Conway             42:52.17   F  58       NOO KIDS ON THE BLOCK          
+  244    92 Deborah Amato            42:52.55   F  49       NOO KIDS ON THE BLOCK          
+  245   210 H B                      42:52.81   F  35       NOO KIDS ON THE BLOCK          
+  246    76 Tonjua Hines-Watts       42:53.75   F  58       NOO KIDS ON THE BLOCK          
+  247    26 Mark Fuerst              43:06.95   M  65       SAIC / OMES II                 
+  248   301 David Simpson            43:09.16   M  61                                      
+  249   108 Jessica Nelson           43:10.54   F  25       ASRC/PAAC                      
+  250   124 Jamia Dove               43:10.61   F  24       THEFIVESTARS                   
+  251   351 Kuzey Aymergen           43:14.14   M   4                                      
+  252   270 Tayna Wilson             43:18.78   F  59                                      
+  253   123 Tenika Jones             44:23.32   F  34       THEFIVESTARS                   
+  254   125 Meghan Krajewski         44:23.38   F  33       THEFIVESTARS                   
+  255 19026 Juan Argueta             45:35.04   M  35                                      
+  256 19037 Irma Neira               45:41.92   F  40                                      
+  257   302 Charlee Bellamy          47:51.39   F  58                                      
+  258   147 Gillian Ratter           49:21.66   F  36       SAIC / OMES II                 
+  259   121 Diane Diamond            49:21.68   F  29       SAIC / OMES II                 
