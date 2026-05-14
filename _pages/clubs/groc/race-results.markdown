@@ -8,6 +8,20 @@ parent-club: Running and Orienteering Club
 anchors:
   - { text: 2025 Fall, anchor: "#2025-fall" }
   - { text: 2025 Spring, anchor: "#2025-spring" }
+  - { text: 2024 Fall, anchor: "#2024-fall" }
+  - { text: 2024 Spring, anchor: "#2024-spring" }
+  - { text: 2023 Fall, anchor: "#2023-fall" }
+  - { text: 2023 Spring, anchor: "#2023-spring" }
+  - { text: 2022 Fall, anchor: "#2022-fall" }
+  - { text: 2022 Spring, anchor: "#2022-spring" }
+  - { text: 2021 Fall, anchor: "#2021-fall" }
+  - { text: 2021 Spring, anchor: "#2021-spring" }
+  - { text: 2020 Fall, anchor: "#2020-fall" }
+  - { text: 2020 Spring, anchor: "#2020-spring" }
+  - { text: 2019 Fall, anchor: "#2019-fall" }
+  - { text: 2019 Spring, anchor: "#2019-spring" }
+  - { text: 2018 Fall, anchor: "#2018-fall" }
+  - { text: 2018 Spring, anchor: "#2018-spring" }
 
 ---
 
