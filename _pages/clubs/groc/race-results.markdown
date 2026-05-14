@@ -155,7 +155,19 @@ Please [contact GROC](https://nasa-communities.org/clubs/groc/#contact-us) for r
 
 ### 2021 Fall
 
+**Fall 10K:**
+* [Overall Results](/clubs/groc/2021/2021 Fall 10K.txt)
+
+**Fall 2 Mile Fun Run:**
+* [Overall Results](/clubs/groc/2021/2021 Fall 2 Mile.txt)
+
 ### 2021 Spring
+
+**Spring 10K:**
+* [Overall Results](/clubs/groc/2021/2021 Spring 10K.txt)
+
+**Spring 2 Mile Fun Run:**
+* [Overall Results](/clubs/groc/2021/2021 Spring 2 Mile.txt)
 
 ## 2020
 
