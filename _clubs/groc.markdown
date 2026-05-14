@@ -42,25 +42,9 @@ GROC is a member of the [Road Runners Club of America (RRCA)](https://www.rrca.o
 
 ## Upcoming Events
 
-### Spring 2026 2 mile
+### Fall 2026 2 mile
 
-**Results are in!!!:**
- 
-*[Guntime](/clubs/groc/2026/2026 Spring 2 Mile guntime.TXT) 
-*[Men](/clubs/groc/2026/2026 Spring 2 Mile Men.TXT) 
-*[Women](/clubs/groc/2026/2026 Spring 2 Mile Women.TXT) 
-*[All Teams](/clubs/groc/2026/2026 Spring 2 Mile All Teams.TXT) 
-*[Men Teams](/clubs/groc/2026/2026 Spring 2 Mile Men Teams.TXT) 
-*[Women Teams](/clubs/groc/2026/2026 Spring 2 Mile Women Teams.TXT) 
-*[Age Graded](/clubs/groc/2026/2026 Spring 2 Mile Age Graded.TXT) 
-*[Age Groups](/clubs/groc/2026/2026 Spring 2 Mile Age Groups.TXT) 
-
-
-UPDATE: 04/28/26 - Check for rain cancellation (heavcy rain/thunderstorms) here
-[https://runsignup.com/Race/MD/Greenbelt/NASAGoddard2Miler](https://runsignup.com/Race/MD/Greenbelt/NASAGoddard2Miler)
-
-
-It's back!!!!   Our 2 mile on center is on Wednesday April 29th!  It's our 50th Anniversary of having the 2 mile!
+It's back!!!! Our 2 mile on center is on September 30th.
 
 It's a competition for some, a team event for some, a fun run/walk for others.  Keep the tradition going and come out and do this race or volunteer.  
 
@@ -68,15 +52,15 @@ The race starts and finishes in front of the Goddard Child Development Center.  
 
 Course and team details can be found [here](#2-mile-fun-run).
 
-Register at [https://runsignup.com/Race/MD/Greenbelt/NASAGoddard2Miler](https://runsignup.com/Race/MD/Greenbelt/NASAGoddard2Miler). The first 300 registrants get a cool commemorative bib number.  Grab a slice of pizza afterwards.
+Register at TBD
 
 VOLUNTEERS NEEDED! Email [james.e.leake@nasa.gov](mailto:james.e.leake@nasa.gov) to volunteer, it's easy!
 
 Email [tom.winkert@nasa.gov](tom.winkert@nasa.gov) with questions or if you want to make event shirts for the run.
 
-### Spring 2026 10k
+### Fall 2026 10k
 
-Our 10K at Buddy Attick Park is on Wednesday May 13th! This run is open to anyone who wants to participat.
+Our 10K at Buddy Attick Park is on October 7th! This run is free and open to anyone who wants to participate.
 
 The race starts at noon at Buddy Attick Park, Greenbelt, and the [course](#10k-race).
 
@@ -106,23 +90,25 @@ We'll add some maps of typical runs on GSFC campus.
 
 ### 2026
 
-**2 Mile Fun Run (04/29/26):**
-*[Guntime](/clubs/groc/2026/2026 Spring 2 Mile guntime.TXT) 
-*[Men](/clubs/groc/2026/2026 Spring 2 Mile Men.TXT) 
-*[Women](/clubs/groc/2026/2026 Spring 2 Mile Women.TXT) 
-*[All Teams](/clubs/groc/2026/2026 Spring 2 Mile All Teams.TXT) 
-*[Men Teams](/clubs/groc/2026/2026 Spring 2 Mile Men Teams.TXT) 
-*[Women Teams](/clubs/groc/2026/2026 Spring 2 Mile Women Teams.TXT) 
-*[Age Graded](/clubs/groc/2026/2026 Spring 2 Mile Age Graded.TXT) 
-*[Age Groups](/clubs/groc/2026/2026 Spring 2 Mile Age Groups.TXT) 
+**Spring 10k (05/13/26):**
+* [Overall Results](/clubs/groc/2026/2026 10K.txt) 
 
+**Spring 2 Mile Fun Run (04/29/26):**
+* [Guntime](/clubs/groc/2026/2026 Spring 2 Mile guntime.TXT) 
+* [Men](/clubs/groc/2026/2026 Spring 2 Mile Men.TXT) 
+* [Women](/clubs/groc/2026/2026 Spring 2 Mile Women.TXT) 
+* [All Teams](/clubs/groc/2026/2026 Spring 2 Mile All Teams.TXT) 
+* [Men Teams](/clubs/groc/2026/2026 Spring 2 Mile Men Teams.TXT) 
+* [Women Teams](/clubs/groc/2026/2026 Spring 2 Mile Women Teams.TXT) 
+* [Age Graded](/clubs/groc/2026/2026 Spring 2 Mile Age Graded.TXT) 
+* [Age Groups](/clubs/groc/2026/2026 Spring 2 Mile Age Groups.TXT) 
 
 ### 2025
 
-**10K (10/15/25):**
+**Fall 10K (10/15/25):**
 * [Overall Results](/clubs/groc/2025/2025 Fall 10K.txt)
 
-**2 Mile Fun Run (10/22/25):**
+**Fall 2 Mile Fun Run (10/22/25):**
 * [Women](/clubs/groc/2025/2025 Fall 2 Mile Women.txt)
 * [Men](/clubs/groc/2025/2025 Fall 2 Mile Men.txt)
 * [Women Teams](/clubs/groc/2025/2025 Fall 2 Mile Women Teams.txt)
