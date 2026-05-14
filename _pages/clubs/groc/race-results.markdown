@@ -77,81 +77,121 @@ Please [contact GROC](https://nasa-communities.org/clubs/groc/#contact-us) for r
 
 ## 2020 Spring
 
+### 2019
+
 ## 2019 Fall
 
 ## 2019 Spring
+
+### 2018
 
 ## 2018 Fall
 
 ## 2018 Spring
 
+### 2017
+
 ## 2017 Fall
 
 ## 2017 Spring
+
+### 2016
 
 ## 2016 Fall
 
 ## 2016 Spring
 
+### 2015
+
 ## 2015 Fall
 
 ## 2015 Spring
+
+### 2014
 
 ## 2014 Fall
 
 ## 2014 Spring
 
+### 2013
+
 ## 2013 Fall
 
 ## 2013 Spring
+
+### 2012
 
 ## 2012 Fall
 
 ## 2012 Spring
 
+### 2011
+
 ## 2011 Fall
 
 ## 2011 Spring
+
+### 2010
 
 ## 2010 Fall
 
 ## 2010 Spring
 
+### 2009
+
 ## 2009 Fall
 
 ## 2009 Spring
+
+### 2008
 
 ## 2008 Fall
 
 ## 2008 Spring
 
+### 2007
+
 ## 2007 Fall
 
 ## 2007 Spring
+
+### 2006
 
 ## 2006 Fall
 
 ## 2006 Spring
 
+### 2005
+
 ## 2005 Fall
 
 ## 2005 Spring
+
+### 2004
 
 ## 2004 Fall
 
 ## 2004 Spring
 
+### 2003
+
 ## 2003 Fall
 
 ## 2003 Spring
+
+### 2002
 
 ## 2002 Fall
 
 ## 2002 Spring
 
+### 2001
+
 ## 2001 Fall
 
 ## 2001 Spring
+
+### 2000
 
 ## 2000 Fall
 
