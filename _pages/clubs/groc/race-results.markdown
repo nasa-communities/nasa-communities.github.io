@@ -13,21 +13,65 @@ anchors:
 
 Please [contact GROC](https://nasa-communities.org/clubs/groc/#contact-us) for results from past years' races (back to the 1970s!).
 
+### 2025
+
+## 2025 Fall
+
+**Fall 10K (10/15/25):**
+* [Overall Results](/clubs/groc/2025/2025 Fall 10K.txt)
+
+**Fall 2 Mile Fun Run (10/22/25):**
+* [Women](/clubs/groc/2025/2025 Fall 2 Mile Women.txt)
+* [Men](/clubs/groc/2025/2025 Fall 2 Mile Men.txt)
+* [Women Teams](/clubs/groc/2025/2025 Fall 2 Mile Women Teams.txt)
+* [Men Teams](/clubs/groc/2025/2025 Fall 2 Mile Men Teams.txt)
+* [Overall Teams](/clubs/groc/2025/2025 Fall 2 Mile All Teams.txt)
+* [Graded](/clubs/groc/2025/2025 Fall 2 Mile Age Graded.txt)
+* [Gun Time](/clubs/groc/2025/2025 Fall 2 Mile guntime.txt)
+
+**Fall 10K (10/15/25):**
+* [Overall Results](/clubs/groc/2025/2025 Spring 10K.txt)
+
+## 2025 Spring
+
+**Spring 10K:**
+* [Overall Results](/clubs/groc/2025/2025 Spring 10K.txt)
+
+**Spring 2m Fun Run:**
+* [Women](/clubs/groc/2025/2025 Fall 2 Mile Women.txt)
+* [Men](/clubs/groc/2025/2025 Fall 2 Mile Men.txt)
+* [Women Teams](/clubs/groc/2025/2025 Fall 2 Mile Women Teams.txt)
+* [Men Teams](/clubs/groc/2025/2025 Fall 2 Mile Men Teams.txt)
+* [Overall Teams](/clubs/groc/2025/2025 Fall 2 Mile All Teams.txt)
+* [Graded](/clubs/groc/2025/2025 Fall 2 Mile Age Graded.txt)
+* [Graded](/clubs/groc/2025/2025 Fall 2 Mile Age Groups.txt)
+* [Gun Time](/clubs/groc/2025/2025 Fall 2 Mile guntime.txt)
+
+### 2024
+
 ## 2024 Fall
 
 ## 2024 Spring
+
+### 2023
 
 ## 2023 Fall
 
 ## 2023 Spring
 
+### 2022
+
 ## 2022 Fall
 
 ## 2022 Spring
 
+### 2021
+
 ## 2021 Fall
 
 ## 2021 Spring
+
+### 2020
 
 ## 2020 Fall
 
