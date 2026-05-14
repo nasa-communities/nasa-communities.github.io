@@ -97,7 +97,7 @@ Please [contact GROC](https://nasa-communities.org/clubs/groc/#contact-us) for r
 
 ## 2022
 
-###2022 Fall
+### 2022 Fall
 
 ### 2022 Spring
 
