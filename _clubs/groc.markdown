@@ -91,17 +91,17 @@ We'll add some maps of typical runs on GSFC campus.
 ### 2026
 
 **Spring 10k (05/13/26):**
-* [Overall Results](/clubs/groc/2026/2026 Spring 10K.TXT) 
+* [Overall Results](/clubs/groc/2026/2026 Spring 10K.txt) 
 
 **Spring 2 Mile Fun Run (04/29/26):**
-* [Guntime](/clubs/groc/2026/2026 Spring 2 Mile guntime.TXT) 
-* [Men](/clubs/groc/2026/2026 Spring 2 Mile Men.TXT) 
-* [Women](/clubs/groc/2026/2026 Spring 2 Mile Women.TXT) 
-* [All Teams](/clubs/groc/2026/2026 Spring 2 Mile All Teams.TXT) 
-* [Men Teams](/clubs/groc/2026/2026 Spring 2 Mile Men Teams.TXT) 
-* [Women Teams](/clubs/groc/2026/2026 Spring 2 Mile Women Teams.TXT) 
-* [Age Graded](/clubs/groc/2026/2026 Spring 2 Mile Age Graded.TXT) 
-* [Age Groups](/clubs/groc/2026/2026 Spring 2 Mile Age Groups.TXT) 
+* [Guntime](/clubs/groc/2026/2026 Spring 2 Mile guntime.txt) 
+* [Men](/clubs/groc/2026/2026 Spring 2 Mile Men.txt) 
+* [Women](/clubs/groc/2026/2026 Spring 2 Mile Women.txt) 
+* [All Teams](/clubs/groc/2026/2026 Spring 2 Mile All Teams.txt) 
+* [Men Teams](/clubs/groc/2026/2026 Spring 2 Mile Men Teams.txt) 
+* [Women Teams](/clubs/groc/2026/2026 Spring 2 Mile Women Teams.txt) 
+* [Age Graded](/clubs/groc/2026/2026 Spring 2 Mile Age Graded.txt) 
+* [Age Groups](/clubs/groc/2026/2026 Spring 2 Mile Age Groups.txt) 
 
 ### 2025
 
