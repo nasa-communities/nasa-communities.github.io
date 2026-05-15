@@ -39,7 +39,7 @@ The main function of the club is to share Chinese culture at Goddard in terms of
 Date: 10/18/26 to 10/25/26
 Cost: $1200.00 + Airfare
 
-![2026 Taiwan Tour Flyer](../../images/gcac/taiwan-flyer-2026.png)
+<img src="../../images/gcac/taiwan-flyer-2026.png" alt="2026 Taiwan Tour Flyer" width="400">
 
 [View past activities](#past-activities)
 
