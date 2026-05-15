@@ -35,7 +35,7 @@ The main function of the club is to share Chinese culture at Goddard in terms of
 
 ## Upcoming Events
 
-No upcoming events listed. **2026 8 Days Taiwan Tours**
+**2026 8 Days Taiwan Tours**
 Date: 10/18/26 to 10/25/26
 Cost: $1200.00 + Airfare
 
