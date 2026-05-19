@@ -49,7 +49,7 @@ All Goddard employees (civil servants and contractors, current or retired) and f
 
 ## News
 - **Solar Wind is unavailable** due to pending repairs; the other boats are available for chartering.
-- **Season opener picnic** was held on May 17, 2026 at Selby Bay.
+- **Season opener picnic** was held on May 17, 2026 at Selby Bay. [Photos](https://myalbum.com/album/w8fgbtHWfLPZGj)
 - **The 2026 annual membership meeting** was held on March 4, 11:30 AM on Microsoft Teams.
 - **The 2026 sailing season is underway.**
 - **Merch Store is live,** offering shirts, hats, and mugs.  [Merch Store](https://www.bonfire.com/store/goddard-sailing-association-store/)
