@@ -91,7 +91,7 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 
 - #### July 8, 2026 - Meeting
 
-  **Topic:** Critique session with MPA judge <br>
+  **Topic:** Critique session with MPA judge Roz Klefman. Topic is People <br>
     (12-1pm, Hybrid: B. 23/S402 and Teams)
 
 - #### July 22, 2026 - Snap & Share
