@@ -1,0 +1,17 @@
+2k Results                      
+                        
+                        
+Pl  Num First   Last        Time    Age Gender
+1   183 Ted     Poulos      8:19    56  M
+2   235 Leibo   Ding        8:46    47  M
+3   168 Timothy Wilcox      11:26   50  M
+4   188 Michael McClellan   15:09   81  M
+5   74  Emily   Aldoretta   18:04   28  F
+6   321 Rud     Moe         19:09   73  M
+7   300 Karen   Moe         20:08   65  F
+                        
+                        
+                        
+                        
+                        
+                        

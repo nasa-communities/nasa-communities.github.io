@@ -1,0 +1,8 @@
+2K Results
+
+Pl  Num First   Last    Time    Age Gender
+1   202 Ted     Poulos   8:15   56  M
+2   294 Leibo   Ding     9:03   48  M
+3   199 Cindy   Cohen    9:52   50  F
+4   163 Yonghong Li     15:09   50  F
+5   96  Vani    Starry  16:43   34  F

@@ -1,0 +1,186 @@
+                                                                      Page 1
+                         86th NASA Intracenter Run
+                        Goddard Space Flight Center
+                             October 3rd 2018
+                               Male Results
+                    correction to tom.winkert@nasa.gov
+Place Num  Name                     Time    Guntime Age Code  Team                              
+===== ==== ======================== ======= ======= === ===== ============================== 
+    1  269 Shannon Franks             10:51   10:51  41 618   KBRWYLE/SGT                    
+    2  268 Alvin Yew                  10:58   11:00  33 596   ALVIN AND THE CHIPMUNKS        
+    3  154 Maksym Petrenko            11:19   11:21  35 610   GODDARD TRACK AND FIELD TEAM   
+    4  322 Joe Munchak                11:26   11:28  35       GODDARD TRACK AND FIELD TEAM   
+    5  319 Bobby Huang                11:41   11:44  24       ABNET                          
+    6  196 Jacob Englander            11:42   11:44  34 595   GODDARD TRACK AND FIELD TEAM   
+    7   10 Bernard Kelly              11:55   11:58  45 663   GEODESIC DEVIANTS              
+    8  182 Sean Napier                12:07   12:09  26 595   GODDARD TRACK AND FIELD TEAM   
+    9  178 Marek Sotola               12:10   12:12  32 480                                  
+   10  301 Wojenski Mark              12:27   12:30  37       KBRWYLE/SGT                    
+   11  186 James Cooper               12:34   12:36  48 543   GODDARD TRACK AND FIELD TEAM   
+   12   32 Ira Thorpe                 12:39   12:44  39 663   GEODESIC DEVIANTS              
+   13  264 Joel Allred                12:43   12:46  43 671   HELIO                          
+   14   66 Zoran Kahric               12:51   12:53  53 427   TEAM PACE/OCI                  
+   15  211 Indy Lyness                13:00   13:03  14 699                                  
+   16   11 Timothy Allard             13:11   13:13  32 428   LANDSAT OPS                    
+   17  336 Erik Husby                 13:30   13:34  24                                      
+   18  357 Steven Calc                13:32   13:35  24       NASA YOUNGUNS                  
+   19  198 Kevin Vermeesch            13:41   13:49  35 618   POWERED BY EARTH SCIENCE       
+   20  337 Andy Bates                 13:47   13:51  31       RAO                            
+   21   14 Quentin Baghi              13:47   13:51  30 663   GEODESIC DEVIANTS              
+   22  312 Kirk Gordon                14:15   14:19  62                                      
+   23  279 Andrew Royle               14:19   14:24  39 416                                  
+   24  231 Ryan Hancock               14:22   14:27  30 472   TEAM JPSS                      
+   25  135 Austin Au-Yeung            14:31   14:38  22 567   NASA YOUNGUNS                  
+   26   33 Gilberto Vicente           14:40   14:42  56 474   TEAM JPSS                      
+   27  300 Leamon Robert              14:40   14:44  46                                      
+   28  232 Tom Nolan                  14:41   14:44  66 699                                  
+   29  262 Andrew Ortner              14:41   14:56  41 452                                  
+   30  119 Rick Carter                14:43   14:46  47 420                                  
+   31  168 Brian Bolger               14:44   14:50  42 540   KBRWYLE/SGT                    
+   32   39 Eduardo Aguayo             14:45   15:16  38 540   NEWTON                         
+   33  164 Leibo Ding                 14:51   14:53  48 618   GODDARD TRACK AND FIELD TEAM   
+   34   79 Peter Colarco              14:56   15:00  47 614                                  
+   35  239 Kyle Gerheiser             15:00   15:04  25 610   GMAO                           
+   36   12 Michael Sekerak            15:00   15:06  41 599   L'RALPH                        
+   37  173 Xu Geng                    15:02   15:12  48 618   POWERED BY EARTH SCIENCE       
+   38  200 Greg Waldo                 15:03   15:07  59 WALDO                                
+   39    4 Pete Barfknecht            15:12   15:20  33 552   CRYO                           
+   40  263 Wei Gu                     15:15   15:19  54 610.1 GMAO                           
+   41  314 Clark Weaver               15:20   15:20  61                                      
+   42  184 Rigoberto Guerrero         15:22   15:45  31 240                                  
+   43  240 Kris Heefner               15:25   15:30  42 563   KBRWYLE/SGT                    
+   44   27 Ryan Sharples              15:28   15:34  28 448   TEAM PAAC                      
+   45   86 Jianjun Jin                15:36   15:40  42 610.1 GMAO                           
+   46  339 Eric Haggquist             15:37   15:55  60                                      
+   47  267 Jan Merka                  15:37   15:41  45 672   HELIO                          
+   48  306 Scott Glubke               15:38   15:49  55                                      
+   49  151 Badri Shirgur              15:38   15:41  44 480                                  
+   50  185 Sriharsha Madhavan         15:38   15:55  38 618   POWERED BY EARTH SCIENCE       
+   51   49 Robert Steadley            15:39   15:42  55 474   TEAM JPSS                      
+   52  309 Isak Wold                  15:40   15:40  40                                      
+   53  114 Jay Brusse                 15:41   15:59  50 562                                  
+   54  315 Joe Miko                   15:43   15:47  54                                      
+   55  260 Ronald Hooker              15:45   16:00  55 421   STRIKE A POES                  
+   56    9 Andrey Zasorin             15:46   15:57  33 610.2 TELOPHASE                      
+   57  177 Jinan Zeng                 15:48   15:53  54 618   POWERED BY EARTH SCIENCE       
+   58  304 Warren Douglas             15:51   15:53  56                                      
+   59  350 Nick Stratchko             15:58   16:07  24       INSTITUTIONAL PLANNING         
+   60  364 Robert Levy                16:03   16:16  45       POWERED BY EARTH SCIENCE       
+   61  311 Steve Sirotzky             16:07   16:21  45                                      
+   62  305 Roberto Arocho             16:09   16:24  48                                      
+   63  278 Robert Wolfe               16:16   16:32  60 619   POWERED BY EARTH SCIENCE       
+   64  348 John Ramsey                16:23   16:35  57                                      
+   65  147 Daniel Bae                 16:35   16:45  26 20716 NASA YOUNGUNS                  
+   66   43 Justin Ward                16:36   17:08  38 J.WAR NEWTON                         
+   67  183 Luis Chihuan               16:39   16:39  37 LUIS1 NASA YOUNGUNS                  
+   68  248 Ryan Dickson               16:40   16:40  31 474   TEAM JPSS                      
+   69  324 James Vatne                16:43   16:48  40                                      
+   70  124 Truong Dang                16:52   17:03  41 618   POWERED BY EARTH SCIENCE       
+   71  246 Chip Jones                 16:57   16:57  28 416                                  
+   72  125 Jay Ellis                  16:59   17:07  57 720   TEAM GITISS                    
+   73   47 Mike Simpson               17:04   17:13  54 474   TEAM JPSS                      
+   74  313 Tim Schauermann            17:12   17:17  45                                      
+   75  307 Quenton Bonds              17:24   17:32  39                                      
+   76  345 Yuekui Yang                17:34   17:38  51                                      
+   77  150 Jacob Stahl                17:38   17:46  27 597   NASA YOUNGUNS                  
+   78  142 Scott Malone               17:50   18:11  44 730   TEAM GITISS                    
+   79  190 John Hartnett              17:50   18:13  40 720   TEAM GITISS                    
+   80  257 Jonathan Boblitt           17:55   18:12  30 587                                  
+   81   68 Mark Solomon               17:58   18:00  60 610.1 GMAO                           
+   82  212 Eric Lyness                17:58   18:15  52 699                                  
+   83  251 Alexander McPherson        18:14   18:41  32 614                                  
+   84  116 Edward Sullivan            18:19   18:36  55 491                                  
+   85  220 Leon Ofman                 18:21   18:26  56 671   HELIO                          
+   86  360 Drane Davies               18:29   18:29  50       POWERED BY EARTH SCIENCE       
+   87   40 Nicholas Elisio            18:32   18:50  27 720   TEAM GITISS                    
+   88   94 Gregory Jamroz             18:51   19:01  41 540.5 TELOPHASE                      
+   89  318 Thomas Hanson              18:52   19:08  58       TEAM JPSS                      
+   90   80 Lawrence Coy               19:02   19:33  66 610.1 GMAO                           
+   91   97 Craig Weikel               19:07   19:17  68 416   KBRWYLE/SGT                    
+   92   77 Alex Durkin                19:20   19:32  35 580   TELOPHASE                      
+   93  255 Jeffrey Weinrich           19:23   19:34  42 20009 TEAM JPSS                      
+   94  367 Jon Penn                   19:32   19:52  40                                      
+   95  366 Daniel Hopf                19:34   19:53  58                                      
+   96  101 Patrick Haas               19:35   19:48  55 671                                  
+   97  171 David Giles                19:35   19:50  43 618                                  
+   98  280 Gyanesh Chander            19:43   19:53  41 586   TEAM JPSS                      
+   99  210 Eric Simpson               20:05   20:48  49 705   TEAM GITISS                    
+  100  110 Steven Arvin               20:15   20:33  25 20770 KBRWYLE/SGT                    
+  101  335 David Parks                20:21   20:32  32       TELOPHASE                      
+  102  217 Matt Neuman                20:25   20:57  22 20770 NEWTON                         
+  103  342 Mark Buddoo                20:26   20:44  47                                      
+  104  370 Mark Jarosz                20:28   23:30  56       GOES                           
+  105  242 Justin Walker              20:30   20:36  38 429                                  
+  106  207 Timothy Wilcox             20:39   20:51  51 428.1 LANDSAT OPS                    
+  107  277 Byron Graves               20:41   20:59  32 420   TEAM JPSS                      
+  108  259 Michael Drury              20:51   21:16  57 443                                  
+  109  270 Edward Masuoka             21:03   21:24  66 619   POWERED BY EARTH SCIENCE       
+  110   84 Thomas Clement             21:09   21:35  58 582   TEAM PACE/OCI                  
+  111  362 Michael Arida              21:19   21:48  50       GEODESIC DEVIANTS              
+  112  137 Stephan Klene              21:25   21:40  58 423   POWERED BY EARTH SCIENCE       
+  113   82 Mark Pallone               21:29   21:44  29 582   TEAM PACE/OCI                  
+  114  320 Phillip Harkins            21:43   22:18  31                                      
+  115  127 John Pope                  21:45   21:56  46 581   KBRWYLE/SGT                    
+  116  245 Mahendra Karki             21:47   21:47  66 610.1 GMAO                           
+  117  108 Brandon Faulcon            21:48   21:59  30 568                                  
+  118  222 Dan Krieger                21:50   22:01  48 100                                  
+  119  344 Luther Lighty              21:51   22:18  46                                      
+  120  347 Robert Kilgore             22:00   22:12  64                                      
+  121  167 Sean Chen                  22:13   22:24  57 619                                  
+  122  180 Gerhard Meister            22:21   22:40  48 616   TEAM PACE/OCI                  
+  123  155 John Brady                 22:31   22:46  56 156                                  
+  124  100 Kun Ren                    22:35   22:35  44 703   TEAM GITISS                    
+  125  132 Ralph Welsh Jr             22:49   22:55  79 RETIR                                
+  126  189 Eric Bentley               22:52   23:07  57 596                                  
+  127  303 Michalel McCumber          23:03   23:03  70       POWERED BY EARTH SCIENCE       
+  128  223 Steve Davison              23:18   23:55  49 720   TEAM GITISS                    
+  129  266 Alexander Marshak          23:18   23:35  62 613                                  
+  130  256 Louis Thomas               23:34   23:34  61 382   RISKYERS                       
+  131  237 Adam Durkin                23:40   23:52  32 549   TELOPHASE                      
+  132    8 Charles Martin             23:51   24:11  29 480   TEAM PAAC                      
+  133  349 Ralph Smith                23:54   24:04  53       TEAM ASO PLANNING              
+  134  205 David Gyimah               24:06   24:06  54 428                                  
+  135  274 Michael Stager             24:09   24:24  52 472   TEAM JPSS                      
+  136  334 Jonathan Galiedd           24:34   24:52  63                                      
+  137   64 James Thieman              24:47   25:06  71 690.1 PEDIBYTES                      
+  138  275 Michael Popp               24:50   25:07  26 472   TEAM JPSS                      
+  139  235 Phillip Adkins             25:01   25:15  37 360                                  
+  140  244 Tumkur Raghuram            25:07   25:16  53 480                                  
+  141  224 Michael Bur                25:12   25:22  53 606.1                                
+  142   81 Perry Sebreny              25:43   25:43  57 428   KBRWYLE/SGT                    
+  143   91 Kirt Davis                 25:45   26:21  41 700   TEAM GITISS                    
+  144   69 Michael McClellan          25:46   25:46  81 428.1 LANDSAT OPS                    
+  145  299 Winkert John               25:59   26:48  62                                      
+  146  179 Rajat Sharma               26:01   26:52  34 703   TEAM GITISS                    
+  147  156 Kg Woltz                   26:17   26:54  58 703   TEAM GITISS                    
+  148  131 Sharath Gajjala            26:24   27:15  28 703   TEAM GITISS                    
+  149  241 David Williams             26:27   26:40  60 690.1 PEDIBYTES                      
+  150   57 Jay Friedlander            26:28   26:40  57 605   PEDIBYTES                      
+  151  368 George Dakerranj           26:42   27:17  71                                      
+  152  363 Kareen Branch              26:51   26:51  34       ASRC                           
+  153   89 Thomas Buchanan            27:15   27:35  54 720   TEAM GITISS                    
+  154  214 John Harrell               27:19   27:45  20 720   TEAM GITISS                    
+  155   44 Steve Jones                27:20   27:45  47 720   TEAM GITISS                    
+  156  111 King-Sheng Tai             27:38   27:52  64 610.1 GMAO                           
+  157  218 Sterling Spangler          29:05   29:38  53 610.1 GMAO                           
+  158  252 Khaleed Nedrick            29:09   29:48  29 720   TEAM GITISS                    
+  159  165 Julio Lopez                29:53   30:06  41 540   TELOPHASE                      
+  160   58 Wes Harvey                 31:10   31:32  54 67052 TEAM PAAC                      
+  161  354 Tom Bagg                   31:27   31:59  66                                      
+  162 1200 Phillip Nessler            31:42   32:04  54 250                                  
+  163  321 Byron Peters               33:19   33:43  67                                      
+  164  172 Raymond Custis             33:55   34:31  36 20770 KBRWYLE/SGT                    
+  165  104 Michael Lilly              34:10   34:32  52 490   TEAM PACE/OCI                  
+  166   41 Christopher Anders         34:14   34:43  38 540   NEWTON                         
+  167  308 Thomas Hughes              34:17   34:29  54       PEDIBYTES                      
+  168  271 Ray Kosby                  35:54   36:34  53 428   KBRWYLE/SGT                    
+  169   51 Markus Sorrells            37:03   37:34  58 NA    TEAM JPSS                      
+  170  341 Glenn Rosecrans            37:51   38:26  54       KBRWYLE/SGT                    
+  171  152 Mike Rackley               37:52   38:26  56 474   KBRWYLE/SGT                    
+  172  238 Ryan Barker                37:56   38:07  34 610                                  
+  173   48 Zev Bleich                 38:27   38:38   7 0                                    
+  174  254 Paul Straub                38:56   39:37  42 720   TEAM GITISS                    
+  175  258 David Gregory              38:58   39:38  32 720   TEAM GITISS                    
+  176  272 Timothy Dorman             39:04   39:18  56 474   TEAM JPSS                      
+  177  229 Judah Lawrence             39:25   39:50  31 102   SUPER(FUN) PEOPLE OFFICE       
+  178  181 Raymond Levesque           40:54   41:32  54 B7-54                                

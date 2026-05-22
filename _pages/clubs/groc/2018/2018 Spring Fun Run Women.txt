@@ -1,0 +1,292 @@
+                                                                      Page 1
+                         85th NASA Intracenter Run
+                        Goddard Space Flight Center
+                               May 2nd 2018
+                              Female Results
+                    correction to tom.winkert@nasa.gov
+Place Num  Name                     Time    Guntime Age Code  Team                              
+===== ==== ======================== ======= ======= === ===== ============================== 
+    1  124 Melissa Vess               12:56   12:58  38 599   OFF THE MESA                   
+    2  492 Julie Halverson            14:11   14:13  54 599   OFF THE MESA                   
+    3   97 Yan Zhang                  14:56   15:00  42 613   PALS                           
+    4  228 Stephanie McLaughlin       15:54   16:01  56 690.1 PEDABYTES                      
+    5  411 Sarah Ringerud             16:02   16:10  43 612                                  
+    6  485 Cindy Cohen                16:10   16:14  50 NA                                   
+    7  125 Lyudmyla Panashchenko      16:25   16:31  32 562                                  
+    8   17 Yihua Zheng                16:36   16:42  46 674   HELIOPHYSICS                   
+    9  385 Pam Carrick                16:40   16:56  36 429   TEAM LANDSAT 9                 
+   10  380 Liz Tirpak                 16:48   16:56  44 470   TEAM JPSS                      
+   11  153 Heidi Wood                 16:52   16:56  53 470   TEAM JPSS                      
+   12   99 Zara Jariol                17:02   17:06  32 720   TEAM GITISS                    
+   13  216 Lori Levine                17:07   17:25  43 250   PLOGGERS                       
+   14  196 Minnie Wong                17:25   17:38  37 586   POWERED BY EARTH SCIENCE       
+   15  390 Catherine Gosmeyer         17:35   18:28  28 615                                  
+   16   48 Jennifer Bracken           17:45   18:20  53 500                                  
+   17   18 Joanne Santiago            17:45   17:52  52 156                                  
+   18  451 Mindy Hammond              17:49   17:59  34 585                                  
+   19  135 Xiaowen Li                 17:54   18:08  48 612   PALS                           
+   20   14 Rachel Buchanan            17:59   18:36  23 720   TEAM GITISS                    
+   21   51 Alejandra Constante        18:01   18:11  37 373                                  
+   22  238 Janine Pollack             18:11   18:30  43 250   PLOGGERS                       
+   23    5 Jillianne Shear            18:12   18:24  36 480                                  
+   24  358 Lia Sacks                  18:19   18:24  28 591   OFF THE MESA                   
+   25  129 Helena Smith               18:24   19:22  29 540   TEAM JPSS                      
+   26  257 Jeanine Murphy-Morris      18:33   18:39  57 472   TEAM JPSS                      
+   27  534 Mei Han                    18:34   18:47  44 612   PALS                           
+   28  436 Geri Lyle                  18:53   19:02  33 600   KBRWYLE/SGT                    
+   29  353 Meredith Gibb              18:54   19:12  52 660.1 GEODESIC DEVIANTS              
+   30  423 Erica Bramer               19:01   19:21  24 667                                  
+   31  371 Isabella Brewer            19:06   19:19  20 667   TEAM AMEGO                     
+   32  455 Rosa Crespo                19:10   19:14  32 554                                  
+   33  372 Victoria Afram             19:26   19:43  30 417.2                                
+   34  344 Tonia Venters              19:33   19:41  36 661   GEODESIC DEVIANTS              
+   35  259 Cheng Zhang                19:41   20:01  50 606.4                                
+   36  113 Shannon Wilks              20:32   20:40  24 540   NEWTON                         
+   37  405 Amy Klarup                 20:36   20:59  28 102   SPO/102                        
+   38  310 Kristin Rutkowski          20:49   21:05  36 662                                  
+   39  324 Regina Caputo              21:00   22:53  34 661   TEAM AMEGO                     
+   40  527 Ashley Greeley             21:05   21:11  29 672   HELIOPHYSICS                   
+   41   11 Lauri Via                  21:07   21:16  54 472   TEAM JPSS                      
+   42  507 Saima Zobair               21:41   21:48  45 690.1 PEDABYTES                      
+   43  413 Gala Wind                  21:47   21:51  40 613                                  
+   44  379 Anna Borovikov             22:28   22:38  47 610.1 GMAO                           
+   45  429 Suhung Shen                23:00   23:21  55 610.2 GCDC                           
+   46  496 Karen Scheiber             23:03   23:14  56 590                                  
+   47  545 Bhama Sengpta              23:39   24:25  32 610   SSAI                           
+   48  208 Joanna Joiner              23:51   24:24  51 614   PALS                           
+   49  209 Erika Simon                23:54   24:10  39 21045 CRYO                           
+   50  294 Theresa Thomas             23:54   24:03  45 421                                  
+   51  230 Keisha Tigner              24:06   24:31  44 720   GODDARD'S GLAMOROUS GO-GETTERS 
+   52  134 Xiaofu Xie                 24:38   24:43  60 720   TEAM GITISS                    
+   53  487 Yaping Zhou                24:47   25:07  51 613   PALS                           
+   54  434 Angela Li                  24:48   25:07  55 610.2                                
+   55   10 Keykey Crabbe              24:58   25:44  41 618   SSAI                           
+   56  447 Ann Ward                   25:02   25:12  35 600   KBRWYLE/SGT                    
+   57    9 Amy Bleich                 25:07   25:16  53 474   TEAM JPSS                      
+   58   80 Ira Ly                     25:10   25:43   5 200   GCDC                           
+   59  389 Linda Boateng              25:19   25:32  34 210.I                                
+   60  478 Sholainka Martyn           25:25          33 22192                                
+   61  231 Melissa Dougherty          25:28   25:32  51 410                                  
+   62   37 Camilla Logan              25:56   26:22  47 720   GODDARD'S GLAMOROUS GO-GETTERS 
+   63  359 Stella Adesina             25:58   26:23  54 720   GODDARD'S GLAMOROUS GO-GETTERS 
+   64   24 Lakshini Wijeweera         26:02   26:42  55 200   GCDC                           
+   65  175 Valeria Korkina            26:09   26:58   5 613   GCDC                           
+   66  158 Deanna Yu                  26:13   26:34  32 580   TELOPHASE                      
+   67  500 Cheryl Fiett               26:14   26:52  56 403   TEAM PAAC                      
+   68  210 Shelley Thessen            26:34   26:50  62 474   TEAM JPSS                      
+   69  255 Jen Dimov                  26:43   27:29  25 565   TEAM PACE/OCI                  
+   70  118 Risha George               27:15   28:10  38 581   NDP STEP CREW                  
+   71  536 Mary Li                    27:19   27:37  64 553                                  
+   72  449 Jelena Marshak             27:25   27:37  62 610.1                                
+   73  237 Xuexia (sherry Chen        27:27   28:01  44 20706 POWERED BY EARTH SCIENCE       
+   74   61 Emily Aldoretta            27:33   28:24  28 618   POWERED BY EARTH SCIENCE       
+   75  313 Emily Nguyen               27:43   28:22   4 497   GCDC                           
+   76  349 Janine Dolinka             27:57   28:17  51 113                                  
+   77  354 Nancy Dutan                28:03   28:07  41 554   TEAM PAAC                      
+   78   43 Lorraine Cain              28:29   28:50  51 770   GODDARD'S GLAMOROUS GO-GETTERS 
+   79  127 C Jen Johnson              28:40          54 210H  NDP STEP CREW                  
+   80  557 Priscilla Baltezar         28:43   29:45  26 618   TREE                           
+   81  498 Sheri Meck                 28:51   29:08  53 480                                  
+   82   34 Jolyn Russell              28:52   29:33  41 200   GCDC                           
+   83  187 Cyra Mollel                28:53   29:07   5 200   GCDC                           
+   84   58 Leyla Koca                 28:54   29:39   5 200   GCDC                           
+   85  205 Linda Barkenbush           28:56   29:40  40 200.9 GCDC                           
+   86  400 Elle Brande                28:56   32:39  28 540   NEWTON                         
+   87  108 Asha Butani                28:59   29:41   4 200   GCDC                           
+   88  285 Latrese White              29:00   29:39  36 200   GCDC                           
+   89  263 Susan Raphael              29:02   29:15  45 610.1 GMAO                           
+   90  373 Nakeyia Rhodes             29:04   29:20  42 GCDC                                 
+   91  133 Daniela Kem                29:06   29:48   4 200   GCDC                           
+   92  117 Alina Boyko                29:14   29:21  25 21037 TEAM JPSS                      
+   93  356 Karen Hu                   29:29   30:15  51 690   PEDABYTES                      
+   94  132 Carla Kem                  29:34   30:16  36 200   GCDC                           
+   95  558 Adrianna Foster            29:35   30:38  28 618   TREE                           
+   96  559 Lola Fatoyinbo             29:40          36 618   TREE                           
+   97  556 Aryanne Ferguson           29:44   30:46  32 603                                  
+   98   75 Ariana Radfar              30:00   30:43   5 200   GCDC                           
+   99  138 Laura Bur                  30:05   30:13  38 606.1 POWERED BY EARTH SCIENCE       
+  100  139 Milena Bur                 30:05   30:13   3 606.1 POWERED BY EARTH SCIENCE       
+  101  402 Robin Ripley               30:20   30:39  37 587                                  
+  102  519 Teresa Hewitt              30:26   30:57  39 200.2                                
+  103  219 Angela Taylor              30:29   30:46  51 703   TEAM GITISS                    
+  104  484 Julie McEnery              30:30   32:23  46 661   TEAM AMEGO                     
+  105  156 Rachel Meyers              30:32   31:34  24 618                                  
+  106  346 Letitia Cole               30:36   31:07  53 770   GODDARD'S GLAMOROUS GO-GETTERS 
+  107  552 Clayonna Wheat             30:38   31:07  25 770                                  
+  108  225 Janet Wasek                30:54   31:21  58 423   TEAM PAAC                      
+  109  172 Viha Nguyen                31:02   31:11  55 NOAA  TEAM JPSS                      
+  110  525 Theresa Arvidson           31:10   31:33  64 428.1                                
+  111  281 Laura Paschal              31:20   31:31  60 443   TEAM PAAC                      
+  112  256 Angela Phillips            31:20   32:08  46 703   TEAM GITISS                    
+  113  217 Vicki Kontson              31:21   31:32  58 443   TEAM PAAC                      
+  114  192 Jean Rosenberg             31:25   32:12  65 618.4 POWERED BY EARTH SCIENCE       
+  115  272 Laurie Mann                31:41   32:47  43 595                                  
+  116  245 Katherine Schauer          31:55   33:00  22 380   TEAM PAAC                      
+  117  548 Seema Vithlani             31:57   33:00  23 450   TEAM PAAC                      
+  118   12 Lorena Marsans             32:00   32:05  55 474   TEAM JPSS                      
+  119   68 Anneliese Albright         32:05   33:07   5 200   GCDC                           
+  120   69 Ingrid Albright            32:05   33:07  37 200   GCDC                           
+  121  150 Morgan Nichols             32:05   32:23  33 497   TEAM PACE/OCI                  
+  122  148 Lynette Sullivan           32:06   32:23  48 427   TEAM PACE/OCI                  
+  123  337 Allysha Sneed              32:11   33:08  27 770   NDP STEP CREW                  
+  124   16 Barbara Buchanan           32:21   32:59  54 720   TEAM GITISS                    
+  125  392 Ioana Rus                  32:39   33:18  55 580   TELOPHASE                      
+  126  493 Shelly Gross               32:40   33:13  36 700                                  
+  127   82 Vondelear Jenkins          32:58   33:30  63 720   GODDARD'S GLAMOROUS GO-GETTERS 
+  128  278 Jayshree Murthy            33:00   33:19  49 615   CRYO                           
+  129  128 Meghan Hauenstein          33:00          27 CODE                                 
+  130   40 Barbara Parmenter          33:07   34:00  48 155   TEAM PAAC                      
+  131  106 Diane Trakas               33:07   34:00  48 423   TEAM PAAC                      
+  132  103 Laquita Carrington         33:13   33:29  32 NONE                                 
+  133   78 Junhua Liu                 33:15   34:19  38 614   PALS                           
+  134   77 Emily Liu                  33:16   34:21   4 200   GCDC                           
+  135  318 Terita Wilson              33:36   34:28  45 703   TEAM GITISS                    
+  136  180 Ami Kante                  33:37   34:28  41 700   TEAM GITISS                    
+  137  305 Alicia Brown               33:39   34:30   5 425   GCDC                           
+  138  304 Nadia Brown                33:39   34:31  38 425   GCDC                           
+  139  555 Jolena Crawford            33:45   34:47  35 113                                  
+  140  112 Katherine Petrenko         33:48   34:20   4 GCDC  GCDC                           
+  141  194 Sherita Mance              33:50   34:24  41 730   GODDARD'S GLAMOROUS GO-GETTERS 
+  142  323 Jameelah Hunter            33:54   34:28  35 580   GODDARD'S GLAMOROUS GO-GETTERS 
+  143  334 Mia Cary                   33:57   34:24  38 720   GODDARD'S GLAMOROUS GO-GETTERS 
+  144  551 Christine Bloecker         33:57   34:47  26 610.1                                
+  145   38 Charley Hametz             34:00   34:54   5 200   GCDC                           
+  146   39 Amanda Hametz              34:00   34:55  32 200   GCDC                           
+  147  287 Makenzie Gillard           34:02   34:54   6 452   GCDC                           
+  148  161 Teaundre Taylor            34:06   34:29  40 770   GODDARD'S GLAMOROUS GO-GETTERS 
+  149  452 Djaataa Onanuga            34:08   35:02  33 210.H NDP STEP CREW                  
+  150  396 Kathy Nieman               34:09   34:29  65 474   TEAM PAAC                      
+  151  488 Karen Moe                  34:11   34:30  65 407                                  
+  152  328 Lorinda Yam                34:28   34:43  32 416   TEAM PAAC                      
+  153  404 Kristee Des Champs         34:29   34:44  35 417   TEAM PAAC                      
+  154  146 Ava Hughes                 34:35   35:21   5 200   GCDC                           
+  155  521 Marge Pole                 34:36   35:06  46 407   KBRWYLE/SGT                    
+  156  186 Martha Wawro               34:37   35:06  38 480                                  
+  157  104 Nargess Memarsadeghi       34:39   34:45  38 586                                  
+  158  198 Tina Tsui                  35:16   36:10  38 585   NDP STEP CREW                  
+  159   21 Jodi Vezzetti              35:23   36:23  40 472   TEAM JPSS                      
+  160   19 Rebecca Moore              35:25   36:24  24 472   TEAM JPSS                      
+  161  189 Eliza Ladd                 35:29   36:10   5 200   GCDC                           
+  162  262 Keisha Dyke                35:29   36:31  41 200   GCDC                           
+  163  277 Eleanor Glocer             35:29   36:31   5 673   GCDC                           
+  164  440 Shampa Wali                35:36   36:22  43 428   KBRWYLE/SGT                    
+  165  444 Laurie Donnelly            35:36   36:22  26 428   KBRWYLE/SGT                    
+  166  535 Folakemi Babarinde         35:38   36:27  25 618                                  
+  167  164 Madeleine Sage             35:43   36:54   4 LP011 GCDC                           
+  168  162 Tamyra Hall                36:03   37:13  27 GCDC  GCDC                           
+  169  312 Dannah Kurtom              36:04   37:14   3 GCDC  GCDC                           
+  170  367 Angelica Woods             36:04   36:04  42 403   TEAM PAAC                      
+  171  224 Shau Tsai                  36:29   36:53  57 720   TEAM GITISS                    
+  172   23 Eleanor Chai               36:30   37:08   4 200   GCDC                           
+  173  279 Alondra Caballero-Collad   36:40   37:05   4 674   GCDC                           
+  174  280 Yaireska Collado-Vega      36:42   37:05  37 674   GCDC                           
+  175  322 Vicki Dulski               36:43   37:52  47 429   TEAM LANDSAT 9                 
+  176   85 Paula Pruessner            36:49   37:53  39 371                                  
+  177   63 Kimi Fey                   36:53   38:06   4 200   GCDC                           
+  178   64 Karine Le Bail             36:54   38:07  41 200   GCDC                           
+  179  458 Maxine Saylor              36:54   37:43  44 450   KBRWYLE/SGT                    
+  180  514 Ashley Difalta             37:00   38:05  34 581   LANDSAT 9                      
+  181  362 April Peterson             37:01   37:56  30 580                                  
+  182  513 Sarah McIntire             37:02   38:05  33 429   LANDSAT 9                      
+  183  376 Elizabeth Nerdig           37:14   37:54  23 606.2                                
+  184  331 Ghezal Sherdil             37:17   37:54  26 720   TEAM GITISS                    
+  185  410 Michelle Bernard           37:19   37:47  48 159   TEAM PAAC                      
+  186  422 Stephanie Wright           37:19   37:47  37 159                                  
+  187  299 Latonyia Guyton            37:21   37:52  46 7300  GODDARD'S GLAMOROUS GO-GETTERS 
+  188   72 Tonjua Hines-Watts         37:21   37:51  54 705   GODDARD'S GLAMOROUS GO-GETTERS 
+  189  289 Shanita Drakeford          37:50   37:59  44 421                                  
+  190  378 Claudia Knez               37:52   38:34  39 695                                  
+  191   35 Mayra Espley               37:53   38:34   4 200   GCDC                           
+  192  121 May Numata                 37:54   38:30   5 200   GCDC                           
+  193  343 Kelly Hall                 37:56   38:38  36 720   TEAM GITISS                    
+  194  342 Beena Bakshi               37:57   38:38  42 (GSFC TEAM GITISS                    
+  195  332 Shelby Heffner             38:02   38:25  26 490   TEAM PAAC                      
+  196  251 Sarina Nathan              38:03   39:10  47 703   TEAM GITISS                    
+  197   49 Aanya Gnanakkan            38:03   38:35   4 200   GCDC                           
+  198   50 Vani Starry Manoharan      38:04   38:36  34 619   GCDC                           
+  199  119 Ai Numata                  38:18   38:56  42 560   GCDC                           
+  200  249 Nirupama Nair              38:19   38:56   5 617   GCDC                           
+  201    3 Patty Molina               38:19   38:43  45 428                                  
+  202  345 Natalie Huebert            38:19   39:28   4 613                                  
+  203  465 Rosalie Marley             38:20   39:15  62 474   TEAM JPSS                      
+  204  296 Ariel Brown                38:30          34 GCDC  GCDC                           
+  205  157 Adrianne Jones             38:32   39:14  64 703   TEAM GITISS                    
+  206   96 Denise Brown               38:33   39:14  46 703   TEAM GITISS                    
+  207  227 Lisa Humerickhouse         38:37   39:02  57 250.1 PLOGGERS                       
+  208  482 Maria Fleming              38:44   39:08  44 410                                  
+  209  483 Nicole Solomon             38:45   39:08  49 410                                  
+  210  171 Arianna Szwec              38:55   40:04   4 61A   GCDC                           
+  211  311 Sawsan Kurtom              39:02   40:04   5 GCDC  GCDC                           
+  212  270 Elycia Chew                39:02   40:04  42 200   GCDC                           
+  213   46 Annalee Downey             39:26   40:15   5 699   GCDC                           
+  214   26 Christine Golladay         39:48   40:35  42 200   GCDC                           
+  215   25 Taeya Arah                 39:48   40:35   5 200   GCDC                           
+  216  306 Nora Tucker                39:50   40:40   5 553   GCDC                           
+  217  295 Ariah Evans                39:51   40:31   4 GCDC  GCDC                           
+  218   67 Paige Hsu                  39:59   40:41   5 200   GCDC                           
+  219   56 Schanita Mitchell          39:59   41:16  37 200   GCDC                           
+  220  319 Brooke Hsu                 40:00   40:43  39 448   GCDC                           
+  221  266 Hope Cain                  40:08   40:40  38 200   GCDC                           
+  222  136 Latasha Easley             40:08   40:33  38 200.9 GCDC                           
+  223  268 Maya Domagal-Goldman       40:11   40:37   4 693   GCDC                           
+  224   55 Natasha Morton             40:15   40:15  46 200   GCDC                           
+  225  234 Katherine James            40:16   40:42  30 200   GCDC                           
+  226  155 Sierra Ramsey              40:17   41:11  21 703   TEAM GITISS                    
+  227  166 Brittney Faulkner          40:17   41:11  25 703   TEAM GITISS                    
+  228  308 Antiena Ellis              40:20   41:12  25 20706 TEAM GITISS                    
+  229  142 Iris Mulkey                40:20   40:38   5 597   GCDC                           
+  230  144 Juana E. Sosa              40:21   40:39  42 200   GCDC                           
+  231  242 Danielle Yates             40:22   41:28  25 720   TEAM PAAC                      
+  232  240 Molly Valltos              40:23   41:29  31 720   TEAM PAAC                      
+  233   41 Leona Dickens              40:24   41:39  40 200   GCDC                           
+  234  110 Pam Guzzone                40:34   41:39  55 100.1 GCDC                           
+  235   88 Mary Wallace               40:37   41:55  55 610.2 TEAM PAAC                      
+  236   59 Norah Matson               41:08   41:30   4 200   GCDC                           
+  237   45 Suana Watson               41:09   41:37  36 403   GCDC                           
+  238  370 Jennifer Matson            41:10   41:31  41 200                                  
+  239  438 Laura Waters               41:56   42:33  28 279                                  
+  240  528 Rachel Oster               41:57   42:34  38 279                                  
+  241  437 Wanda Dantos               42:00   42:35  56 279                                  
+  242  195 Cheryl Byrd                42:27   42:27  60 200   GCDC                           
+  243  199 Gina Visnansky             42:58   43:34  39 703   TEAM GITISS                    
+  244  116 Teresita Smith             43:23   44:21  33 100   NDP STEP CREW                  
+  245  388 Torey Stevenson            44:22   44:22  58 210.H                                
+                                                                      Page 1
+                         85th NASA Intracenter Run
+                        Goddard Space Flight Center
+                               May 2nd 2018
+                              Female Results
+                    correction to tom.winkert@nasa.gov
+                                    DNF
+Num  Name                     Time       
+==== ======================== ======= 
+   7 Kadie Esi                        
+  36 Debbie Henretty                  
+  47 Veronica Kerr                    
+  70 Jade Shi                         
+  74 Ronneise Munoz                   
+ 111 Meghan Wendt                     
+ 126 Krissen Burriss                  
+ 140 Emma Knowland                    
+ 165 Connie McRoy                     
+ 168 Robin Kovach                     
+ 212 Katherine Mazur                  
+ 213 Vernee Holley                    
+ 214 Linda Wunderlick                 
+ 223 Kimberly Walker-El               
+ 229 Jen Poston                       
+ 241 Milelene Gunyon                  
+ 243 Bonnie Burns                     
+ 290 Deborah Carter                   
+ 293 Helen Wright                     
+ 297 Gini Heilman                     
+ 298 Patrice Hall                     
+ 321 Nancy Dixon                      
+ 355 Saima Zobair                     
+ 366 Cathy Long                       
+ 398 Brooke Purinton                  
+ 420 Ngozi Osei                       
+ 424 Evette Mabrey                    
+ 454 Bita Khoshvaghti                 
+
+Number of records: 28 

@@ -1,0 +1,38 @@
+10K Results                     
+                        
+                        
+Pl  Num First   Last    Time    Age Gender
+                        
+1   7   Alvin   Yew        36:56    32  M
+2   123 Maksym  Petrenko   37:47    35  M
+3   42  Darren  Zanon      37:57    42  M
+4   149 Joe     Munchak    38:34    34  M
+5   111 Sean    Napier     41:49    26  M
+6   218 James   Cooper     42:17    48  M
+7   152 Marek   Sotola     44:36    31  M
+8   47  Kevin   Vermeesch  46:52    35  M
+9   428 Li      Feng       47:02    47  M
+10  366 Tony    Stocker    47:28    46  M
+11  212 Matt    Kowalewski 47:48    44  M
+12  412 Tom     Nolan      48:07    65  M
+13  415 Yan     Zhang      49:54    42  F
+14  71  David   Adams      51:54    48  M
+15  253 Jay     Brusse     53:47    49  M
+16  269 Sanxiong Xiong     54:09    58  M
+17  335 Jong    Kim        54:53    49  M
+18  213 Amy     McNally    56:22    36  M
+19  420 Wei     Gu         56:49    53  M
+20  439 Jianjun Jin        58:06    41  M
+21  426 Tony    Martino    58:40    57  M
+22  91  Ian     Richardson 59:54    61  M
+23  453 Manuel  Quijada    61:39    53  M
+24  290 Mark    Solomon    63:02    60  M
+25  36  Hongda  Chen       65:52    52  M
+26  13  Troung  Domg       66:54    40  M
+27  241 Rabi    Jacobs     74:57    42  M
+28  355 Chengbo Sun        75:32    51  M
+29  223 Michael Poole      79:05    47  M
+30  293 Karen   Scheiber   81:13    56  F
+                        
+                        
+                        

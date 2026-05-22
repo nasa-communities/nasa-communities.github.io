@@ -1,0 +1,25 @@
+10K Results (~80degrees, dew point low 70s)
+
+Pl  Num First       Last        Time    Age Gender
+1   284 Alvin       Yew         36:43   33  M
+2   105 Maksym      Petrenko    39:07   36  M
+3    36 Sean        Napier      43:25   26  M
+4   146 Kevin       Vermeesch   48:34   35  M
+5    57 Kent        McCullough  49:04   61  M
+6    13 John        Way         49:24   53  M
+7   113 Kirk        Gordon      49:37   62  M
+8   103 Badri       Shirgur     51:29   44  M
+9   230 Ryan        Detter      53:35   39  M
+10   83 Andrew      Ortner      54:20   41  M
+11   65 Ian         Carroll     55:04   38  M   
+12   59 Amy         McNally     57:20   37  F
+13   99 Tom         Winkert     57:25   54  M
+14  295 Sriharsha   Madhavan    58:20   38  M
+15  115 Truong      Dang        60:27   41  M
+16   35 Mark        Solomon     62:38   60  M
+17  118 Jongda      Checn       62:42   52  M
+18  283 Boryana     Efremova    63:59   45  M
+19  171 James       Moreland    65:45   66  M
+20  195 Chengbo     Sun         78:37   51  M
+21  282 John        Winkert     89:46   62  M
+DNF     John        Ramsey      xx:xx   57  M
