@@ -1,0 +1,176 @@
+                                                                      Page 1
+                         78th NASA Intracenter Run
+                        Goddard Space Flight Center
+                             October 15th,2014
+
+                               Male Results
+
+                    correction to tom.winkert@nasa.gov
+
+Place Num  Age Name                     Code  Time  Pace     
+===== ==== === ======================== ===== ===== ===== 
+    1    1  26 Sean Henely              595   10:42  5:21 
+    2  111  22 Ian Morgan                     10:52  5:26 
+    3  281  29 Alvin Yew                596   10:59  5:30 
+    4  212  34 Robert Michell           673   11:07  5:34 
+    5    6  30 Jacob Englander          595   11:20  5:40 
+    6   86  34 Mark Loeffler            691   11:24  5:42 
+    7  293  28 Marek Sotola                   11:28  5:44 
+    8    7  44 James Cooper             543   11:43  5:52 
+    9    2  32 Maksym Petrenko          613   11:54  5:57 
+   10  300  30 Tyler Lulich             596   12:04  6:02 
+   11   61  33 James Leake                    12:07  6:04 
+   12  312  31 Ricardo Arevalo          699   12:24  6:12 
+   13   30  34 Paul Bryans              671   12:59  6:30 
+   14  110  35 Ryan Detter              583   13:07  6:34 
+   15  220  45 Jeffrey Dalhoff          350   13:09  6:35 
+   16  305  48 Donald Shen              616   13:09  6:35 
+   17  214  40 William Bamford          596   13:20  6:40 
+   18  239   0 Peter Wyper              674   13:26  6:43 
+   19  206  39 Joel Allred              671   13:30  6:45 
+   20  116  43 Rick Carter              221   13:36  6:48 
+   21    8  42 Erdem Karakoylu          616   13:45  6:53 
+   22    4  57 Kent McCullough          614   13:47  6:54 
+   23  118  22 Fotaki Gerow                   13:52  6:56 
+   24  173  40 Thomas Bediako                 13:55  6:58 
+   25  268  45 David Adams              599   13:56  6:58 
+   26  203  52 Ronald Hooker            421   14:04  7:02 
+   27  290  28 James Marshall                 14:05  7:03 
+   28  108  33 Ryan Fitzgibbons         130   14:11  7:06 
+   29   13  52 Cornelis Du Toit         567   14:12  7:06 
+   30  129  50 Robert Iacovazzi         417   14:21  7:11 
+   31   44  44 Leibo Ding               618   14:23  7:12 
+   32  301  54 Michael Hersh            544   14:26  7:13 
+   33  153  62 Tom Nolan                699   14:30  7:15 
+   34  299  55 Joel Gallun              581   14:35  7:18 
+   35  273  51 Scott Glubke             590   14:42  7:21 
+   36   82  50 Jim Loughlin             505   14:51  7:26 
+   37  193  51 Richard Ullman           474   14:53  7:27 
+   38  264  45 Jong Kim                 610   15:00  7:30 
+   39  274  48 Tupper Hyde              590   15:12  7:36 
+   40   16  31 Joel Donham              250   15:14  7:37 
+   41  140  31 Daniel Link              618   15:16  7:38 
+   42  136  43 Feng Li                  614   15:22  7:41 
+   43  192  32 Kevin Berberich                15:24  7:42 
+   44  230  33 Christopher Riley        461   15:25  7:43 
+   45  242  45 Scott Barbier            762   15:27  7:44 
+   46   32  37 Brian Ottens             592   15:29  7:45 
+   47  275  42 Mike Moreau              595   15:41  7:51 
+   48  255  35 David Ward                     15:44  7:52 
+   49  138  31 Michael Cabrera                15:46  7:53 
+   50  306  41 Robert Levy              613.2 15:53  7:57 
+   51  162  26 Evan Thomas              674   15:55  7:58 
+   52  170  52 Andre Dress              472   15:56  7:58 
+   53  298  53 John Ramsey                    15:58  7:59 
+   54   18  33 Phuc Nguyen              544   16:06  8:03 
+   55  160  25 Zachary Gonnsen          582   16:07  8:04 
+   56  141  47 Hongda Chen              618   16:08  8:04 
+   57   38  45 Andrei Mamoutkine        693   16:09  8:05 
+   58  151  61 William Teng             610.2 16:10  8:05 
+   59  112  41 Jan Merka                672   16:16  8:08 
+   60  311  55 Kirk Rhee                301   16:39  8:20 
+   61  211  46 Jonathan Kelly           610.1 16:43  8:22 
+   62  236  30 Ryan Gerard              474   16:45  8:23 
+   63  207  53 Kenneth Yargus           250   16:50  8:25 
+   64   29  34 Jeffrey Simpson          408   16:55  8:28 
+   65   23  56 Mark Solomon             610.1 16:58  8:29 
+   66  191  41 Martin Yapur                   17:02  8:31 
+   67  148  34 Sriharsha Madhavan       618   17:06  8:33 
+   68  107  51 Tod Strohmayer           662   17:10  8:35 
+   69  158  54 Daniel Hopf              614   17:12  8:36 
+   70  289  46 Michael Bosilovich       610   17:15  8:38 
+   71  257  30 Navin Ghaffarian               17:22  8:41 
+   72  187  53 Matt Delaud              614   17:22  8:41 
+   73   69  30 Kyle Murphy              670   17:26  8:43 
+   74   12  33 Shriram Ilavajhala       619   17:33  8:47 
+   75  218  62 Fred Huegel              426   17:44  8:52 
+   76   17  60 Mathew Schwaller         612   17:46  8:53 
+   77  263  34 Supatranai Nopakun             17:49  8:55 
+   78  166  64 Craig Weikel             474   17:52  8:56 
+   79  147  37 Truong Dang              618   17:57  8:59 
+   80   63  00 Sak-Bin Kang                   17:59  9:00 
+   81  117  52 Chip Schwartz                  18:06  9:03 
+   82   26  62 Mahendra Karki           610.1 18:14  9:07 
+   83  310  47 Timothy Wilcox           428.1 18:15  9:08 
+   84   90  45 Reginald Bush            428   18:20  9:10 
+   85  185  59 Robert Hackley           540   18:24  9:12 
+   86   73  26 Jonathan Boblitt         567   18:29  9:15 
+   87  142  00 Jon Fulbright            618   18:30  9:15 
+   88   67  66 Michael McCumber               18:30  9:15 
+   89  321  36 Adrian Southard                18:32  9:16 
+   90  123  48 Hassan Oudrari           618   18:37  9:19 
+   91  285  51 Abou Traore              618   18:43  9:22 
+   92  231  28 David Trang              474   18:46  9:23 
+   93  127  62 Salustiano Ortega        580   18:58  9:29 
+   94  104  72 Mash Nishihama           619   18:58  9:29 
+   95   66  53 Sean Chen                673   18:59  9:30 
+   96  176  54 Robert Williamson        474   19:00  9:30 
+   97  114  53 Jeffrey Poindexter             19:01  9:31 
+   98  208  62 Lawrence Coy             600   19:03  9:32 
+   99  303  40 Daniel Karlson           410   19:07  9:34 
+  100  323  44 Jack Ireland             671   19:10  9:35 
+  101  253  29 Tyler Evans              551   19:24  9:42 
+  102  106  33 Nema Pahlevan            619   19:30  9:45 
+  103  270  33 Dean Chai                591   19:48  9:54 
+  104  261  27 Peter Aquino                   19:57  9:59 
+  105   36  51 Roger Banting            200   20:00 10:00 
+  106  307  42 Martin Houghton          432   20:03 10:02 
+  107  120  52 Rich Barney              300   20:05 10:03 
+  108  288  40 Chad Salo                492   20:17 10:09 
+  109   98  39 Chris Cohoon             610.2 20:26 10:13 
+  110  126  58 Marco Toral              454   20:38 10:19 
+  111   34  36 Christopher Roberts      453   20:40 10:20 
+  112  226  53 Eduardo Linan                  20:44 10:22 
+  113   10  57 Louis Thomas             302   20:55 10:28 
+  114  217  50 Michael Simpson          426   21:05 10:33 
+  115  276  50 Jim O'Donnell            591   21:12 10:36 
+  116  163  29 Eddie Gamarra                  21:13 10:37 
+  117   60  38 Jerome King                    21:13 10:37 
+  118   59  54 Stephan Klene            423   21:42 10:51 
+  119   57  63 James Williams           423   22:02 11:01 
+  120  322  39 Vincent Bharsdua               22:03 11:02 
+  121  313  24 Benson Ayorinde                22:07 11:04 
+  122  164  68 Vincent Grano            474   22:08 11:04 
+  123  237  37 Gyanesh Chander          586   22:08 11:04 
+  124  235  42 Wayne McCullough         474   22:10 11:05 
+  125   37  71 Brij Gambhir             614   22:10 11:05 
+  126  145  32 Thomas Schwarting        614   22:17 11:09 
+  127   84  59 Steve Walter             582   22:29 11:15 
+  128  182  53 Daniel Helfrich          472   22:31 11:16 
+  129    3  75 Ralph Welsh                    22:34 11:17 
+  130  101  49 Sadashiva Devadiga       619   22:41 11:21 
+  131  200  31 Marcello Rodriguez       546   23:03 11:32 
+  132  316  39 Harry Stein              250   23:10 11:35 
+  133   24  58 Douglas Collins          610.1 23:13 11:37 
+  134  256  53 Matt Yetman              SGT   23:20 11:40 
+  135  128  00 Andrew Wald              610   23:24 11:42 
+  136  181  39 Tim Kasheta              474   23:35 11:48 
+  137   68  63 Byron Peters                   23:37 11:49 
+  138  259  38 Kevin Castellucci              23:42 11:51 
+  139  209  30 Jason Houston            450   23:44 11:52 
+  140  144  51 Kwofu Chiang             618   24:23 12:12 
+  141  113  55 Sanxiong Xiong           614   24:23 12:12 
+  142  215  49 Tumkur Raghuram          564.0 25:00 12:30 
+  143   25  61 King-Sheng Tai           610   25:09 12:35 
+  144  125  43 Perry Gerakines          691   25:35 12:48 
+  145   87  34 Jeff Klenzing            674   27:01 13:31 
+  146  232  59 Jeff Bowser              920.1 27:23 13:42 
+  147  324  56 Warren Miller            444   27:40 13:50 
+  148  175  56 Kevin Parker             474   28:07 14:04 
+  149  326  41 Roman Kilgore            417   28:14 14:07 
+  150  186  62 Howard Dew                     29:19 14:40 
+  151  243  58 Ken Hinkle               560   30:10 15:05 
+  152  100  62 Edward Masuoka           619   30:15 15:08 
+  153  297  72 Richard Weiss            403   32:14 16:07 
+  154   95  52 David Obler              619   32:48 16:24 
+  155  183  62 Bruce Wernek             474   33:15 16:38 
+  156  180  60 John Garner              474   33:19 16:40 
+  157   31  46 David Franz              553   33:39 16:50 
+  158  291  63 Paul Shehadi             416   33:47 16:54 
+  159  329  60 Benny Prats              699   35:46 17:53 
+  160  277  47 Stephen Schmidt          592   36:23 18:12 
+  161   93  51 Patrick Kolbe            610.2 36:27 18:14 
+  162  252  57 Bill Green               560   36:43 18:22 
+  163  177  52 Tim Dorman               474   38:40 19:20 
+  164   85  55 Steven Wadding           750   38:43 19:22 
+
