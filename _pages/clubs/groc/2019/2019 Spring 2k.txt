@@ -1,0 +1,11 @@
+2K Results (~65, overcast)
+
+Pl  Num First      Last        Time    Age Gender
+1   378 Leibo      Ding        8:34     48    M
+2   418 Jinan      Zeng        9:51     55    M
+3   626 Jose       Faldamez    15:39    39    M
+4   622 VaniStarry Manoharan   16:59    35    F
+5   25  Milena     Bur         19:46     4    F
+6   24  Michael    Bur         19:46    54    M
+7   18  Theo       Muench      26:06    40    M
+8   623 Vason      Behr        26:06    52    M

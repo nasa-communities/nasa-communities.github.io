@@ -1,0 +1,19 @@
+10K Results (~65, overcast)
+
+Pl  Num First     Last        Time    Age Gender
+1   597 Theo      Muench      43:04    40   M   Overall Winner - it is about time!
+2   130 Matthew   Seybold     43:18    46   M   First Male Masters
+3   583 Tom       Nolan       46:48    67   M 
+4   107 Pete      Barfknecht  50:29    34   M   
+5   589 Ian       Carroll     52:08    39   M
+6   527 Kirk      Gordon      53:57    63   M
+7   588 Amy       McNally     54:20    38   F   First Female
+8   120 Wei       Gu          54:34    55   M
+9   605 John      Ramsey      54:35    58   M
+10  625 Sanxiong  Xiong       56:20    59   M
+11  591 Hongda    Chen        58:09    53   M 
+12  590 Truong    Dang        61:04    42   M
+13  537 Karen     Scheiber    62:04    58   F   *** First in the 8k (roughly) option
+14  593 Jeanette  Novak       65:00    75   F   *** Second in the 8k (roughly) option 
+15  592 Chemgbo   Sun         69:18    52   M
+

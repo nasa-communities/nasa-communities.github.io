@@ -1,0 +1,43 @@
+                                                                      Page 1
+                         87th NASA Intracenter Run
+                        Goddard Space Flight Center
+                  May 1st 2019 - Goddard's 60th Birthday!
+                               Male Results
+                    correction to tom.winkert@nasa.gov
+                                    DNF
+Num  Name                     Time       
+==== ======================== ======= 
+  26 Ed Aguayo                        
+ 616 Jonathan Boblitt                 
+ 345 Nicholas Bowie                   
+ 236 Bob Burkett                      
+ 581 Daniel Burns                     
+ 401 Vincent Chiang                   
+  12 Douglas Collins                  
+ 307 Brian Corb                       
+ 172 Bruce Dean                       
+ 243 Marc Eastman                     
+ 480 Billy Gallagher                  
+ 112 Theodore George                  
+ 292 Cris Hamilton                    
+  43 Charles Hicks                    
+ 343 Ebenezer Jesulolu                
+  37 Raymond Levesque                 
+ 251 Paul Lieberman                   
+ 305 Eric Lyness                      
+ 333 David McClure                    
+  47 Kent McCullough                  
+ 384 Gerhard Meister                  
+ 295 Andrew Miller                    
+   2 Stephen Padgett                  
+  45 Mark Pallone                     
+ 138 Dwight Patel                     
+ 324 David Richardson                 
+ 226 Kermit Russell                   
+ 391 Jason Smith                      
+ 195 Edward Sullivan                  
+ 479 Daniel Todaro                    
+ 278 Michael Toeller                  
+ 611 Kimathi Tull                     
+
+Number of records: 32 

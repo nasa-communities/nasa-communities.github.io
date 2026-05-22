@@ -1,0 +1,144 @@
+                                                                      Page 1
+                         88th NASA Intracenter Run
+                        Goddard Space Flight Center
+                             October 16th 2019
+                               Male Results
+                    correction to tom.winkert@nasa.gov
+Place Num  Name                     Guntime  Sex Age Code  Team                              
+===== ==== ======================== ======== === === ===== ============================== 
+    1  717 Ethan Burbridge          10:39.79   M  23 545   VERTEX AEROSPACE               
+    2  484 Niko Fedkin              11:14.25   M  26 614                                  
+    3  815 Sean Napier              11:25.10   M  27 595   GODDARD TRACK CLUB             
+    4  201 Tim Allard               11:48.92   M  33 428   LANDSAT                        
+    5  515 Mark Wojenski            11:53.79   M  38 428.3 KBR                            
+    6  660 Bernard Kelly            11:56.11   M  46 663   GEODESIC DEVIANTS(660)         
+    7  735 Maksym Petrenko          11:58.66   M  37 610   GODDARD TRACK CLUB             
+    8  747 James Leake              12:08.31   M  38 671   GODDARD TRACK CLUB             
+    9  533 Steven Fons              12:35.20   M  25 615                                  
+   10  100 Patrick Wolf             12:41.18   M  25                                      
+   11  766 Grant Barrett            12:52.12   M  30 22310 KBR                            
+   12  585 Joel Allred              12:53.82   M  44 671   HELIOPHYSICS                   
+   13  799 Gabe Segnatelli          13:11.30   M  24 428   KBR                            
+   14  752 Mircea Grecu             13:13.93   M  50 612   RAINING ON YOUR PARADE         
+   15  599 Missie Vess              13:15.30   F  40 448   LANDSAT                        
+   16  638 Ryan Detter              13:20.36   M  40       GODDARD TRACK CLUB             
+   17  223 Ryan Fitzgibbons         13:28.34   M  38 130                                  
+   18  695 Quentin Baghi            13:51.93   M  31 663   GEODESIC DEVIANTS(660)         
+   19  679 Skyler Labuff            13:56.41   M  36 428   LANDSAT                        
+   20  674 Ryan Hancock             13:58.10   M  30 153.1 JPSS PROJECT TEAM              
+   21  180 Tom Neumann              14:04.29   M  46                                      
+   22  170 Steve Neumann            14:05.29   M  44                                      
+   23  751 Joe Shelton              14:06.91   M  37 224                                  
+   24  772 Teddy Lambert            14:09.76   M  19 5820  SPACE CAMP                     
+   25  210 Robert Lemon             14:11.08   M  47                                      
+   26  107 Pete Barfknecht          14:12.01   M  34 552   CRYO                           
+   27  731 Taylor Rinehart          14:14.82   M  29 428   LANDSAT                        
+   28  426 Ian Crum                 14:22.94   M  34 428   KBR                            
+   29  378 Leibo Ding               14:27.97   M  49 618   GODDARD TRACK CLUB             
+   30  774 Stefano Bertone          14:46.42   M  34 20001 GEODESIC DEVIANTS(660)         
+   31  750 Shannon Wilks            14:54.33   F  25 540   NEWTON                         
+   32  649 Andrew Ortner            14:59.87   M  42                                      
+   33  386 Greg Waldo               14:59.88   M  61 483   VERTEX AEROSPACE               
+   34  809 Jim Basl                 15:10.64   M  40 448   SSPD/480                       
+   35   31 Rick Carter              15:12.09   M  48 420                                  
+   36  703 Alvah Bickner            15:15.08   M  24 595   LANDSAT                        
+   37  465 Isak Wold                15:18.88   M  41 665   GEODESIC DEVIANTS(660)         
+   38  605 John Ramsey              15:23.28   M  58 NONE                                 
+   39  200 Kirk Gordon              15:26.71   M  63                                      
+   40  250 Lori Levine              15:35.64   F  44 250   MEMD LEAGUE OF EXTRAORDINARY R 
+   41  684 Gabriel Maymon           15:43.69   M  23 483   NEWTON                         
+   42  810 Rommel Zara              15:47.55   M  40 545   VERTEX AEROSPACE               
+   43  417 Ronald J. Hooker         15:51.73   M  57 421   GOES-R & SWFO                  
+   44  787 Andrew Lyashko           16:04.55   M  42 417   GOES-R & SWFO                  
+   45  330 Kimathi Tull             16:18.84   M  41                                      
+   46    3 Jennifer White           16:21.52   F  38 428   LANDSAT                        
+   47  438 Bill Teng                16:23.03   M  66 610.2 POWERED BY EARTH SCIENCE       
+   48  415 Joel Gallun              16:39.30   M  60 581                                  
+   49  148 Rachel Buchanan          16:49.60   F  24 700   TEAM GITISS                    
+   50  311 Truong Dang              16:58.82   M  42 618   POWERED BY EARTH SCIENCE       
+   51  808 Evan Alexander           17:08.39   M  36 545   VERTEX AEROSPACE               
+   52  786 Natalya Kramarova        17:16.74   F  41 614                                  
+   53  190 Jerika Christman         17:22.97   F  22       SPACE CAMP                     
+   54  790 Alexander Watson-Jones   17:25.95   M  20 543   SPACE CAMP                     
+   55  719 Darron Smallwood         17:32.86   M  20 272   LIBRARY TEAM (272)             
+   56    4 Jennifer Bracken         17:39.79   F  55 500                                  
+   57  571 Alexander Petrov         17:41.97   M  32 20852 TEAM TELOPHASE                 
+   58  168 Lia Sacks                17:42.01   F  30 591   OFF THE MESA!                  
+   59  685 Eric Simpson             17:46.21   M  50 705   TEAM GITISS                    
+   60   16 John Hartnett            17:53.72   M  42 720   TEAM GITISS                    
+   61  497 Jillianne Shear          17:56.87   F  38 480   SSPD/480                       
+   62  582 Gabrielle Dorney         17:59.95   F  25 562                                  
+   63  794 Brian Repp               18:00.43   M  54 444   KBR                            
+   64  689 Edward Sullivan          18:02.60   M  56 498                                  
+   65  706 Tiffany Holden           18:03.39   F  34 690.1 PEDIBYTES                      
+   66  753 Leo Teeney               18:04.88   M  29 428   LANDSAT                        
+   67  807 Alyssa Moran             18:08.35   F  21 20832                                
+   68  119 Mark Solomon             18:13.43   M  61 610.1 GMAO                           
+   69  256 Nicholas Elisio          18:17.51   M  28 720   TEAM GITISS                    
+   70  156 Jay Ellis                18:21.96   M  58 720   TEAM GITISS                    
+   71  729 Marc Eastman             18:24.40   M  23 ?     TEAM GITISS                    
+   72  151 Martha Wawro             18:29.87   F  40 480   KBR                            
+   73  728 Miriam Wennersten        18:43.59   F  52 581   LCRD                           
+   74  828 Alex Koeppl              18:46.99   M  59 474   KBR                            
+   75  778 Jeffrey Kronenwetter     18:57.51   M  56 417   GOES-R & SWFO                  
+   76  769 Elissa Sperling          19:01.40   F  32 272   LIBRARY TEAM (272)             
+   77  821 Lutz Rastaetter          19:08.82   M  52 674                                  
+   78  797 Santino Rosanova         19:17.88   M  28 545   VERTEX AEROSPACE               
+   79  824 Camilla Logan            19:19.28   F  49 720                                  
+   80  230 Hudson Delee             19:36.46   M  36                                      
+   81   34 Tom Clement              20:11.10   M  59 582                                  
+   82  727 Patricia Randazzo        20:18.36   F  30 451   LCRD                           
+   83  802 Maxwell Pope             20:34.95   M  10 581                                  
+   84  788 Christina Milotte        20:35.57   F  40 660                                  
+   85  556 Keisha Tigner            20:45.39   F  45 720                                  
+   86  443 Mike Arida               20:49.45   M  51 660   GEODESIC DEVIANTS(660)         
+   87   27 Robin Ripley             20:55.27   F  38 587                                  
+   88  715 Roger Banting            20:57.46   M  56 555   TEAM PAAC                      
+   89  528 Stephan Klene            21:08.78   M  58 423   POWERED BY EARTH SCIENCE       
+   90  492 Steven Arvin             21:13.75   M  26 400   KBR                            
+   91  681 Meghan Wendt             21:29.90   F  32 618   NEWTON                         
+   92  773 Tosh Keune               21:40.13   M  60 480   SSPD/480                       
+   93  454 Saima Zobair             21:43.42   F  46 690.1 PEDIBYTES                      
+   94  268 Sean Chen                21:46.60   M  58 619                                  
+   95  150 Joseph Warren            21:53.44   M  56 160   TEAM PAAC                      
+   96  798 Kasey Jenkins            21:57.86   F  26 250                                  
+   97  693 Jim Wiedman              21:59.41   M  49 720   TEAM GITISS                    
+   98  800 John Pope                21:59.74   M  48 581   KBR                            
+   99  548 Gala Wind                22:04.85   F  41 613   POWERED BY EARTH SCIENCE       
+  100  323 Brij Gambhir             22:07.15   M  76 618   POWERED BY EARTH SCIENCE       
+  101    2 Richie Weiss             22:23.86   M  77       TEAM PAAC                      
+  102  754 Lawrence Coy             22:31.03   M  67 610.1 GMAO                           
+  103  388 Ralph Welsh Jr           22:46.91   M  80 RETIR                                
+  104  827 Pat Boldosser            22:55.75   M  48 452                                  
+  105  795 Chuck Kozlowski          22:56.19   M  60 452                                  
+  106  818 Angela Li                24:33.42   F  57 586                                  
+  107  468 Suhung Shen              24:35.24   F  57 610.2                                
+  108  785 Michael Grotenhuis       24:40.05   M  38 417   GOES-R & SWFO                  
+  109  654 Patrick McCaslin         24:46.84   M  66 690.1 PEDIBYTES                      
+  110   69 Perry Sebreny            25:00.76   M  58 428   KBR                            
+  111  813 Almond Custodio          25:01.79   M  38 159                                  
+  112  755 Juana Sosa               25:47.32   F  44 112                                  
+  113  801 Robyn Pope               26:07.36   F  48 581                                  
+  114  283 Paul Straub              26:12.11   M  43 720   TEAM GITISS                    
+  115  146 Thomas Buchanan          26:32.96   M  55 700   TEAM GITISS                    
+  116  220 Jeff Bowser              26:35.79   M  64                                      
+  117  812 David Gong               26:52.28   M  36 113                                  
+  118  160 Jelema Marshak           27:03.94   F  64       GMAO                           
+  119  260 Venku Jayanti            27:06.54   F  58                                      
+  120  234 Charles Martin           27:26.36   M  31 480   TEAM PAAC                      
+  121  783 David Williams           27:41.20   M  61 690.1 PEDIBYTES                      
+  122  806 Clarissa Canzoniero      27:41.51   F  24 693   PEDIBYTES                      
+  123  811 Jay Friedlander          27:41.56   M  58 605   PEDIBYTES                      
+  124  249 Kg Woltz                 28:36.28   M  59 703   TEAM GITISS                    
+  125  432 Theresa Arvidson         30:32.47   F  65 428                                  
+  126  714 Michele Thompson         31:12.20   F  21 592                                  
+  127  289 Geraldine Robbins        31:12.20   F  60                                      
+  128   32 Timothy Wilcox           34:34.81   M  52 428.1 LANDSAT                        
+  129  531 Shampa Wali              35:24.65   F  44 428   KBR                            
+  130  542 Peggy MacKrell           35:24.95   F  55 428   KBR                            
+  131  676 Jack Dockery             36:13.48   M  40 472                                  
+  132  338 Ann Melton               36:46.02   F  62 610.1 GMAO                           
+  133  819 David Simpson            37:13.86   M  58 673                                  
+  134  782 Jacqueline Snell         37:23.51   F  44 444                                  
+  135  487 Maxine Saylor            37:24.53   F  46 591   KBR                            
+  136  488 Mehul Patel              37:24.60   M  44 563   KBR                            

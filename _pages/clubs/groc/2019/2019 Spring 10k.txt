@@ -1,0 +1,30 @@
+10K Results (~65, overcast)
+
+Pl  Num First     Last        Time    Age Gender
+1   625 Maksym    Petrenko    37:05    36   M   Overall Winner - it is about time!
+2   639 Darren    Zanon       38:03    39   M
+3   616 Lokesh    Meena       38:48    31   M 
+4   617 Bill      Bamford     43:30    44   M   First Male Masters
+5   613 Alvin     Yew         43:37    33   M
+6   655 Feng      Li          44:14    47   M
+7   621 Ryan      Detter      45:08    40   M
+8   191 Tom       Nolan       45:22    66   M
+9   627 Luke      Winternitz  45:55    40   M
+10  532 Kevin     Vermeesch   47:41    36   M
+11  615 Bill      Stahr       48:34    58   M 
+12  527 Kirk      Gordon      48:42    63   M
+13  649 Andrew    Ortner      49:51    42   M
+14  624 David     Adams       49:54    49   M
+15  465 Isak      Wold        50:01    41   M
+16  620 Ian       Carroll     50:47    38   M
+17  619 Amy       McNally     53:03    37   F   First Female
+18  446 Ian       Richardson  53:36    62   M
+19  625 Sanxiong  Xiong       55:36    60   M
+20  311 Truong    Dang        56:15    41   M
+21  614 John      Ramsey      58:37    58   M
+22  403 Hongda    Chen        60:19    52   M
+23  119 Mark      Solomon     62:00    61   M
+24  610 Sriharsha Madhavan    66:00    39   M
+25  434 Chengbo   Sun         73:30    52   M
+26  537 Karen     Scheiber    76:31    57   F  First Female Master
+27  618 Angela    Li          84:05    56   F

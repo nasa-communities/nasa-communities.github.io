@@ -1,0 +1,48 @@
+                                                                      Page 1
+                         88th NASA Intracenter Run
+                        Goddard Space Flight Center
+                             October 16th 2019
+                              Female Results
+                    correction to tom.winkert@nasa.gov
+Place Num  Name                     Time    Guntime Age Code  Team                              
+===== ==== ======================== ======= ======= === ===== ============================== 
+    1  599 Missie Vess                13:14   13:16  40 448   LANDSAT                        
+    2  750 Shannon Wilks              14:53   14:55  25 540   NEWTON                         
+    3  250 Lori Levine                15:30   15:36  44 250   MEMD LEAGUE OF EXTRAORDINARY R 
+    4    3 Jennifer White             16:20   16:22  38 428   LANDSAT                        
+    5  148 Rachel Buchanan            16:37   16:50  24 700   TEAM GITISS                    
+    6  786 Natalya Kramarova          17:12   17:17  41 614                                  
+    7  190 Jerika Christman           17:19   17:23  22       SPACE CAMP                     
+    8    4 Jennifer Bracken           17:32   17:40  55 500                                  
+    9  168 Lia Sacks                  17:34   17:43  30 591   OFF THE MESA!                  
+   10  497 Jillianne Shear            17:50   17:57  38 480   SSPD/480                       
+   11  706 Tiffany Holden             17:56   18:04  34 690.1 PEDIBYTES                      
+   12  582 Gabrielle Dorney           17:56   18:00  25 562                                  
+   13  807 Alyssa Moran               18:00   18:09  21 20832                                
+   14  151 Martha Wawro               18:25   18:30  40 480   KBR                            
+   15  728 Miriam Wennersten          18:39   18:44  52 581   LCRD                           
+   16  769 Elissa Sperling            18:50   19:02  32 272   LIBRARY TEAM (272)             
+   17  824 Camilla Logan              19:08   19:20  49 720                                  
+   18  727 Patricia Randazzo          20:15   20:19  30 451   LCRD                           
+   19  788 Christina Milotte          20:21   20:36  40 660                                  
+   20   27 Robin Ripley               20:35   20:56  38 587                                  
+   21  556 Keisha Tigner              20:35   20:46  45 720                                  
+   22  681 Meghan Wendt               21:28   21:30  32 618   NEWTON                         
+   23  454 Saima Zobair               21:37   21:44  46 690.1 PEDIBYTES                      
+   24  798 Kasey Jenkins              21:48   21:58  26 250                                  
+   25  548 Gala Wind                  21:58   22:05  41 613   POWERED BY EARTH SCIENCE       
+   26  818 Angela Li                  24:23   24:34  57 586                                  
+   27  468 Suhung Shen                24:25   24:36  57 610.2                                
+   28  755 Juana Sosa                 25:38   25:48  44 112                                  
+   29  801 Robyn Pope                 25:51   26:08  48 581                                  
+   30  260 Venku Jayanti              26:45   27:07  58                                      
+   31  160 Jelema Marshak             26:57   27:04  64       GMAO                           
+   32  806 Clarissa Canzoniero        27:42   27:42  24 693   PEDIBYTES                      
+   33  432 Theresa Arvidson           30:15   30:33  65 428                                  
+   34  714 Michele Thompson           31:13   31:13  21 592                                  
+   35  289 Geraldine Robbins          31:13   31:13  60                                      
+   36  531 Shampa Wali                32:21   35:25  44 428   KBR                            
+   37  542 Peggy MacKrell             32:21   35:25  55 428   KBR                            
+   38  338 Ann Melton                 36:30   36:47  62 610.1 GMAO                           
+   39  782 Jacqueline Snell           37:03   37:24  44 444                                  
+   40  487 Maxine Saylor              37:04   37:25  46 591   KBR                            

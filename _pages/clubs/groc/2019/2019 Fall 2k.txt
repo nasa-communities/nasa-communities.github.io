@@ -1,0 +1,9 @@
+2K Results (~65, slight breeze)
+
+Pl  Num First      Last        Time    Age Gender
+1   595 Petrenko   Maksym      7:22    36     M
+2   586 John       Way         8:12    54     M
+3   596 Ted        Poulos      8:19    57     M
+4   594 Leibo      Ding        8:34    49     M 
+5   418 Jinan      Zeng        9:22    55     M
+6   587 Tom        Winkert     9:23    55     M 
