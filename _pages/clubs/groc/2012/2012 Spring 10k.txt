@@ -1,0 +1,49 @@
+"10-Km Race at Greenbelt Lake, 4/25/2012"					
+					
+Rank	Number	Name			Time  Gender Age
+1	484	Tyler Lulich			38:14	M	28
+2	470	Ted Poulos			41:14	M	50
+3	486	Jeff Dalhoff			41:24	M	42
+4	468	Mark Loeffler			41:42	M	31
+5	106	James Cooper			41:55	M	42
+6	461	Robert Parry			42:57	M	47
+7	99	Tom Winkert			43:11	M	47
+8	467	Maksym Petrenko			43:47	M	29
+9	101	Win Persina			43:50	F	52
+10	458	John Peil			44:47	M	27
+11	464	Paul Bryans			45:05	M	31
+12	488	Theo Muench			46:35	M	33
+13	456	Michael Bur			46:41	M	47
+14	475	Robert Wolfe			47:35	M	54
+15	469	Deepak Patel			47:44	M	24
+16	455	Tony Stocker			47:49	M	40
+17	465	Leibo Ding			47:53	M	41
+18	105	John Bolten			47:58	M	49
+19	96	John Hord			48:10	M	44
+20	457	Laura Bur			48:15	F	32
+21	390	Jim Pontius			48:23	M	35
+22	489	Dave Petrick			48:33	M	32   (started late, 46:30 adjusted time)
+23	485	Luke Winternitz			50:19	M	33
+24	459	Jong Kim			51:08	M	43
+25	472	Timothy Oldham			51:33	M	65
+26	487	Fred Huegel			53:45	M	60
+27	471	John Ramsey			54:24	M	51
+28	462	Ian Richardson			54:31	M	55
+29	482	Robert Levy			54:48	M	39
+30	108	Damaris Guevara			54:56	F	35
+31	483	Craig Jamieson			56:14	M	52
+32	454	Keith Rice			57:14	M	44
+33	104	Thomas Schwarting		58:17	M	29
+34	474	Fredrik Nyman			60:14	M	44
+35	466	Robert Frederickson		60:40	M	51
+36	94	Kent McCullough			60:41	M	55
+37	95	Edward Masuoka			61:02	M	59
+38	97	Michael McCumber		61:15	M	63
+39	103	Mash Nishihama			61:24	M	69
+40	476	Craig Weikel			61:48	M	61
+41	98	Sriharsha Madhavan		62:01	M	32
+42	481	William Paradis			63:40	M	48
+43	107	Larry Stake			65:06	M	64
+44	463	Donna Garnett			66:48	F	56
+45	102	Veronica Pinnick		68:47	F	30
+46	473	Rosina Iping			69:00	F	62
