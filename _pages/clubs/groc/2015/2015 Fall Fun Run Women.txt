@@ -1,0 +1,74 @@
+                                                                      Page 1
+                         80th NASA Intracenter Run
+                        Goddard Space Flight Center
+                             October 28th,2015
+
+                              Female Results
+
+                    correction to tom.winkert@nasa.gov
+
+Place Num  Age Name                     Code  Time  Pace     
+===== ==== === ======================== ===== ===== ===== 
+    1  291  36 Melissa Vess             591   12:59  6:30 
+    2   19  30 Veronika Leitold         618   13:10  6:35 
+    3  294  51 Julie Thienel            599   13:41  6:51 
+    4  367  28 Cassandra Webster        595   14:24  7:12 
+    5  353  27 Rosmarie Dewit           674   14:33  7:17 
+    6  382  39 Yan Zhang                614   14:54  7:27 
+    7  254  29 Erin Dawkins             647   15:34  7:47 
+    8    7  40 Sarah Ringerud           612   15:41  7:51 
+    9  101  40 Lori Levine              250   15:45  7:53 
+   10  104  41 Janine Pollack           250   15:58  7:59 
+   11  161  41 Natalia Buzulukova       673   16:39  8:20 
+   12  275  33 Pam Carrick              429   17:39  8:50 
+   13  188  32 Manvela Girotto          610.1 17:55  8:58 
+   14  385  34 Jennifer White                 18:08  9:04 
+   15  257  50 Joanne Santiago          156   18:09  9:05 
+   16  189  31 Joanna Pelc              610   18:16  9:08 
+   17  335  48 Candace Masters          496   18:46  9:23 
+   18  119  44 Yihua Zheng              674   19:19  9:40 
+   19  323  60 Mary Ann Geinzer               19:35  9:48 
+   20  293  28 Amanda Clayton           610   20:13 10:07 
+   21  277  32 Sarah Jaeggli            671   20:20 10:10 
+   22  166  31 Vani Starry Manoharan    610   20:50 10:25 
+   23  155  38 Galina Wind              613.2 20:51 10:26 
+   24  393  41 Milelene Gunyon          140.1 20:53 10:27 
+   25  342  23 Olivia Lohmeyer          140   20:55 10:28 
+   26  183  27 Victoria Afram           610   21:05 10:33 
+   27  239  36 Shaela Jones-Mecholsky   671   21:21 10:41 
+   28  397  48 Pamela Jones             421   21:29 10:45 
+   29  356  48 Barbara Fillip           400   21:33 10:47 
+   30  343  32 Jessica Deihl            140   21:35 10:48 
+   31   28  28 Rachel Kroodsma          610.2 21:54 10:57 
+   32  381  41 Sadie Duffy              750   22:00 11:00 
+   33  388  37 Maria Romo                     22:13 11:07 
+   34  172  32 Elizabeth Hoy            618   22:43 11:22 
+   35  167  48 Na Chen                  610   22:46 11:23 
+   36  383  48 Yaping Zholl             613   23:04 11:32 
+   37  347  50 Laurie Benzing           703   23:05 11:33 
+   38  387  48 Caroline Ardolini        750   23:13 11:37 
+   39  298  44 Anna Borovikov           610   23:17 11:39 
+   40  132  50 Yonghong Li              610   23:37 11:49 
+   41  306  33 Valerie Dixon            474   23:41 11:51 
+   42  160  51 Ja Soon Shim             674   24:53 12:27 
+   43  157  33 Sun Lee                        24:53 12:27 
+   44  285  39 Muzar Jah                562   25:20 12:40 
+   45  357  00 Veita Clark                    25:37 12:49 
+   46  366  23 Rebecca Winkert                26:27 13:14 
+   47  267  42 Tryshanda Moton          599   26:53 13:27 
+   48  318  51 Lauri Via                472   27:06 13:33 
+   49  137  63 Jean Rosenberg           610   28:01 14:01 
+   50  308  50 Amy Bleich               474   28:29 14:15 
+   51  169  41 Elisabeth Larson         610   29:39 14:50 
+   52  149  30 Bhavna Sengupta          610   29:43 14:52 
+   53  131  56 Gladys Christopher       610   30:02 15:01 
+   54  378  61 Theresa Arvidson         428.1 30:49 15:25 
+   55  109  51 Terri Lynne Hynson       472   32:59 16:30 
+   56  340  56 Pamela Werner            140   35:38 17:49 
+   57  243  47 Marge Ripley             416   36:18 18:09 
+   58  377  29 Samantha Kilgore         500   36:21 18:11 
+   59  379  32 Sharron Pinkney-Hayes    500   36:21 18:11 
+   60  195  59 Olivia Lupie             441   37:19 18:40 
+   61  310  59 Rosalie Marley           474   38:56 19:28 
+   62  281  54 Deborah Williams               38:56 19:28 
+

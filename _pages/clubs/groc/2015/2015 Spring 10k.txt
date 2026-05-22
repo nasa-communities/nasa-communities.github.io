@@ -1,0 +1,45 @@
+
+Link to race coverage:
+https://www.youtube.com/watch?v=NeGWnADf5ZI&feature=youtu.be
+
+Notes: Darren started a few minutes late.   Theo and Anna?  started a little late too.
+
+Place	Number	Name	Time	Gender	Age		
+1	579	Ted Poulos	40:30	M	53		
+2	70	Maksym Petrenko	40:59	M	32		
+3	563	Marek Sotola	41:19	M	28		
+4	585	Darren Zanon	41:59	M	35		
+5	570	Matthew Seybold	42:48	M	41		
+6	17	Kent McCullough	45:29	M	58		
+7	558	Ryan Detter	47:18	M	36		
+8	557	Kevin H. Miller	47:31	M	29		
+9	69	Lubos Brieda	48:45	M	34		
+10	77	Bill Stahr	48:54	M	54		
+11	567	Robert Iacovazzi 49:19	M	51		
+12	74	Jong Kim	50:29	M	46		
+13	79	Karen Young	51:17	F	46		
+14	75	Leibo Ding	52:15	M	44		
+15	582	Robert Levy	52:23	M	42		
+16	53	Sanxiong Xiong	52:36	M	55		
+17	559	Dagmar Merkova	54:03	F	45		
+18	571	Will Fisher	55:16	M	35		
+19	65	Tony Stocker	56:46	M	43		
+20	568	Amy McNally	57:25	F	33		
+21	584	Theo Muench	58:20	M	36		
+22	575	Pete Barfknecht	58:59	M	30		
+23	574	John Ramsey	59:20	M	54		
+24	573	Rabi Jacobs	61:03	M	39		
+25	565	Meredith Gray	61:28	F	35		
+26	578	Joseph Hayden	61:30	M	50		
+27	576	Nicole Luddy	61:51	F	31		
+28	577	Carolyn Keene	61:55	F	28		
+29	73	Manuel Quijada	61:58	M	53		
+30	581	Anna Muench	62:23	F	33		
+31	71	John Hord	62:37	M	47		
+32	566	Cindy Cohen	62:39	F	47		
+33	562	Mark Solomon	63:04	M	57		
+34	572	Ally Toure	64:42	M	40		
+35	569	Bailing Li	73:43	F	50		
+36	580	Leslie Ambrose	79:58	F	52		
+37	76	Mary Li		81:35	F	61		
+		

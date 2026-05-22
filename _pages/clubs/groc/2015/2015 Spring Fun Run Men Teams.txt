@@ -1,0 +1,240 @@
+                         79th NASA Intracenter Run
+                        Goddard Space Flight Center
+                              April 15th,2015
+
+                               Team Results
+      (The team score is the sum of the top 5 finishers of the team)
+
+
+  1.    18  GODDARD TRACK CLUB            
+========================================
+  1      1  Jonathon Aziz            M   10:07 
+  2      2  Ian Morgan               M   10:42 
+  3      3  Joe Munchak              M   10:48 
+  4      5  Jacob Englander          M   11:16 
+  5      7  Mark Loeffler            M   11:31 
+  6   (  8) James Cooper             M   11:43 
+  7   ( 10) Ryan Detter              M   11:52 
+  8   ( 13) Maksym Petrenko          M   12:25 
+  9   ( 53) Leibo Ding               M   15:04 
+
+  2.   159  HELIOPHYSICS                  
+========================================
+  1     16  Peto Wypu                M   12:57 
+  2     20  Joel Allred              M   13:17 
+  3     25  Ian Mann                 M   13:24 
+  4     42  Jan Merka                M   14:23 
+  5     56  Evan Thomas              M   15:23 
+  6   ( 69) Kyle Murphy              M   15:51 
+  7   (100) Sean Chen                M   17:42 
+  8   (179) Jeff Klenzing            M   25:25 
+
+  3.   197  POWERED BY EARTH SCINCE       
+========================================
+  1     22  Kent McCullough          M   13:20 
+  2     26  Mark Wojenski            M   13:30 
+  3     43  Daniel Link              M   14:31 
+  4     46  Feng Li                  M   14:43 
+  5     60  Peter Colarco            M   15:33 
+  6   ( 63) Robert Levy              M   15:39 
+  7   ( 66) Peter Ma                 M   15:43 
+  8   ( 70) Sriharsha Madhavan       M   15:52 
+  9   ( 87) Hongda Chen              M   16:59 
+ 10   ( 88) John Hord                M   16:59 
+ 11   ( 91) Xu Geng                  M   17:07 
+ 12   ( 93) Shriram Ilavajhala       M   17:23 
+ 13   ( 94) Yuekui Yang              M   17:23 
+ 14   ( 95) Michael Bur              M   17:24 
+ 15   (106) Joseph Nigro             M   17:53 
+ 16   (110) Craig Jamieson           M   17:56 
+ 17   (115) Mash Nishihama           M   18:20 
+ 18   (116) Matt Deland              M   18:20 
+ 19   (118) Michael McCumber         M   18:30 
+ 20   (122) Keith Duffy              M   18:39 
+ 21   (125) Hassan Oudrari           M   18:50 
+ 22   (129) Truong Dang              M   18:57 
+ 23   (133) Edward Masuoka           M   19:10 
+ 24   (137) Timothy Wilcox           M   19:25 
+ 25   (147) Jacob Briakmann          M   20:47 
+ 26   (149) Chengbo Sun              M   20:50 
+ 27   (155) Brij Gambhir             M   22:09 
+ 28   (158) Toan Nguyen              M   22:26 
+ 29   (159) Kwofu Chiang             M   22:40 
+ 30   (163) Sadashiva Devadiga       M   22:46 
+ 31   (174) Michael McClellan        M   24:35 
+ 32   (194) Bob Rosenberg            M   26:59 
+ 33   (199) Amit Angal               M   28:05 
+ 34   (213) Balendran Velauthapillai M   30:55 
+ 35   (216) David Obler              M   31:10 
+ 36   (248) Victor Freeman           M   36:48 
+
+  4.   274  OFF THE MESA                  
+========================================
+  1      4  Alvin Yew                M   10:59 
+  2     55  Tupper Hyde              M   15:09 
+  3     57  Mike Moreau              M   15:28 
+  4     78  Juan Raymond             M   16:36 
+  5     80  Doug McGuffey            M   16:41 
+  6   (151) James Odonnell           M   20:57 
+  7   (152) Elijah Gheen             M   21:07 
+  8   (165) Luke Gheen               M   22:51 
+  9   (166) Robert Gheen             M   23:12 
+
+  5.   327  HST FOCUS ON THE FINISH       
+========================================
+  1     32  Greg Waldo               M   13:58 
+  2     33  Joseph Stock             M   13:58 
+  3     58  Bill Clagett             M   15:30 
+  4     96  Greg Goulet              M   17:29 
+  5    108  David Haskins            M   17:56 
+  6   (109) Mike Wenz                M   17:56 
+  7   (124) Larry Stake              M   18:47 
+  8   (162) Bill Huey                M   22:43 
+  9   (177) Charles Hicks            M   24:57 
+ 10   (191) Hugh Dowell              M   26:45 
+ 11   (192) Jerry Edwards            M   26:48 
+ 12   (241) Gene Gallagher           M   35:25 
+ 13   (254) Anthony Cruz             M   38:09 
+ 14   (255) Chrisopher Ballantine    M   38:09 
+
+  6.   341  JPSS                          
+========================================
+  1     29  Gilberto Vicente         M   13:53 
+  2     35  Thomas Bediako           M   14:05 
+  3     71  Gyanesh Chander          M   16:02 
+  4     79  Ryan Gerard              M   16:38 
+  5    127  Robert Steadley          M   18:52 
+  6   (132) Tomi Ibironke            M   19:09 
+  7   (143) Robert Williamson        M   20:11 
+  8   (150) Shyam Vyas               M   20:53 
+  9   (161) Angelo Bertolli          M   22:42 
+ 10   (181) Jeff Bowser              M   25:34 
+ 11   (206) Kevin Parker             M   29:05 
+ 12   (214) John Garner              M   31:06 
+ 13   (242) Eddie Gamarra            M   35:35 
+ 14   (251) Richard Cember           M   37:10 
+
+  7.   380  GMAO                          
+========================================
+  1     44  Tomohiro Oda             M   14:38 
+  2     52  Jong Kim                 M   14:57 
+  3     85  Michael Bosilovich       M   16:57 
+  4     97  Mark Solomon             M   17:30 
+  5    102  Jonathan Kelly           M   17:48 
+  6   (103) Guang-Dih Lei            M   17:48 
+  7   (111) Mahendra Karki           M   18:03 
+  8   (117) Lawrence Coy             M   18:27 
+  9   (178) Douglas Collins          M   24:58 
+ 10   (183) King-Sheng Tai           M   25:47 
+
+  8.   452  ASRC                          
+========================================
+  1     34  Will Ostuni Lima         M   13:59 
+  2     50  Rob Swartz               M   14:50 
+  3     90  Jamil Shehadeh           M   17:04 
+  4    138  Chris Jorgensen          M   19:33 
+  5    140  Kermit Russell           M   20:02 
+  6   (172) Kevin Gregg              M   24:24 
+  7   (215) Samuel Peters            M   31:06 
+  8   (236) Cory Helm                M   33:40 
+
+  9.   596  COLUMBUS                      
+========================================
+  1     38  Frank Gerow              M   14:09 
+  2    119  Greg Menke               M   18:32 
+  3    130  Stephan Klene            M   18:57 
+  4    136  Chip Schwartz            M   19:22 
+  5    173  Byron Peters             M   24:35 
+  6   (238) James Williams           M   34:39 
+  7   (249) Leonard Newman           M   36:51 
+
+ 10.   599  DELLINGR                      
+========================================
+  1     27  James Marshall           M   13:49 
+  2    120  Salman Sheikh            M   18:36 
+  3    139  Eduardo Linan            M   19:59 
+  4    145  Aaron Dixon              M   20:30 
+  5    168  Tumkur Raghuram          M   23:42 
+
+ 11.   874  GCDC                          
+========================================
+  1    146  Daniel Duffy             M   20:40 
+  2    156  Amare Okoroma            M   22:09 
+  3    184  Alexey Dorodnitsyn       M   25:48 
+  4    193  Jacob Bleacher           M   26:50 
+  5    195  Matthew Berg             M   27:08 
+  6   (196) Evan Giles               M   27:32 
+  7   (197) David Giles              M   27:32 
+  8   (200) Karl Napper-Rodriguez    M   28:07 
+  9   (201) Jonah Simco Mandell      M   28:08 
+ 10   (203) George Balaras           M   28:11 
+ 11   (204) Ty Harris                M   28:26 
+ 12   (205) Joshua Jones-Puthoff     M   28:50 
+ 13   (208) Lawrence Diggs III       M   29:48 
+ 14   (209) Joshua Chan              M   30:02 
+ 15   (210) Kingston Nguyen          M   30:02 
+ 16   (211) Donovan Cain             M   30:34 
+ 17   (217) Julian Downey            M   31:22 
+ 18   (219) Zachary Meadows          M   31:49 
+ 19   (220) Maxwell Neigh            M   31:49 
+ 20   (221) Jaden Cordero-Fuentas    M   31:58 
+ 21   (222) Robbie Chalmers          M   31:59 
+ 22   (226) Andrew Sheng             M   32:15 
+ 23   (227) Emmanuel Savantos        M   32:16 
+ 24   (229) Raymond Britt            M   32:35 
+ 25   (230) Nathan Chen              M   32:43 
+ 26   (233) Naven Nair               M   33:31 
+ 27   (239) Tyler Kea                M   34:39 
+ 28   (240) Howard Kea               M   34:59 
+ 29   (244) Tristan Dinnat           M   35:56 
+ 30   (245) Cameron Gren             M   35:56 
+ 31   (246) Raymond Lim              M   35:59 
+ 32   (253) Hanson Nguyen            M   37:58 
+ 33   (256) Amir Walters             M   38:26 
+ 34   (257) Braden Heagy             M   38:34 
+ 35   (258) Jayden Haines            M   38:50 
+ 36   (259) Keane Russell            M   38:58 
+ 37   (266) Oliver Pruessner         M   40:02 
+ 38   (267) Nikita Korkin            M   40:35 
+ 39   (268) Eric Cardiff             M   42:04 
+ 40   (269) Jack Dowsett             M   42:04 
+ 41   (270) Noel Randolph            M   42:46 
+ 42   (271) Maurice White            M   42:50 
+
+ 12.  1066  NCCS                          
+========================================
+  1     65  John Thompson            M   15:43 
+  2    235  Jim Taylor               M   33:40 
+  3    243  William McHale           M   35:49 
+  4    261  George Rumney            M   38:58 
+  5    262  Eric Winter              M   39:50 
+  6   (264) Michael Chyatte          M   39:51 
+  7   (265) Fred Reitz               M   39:52 
+
+
+
+Incomplete Teams:
+
+EMERGENT SPACE TECHNOLOGIES   
+         Darren Zanon M   11:22, Marek Sotola M   11:47, Hemanshu Patel M   14:17, Barrett Dillow M   17:45
+
+LEGAL LIGHTNING               
+         Michael Monahan M   13:20, Kendyl Spriggs M   14:45, Matthew Johnston M   15:47, Richard Falcon M   24:38
+
+PAAC IV                       
+         Zachary Dolch M   13:58, Amarit Rojsirivit M   39:51
+
+SGT                           
+         Supatranai Nopakun M   16:57
+
+ATLAS                         
+         Stephen Price M   18:52, John Cavanaugh M   33:28, Bill Newell M   33:29
+
+MOMA                          
+         Adrian Southard M   19:10
+
+DOTS                          
+         Dan Krieger M   20:08
+
+SAIC                          
+         Daniel Vaughan M   37:56
