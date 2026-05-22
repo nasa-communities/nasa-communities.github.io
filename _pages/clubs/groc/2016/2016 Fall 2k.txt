@@ -1,0 +1,13 @@
+
+One loop around our alternate course - approx 2.1 miles
+
+Pl  Number  Name                    Time    Gender  Age         
+1   298     Ted Poulos              14:48   M       54          
+2   290     Truman Wilson           19:13   M       31          
+3   292     Stephan Klene           22:22   M       56          
+4   283     Vani Starry Manoharan   22:39   F       32          
+5   295     Yonghong Li             26:24   F       50          
+6   297     Jose Galdamez           26:30   M       37          
+7   307     Jennifer Roberts        34:07   F       23          
+8   269     Alex Dimov              34:08   M       27          
+                                

@@ -1,0 +1,243 @@
+                                                                      Page 1
+                         81th NASA Intracenter Run
+                        Goddard Space Flight Center
+                               May 25th 2016
+
+                               Male Results
+
+                    correction to tom.winkert@nasa.gov
+
+Place Num  Age Name                     Code  Time  Pace     
+===== ==== === ======================== ===== ===== ===== 
+    1  374  39 John Chambers            551   10:51  5:26 
+    2  176  32 Joe Munchak              612   10:52  5:26 
+    3  370  38 Shannon Franks - Wheelch 618   11:06  5:33 
+    4  402  29 Marek Sotola             408   11:29  5:45 
+    5  272  35 Mark Loeffler            691   11:43  5:52 
+    6    1  32 Jacob Englander          595   11:46  5:53 
+    7   16  33 Maksym Petrenko          610   11:47  5:54 
+    8  278  37 Ryan Detter                    11:56  5:58 
+    9  177  46 James Cooper             543   12:18  6:09 
+   10  211  34 James Leake                    12:29  6:15 
+   11  259  50 Zoran Kahric             425   12:35  6:18 
+   12  175  35 Brent Barbee             595   12:40  6:20 
+   13  337  40 Joel Allred              671   12:44  6:22 
+   14  372  42 Matthew Seybold                12:54  6:27 
+   15  315  42 Antonio Abadia           428   13:14  6:37 
+   16   26  31 John Peil                540   13:17  6:39 
+   17  221  32 Daniel Holdaway          610   13:37  6:49 
+   18  223  36 Tomohiro Oda             610.1 13:42  6:51 
+   19  314  42 Thomas Bediako                 13:47  6:54 
+   20  404  45 Rick Carter              224   13:51  6:56 
+   21  242  35 Ryan Fitzgibbons         130   13:56  6:58 
+   22  407  45 Feng Li                  614   13:58  6:59 
+   23  359  53 Jim Pontius              496   14:02  7:01 
+   24  229  47 Rolf Reichle             610.1 14:16  7:08 
+   25  311  54 Gilberto Vicente         586   14:18  7:09 
+   26   45  45 Leibo Ding               618   14:24  7:12 
+   27  416  57 Joel Gallun              581   14:33  7:17 
+   28  231  47 Jong Kim                 610   14:39  7:20 
+   29  243  63 Tom Nolan                699   14:42  7:21 
+   30  413  27 Ricardo Martinez Serrano 470   14:42  7:21 
+   31  333  41 Shanu Okwesa             458   14:45  7:23 
+   32  281  36 Jeffrey Simpson          408   14:52  7:26 
+   33  334  43 Will Ostuni Lima         450   14:53  7:27 
+   34  390  41 Matthew Owens            587   15:01  7:31 
+   35  304  52 Michael Simpson          470   15:02  7:31 
+   36  435  44 Peter Colarco            614   15:12  7:36 
+   37  262  52 Jim Loughlin             540   15:24  7:42 
+   38   29  32 Nicholas Hovaker Ii      540   15:27  7:44 
+   39  391  58 Clark Weaver                   15:30  7:45 
+   40  313  53 Richard Ullman                 15:37  7:49 
+   41  355  46 Simone Lolli             612   15:41  7:51 
+   42  228  59 Joe Stassi               610.1 15:45  7:53 
+   43  356  27 Homayon Aryan            674   15:45  7:53 
+   44   59  46 Xu Geng                  610   15:50  7:55 
+   45  433  33 Hudson Delee             552   15:51  7:56 
+   46  200  28 Marcos Silveira          674   15:53  7:57 
+   47  434  31 Peter Barfknecht               15:59  8:00 
+   48  222  59 Eric Nielsen             610.1 16:01  8:01 
+   49   57  45 Ju Junchang              618   16:07  8:04 
+   50  451  55 Martin Perrine                 16:09  8:05 
+   51  353  42 Rob Swartz               490   16:20  8:10 
+   52   48  38 Truong Dang              618   16:21  8:11 
+   53   30  31 David Brunone            540   16:22  8:11 
+   54   36  61 Robert Hackley           540   16:23  8:12 
+   55  292  26 Robert Martin            408   16:25  8:13 
+   56  241  43 Jan Merka                672   16:29  8:15 
+   57  450  25 Benjamin Farcy           699   16:32  8:16 
+   58  380  36 Jon Verville             585   16:32  8:16 
+   59  394  59 Keith Evans              614   16:34  8:17 
+   60  104   6 Amare Okoroma            200.9 16:35  8:18 
+   61  340  31 Brian Monroe             130   16:36  8:18 
+   62  420  59 Ian Richardson           661   16:43  8:22 
+   63  310  53 Robert Steadley                16:47  8:24 
+   64   69  49 Hongda Chen              618   16:54  8:27 
+   65  343  37 Chigomezyo Ngwira        674   16:57  8:29 
+   66  417  56 Timothy Filemyr          543   16:59  8:30 
+   67  396  53 Andre Dress              427   17:01  8:31 
+   68  271  48 Michael Bosilovich       610   17:15  8:38 
+   69  282  35 Jabari Carrington        428   17:17  8:39 
+   70   63  52 Jinan Zeng               618   17:19  8:40 
+   71   77  49 Chengbo Sun              618   17:26  8:43 
+   72  322  48 Salman Sheikh            564   17:28  8:44 
+   73  409  49 Yuekui Yang              613   17:40  8:50 
+   74  329  33 Joel Parker              595   17:45  8:53 
+   75  293  65 Craig Weikel             698   17:46  8:53 
+   76  232  64 Lawrence Coy             610.1 17:50  8:55 
+   77   17  55 Sean Chen                673   17:52  8:56 
+   78  252  54 Matt Deland              614   17:54  8:57 
+   79  384  40 Kenji Numata             554   17:58  8:59 
+   80  421  53 Ken Caldwell                   18:13  9:07 
+   81   50  50 Hassan Oudrari           618   18:13  9:07 
+   82  332  31 Eddie Tsui               596   18:14  9:07 
+   83  305  56 Robert Williamson        424   18:14  9:07 
+   84  274  41 Deepak Kaul              566   18:16  9:08 
+   85   87  58 Guang-Dih Lei            610.2 18:18  9:09 
+   86  244  48 Jonathan Kelly           610.1 18:19  9:10 
+   87  237  58 Mark Solomon             610.1 18:35  9:18 
+   88  327  55 Eric Bentley             596   18:36  9:18 
+   89  399  52 William Paradis          427   18:42  9:21 
+   90  351  51 Ralph Smith                    18:44  9:22 
+   91  346  44 Eugene Lewis                   19:01  9:31 
+   92   34  55 Nick Hovaker             540   19:02  9:31 
+   93  321  42 Chad Salo                448   19:04  9:32 
+   94  414  55 John Ramsey                    19:05  9:33 
+   95   67  34 Thomas Schwarting        613   19:21  9:41 
+   96  250  65 Charles Jackman          614   19:25  9:43 
+   97  275  64 Mahendra Karki           610.1 19:45  9:53 
+   98  277  47 Greg Russell             540   19:46  9:53 
+   99  347  39 Gyanesh Chander          586   19:55  9:58 
+  100  349  40 Stephen Price            490   20:00 10:00 
+  101  419  49 Timothy Wilcox                 20:02 10:01 
+  102  263  36 Vincent Cecilio          227   20:09 10:05 
+  103  205  54 Neal Devine              610   20:17 10:09 
+  104   27  65 Nabil Copty              540   20:31 10:16 
+  105  361  55 Alan Smale               660   20:32 10:16 
+  106  100   6 Joshua Jones-Puthoff     200.9 20:35 10:18 
+  107  103   6 Naven Nair               200.9 20:40 10:20 
+  108  365  48 James Neal                     20:46 10:23 
+  109  194  30 Suk-Bin Kang             673   20:53 10:27 
+  110  354  47 Mike Arida               660   20:57 10:29 
+  111   74  31 Truman Wilson                  20:57 10:29 
+  112   85  29 Albert Wu                617   21:19 10:40 
+  113  376  27 Daniel Kelchow                 21:22 10:41 
+  114  181  37 Aaron Dixon              560.1 21:29 10:45 
+  115  453  40 Agbontaen Imasuen        596   21:31 10:46 
+  116  328  52 James Odonnell           591   21:37 10:49 
+  117  110  43 Obinna Okoroma           200.9 21:38 10:49 
+  118   81  27 Jihad Ashkar                   21:40 10:50 
+  119   76  43 James Roman              618   21:52 10:56 
+  120   96   6 Julian Downey            200.9 21:53 10:57 
+  121   95   5 Alexey Dorodnitsyn       200.9 21:53 10:57 
+  122   42  48 John Hord                619   21:55 10:58 
+  123   66  55 Stephan Klene                  22:04 11:02 
+  124  426  48 Stephen Schmidt          592   22:25 11:13 
+  125   78  34 Kevin Twedt                    22:29 11:15 
+  126  264  69 Jamie Harper             360   22:31 11:16 
+  127    3  58 Louis Thomas             382   22:47 11:24 
+  128   56  64 Edward Masuoka           619   23:20 11:40 
+  129  102  52 Phillip Nessler          250   23:31 11:46 
+  130  213  68 James Thieman            690.1 23:39 11:50 
+  131  398  61 Jerome Hengemihle        699   23:50 11:55 
+  132  364  51 Stephen Fantasia         606   23:51 11:56 
+  133   41  32 Paul Swenson             452   24:01 12:01 
+  134  260  49 Rob Lucchesi             610.1 24:05 12:03 
+  135  335  50 Tumkur Naghuram          564   24:13 12:07 
+  136   79  38 Zhipeng Wang             610   24:15 12:08 
+  137  276  59 Douglas Collins          610.1 24:21 12:11 
+  138  270  26 Oscar Hendrick           610.1 24:22 12:11 
+  139   28  36 Dipal Patel              540   24:29 12:15 
+  140   53  73 Brij Gambhir             618   25:02 12:31 
+  141  196  35 Jeff Klenzing            674   25:05 12:33 
+  142  137   5 George Balaras           200.9 25:07 12:34 
+  143  216  48 George Hilton            200.9 25:13 12:37 
+  144  173   5 Coleman Searcy           200.9 25:16 12:38 
+  145  261  56 Michael Correia          443   25:22 12:41 
+  146   20  65 James Williams           423   25:29 12:45 
+  147   14  52 Roger Banting            400   25:29 12:45 
+  148  309  64 Bruce Wernek             474   25:38 12:49 
+  149   31  53 Sherrod Ware             540   25:51 12:56 
+  150  204  74 Nathan Block             540   25:55 12:58 
+  151   49  29 Toan Nguyen              618   26:09 13:05 
+  152  331  41 Scott Starin             591   26:09 13:05 
+  153  395  26 Benson Ayorinde                26:10 13:05 
+  154  423  79 Michael McClellan        428.1 26:11 13:06 
+  155   72  54 Aisheng Wu                     26:14 13:07 
+  156  452  26 Marco Castillo           699   26:16 13:08 
+  157  210  31 Tracy Lee                200.9 26:47 13:24 
+  158   46  64 Byron Peters             423   26:50 13:25 
+  159   65  37 William Jenkins                26:53 13:27 
+  160   73  00 Andrew Wald              618   27:02 13:31 
+  161  307  60 Jeff Bowser                    27:06 13:33 
+  162  445  48 Charles Soul             540   27:09 13:35 
+  163  388  42 Roberto Montoro          410   27:12 13:36 
+  164  256  71 Rud Moe                  592   27:14 13:37 
+  165   71  29 Ashish Shrestha                27:20 13:40 
+  166    4  67 Charles Hicks            443   27:27 13:44 
+  167  345  43 Moses Sarweh             227.5 27:33 13:47 
+  168  138   5 Angelu Cole              200.9 27:37 13:49 
+  169  306  69 Vincent Grano            474   27:38 13:49 
+  170   62  64 Bob Rosenberg            918   27:46 13:53 
+  171   32  35 Lance Emery              540   27:59 14:00 
+  172  159   5 Brayden Ly               200.9 28:03 14:02 
+  173   38  38 Julio Lopez              540   28:47 14:24 
+  174   75  23 Daniel Todaro            618   28:56 14:28 
+  175   44  61 Nelson Casiano           423   28:57 14:29 
+  176  448  59 Porfirio Beltran         565   29:03 14:32 
+  177  144   5 Jackson Rushing          200.9 29:07 14:34 
+  178  139   5 Tristan Dinnat           200.9 29:09 14:35 
+  179  101   6 Tyler Kea                200.9 29:16 14:38 
+  180  215  58 Howard Kea               200.9 29:17 14:39 
+  181  312  57 Kevin Parker             474   29:27 14:44 
+  182  358  55 David Simpson            673   29:32 14:46 
+  183  113   4 Jack Bleacher            200.9 29:44 14:52 
+  184  153   4 Damon Cheney             200.9 29:45 14:53 
+  185  248  28 Robert Davis             619   30:03 15:01 
+  186  336  74 Richard Weiss            403   30:12 15:06 
+  187   94   6 Donovan Cain             200.9 30:29 15:15 
+  188  108   6 Maurice White            200.9 30:40 15:20 
+  189  148   5 Amir Walters             200.9 30:46 15:23 
+  190  267  55 Kevin Gregg              156   31:13 15:37 
+  191  266  55 Chris MacLin             156   31:15 15:38 
+  192  145   5 Keane Russell            200.9 31:35 15:48 
+  193  155   5 Ianto Forgotson          200.9 31:36 15:48 
+  194  164   4 Daniel Petrenko          200.9 32:04 16:02 
+  195  160   4 Jonathan Mashiku         200.9 32:09 16:04 
+  196  338  37 Dunstan Mashiku          200.9 32:09 16:05 
+  197  105   5 Noel Randolph            200.9 32:14 16:07 
+  198  129   4 Samuel Winternitz        596   32:18 16:09 
+  199  447  37 Luke Winternitz          596   32:21 16:10 
+  200  245  57 Gang Ye                  619   32:41 16:21 
+  201  366   3 Urcoln Henry                   33:33 16:47 
+  202  156   4 Zaccheus George          200.9 33:37 16:49 
+  203  167   4 Nikolai Rodriguez        200.9 33:43 16:52 
+  204  444  50 Leonard Newman           761   34:15 17:08 
+  205  432  41 Jasen Wyche              156   34:23 17:12 
+  206   98   5 Ranveer Jethva           200.9 34:32 17:16 
+  207  412  27 Cory Helm                403   34:51 17:26 
+  208  227  53 Austin Conaty            610.1 34:55 17:28 
+  209  161   5 Noah McCarthy            200.9 35:00 17:30 
+  210  121   4 Carson Li                200.9 35:01 17:31 
+  211  246  55 Jack Ji                  918   35:36 17:48 
+  212   70  39 Jeff McIntire            614   35:36 17:48 
+  213    9  61 Phil Sabelhaus           429   35:38 17:49 
+  214  106   6 Emmanuel Sarantos        GCDC  35:55 17:58 
+  215  109  37 Hirenkumar Jethva        614   35:56 17:58 
+  216  236  32 Edmond Smith             610.1 36:08 18:04 
+  217  212  51 Paul Virgo               610   36:37 18:19 
+  218  290  24 Nate Talbot                    37:33 18:47 
+  219  405  52 Patrick Kolbe            610.2 37:48 18:54 
+  220  165   4 Nathan Phillips          200.9 38:09 19:05 
+  221   97   6 Braden Heagy             200.9 38:23 19:12 
+  222   82  56 Greg Ederer                    39:11 19:36 
+  223  114   5 Zion Brown               200.9 40:08 20:04 
+  224  127   4 Roman Taylor             200.9 40:30 20:15 
+  225  124   4 Samuel Sage              200.9 41:16 20:38 
+  226  319  35 Geoff Sage               210   41:18 20:39 
+  227  140   5 Cameron Gren             200.9 41:55 20:58 
+  228  157   4 Alexander Grubisic       200.9 42:48 21:24 
+  229  126   4 Jackson Smith            200.9 43:13 21:37 
+  230  118   4 Aarush Gupta             200.9 43:15 21:38 
+  231  151   5 Zev Bleich               200.9 44:45 22:23 
+

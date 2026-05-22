@@ -1,0 +1,37 @@
+
+*Course change for this year, a 3 loop course, going around far backstop near rec center 
+then to Crescent road and back to trail
+(start at trash can near water fountain and finish where we normally do)
+
+Pl  Number  Name                Time    Gender  Age         
+1   301     Darren Zanon        38:12   M   37          
+2   281     Mark Loeffer        38:33   M   36          
+3   272     James Cooper        40:24   M   46          
+4   284     Marek Sotola        40:44   M   30          
+5   286     Theo Muench         44:37   M   37          
+6   287     Maksym Petrenko     44:51   M   34          
+7   273     Sean Napier         45:23   M   24          
+8   2       Kent McCullough     45:25   M   59          
+9   288     Matthew Francom     45:49   M   23          
+10  306     Ryan Detter         46:17   M   37          
+11  285     Matt Kowalewski     46:23   M   42          
+12  280     Feng Li             46:46   M   45          
+13  279     Bill Stahr          47:01   M   55          
+14  277     Tom Nolan           47:05   M   64          
+15  276     Leibo Ding          47:19   M   46          
+16  304     Luke Winternitz     47:59   M   38          
+17  274     John Way            48:22   M   51          
+18  282     Yan Zhang           49:18   F   40          
+19  275     Sanxiong Xiong      49:27   M   57          
+20  302     David Adams         50:10   M   47          
+21  289     Peter Barfknecht    51:40   M   31          
+22  300     Ronald Hooker       52:29   M   53          
+23  296     Truong Dang         53:20   M   39          
+24  291     Amy McNally         55:34   F   35          
+25  299     Chengbo Sun         57:17   M   49          
+26  294     Daniel Link         58:30   M   33          
+27  293     Hongda Chen         58:35   M   49          
+28  278     Joanne Santiago     59:16   F   51          
+29  303     Christopher Russell 60:49   M   33          
+30  305     Rabi Jacobs         69:26   M   40          
+                                
