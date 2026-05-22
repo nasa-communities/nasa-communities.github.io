@@ -1,0 +1,41 @@
+"10-Km Race at Greenbelt Lake, 10/12/2011"					
+					
+Rank	Number	Name		Time	Gender	Age
+1	89	Joe Munchak	36:34	M	28
+2	128	Tyler Lulich	39:33	M	27
+3	36	Kent McCullough	41:14	M	54
+4	46	Mark Loeffler	41:55	M	31
+5	127	Ted Poulos	42:53	M	49
+6	97	Jeff Dalhoff	42:57	M	42
+7	129	Maksym Petrenko	43:02	M	29
+8	85	James Cooper	43:14	M	41
+9	47	Tom Nolan	43:26	M	59
+10	95	Laura Bur	48:02	F	31
+11	94	Michael Bur	48:03	M	46
+12	87	William Bamford	48:52	M	37
+13	38	Charity Scott	49:19	F	41
+14	35	Jong Kim	49:31	M	42
+15	43	Corbett Smith	50:19	M	50
+16	131	Luke Winternitz	51:00	M	33
+17	83	Timothy Oldham	51:41	M	64
+18	82	Mark Beckman	53:04	M	43
+19	96	Fred Huegel	53:11	M	59
+20	49	Tony Stocker	55:08	M	39
+21	41	Keith Rice	56:12	M	44
+22	90	Robert Rapp	56:32	M	45
+23	84	John Hord	56:59	M	43
+24	86	Edward Masuoka	57:37	M	59
+25	130	Lee Hayden	57:58	M	47
+26	45	Amy Fedorchak	58:59	F	46
+27	37	Sriharsha Madhavan	59:41	M	31
+28	34	Dongchul Kim	59:53	M	38
+29	52	Mash Nishihama	61:38	M	69
+30	92	William Paradis	63:28	M	48
+31	48	Deborah Sharpe	63:35	F	56
+32	39	Larry Stake	63:39	M	63
+33	132	Robert Levy	65:32	M	38
+34	93	Jacquelyn Fiora	67:26	F	56
+35	100	John Winkert	67:29	M	55
+36	98	Rosina Iping	68:30	F	62
+37	40	Camilla Logan	78:28	F	41
+				

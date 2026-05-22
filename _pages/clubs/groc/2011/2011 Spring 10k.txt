@@ -1,0 +1,50 @@
+"10-Km Race at Greenbelt Lake, 04/20/2011"					
+					
+Rank	Number	Name	Time	Gender	Age
+1	199	Tyler Lulich	41:43	M	27
+2	700	Kent McCullough	43:27	M	54
+3	193	Mark Loeffler	44:04	M	30
+4	191	John Way	44:05	M	45
+5	478	Jeff Dalhoff	44:19	M	41
+6	479	Prisca Mpanda	46:08	F	34
+7	495	Nathan Kurtz	46:13	M	28
+8	187	Matus Martini	46:29	M	31
+9	376	Maksym Petrenko	46:34	M	28
+10	490	Luke Winternitz	47:18	M	32
+11	496	Eric Nielsen	47:45	M	54
+12	485	Mark Baugh	48:12	M	51
+13	483	Matt Kowalewski	48:17	M	37
+14	480	Michael Bur	48:27	M	46
+15	196	John Bolten	49:54	M	34
+16	186	Jan Merka	50:37	M	38
+17	192	Leibo Ding	51:13	M	40
+18	180	William Bamford	51:50	M	36
+19	488	Jong Kim	52:06	M	42
+20	491	Peter Colarco	52:38	M	39
+21	492	Melissa Vess	52:45	F	31
+22	481	Laura Bur	52:53	F	31
+23	493	Robin Kovach	53:07	F	38
+24	184	Timothy Oldham	54:49	M	64
+25	197	Peter Griffith	55:03	M	54
+26	494	Linette Boisvert	55:37	F	25
+27	198	Keith Rice	56:24	M	43
+28	375	Robert Levy	56:29	M	38
+29	497	Craig Jamieson	56:49	M	51
+30	486	Craig Weikel	56:52	M	60
+31	377	Matt Deland	57:28	M	49
+32	482	Bill Teng	58:37	M	58
+33	185	Lubos Brieda	59:29	M	30
+34	190	Deepak Patel	59:30	M	23
+35	182	John Hord	60:35	M	43
+36	373	Nikhil Jethava	60:39	M	29
+37	484	Dagmar Merkova	60:43	F	40
+38	188	Mash Nishihama	62:07	M	68
+39	498	William Paradis	62:40	M	47
+40	181	Charles Killingsworth	63:18	M	41
+41	183	Richie Weiss	64:15	M	69
+42	499	Jacquelyn Fiora	68:35	F	55
+43	374	Diane Dobak	72:53	F	51
+44	487	Camilla Logan	77:18	F	40
+45	194	Koni Traore	79:38	F	47
+46	489	Rosina Iping	80:06	F	62
+
