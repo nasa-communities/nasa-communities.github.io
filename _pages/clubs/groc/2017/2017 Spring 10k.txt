@@ -1,0 +1,30 @@
+Place	Number	Name			Time	Gender	Age		
+1	448	Mark Loeffler		37:18	M	36		
+2	466	Maksym Petrenko		38:59	M	34		
+3	442	James Cooper		40:46	M	47		
+4	472	Marek Sotola		41:56	M	30		
+5	440	Sean Napier		42:15	M	25		
+6	475	Daren Zanon		42:25	M	37		
+7	468	Matthew Seybold		44:42	M	43		
+8	447	Feng Li			44:57	M	45		
+9	456	Joseph Stock		46:25	M	54		
+10	469	Lokesh Meena		46:57	M	29		
+11	464	Leibo Ding		47:55	M	46		
+12	445	John Baker		48:00	M	48		
+13	470	Ryan Detter		49:35	M	38		
+14	446	Kirk Gordon		51:04	M	61		
+15	462	Jong Kim		52:08	M	48		
+16	451	Lloyd Rawley		52:46	M	56	
+17	455	Truong Dang		52:47	M	39	
+18	474	Pete Barfknecht		52:54	M	32	
+19	471	Sriharsha Madhavan	54:34	M	37	
+20	465	Tony Martino		56:06	M	56	
+21	459	Cindy Cohen		56:10	F	49	
+22	452	Chengbo Sun		58:58	M	50	
+23	454	Hongda Chen		59:29	M	51	
+24	473	Barbara Thompson	63:32	F	47	
+25	443	Mark Solomon		64:10	M	59	
+26	461	Hassan Oudrari		71:03	M	51	
+27	450	Candace Carlisle	74:33	F	55	
+
+	441	James Leake		DNF?	M	35	

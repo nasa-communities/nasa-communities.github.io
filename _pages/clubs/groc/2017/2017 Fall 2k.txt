@@ -1,0 +1,9 @@
+Place	Number	Name		Time	Gender	Age		
+1	11	Rick Carter	8:23	M	46		
+2	57	Leibo Ding	8:29	M	47		
+3	34	Ted Poulos	9:05	M	55		
+4	154	John Way	10:22	M	52		
+5	437	Cindy Cohen	10:29	F	49		
+6	293	Ian Richardson	11:06	M	60		
+7	445	Troung Dang	14:18	M	40		
+							

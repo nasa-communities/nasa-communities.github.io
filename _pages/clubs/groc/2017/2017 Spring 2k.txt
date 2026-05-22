@@ -1,0 +1,9 @@
+Place	Number	Name			Time	Gender	Age		
+1	463	Rick Carter		 8:28	M	46		
+2	444	John Way		 8:57	M	51		
+3	467	Ted Poulos		 9:40	M	55		
+4	449	Timothy Wilcox		11:09	M	49		
+5	460	Toan Nguyen		14:20	M	30		
+6	457	Yonghong Li		14:40	F	50		
+7	453	Brij Gambhir		14:46	M	74		
+8	458	Xuexia Chen		16:30	F	43		
