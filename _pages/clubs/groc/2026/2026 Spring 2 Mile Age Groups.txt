@@ -179,7 +179,7 @@ Place O'All Name                     Div   Time
    13    50 Taylor Johnson           M4044   15:24 
    14    52 Patrick Lynch            M4549   15:25 
    15    55 Stefano Bertone          M4044   15:31 
-   16    60 Michael Jones            M4044   15:41 
+   16    61 Michael Jones            M4044   15:41 
    17    64 David Russell            M4044   15:50 
    18    66 Peter Barfknecht         M4044   15:54 
    19    67 Jonathan Duntze          M4044   15:56 
@@ -425,7 +425,7 @@ Place O'All Name                     Div   Time
 Place O'All Name                     Div   Time       
 ===== ===== ======================== ===== ======= 
     1    37 Tom Nolan                M7099   14:34 
-    2    62 Kirk Gordon              M7099   15:45 
+    2    60 Kirk Gordon              M7099   15:40 
     3   200 Nat Gopalswamy           M7099   24:01 
     4   265 Lawrence Coy             M7099   28:51 
     5   277 Aaron Turner             M7099   29:34 

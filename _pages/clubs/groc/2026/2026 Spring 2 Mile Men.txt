@@ -61,9 +61,9 @@ Place Num   Name                     Time    Guntime Div   Team
    53   902 Matthew Kowalewski         15:32   15:40 M5054 DRAGONFLYERS                   
    54   376 Jim Whipple                15:34   17:16 M3034 LEMS RUNS ON NERDS GUMMY CLUST 
    55   563 Evan Ryder                 15:35   17:00 M2529                                
-   56   825 Michael Jones              15:41   15:41 M4044 COLUMBUS                       
-   57   730 Ryan Dimarzio              15:42   15:49 M0119 KBR                            
-   58   602 Kirk Gordon                15:45   15:50 M7099                                
+   56   602 Kirk Gordon                15:40   15:50 M7099                                
+   57   825 Michael Jones              15:41   15:41 M4044 COLUMBUS                       
+   58   730 Ryan Dimarzio              15:42   15:49 M0119 KBR                            
    59   369 David Giles                15:48   15:54 M5054                                
    60   525 David Russell              15:50   16:14 M4044 GCDC                           
    61   840 Chris Moller               15:52   15:58 M3539 DRAGONFLYERS                   

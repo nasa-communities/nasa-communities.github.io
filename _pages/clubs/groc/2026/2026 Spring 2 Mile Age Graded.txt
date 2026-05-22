@@ -24,7 +24,7 @@ Place Name                     Div   Sex Time    Agegrad
    10 Eric Lyness              M6064   M   13:57   71.91 
    11 Chuck Hudson             M3539   M   11:50   70.64 
    12 Joanne Santiago          F6064   F   17:52   70.53 
-   13 Kirk Gordon              M7099   M   15:45   69.98 
+   13 Kirk Gordon              M7099   M   15:40   70.35 
    14 Bobby Huang              M3034   M   11:42   69.53 
    15 Yihua Zheng              F5054   F   16:47   69.05 
    16 Bernard Kelly            M5054   M   13:45   68.79 
