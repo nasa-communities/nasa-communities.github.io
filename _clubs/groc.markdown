@@ -122,6 +122,7 @@ We'll add some maps of typical runs on GSFC campus.
 Thanks to the [GSFC Photo Club](https://nasa-communities.org/clubs/photo/) for their amazing photos from past GROC events:
 
 * [Spring 2026 Photos](https://www.flickr.com/photos/gsfcphoto/albums/72177720333608451/with/55265271921)
+* [More Spring 2026 Photos](https://www.flickr.com/photos/gsfcphoto/albums/72177720333608451)
 * [Spring 2025 Photos](https://www.flickr.com/photos/gsfcphoto/albums/72177720325966231/)
 * [Fall 2024 Photos](https://www.flickr.com/photos/gsfcphoto/albums/72177720320978123)
 * [Spring 2024 Photos](https://www.flickr.com/photos/gsfcphoto/albums/72177720317069783)
