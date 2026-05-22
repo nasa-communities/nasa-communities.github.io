@@ -291,7 +291,33 @@ Please [contact GROC](https://nasa-communities.org/clubs/groc/#contact-us) for r
 
 ### 2016 Fall
 
+**Fall 10k and 2k:**
+* [Overall 10K Results](/clubs/groc/2016/2016 Fall 10k.txt)
+* [Overall 2K Results](/clubs/groc/2016/2016 Fall 2k.txt)
+
+**Fall 2 Mile Fun Run:**
+* [Age Graded](/clubs/groc/2016/2016 Fall Fun Run Age Graded.txt)
+* [Age Groups](/clubs/groc/2016/2016 Fall Fun Run Age Groups.txt)
+* [Mens Teams](/clubs/groc/2016/2016 Fall Fun Run Men Teams.txt)
+* [Men](/clubs/groc/2016/2016 Fall Fun Run Men.txt)
+* [Age Teams](/clubs/groc/2016/2016 Fall Fun Run Teams Age.txt)
+* [Womens Teams](/clubs/groc/2016/2016 Fall Fun Run Women Teams.txt)
+* [Women](/clubs/groc/2016/2016 Fall Fun Run Women.txt)
+
 ### 2016 Spring
+
+**Spring 10k:**
+* [Overall 10K Results](/clubs/groc/2016/2016 Spring 10k.txt)
+
+**Spring 2 Mile Fun Run:**
+* [Age Graded](/clubs/groc/2016/2016 Spring Fun Run Age Graded.txt)
+* [Age Groups](/clubs/groc/2016/2016 Spring Fun Run Age Groups.txt)
+* [Guntime](/clubs/groc/2016/2016 Spring Fun Run Guntime.txt)
+* [Mens Teams](/clubs/groc/2016/2016 Spring Fun Run Men Teams.txt)
+* [Men](/clubs/groc/2016/2016 Spring Fun Run Men.txt)
+* [Age Teams](/clubs/groc/2016/2016 Spring Fun Run Teams Age.txt)
+* [Womens Teams](/clubs/groc/2016/2016 Spring Fun Run Women Teams.txt)
+* [Women](/clubs/groc/2016/2016 Spring Fun Run Women.txt)
 
 ## 2015
 
