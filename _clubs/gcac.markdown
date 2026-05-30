@@ -34,8 +34,16 @@ The main function of the club is to share Chinese culture at Goddard in terms of
 ---
 
 ## Upcoming Events
+### ✈️ 2026 8 Days Taiwan Tours
 
-No upcoming events listed. 
+* **Date:** 10/18/26 to 10/25/26
+* **Cost:** $1200.00 + Airfare
+* **Details:** Click the flyer below to view it full size!
+
+<a href="../../images/gcac/taiwan-flyer-2026.png" target="_blank">
+  <img src="../../images/gcac/taiwan-flyer-2026.png" alt="2026 Taiwan Tour Flyer" width="400">
+</a>
+
 
 [View past activities](#past-activities)
 
