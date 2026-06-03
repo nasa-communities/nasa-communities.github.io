@@ -48,17 +48,17 @@ Goddard Toastmasters is open to all Goddard employees who want to improve their 
 
 ## Meeting Schedule
 
-Goddard Toastmasters meets on the **second and fourth Wednesdays** of each month from **12:00 P.M. to 1:00 P.M. Eastern Time**, usually virtually via **NASA Teams**.
+Goddard Toastmasters meets on the **second and fourth Wednesdays** of each month from **12:00 P.M. to 1:00 P.M. Eastern**, usually virtually via **NASA Teams**.
 
 Doors open at 11:30 A.M. if you have questions about Toastmasters or the Toastmasters Pathways program. The meeting starts at noon.
 
-👉 👉 Please see the appropriate sample agenda below for the NASA Teams connection link:  
-[Sample Agenda - 2nd Wednesday of the month)](https://drive.google.com/file/d/1lQUFqdQ5srtEbFRLh776I_qgZ1bWFCe1/view?usp=drive_link)
+👉 Please see the appropriate sample agenda below for the NASA Teams connection link:  
+- [Sample Agenda - 2nd Wednesday of the month](https://drive.google.com/file/d/1lQUFqdQ5srtEbFRLh776I_qgZ1bWFCe1/view?usp=drive_link)
 
-[Sample Agenda - 4th Wednesday of the month)](https://drive.google.com/file/d/1BL9-tgULyIqQ9XRY-nhBFHZKSjdECM03/view?usp=sharing)
+- [Sample Agenda - 4th Wednesday of the month](https://drive.google.com/file/d/1BL9-tgULyIqQ9XRY-nhBFHZKSjdECM03/view?usp=sharing)
 
 We occasionally hold **blended meetings** that are both virtual (**Teams**) and on-site (**GSFC Building 33**).  
-Please check **Dateline Goddard** (internal to GSFC employees) for the current location or contact our VP Education or VP Membership for details. **Visitors are always welcome!**
+Please check **Dateline Goddard** (internal to GSFC employees) for the current location or contact our VP Education or VP Membership for details. **Visitors are always welcome, including interns and summer students!**
 
 ## Guests and Center Access
 
@@ -120,7 +120,7 @@ The historical Goddard Toastmasters website reflects the efforts of multiple cur
 
 ---
 
-*Curator: [Laura D. Vega](mailto:laura.daniela.vega@gmail.com)*  
+*Curator: [Laura D. Vega](mailto:laura.daniela.vega@gmail.com). Feedback, corrections, and suggestions are welcome.*
 *Responsible NASA Official: [Dylan Z. Baker](mailto:dylan.z.baker@nasa.gov)*  
 
-*Last updated: 2025-12-04*
+*Home Page last updated: 2026-06-03*
