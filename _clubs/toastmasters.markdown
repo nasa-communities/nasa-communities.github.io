@@ -20,11 +20,11 @@ anchors:
   # - { text: "Officers", anchor: "#club-officers" }
 
   # External subpages
-  - { text: How to Join", anchor: "/clubs/toastmasters/how_to_join/" }
-  - { text: Guest Information", anchor: "/clubs/toastmasters/guest_info/" }
-  - { text: Brief History", anchor: "/clubs/toastmasters/GSFC_TM_history/" }
-  - { text: Frequently Asked Questions", anchor: "/clubs/toastmasters/TM_FAQB/" }
-  - { text: Useful Links", anchor: "/clubs/toastmasters/links/" }
+  - { text: Guest Information, anchor: "/clubs/toastmasters/guest_info/" }
+  - { text: How to Join, anchor: "/clubs/toastmasters/how_to_join/" }
+  - { text: Frequently Asked Questions, anchor: "/clubs/toastmasters/TM_FAQB/" }
+  - { text: Useful Links, anchor: "/clubs/toastmasters/links/" }
+  - { text: Brief History, anchor: "/clubs/toastmasters/GSFC_TM_history/" }
   # - { text: Resources & Files (TBA)", anchor: "/clubs/toastmasters/resources/" }
   # - { text: Legacy Archive (TBA)", anchor: "/clubs/toastmasters/archive/" }
 
