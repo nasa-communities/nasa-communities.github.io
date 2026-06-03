@@ -1,7 +1,7 @@
 ---
 name: Goddard Toastmasters
 slogan: Build confidence in speaking and leadership.
-description: Celebrating Over 50 Years of Goddard Toastmasters (1972–2025). Goddard Toastmasters (Club 3496) helps Goddard employees and contractors improve their communication and leadership skills in a supportive, practice-driven environment with twice-monthly meetings.
+description: Celebrating over 50 years of Goddard Toastmasters (1972–present). Goddard Toastmasters helps Goddard employees and contractors improve their communication and leadership skills in a supportive, practice-driven environment with twice-monthly meetings.
 thumbnail: toastmasters/GSFC_Toastmasters.jpg
 
 contact-email: gsfc-toastmastersexec@lists.nasa.gov
@@ -37,7 +37,7 @@ anchors:
 
 **[Club 3496](https://www.toastmasters.org/Find-a-Club/00003496-goddard-club) · Area 42 · Division D · [District 36](https://district36.org/)**
 
-Goddard Toastmasters is open to all Goddard employees who want to improve their communication and leadership skills. The club offers a supportive environment to:
+Goddard Toastmasters is open to Goddard employees, contractors, interns, and guests who want to improve their communication and leadership skills. The club offers a supportive environment to:
 
 - Speak confidently in public  
 - Practice and apply leadership techniques  
