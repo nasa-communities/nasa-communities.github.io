@@ -69,6 +69,7 @@ For visitors who are not GSFC-badged:
 If on-center access is difficult, we recommend exploring other nearby Toastmasters clubs. You can search for clubs at:  
 [Toastmasters – Find a Club](https://www.toastmasters.org/find-a-club)
 
+<a id="club-officers"></a>
 ## 2025--2026 Club Officers
 
 | Role                   | Name                     | Email                                                | Phone        |
@@ -107,7 +108,7 @@ The historical Goddard Toastmasters website reflects the efforts of multiple cur
 
 ---
 
-*Responsible NASA Official: [Dylan Z. Baker](mailto:dylan.z.baker@nasa.gov)*
+*Responsible NASA Official: [Dylan Z. Baker](mailto:dylan.z.baker@nasa.gov);*
 *Curator: [Laura D. Vega](mailto:laura.daniela.vega@gmail.com). Feedback, corrections, and suggestions are welcome.*
 
 *Home page last updated: 2026-06-03*
