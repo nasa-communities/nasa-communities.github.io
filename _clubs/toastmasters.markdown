@@ -48,15 +48,17 @@ Goddard Toastmasters is open to all Goddard employees who want to improve their 
 
 ## Meeting Schedule
 
-Meetings are held **virtually** on the **second and fourth Wednesdays** of each month from **11:30 a.m. to 1:00 p.m. Eastern Time**
+Goddard Toastmasters meets on the **second and fourth Wednesdays** of each month from **12:00 P.M. to 1:00 P.M. Eastern Time**, usually virtually via **NASA Teams**.
 
-👉 You can find the current meeting connection details in our meeting links PDF:  
-[Links to Goddard Toastmasters meetings](https://drive.google.com/file/d/16IBc5gRgL2Y0SHPC-FahfJo0e3vttTE6/view?usp=sharing)
+Doors open at 11:30 A.M. if you have questions about Toastmasters or the Toastmasters Pathways program. The meeting starts at noon.
 
-[Sample Agenda (2nd of the month)](https://drive.google.com/file/d/1lQUFqdQ5srtEbFRLh776I_qgZ1bWFCe1/view?usp=drive_link)
+👉 👉 Please see the appropriate sample agenda below for the NASA Teams connection link:  
+[Sample Agenda - 2nd Wednesday of the month)](https://drive.google.com/file/d/1lQUFqdQ5srtEbFRLh776I_qgZ1bWFCe1/view?usp=drive_link)
+
+[Sample Agenda - 4th Wednesday of the month)](https://drive.google.com/file/d/1BL9-tgULyIqQ9XRY-nhBFHZKSjdECM03/view?usp=sharing)
 
 We occasionally hold **blended meetings** that are both virtual (**Teams**) and on-site (**GSFC Building 33**).  
-Please check **Dateline Goddard** (internal to GSFC employees), for the current location or contact our VP Education or VP Membership for details. Guests are always welcome!
+Please check **Dateline Goddard** (internal to GSFC employees) for the current location or contact our VP Education or VP Membership for details. **Visitors are always welcome!**
 
 ## Guests and Center Access
 
@@ -80,7 +82,7 @@ If on-center access is difficult, we recommend exploring other nearby Toastmaste
 | President              | Ginger Butcher           | [ginger.butcher-1@nasa.gov](mailto:ginger.butcher-1@nasa.gov) | 301-614-5124 |
 | VP Education           | Dylan Baker, IP1         | [dylan.z.baker@nasa.gov](mailto:dylan.z.baker@nasa.gov)       | 301-286-0083 |
 | VP Membership          | Nancy Carney, LD3        | [nancy.s.carney@nasa.gov](mailto:nancy.s.carney@nasa.gov)     | 301-286-8090 |
-| VP Public Relations    | Laura D. Vega, CC, CL    | [laura.d.vega@nasa.gov](mailto:laura.d.vega@nasa.gov)         | 210-954-1469 |
+| VP Public Relations    | Laura D. Vega, IP2       | [laura.d.vega@nasa.gov](mailto:laura.d.vega@nasa.gov)         | 210-954-1469 |
 | Secretary              | Martha O’Bryan, PM1      | [martha.v.obryan@nasa.gov](mailto:martha.v.obryan@nasa.gov)   | 301-286-1412 |
 | Treasurer              | Patrick McHale, CTM, PM1 | [patmchale1@outlook.com](mailto:patmchale1@outlook.com)       | 410-531-6921 |
 | Sergeant-at-Arms       | Vacant                   | —                                                    | —            |
