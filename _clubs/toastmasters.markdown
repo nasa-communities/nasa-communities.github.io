@@ -16,17 +16,17 @@ layout: club-with-nav
 
 anchors:
   # Internal sections on this page
-  - { text: Guests and Center Access, anchor: "#guests-and-center-access" }
-  - { text: Officers, anchor: "#club-officers" }
+  - { text: "Guests and Center Access", anchor: "#guests-and-center-access" }
+  - { text: "Officers", anchor: "#club-officers" }
 
   # External subpages
-  - { text: Go to: How to Join, anchor: "/clubs/toastmasters/how_to_join/" }
-  - { text: Go to: Guest Information, anchor: "/clubs/toastmasters/guest_info/" }
-  - { text: Go to: Brief History, anchor: "/clubs/toastmasters/GSFC_TM_history/" }
-  - { text: Go to: Frequently Asked Questions, anchor: "/clubs/toastmasters/TM_FAQB/" }
-  - { text: Go to: Useful Links, anchor: "/clubs/toastmasters/links/" }
-  - { text: Go to: Resources & Files (TBA), anchor: "/clubs/toastmasters/resources/" }
-  - { text: Go to: Legacy Archive (TBA), anchor: "/clubs/toastmasters/archive/" }
+  - { text: "Go to: How to Join", anchor: "/clubs/toastmasters/how_to_join/" }
+  - { text: "Go to: Guest Information", anchor: "/clubs/toastmasters/guest_info/" }
+  - { text: "Go to: Brief History", anchor: "/clubs/toastmasters/GSFC_TM_history/" }
+  - { text: "Go to: Frequently Asked Questions", anchor: "/clubs/toastmasters/TM_FAQB/" }
+  - { text: "Go to: Useful Links", anchor: "/clubs/toastmasters/links/" }
+  - { text: "Go to: Resources & Files (TBA)", anchor: "/clubs/toastmasters/resources/" }
+  - { text: "Go to: Legacy Archive (TBA)", anchor: "/clubs/toastmasters/archive/" }
 
 ---
 
