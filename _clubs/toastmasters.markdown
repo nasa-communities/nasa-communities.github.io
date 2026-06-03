@@ -53,7 +53,9 @@ Meetings are held **virtually** on the **second and fourth Wednesdays** of each 
 👉 You can find the current meeting connection details in our meeting links PDF:  
 [Links to Goddard Toastmasters meetings](https://drive.google.com/file/d/16IBc5gRgL2Y0SHPC-FahfJo0e3vttTE6/view?usp=sharing)
 
-We occasionally hold **blended meetings** that are both virtual and on-site.  
+[Sample Agenda (2nd of the month)](https://drive.google.com/file/d/1lQUFqdQ5srtEbFRLh776I_qgZ1bWFCe1/view?usp=drive_link)
+
+We occasionally hold **blended meetings** that are both virtual (**Teams**) and on-site (**GSFC Building 33**).  
 Please check **Dateline Goddard** (internal to GSFC employees), for the current location or contact our VP Education or VP Membership for details. Guests are always welcome!
 
 ## Guests and Center Access
