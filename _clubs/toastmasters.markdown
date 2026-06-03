@@ -18,16 +18,15 @@ anchors:
   # Internal sections on this page
   - { text: Guests and Center Access, anchor: "#guests-and-center-access" }
   - { text: Officers, anchor: "#club-officers" }
-  - { text: Email Lists, anchor: "#email-lists" }
 
   # External subpages
-  - { text: How to Join, anchor: "/clubs/toastmasters/how_to_join/" }
-  - { text: Guest Information, anchor: "/clubs/toastmasters/guest_info/" }
-  - { text: Brief History, anchor: "/clubs/toastmasters/GSFC_TM_history/" }
-  - { text: Frequently Asked Questions, anchor: "/clubs/toastmasters/TM_FAQB/" }
-  - { text: Useful Links, anchor: "/clubs/toastmasters/links/" }
-  - { text: Resources & Files (TBA), anchor: "/clubs/toastmasters/resources/" }
-  - { text: Legacy Archive (TBA), anchor: "/clubs/toastmasters/archive/" }
+  - { text: Go to: How to Join, anchor: "/clubs/toastmasters/how_to_join/" }
+  - { text: Go to: Guest Information, anchor: "/clubs/toastmasters/guest_info/" }
+  - { text: Go to: Brief History, anchor: "/clubs/toastmasters/GSFC_TM_history/" }
+  - { text: Go to: Frequently Asked Questions, anchor: "/clubs/toastmasters/TM_FAQB/" }
+  - { text: Go to: Useful Links, anchor: "/clubs/toastmasters/links/" }
+  - { text: Go to: Resources & Files (TBA), anchor: "/clubs/toastmasters/resources/" }
+  - { text: Go to: Legacy Archive (TBA), anchor: "/clubs/toastmasters/archive/" }
 
 ---
 
@@ -36,7 +35,7 @@ anchors:
 <h1 style="text-align: center;">Welcome to Goddard Toastmasters!</h1>
 
 
-**Club 3496 · Area 42 · Division D · [District 36](https://district36.org/)**
+**[Club 3496](https://www.toastmasters.org/Find-a-Club/00003496-goddard-club) · Area 42 · Division D · [District 36](https://district36.org/)**
 
 Goddard Toastmasters is open to all Goddard employees who want to improve their communication and leadership skills. The club offers a supportive environment to:
 
@@ -48,13 +47,10 @@ Goddard Toastmasters is open to all Goddard employees who want to improve their 
 
 ## Meeting Schedule
 
-Goddard Toastmasters meets on the **second and fourth Wednesdays** of each month from **12:00 P.M. to 1:00 P.M. Eastern**, usually virtually via **NASA Teams**.
-
-Doors open at 11:30 A.M. if you have questions about Toastmasters or the Toastmasters Pathways program. The meeting starts at noon.
+Goddard Toastmasters meets on the **second and fourth Wednesdays** of each month from **12:00 P.M. to 1:00 P.M. Eastern**, usually virtually via **NASA Teams**. **Doors open at 11:30 A.M.** for anyone who has questions about Toastmasters or the Toastmasters Pathways program.
 
 👉 Please see the appropriate sample agenda below for the NASA Teams connection link:  
 - [Sample Agenda - 2nd Wednesday of the month](https://drive.google.com/file/d/1lQUFqdQ5srtEbFRLh776I_qgZ1bWFCe1/view?usp=drive_link)
-
 - [Sample Agenda - 4th Wednesday of the month](https://drive.google.com/file/d/1BL9-tgULyIqQ9XRY-nhBFHZKSjdECM03/view?usp=sharing)
 
 We occasionally hold **blended meetings** that are both virtual (**Teams**) and on-site (**GSFC Building 33**).  
@@ -73,9 +69,7 @@ For visitors who are not GSFC-badged:
 If on-center access is difficult, we recommend exploring other nearby Toastmasters clubs. You can search for clubs at:  
 [Toastmasters – Find a Club](https://www.toastmasters.org/find-a-club)
 
-## Club Officers
-
-**For more detailed guest information, including meeting structure and what to expect, see our [Guest Information page](/clubs/toastmasters/guest_info/) or you may contact any of the club officers listed below.**
+## 2025--2026 Club Officers
 
 | Role                   | Name                     | Email                                                | Phone        |
 |------------------------|--------------------------|------------------------------------------------------|--------------|
@@ -87,13 +81,6 @@ If on-center access is difficult, we recommend exploring other nearby Toastmaste
 | Treasurer              | Patrick McHale, CTM, PM1 | [patmchale1@outlook.com](mailto:patmchale1@outlook.com)       | 410-531-6921 |
 | Sergeant-at-Arms       | Vacant                   | —                                                    | —            |
 | Immediate Past President | Dylan Baker, IP1       | [dylan.z.baker@nasa.gov](mailto:dylan.z.baker@nasa.gov)       | 301-286-0083 |
-
-## Email Lists
-
-**Goddard Toastmasters Email Listservers:**
-
-- **General Membership:** [gsfc-toastmasters@lists.nasa.gov](mailto:gsfc-toastmasters@lists.nasa.gov)  
-- **Executive Committee:** [gsfc-toastmastersexec@lists.nasa.gov](mailto:gsfc-toastmastersexec@lists.nasa.gov)
 
 
 ## Additional Resources
@@ -120,7 +107,7 @@ The historical Goddard Toastmasters website reflects the efforts of multiple cur
 
 ---
 
+*Responsible NASA Official: [Dylan Z. Baker](mailto:dylan.z.baker@nasa.gov)*
 *Curator: [Laura D. Vega](mailto:laura.daniela.vega@gmail.com). Feedback, corrections, and suggestions are welcome.*
-*Responsible NASA Official: [Dylan Z. Baker](mailto:dylan.z.baker@nasa.gov)*  
 
-*Home Page last updated: 2026-06-03*
+*Home page last updated: 2026-06-03*
