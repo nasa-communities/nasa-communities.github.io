@@ -108,7 +108,6 @@ If on-center access is difficult, we recommend exploring other nearby Toastmaste
 | Treasurer | Patrick McHale, CTM, PM1 |
 | Sergeant-at-Arms | Ginger Butcher, PM1 |
 | Immediate Past President | Dylan Baker, IP1 |
-
 <br>
 - **Club Officers Email:** [gsfc-toastmastersexec@lists.nasa.gov](mailto:gsfc-toastmastersexec@lists.nasa.gov)
 <br>
