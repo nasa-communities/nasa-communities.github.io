@@ -35,7 +35,7 @@ anchors:
 <h1 style="text-align: center;">Welcome to Goddard Toastmasters!</h1>
 
 
-**[Club 3496](https://www.toastmasters.org/Find-a-Club/00003496-goddard-club) · Area 42 · Division D · [District 36](https://district36.org/)**
+<h2 style="text-align: center;">**[Club 3496](https://www.toastmasters.org/Find-a-Club/00003496-goddard-club) · Area 42 · Division D · [District 36](https://district36.org/)**</h2>
 
 Goddard Toastmasters is open to Goddard employees, contractors, interns, and guests who want to improve their communication and leadership skills. The club offers a supportive environment to:
 
@@ -74,13 +74,13 @@ If on-center access is difficult, we recommend exploring other nearby Toastmaste
 
 | Role                   | Name                     | Email                                                | Phone        |
 |------------------------|--------------------------|------------------------------------------------------|--------------|
-| President              | Ginger Butcher           | [ginger.butcher-1@nasa.gov](mailto:ginger.butcher-1@nasa.gov) | 301-614-5124 |
+| President              | Ginger Butcher, PM1      | [ginger.butcher-1@nasa.gov](mailto:ginger.butcher-1@nasa.gov) | 301-614-5124 |
 | VP Education           | Dylan Baker, IP1         | [dylan.z.baker@nasa.gov](mailto:dylan.z.baker@nasa.gov)       | 301-286-0083 |
 | VP Membership          | Nancy Carney, LD3        | [nancy.s.carney@nasa.gov](mailto:nancy.s.carney@nasa.gov)     | 301-286-8090 |
 | VP Public Relations    | Laura D. Vega, IP2       | [laura.d.vega@nasa.gov](mailto:laura.d.vega@nasa.gov)         | 210-954-1469 |
-| Secretary              | Martha O’Bryan, PM1      | [martha.v.obryan@nasa.gov](mailto:martha.v.obryan@nasa.gov)   | 301-286-1412 |
+| Secretary              | Vacant                   | —                                                    | —            |
 | Treasurer              | Patrick McHale, CTM, PM1 | [patmchale1@outlook.com](mailto:patmchale1@outlook.com)       | 410-531-6921 |
-| Sergeant-at-Arms       | Vacant                   | —                                                    | —            |
+| Sergeant-at-Arms       | Ginger Butcher, PM1      | —                                                    | —            |
 | Immediate Past President | Dylan Baker, IP1       | [dylan.z.baker@nasa.gov](mailto:dylan.z.baker@nasa.gov)       | 301-286-0083 |
 
 
