@@ -17,10 +17,12 @@ anchors:
 # A Brief History of Goddard Toastmasters
 
 Our official charter date is January 17, 1972 during the term of 
-Toastmasters International President Russell G. Herron. As of 2025, the club is 53 years old and continues to build on a long tradition of leadership and communication excellence. As with any new 
-Toastmasters Club, the drive for a club at Goddard began with a small 
-group of Goddard people seriously interested in the educational and 
-communication opportunities offered by the Toastmasters International 
+Toastmasters International President Russell G. Herron. The club has 
+served the Goddard community for more than 50 years and continues 
+to build on a long tradition of leadership and communication excellence. 
+As with any new Toastmasters Club, the drive for a club at Goddard began 
+with a small group of Goddard people seriously interested in the educational 
+and communication opportunities offered by the Toastmasters International 
 organization. A new group reaches charter status only through the hard 
 work of its organizers who come from the potential new club and from 
 the membership of an established Toastmasters Club. For Goddard the 
