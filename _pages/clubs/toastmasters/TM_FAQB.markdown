@@ -425,9 +425,9 @@ Districts can hold whatever contests they want in addition to the official Inter
 
 ### Goddard Toastmasters
 
-- **Club Officers:** [See club officers page](/clubs/toastmasters/#club-officers)
+- **Club Officers:** [See club officers](/clubs/toastmasters/#club-officers)
 - **Club Email:** [gsfc-toastmasters@lists.nasa.gov](mailto:gsfc-toastmasters@lists.nasa.gov)
-- **Executive Committee Email:** [gsfc-toastmastersexec@lists.nasa.gov](mailto:gsfc-toastmastersexec@lists.nasa.gov)
+- **Club Officers Email:** [gsfc-toastmastersexec@lists.nasa.gov](mailto:gsfc-toastmastersexec@lists.nasa.gov)
 
 ### Find a Club
 
