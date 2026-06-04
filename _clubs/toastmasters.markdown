@@ -79,7 +79,7 @@ If on-center access is difficult, we recommend exploring other nearby Toastmaste
 | President              | Ginger Butcher, PM1      | [ginger.butcher-1@nasa.gov](mailto:ginger.butcher-1@nasa.gov) | 301-614-5124 |
 | VP Education           | Dylan Baker, IP1         | [dylan.z.baker@nasa.gov](mailto:dylan.z.baker@nasa.gov)       | 301-286-0083 |
 | VP Membership          | Nancy Carney, LD3        | [nancy.s.carney@nasa.gov](mailto:nancy.s.carney@nasa.gov)     | 301-286-8090 |
-| VP Public Relations    | Laura D. Vega, IP2       | [laura.d.vega@nasa.gov](mailto:laura.d.vega@nasa.gov)         | 210-954-1469 |
+| VP Public Relations    | Laura Vega, CC, CL, IP2  | [laura.d.vega@nasa.gov](mailto:laura.d.vega@nasa.gov)         | 210-954-1469 |
 | Secretary              | Vacant                   | —                                                    | —            |
 | Treasurer              | Patrick McHale, CTM, PM1 | [patmchale1@outlook.com](mailto:patmchale1@outlook.com)       | 410-531-6921 |
 | Sergeant-at-Arms       | Ginger Butcher, PM1      | —                                                    | —            |
