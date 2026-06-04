@@ -47,6 +47,30 @@ Goddard Toastmasters is open to Goddard employees, contractors, interns, and gue
 - Use motivational techniques  
 - Develop strong listening skills  
 
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; text-align: center;">
+
+  <div>
+    <img src="/images/toastmasters/goddard_toastmasters_holiday_potluck_meeting_20241211_131340.jpg" alt="Goddard Toastmasters holiday potluck meeting" style="width: 100%; height: auto;">
+    <p><em>Goddard Toastmasters holiday edition meeting with food, speeches, members, and student visitors.</em></p>
+  </div>
+
+  <div>
+    <img src="/images/toastmasters/20230803_115818.jpg" alt="Goddard Toastmasters outreach table" style="width: 100%; height: auto;">
+    <p><em>Goddard Toastmasters outreach table featuring the club banner and membership materials.</em></p>
+  </div>
+
+  <div>
+    <img src="/images/toastmasters/20240530_135006.jpg" alt="Goddard Toastmasters outdoor outreach event" style="width: 100%; height: auto;">
+    <p><em>Goddard Toastmasters members sharing information about the club at an outdoor Goddard event.</em></p>
+  </div>
+
+  <div>
+    <img src="/images/toastmasters/20241211_115612.jpg" alt="Goddard Toastmasters holiday meeting with speeches" style="width: 100%; height: auto;">
+    <p><em>Goddard Toastmasters holiday edition meeting with prepared speeches, food, and fellowship.</em></p>
+  </div>
+
+</div>
+
 ## Meeting Schedule
 
 Goddard Toastmasters meets on the **second and fourth Wednesdays** of each month from **12:00 P.M. to 1:00 P.M. Eastern**, usually virtually via **NASA Teams**. **Doors open at 11:30 A.M.** for anyone who has questions about Toastmasters or the Toastmasters Pathways program.
