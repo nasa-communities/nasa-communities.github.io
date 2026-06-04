@@ -7,7 +7,7 @@ parent-club: Goddard Toastmasters
 thumbnail: toastmasters/GSFC_Toastmasters.jpg
 
 anchors:
-  - { text: Back to Club Home Page, anchor: "/clubs/toastmasters/" }
+  - { text: "<strong>Back to Club Home Page</strong>", anchor: "/clubs/toastmasters/" }
 ---
 
 ## Celebrating Over 50 Years of Goddard Toastmasters (1972–2025)
