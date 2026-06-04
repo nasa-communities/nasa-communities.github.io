@@ -7,7 +7,7 @@ parent-club: Goddard Toastmasters
 thumbnail: toastmasters/GSFC_Toastmasters.jpg
 
 anchors:
-  - { text: Back to Club Page, anchor: "/clubs/toastmasters/" }
+  - { text: "<strong>Back to Club Home Page</strong>", anchor: "/clubs/toastmasters/" }
   - { text: Important Note, anchor: "#important-note" }
   - { text: What is Toastmasters International, anchor: "#what-is-toastmasters-international" }
   - { text: Membership, anchor: "#membership" }
