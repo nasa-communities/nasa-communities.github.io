@@ -85,6 +85,9 @@ If on-center access is difficult, we recommend exploring other nearby Toastmaste
 | Sergeant-at-Arms       | Ginger Butcher, PM1      | —                                                    | —            |
 | Immediate Past President | Dylan Baker, IP1       | [dylan.z.baker@nasa.gov](mailto:dylan.z.baker@nasa.gov)       | 301-286-0083 |
 
+**Education award key:**  
+PM1 = Presentation Mastery Level 1; IP1/IP2 = Innovative Planning Level 1/2; LD3 = Leadership Development Level 3; CC = Competent Communicator; CL = Competent Leader; CTM = Competent Toastmaster.  
+For more abbreviations, see the [Toastmasters Education Awards Key](https://ccdn.toastmasters.org/medias/files/reports/850-educationawardskey.pdf).
 
 ## Additional Resources
 
