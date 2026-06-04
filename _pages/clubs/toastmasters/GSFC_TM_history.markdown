@@ -48,8 +48,8 @@ the club year to the current July 1 to June 30.
 
 | Year | President | Year | President | Year | President |
 |------|-----------|------|-----------|------|-----------|
-| 1972 | Gilbert Bullock | 1992-1993 | Carol Bleile | 2013-2014 | James Peachey |
-| 1973 | Carroll Horne | 1993-1994 | Karen (Keene) Pham | 2014-2015 | Esther Woodward |
+| 1972 | Gilbert Bullock&nbsp;&nbsp; | 1992-1993 | Carol Bleile&nbsp;&nbsp; | 2013-2014 | James Peachey |
+| 1973 | Carroll Horne&nbsp;&nbsp; | 1993-1994 | Karen (Keene) Pham&nbsp;&nbsp; | 2014-2015 | Esther Woodward |
 | 1974 | William M. Hocking | 1994-1995 | Maureen Armbruster | | |
 | 1975 | Doris Anne Martin | 1995-1996 | Michael Parrish | | |
 | 1976 | ? | 1996-1997 | Jeff Bolognese | | |
