@@ -10,9 +10,7 @@ anchors:
   - { text: "<strong>Back to Club Home Page</strong>", anchor: "/clubs/toastmasters/" }
 ---
 
-## Celebrating Over 50 Years of Goddard Toastmasters (1972–2025)
-
-## Club 3496, Area 42, Division D, District 36
+## Celebrating Over 50 Years of Goddard Toastmasters
 
 # A Brief History of Goddard Toastmasters
 
