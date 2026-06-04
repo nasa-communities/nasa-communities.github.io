@@ -138,7 +138,9 @@ For NASA privacy policies and important notices, please see:
 
 ### Acknowledgment of Past Curators
 
-The historical Goddard Toastmasters website reflects the efforts of multiple curators across its long history. Among them, **Nicholas Collins** played a major role in maintaining and organizing the site for many years, helping preserve newsletters, meeting minutes, educational materials, and club records. Nick’s professional work at NASA Goddard included extensive experience in **optical data and image analysis**, with contributions to the **Roman Space Telescope**, **PACE/OCI**, **JWST science operations**, and the **Hubble Space Telescope (WFC3 and STIS)**. We are grateful for his stewardship of the club’s legacy resources.
+The historical Goddard Toastmasters website, originally hosted at [toastmasters.gsfc.nasa.gov](https://toastmasters.gsfc.nasa.gov/), reflects the efforts of multiple curators across its long history. Among them, **Nicholas Collins** played a major role in maintaining and organizing the site for many years, helping preserve newsletters, meeting minutes, educational materials, and club records. Nick’s professional work at NASA Goddard included extensive experience in **optical data and image analysis**, with contributions to the Roman Space Telescope, PACE/OCI, JWST science operations, and the Hubble Space Telescope (WFC3 and STIS).
+
+As Goddard Toastmasters content is migrated to the current NASA Communities site at [nasa-communities.org/clubs/toastmasters](https://nasa-communities.org/clubs/toastmasters/), we are grateful for his stewardship of the club’s legacy resources.
 
 ---
 
