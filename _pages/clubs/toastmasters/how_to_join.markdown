@@ -7,7 +7,7 @@ parent-club: Goddard Toastmasters
 thumbnail: toastmasters/GSFC_Toastmasters.jpg
 
 anchors:
-  - { text: Back to Club Page, anchor: "/clubs/toastmasters/" }
+  - { text: "<strong>Back to Club Home Page</strong>", anchor: "/clubs/toastmasters/" }
   - { text: Quick Steps, anchor: "#quick-steps" }
   - { text: Detailed Instructions, anchor: "#detailed-instructions" }
   - { text: Payment Information, anchor: "#payment-information" }
@@ -131,7 +131,7 @@ For questions about joining, please contact:
 
 - **[VP Membership](/clubs/toastmasters/#club-officers)** - Primary contact for new members
 - **[Treasurer](/clubs/toastmasters/#club-officers)** - For payment questions
-- **Club Email:** [gsfc-toastmasters@lists.nasa.gov](mailto:gsfc-toastmasters@lists.nasa.gov)
+- **Club Officers Email:** [gsfc-toastmastersexec@lists.nasa.gov](mailto:gsfc-toastmastersexec@lists.nasa.gov)
 
 ### Additional Resources
 
@@ -141,7 +141,7 @@ For questions about joining, please contact:
 
 ---
 
-*For the most current information, please contact our [club officers](/clubs/toastmasters/#club-officers) or visit the [Toastmasters International website](https://www.toastmasters.org/).*
+*For the most current information, please contact our club officers or visit the [Toastmasters International website](https://www.toastmasters.org/).*
 
 *Source: Updated December 2025 for NASA Communities site.*
 
