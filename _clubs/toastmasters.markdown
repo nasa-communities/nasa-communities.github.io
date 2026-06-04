@@ -50,8 +50,8 @@ Goddard Toastmasters is open to Goddard employees, contractors, interns, and gue
 <div style="text-align: center; margin: 1.5rem 0;">
   <img src="/images/toastmasters/goddard_toastmasters_holiday_potluck_meeting_20241211_131340.jpg" 
        alt="Goddard Toastmasters holiday potluck meeting" 
-       style="max-width: 520px; width: 100%; height: auto;">
-  <p><em>Goddard Toastmasters holiday edition meeting with food, speeches, members, and student visitors.</em></p>
+       style="max-width: 600px; width: 100%; height: auto;">
+  <p><em>Goddard Toastmasters 2024 holiday edition meeting with speeches, members, and student visitors. (December 11, 2024)</em></p>
 </div>
 
 ## Meeting Schedule
