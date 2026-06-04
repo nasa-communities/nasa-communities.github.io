@@ -70,18 +70,16 @@ The table below combines the legacy Goddard Toastmasters history list with offic
 | 1989 | Jim McLean&nbsp;&nbsp; | 2009-2010 | Charles Gatebe&nbsp;&nbsp; | | |
 | 1990 | Jim McLean&nbsp;&nbsp; | 2010-2011 | James Peachey&nbsp;&nbsp; | | |
 | 1991 | Otero Tinker&nbsp;&nbsp; | 2011-2012 | Ronald Jones&nbsp;&nbsp; | | |
-| 1992 * | Carol Bleile&nbsp;&nbsp; | 2012-2013 | Esther Woodward&nbsp;&nbsp; | | |
+| 1992 \* | Carol Bleile&nbsp;&nbsp; | 2012-2013 | Esther Woodward&nbsp;&nbsp; | | |
 
-* Jan. 1-June 30
+\* Jan. 1-June 30
 
 Compiled by:  
 [Regina J. Cody](mailto:regina.cody@gsfc.nasa.gov)  
-NASA/Goddard Space Flight Center  
-Code 691
+NASA/Goddard Space Flight Center, Code 691
 
 *Source: migrated from legacy GSFC Toastmasters site. President records from 2002–2014 were checked against Toastmasters.org Club Central officer history, and records from 2015–2026 were supplemented using Toastmasters.org.*
 
 Page last updated: 2026-06-04  
 Updated by: [Laura D. Vega](mailto:laura.d.vega@nasa.gov)  
-NASA/Goddard Space Flight Center  
-Code 667
+NASA/Goddard Space Flight Center, Code 667
