@@ -12,7 +12,7 @@ anchors:
 
 ## Celebrating Over 50 Years of Goddard Toastmasters (1972–2025)
 
-## Club 3496, District 36, Area 42
+## Club 3496, Area 42, Division D, District 36
 
 # A Brief History of Goddard Toastmasters
 
@@ -46,29 +46,31 @@ the club year to the current July 1 to June 30.
 
 ## Goddard Toastmasters Presidents
 
+The table below combines the legacy Goddard Toastmasters history list with officer records available through Toastmasters.org Club Central.
+
 | Year | President | Year | President | Year | President |
 |------|-----------|------|-----------|------|-----------|
 | 1972 | Gilbert Bullock&nbsp;&nbsp; | 1992-1993 | Carol Bleile&nbsp;&nbsp; | 2013-2014 | James Peachey |
 | 1973 | Carroll Horne&nbsp;&nbsp; | 1993-1994 | Karen (Keene) Pham&nbsp;&nbsp; | 2014-2015 | Esther Woodward |
-| 1974 | William M. Hocking | 1994-1995 | Maureen Armbruster | | |
-| 1975 | Doris Anne Martin | 1995-1996 | Michael Parrish | | |
-| 1976 | ? | 1996-1997 | Jeff Bolognese | | |
-| 1977 | Patrick Melia | 1997-1998 | Martha O'Bryan | | |
-| 1978 | Nina Chaney | 1998-1999 | Bill Pullen | | |
-| 1979 | Regina Cody | 1999-2000 | Ashok Ambardekar | | |
-| 1980 | Harry Cyphers | 2000-2001 | Jeff Bolognese | | |
-| 1981 | Chris Scherer | 2001-2002 | Michael K. Heney | | |
-| 1982 | Tim Ray | 2002-2003 | Bigyani Das | | |
-| 1983 | Robert Grigsby | 2003-2004 | Michael L. Rilee | | |
-| 1984 | Tom Ratliff | 2004-2005 | Jane Liu | | |
-| 1985 | Paul McCeney | 2005-2006 | David Schultz | | |
-| 1986 | Paul McCeney | 2006-2007 | Bigyani Das | | |
-| 1987 | Robert Grigsby | 2007-2008 | Marilyn Mack | | |
-| 1988 | Jean Resau | 2008-2009 | Michael K. Heney | | |
-| 1989 | Jim McLean | 2009-2010 | Charles Gatebe | | |
-| 1990 | Jim McLean | 2010-2011 | James Peachey | | |
-| 1991 | Otero Tinker | 2011-2012 | Ron Jones | | |
-| 1992 * | Carol Bleile | 2012-2013 | Esther Woodward | | |
+| 1974 | William M. Hocking&nbsp;&nbsp; | 1994-1995 | Maureen Armbruster&nbsp;&nbsp; | 2015-2016 | Michael Rilee |
+| 1975 | Doris Anne Martin&nbsp;&nbsp; | 1995-1996 | Michael Parrish&nbsp;&nbsp; | 2016-2017 | Nicolaas Du Toit |
+| 1976 | ?&nbsp;&nbsp; | 1996-1997 | Jeff Bolognese&nbsp;&nbsp; | 2017-2018 | Michael Rilee |
+| 1977 | Patrick Melia&nbsp;&nbsp; | 1997-1998 | Martha O'Bryan&nbsp;&nbsp; | 2018-2019 | Esther Woodward |
+| 1978 | Nina Chaney&nbsp;&nbsp; | 1998-1999 | Bill Pullen&nbsp;&nbsp; | 2019-2020 | Michael Rilee |
+| 1979 | Regina Cody&nbsp;&nbsp; | 1999-2000 | Ashok Ambardekar&nbsp;&nbsp; | 2020-2021 | Dylan Baker |
+| 1980 | Harry Cyphers&nbsp;&nbsp; | 2000-2001 | Jeff Bolognese&nbsp;&nbsp; | 2021-2022 | Joseph Warren |
+| 1981 | Chris Scherer&nbsp;&nbsp; | 2001-2002 | Michael K. Heney&nbsp;&nbsp; | 2022-2023 | Nancy Carney |
+| 1982 | Tim Ray&nbsp;&nbsp; | 2002-2003 | Bigyani Das&nbsp;&nbsp; | 2023-2024 | Suyash Bhattarai |
+| 1983 | Robert Grigsby&nbsp;&nbsp; | 2003-2004 | Michael L. Rilee&nbsp;&nbsp; | 2024-2025 | Dylan Baker |
+| 1984 | Tom Ratliff&nbsp;&nbsp; | 2004-2005 | Jane Liu&nbsp;&nbsp; | 2025-2026 | Ginger Butcher |
+| 1985 | Paul McCeney&nbsp;&nbsp; | 2005-2006 | David Schultz&nbsp;&nbsp; | | |
+| 1986 | Paul McCeney&nbsp;&nbsp; | 2006-2007 | Bigyani Das&nbsp;&nbsp; | | |
+| 1987 | Robert Grigsby&nbsp;&nbsp; | 2007-2008 | Marilyn Mack&nbsp;&nbsp; | | |
+| 1988 | Jean Resau&nbsp;&nbsp; | 2008-2009 | Michael K. Heney&nbsp;&nbsp; | | |
+| 1989 | Jim McLean&nbsp;&nbsp; | 2009-2010 | Charles Gatebe&nbsp;&nbsp; | | |
+| 1990 | Jim McLean&nbsp;&nbsp; | 2010-2011 | James Peachey&nbsp;&nbsp; | | |
+| 1991 | Otero Tinker&nbsp;&nbsp; | 2011-2012 | Ronald Jones&nbsp;&nbsp; | | |
+| 1992 * | Carol Bleile&nbsp;&nbsp; | 2012-2013 | Esther Woodward&nbsp;&nbsp; | | |
 
 * Jan. 1-June 30
 
@@ -77,5 +79,6 @@ Compiled by:
 NASA/Goddard Space Flight Center
 Code 691
 
-*Source: migrated from legacy GSFC Toastmasters site.*
+*Source: migrated from legacy GSFC Toastmasters site. President records from 2002–2026 were supplemented using Toastmasters.org Club Central officer history.*
 
+*Page last updated: 2026-06-04 by Laura D. Vega.*
