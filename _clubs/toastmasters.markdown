@@ -57,20 +57,20 @@ Goddard Toastmasters meets on the **second and fourth Wednesdays** of each month
 
 ### Upcoming 2026 meeting dates:
 
-- June 10, 2026
-- June 24, 2026
-- July 8, 2026
-- July 22, 2026
-- August 12, 2026
-- August 26, 2026
-- September 9, 2026
-- September 23, 2026
-- October 14, 2026
-- October 28, 2026
-- November 11, 2026
-- November 25, 2026
-- December 9, 2026
-- December 23, 2026
+- June 10
+- June 24
+- July 8
+- July 22
+- August 12
+- August 26
+- September 9
+- September 23
+- October 14
+- October 28
+- November 11
+- November 25
+- December 9
+- December 23
 
 We occasionally hold **blended meetings** that are both virtual (**Teams**) and on-site (**GSFC Building 33**).  
 Please check **Dateline Goddard** (internal to GSFC employees) for the current location or contact our VP Education or VP Membership for details. **Visitors are always welcome, including interns and summer students!**
