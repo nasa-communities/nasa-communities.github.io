@@ -35,7 +35,9 @@ anchors:
 <h1 style="text-align: center;">Welcome to Goddard Toastmasters!</h1>
 
 
-<h2 style="text-align: center;">**[Club 3496](https://www.toastmasters.org/Find-a-Club/00003496-goddard-club) · Area 42 · Division D · [District 36](https://district36.org/)**</h2>
+<p style="text-align: center; font-size: 1.15em; font-weight: bold;">
+  <a href="https://www.toastmasters.org/Find-a-Club/00003496-goddard-club">Club 3496</a> · Area 42 · Division D · <a href="https://district36.org/">District 36</a>
+</p>
 
 Goddard Toastmasters is open to Goddard employees, contractors, interns, and guests who want to improve their communication and leadership skills. The club offers a supportive environment to:
 
