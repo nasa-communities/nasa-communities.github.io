@@ -65,7 +65,7 @@ Goddard Toastmasters meets on the **second and fourth Wednesdays** of each month
 ### Upcoming 2026 meeting dates:
 
 - June 10 — Hybrid in B33, Room A116
-- June 24
+- June 24 — Club officer elections
 - July 8
 - July 22
 - August 12
