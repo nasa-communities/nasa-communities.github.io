@@ -79,7 +79,7 @@ Goddard Toastmasters meets on the **second and fourth Wednesdays** of each month
 - December 9
 - December 23
 
-We occasionally hold **blended meetings** that are both virtual (**Teams**) and on-site (**GSFC Building 33**).  
+We occasionally hold **hybrid meetings** that are both virtual (**Teams**) and on-site (**GSFC Building 33**).  
 Please check **Dateline Goddard** (internal to GSFC employees) for the current location or contact our VP Education or VP Membership for details. **Visitors are always welcome, including interns and summer students!**
 
 ## Guests and Center Access
