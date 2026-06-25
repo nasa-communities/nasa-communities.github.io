@@ -66,7 +66,7 @@ anchors:
 
 ### Meeting Presentations
 
-- [Time-lapse Photography](https://youtu.be/UMF_uDP7nWY) (Karen Smale, June 10, 2026)
+- [Time-lapse Photography](https://youtu.be/UMF_uDP7nWY) (Karen Smale, June 10, 2026; [Slides](https://drive.google.com/file/d/10gDHPh8p_iRUR8U8odBFpeeR3cQfZY3Q/view?usp=sharing))
 - Matt Felperin on Bird Photography (Matt Felperin, May 13, 2026. Video sent to club members)
 - Travel Photography with David Hobby (David Hobby, April 8, 2026. Video presentation and slides sent to members)
 - [Renting Photo Equipment](https://drive.google.com/file/d/1BPf1_yOLsbRLuNtYbTXEDIbnCl1bjoRm/view?usp=sharing) (Emily Beckman, January 14, 2026)
