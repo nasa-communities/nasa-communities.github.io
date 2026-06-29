@@ -36,7 +36,7 @@ anchors:
 
 
 <p style="text-align: center; font-size: 1.15em; font-weight: bold;">
-  <a href="https://www.toastmasters.org/Find-a-Club/00003496-goddard-club">Club 3496</a> · Area 42 · Division D · <a href="https://district36.org/">District 220</a> <br> <span style="font-size: 0.9em; font-weight: small;">Beginning July 1, our club will transition from District 36 to District 220.</span>
+  <a href="https://www.toastmasters.org/Find-a-Club/00003496-goddard-club">Club 3496</a> · Area 42 · Division D · <a href="https://district36.org/">District 220</a> <br> <span style="font-size: 0.75em; font-weight: normal;">Beginning July 1, 2026, our club will transition from District 36 to District 220.</span>
 </p>
 
 Goddard Toastmasters is open to Goddard employees, contractors, interns, and guests who want to improve their communication and leadership skills. The club offers a supportive environment to:
