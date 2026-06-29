@@ -100,14 +100,14 @@ If on-center access is difficult, we recommend exploring other nearby Toastmaste
 
 | Role | Name |
 |------|------|
-| President | Ginger Butcher, PM1 |
-| VP Education | Dylan Baker, IP1 |
-| VP Membership | Nancy Carney, LD3 |
-| VP Public Relations | Laura Vega, CC, CL, IP2 |
+| President | Sarah Dewey |
+| VP Education | Dhruva Kathuria, PI1 |
+| VP Membership | (Nancy Carney, LD4) |
+| VP Public Relations | Ginger Butcher, PM1 |
 | Secretary | Vacant |
 | Treasurer | Patrick McHale, CTM, PM1 |
-| Sergeant-at-Arms | Ginger Butcher, PM1 |
-| Immediate Past President | Dylan Baker, IP1 |
+| Sergeant-at-Arms | Vacant |
+| Immediate Past President | Ginger Butcher, PM1 |
 
 - **Club Officers Email:** [gsfc-toastmastersexec@lists.nasa.gov](mailto:gsfc-toastmastersexec@lists.nasa.gov)
 <br>
