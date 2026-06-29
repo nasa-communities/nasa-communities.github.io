@@ -80,6 +80,6 @@ NASA/Goddard Space Flight Center, Code 691
 
 *Source: migrated from legacy GSFC Toastmasters site. President records from 2002–2014 were checked against Toastmasters.org Club Central officer history, and records from 2015–2026 were supplemented using Toastmasters.org.*
 
-Page last updated: 2026-06-04  
+Page last updated: 2026-06-29  
 Updated by: [Laura D. Vega](mailto:laura.d.vega@nasa.gov)  
 NASA/Goddard Space Flight Center, Code 667
