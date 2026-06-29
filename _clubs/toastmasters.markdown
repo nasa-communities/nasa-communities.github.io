@@ -113,7 +113,7 @@ If on-center access is difficult, we recommend exploring other nearby Toastmaste
 <br>
 
 **Education award key:**  
-**Pathways designations:** PM1 = Presentation Mastery Level 1; IP1/IP2 = Innovative Planning Level 1/2; LD3 = Leadership Development Level 3.  
+**Pathways designations:** PM1 = Presentation Mastery Level 1; IP1/IP2 = Innovative Planning Level 1/2; LD4 = Leadership Development Level 4.  
 **Legacy awards:** CC = Competent Communicator; CL = Competent Leader; CTM = Competent Toastmaster.  
 For more abbreviations, see the [Toastmasters Education Awards Key](https://ccdn.toastmasters.org/medias/files/reports/850-educationawardskey.pdf).
 
