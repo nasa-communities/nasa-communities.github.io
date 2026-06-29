@@ -63,7 +63,7 @@ The table below combines the legacy Goddard Toastmasters history list with offic
 | 1982 | Tim Ray&nbsp;&nbsp; | 2002-2003 | Bigyani Das&nbsp;&nbsp; | 2023-2024 | Suyash Bhattarai |
 | 1983 | Robert Grigsby&nbsp;&nbsp; | 2003-2004 | Michael L. Rilee&nbsp;&nbsp; | 2024-2025 | Dylan Baker |
 | 1984 | Tom Ratliff&nbsp;&nbsp; | 2004-2005 | Jane Liu&nbsp;&nbsp; | 2025-2026 | Ginger Butcher |
-| 1985 | Paul McCeney&nbsp;&nbsp; | 2005-2006 | David Schultz&nbsp;&nbsp; | | |
+| 1985 | Paul McCeney&nbsp;&nbsp; | 2005-2006 | David Schultz&nbsp;&nbsp; | 2026-2027 | Sarah Dewey |
 | 1986 | Paul McCeney&nbsp;&nbsp; | 2006-2007 | Bigyani Das&nbsp;&nbsp; | | |
 | 1987 | Robert Grigsby&nbsp;&nbsp; | 2007-2008 | Marilyn Mack&nbsp;&nbsp; | | |
 | 1988 | Jean Resau&nbsp;&nbsp; | 2008-2009 | Michael K. Heney&nbsp;&nbsp; | | |
