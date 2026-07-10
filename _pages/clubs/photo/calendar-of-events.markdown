@@ -114,7 +114,7 @@ th:nth-child(5), td:nth-child(5) { width: 620px; }
 | 8    | Meeting     | *Travel Photography with David Hobby*                         | *Steve Fantasia*                   | David Hobby is an American photographer and founder of the influential Strobist.com lighting blog. He is best known for teaching practical, accessible lighting techniques—especially off-camera flash—focusing more on skill and creativity than on gear. At its peak, Strobist reached over 300,000 monthly readers in 175 countries and was named one of Time magazine’s “25 Best Blogs of 2010.<br>**12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 | 22   | Snap & Share| *Paths*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 {: .table}
--->
+
 #### May 2026
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
@@ -131,13 +131,29 @@ th:nth-child(5), td:nth-child(5) { width: 620px; }
 | 10    | Meeting     | *Timelapses with Karen Smale*                         | *Eliot Malumuth*                   | TBD <br>**12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 | 24   | Snap & Share| *Birds*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 {: .table}
-
+-->
 #### July 2026
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
 |------|-------------|------------------------------------------------|---------------------------|-------|
-| 8    | Meeting     | *Critique session with MPA judge Roz Klefman. The theme is People*                         | **                   | The club will host a critique session featuring guest judge Roz Klefman from Maryland Photography Alliance. Take advantage of this opportunity to receive professional feedback and improve your photographic art! The session is open to everyone to observe and listen. The theme is People. Please upload two photos to the flickr album. <br>**12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 8    | Meeting     | *Critique session with MPA judge Roz Klefman. The theme is People*                         |                    | The club will host a critique session featuring guest judge Roz Klefman from Maryland Photography Alliance. Take advantage of this opportunity to receive professional feedback and improve your photographic art! The session is open to everyone to observe and listen. The theme is People. Please upload two photos to the flickr album. <br>**12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 | 22   | Snap & Share| *Sports and Events*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+{: .table}
+
+#### August 2026
+
+| Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
+|------|-------------|------------------------------------------------|---------------------------|-------|
+| 12    | Meeting     | *Computational photography by Scott Hull*                         | *Christa Harmon*                   | TBD <br>**12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 26   | Snap & Share| *People at work*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+{: .table}
+
+#### September 2026
+
+| Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
+|------|-------------|------------------------------------------------|---------------------------|-------|
+| 9    | Meeting     | *TBD*                         | *Geneviève de Messières*                   | TBD <br>**12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 26   | Snap & Share| *“What is this”*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 {: .table}
 <br>
 
