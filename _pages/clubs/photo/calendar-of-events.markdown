@@ -153,7 +153,7 @@ th:nth-child(5), td:nth-child(5) { width: 620px; }
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
 |------|-------------|------------------------------------------------|---------------------------|-------|
 | 9    | Meeting     | *TBD*                         | *Geneviève de Messières*                   | TBD <br>**12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
-| 26   | Snap & Share| *“What is this”*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 23   | Snap & Share| *“What is this”*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 {: .table}
 <br>
 
