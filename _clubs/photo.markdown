@@ -99,24 +99,25 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
   Topic: **Sports and Events**<br>
   (12-1pm, Hybrid: B. 23/S402 and Teams)
 -->
-  #### August 12, 2026 - Meeting
+
+- #### August 12, 2026 - Meeting
 
   Topic: **Computational photography by Scott Hull** <br>
   Featured Photographer: **Christa Harmon** <br>
   (12-1pm, Hybrid: B. 23/S402 and Teams)
 
-  #### August 26, 2026 - Snap & Share
+- #### August 26, 2026 - Snap & Share
 
   Topic: **People at work** <br>
    (12-1pm, Hybrid: B. 23/S402 and Teams)
 
-  #### September 9, 2026 - Meeting
+- #### September 9, 2026 - Meeting
 
   Topic: **RAW vs JPG with Nancy Rosenbaum** <br>
   Featured Photographer: **Geneviève de Messières** <br>
   (12-1pm, Hybrid: B. 23/S402 and Teams)
 
-  #### September 23, 2026 - Snap & Share
+- #### September 23, 2026 - Snap & Share
 
   Topic: **“What is this”** <br>
   (12-1pm, Hybrid: B. 23/S402 and Teams)
