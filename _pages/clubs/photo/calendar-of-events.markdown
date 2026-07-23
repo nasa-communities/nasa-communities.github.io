@@ -156,6 +156,15 @@ th:nth-child(5), td:nth-child(5) { width: 620px; }
 | 9    | Meeting     | *RAW vs JPG with Nancy Rosenbaum*                         | *Geneviève de Messières*                   | TBD <br>**12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 | 23   | Snap & Share| *“What is this”*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 {: .table}
+
+#### October 2026
+
+| Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
+|------|-------------|------------------------------------------------|---------------------------|-------|
+| 14    | Meeting     | *TBD<br/>Elections*                         | **TBD**                   | Photo Club will have its elections<br/>**12:00am-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 28   | Snap & Share| *Travel*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+{: .table}
+
 <br>
 
 ### Snap and Share Topics 2026
