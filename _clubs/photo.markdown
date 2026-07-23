@@ -93,12 +93,12 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 
   **Topic:** Critique session with MPA judge Roz Klefman. Topic is People <br>
     (12-1pm, Hybrid: B. 23/S402 and Teams)
--->
+
 - #### July 22, 2026 - Snap & Share
 
   Topic: **Sports and Events**<br>
   (12-1pm, Hybrid: B. 23/S402 and Teams)
-
+-->
   #### August 12, 2026 - Meeting
 
   Topic: **Computational photography by Scott Hull** <br>
@@ -112,14 +112,15 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 
   #### September 9, 2026 - Meeting
 
-  Topic: **TBD** <br>
+  Topic: **RAW vs JPG with Nancy Rosenbaum** <br>
   Featured Photographer: **Geneviève de Messières** <br>
   (12-1pm, Hybrid: B. 23/S402 and Teams)
 
   #### September 23, 2026 - Snap & Share
 
   Topic: **“What is this”** <br>
-   (12-1pm, Hybrid: B. 23/S402 and Teams)
+  (12-1pm, Hybrid: B. 23/S402 and Teams)
+  
 ---
 
 ## Featured Photos
