@@ -211,6 +211,11 @@ th:nth-child(2), td:nth-child(2) {
 
 #### Recent Past Events (2026)
 
+- July 22 - Snap & Share: Sports and Events
+- July 8 - Photo Critique Session with MPA judge Roz Klefman. Topic: People
+- June 27 - Snap & Share: Flowing water
+- June 20 - Event: Annual Photo Club Picnic
+- June 13 - Bird Photography with Matt Felperin; featured Emily Beckman
 - May 4  - Class: Photo 101: Introduction to Digital photography (Scott Hull)
 - Apr 22 - Snap & Share: Urban
 - Apr 8 -  Meeting: Travel Photography with David Hobby; featured: Steve Fantasia
