@@ -131,7 +131,7 @@ th:nth-child(5), td:nth-child(5) { width: 620px; }
 | 10    | Meeting     | *Timelapses with Karen Smale*                         | *Eliot Malumuth*                   | TBD <br>**12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 | 24   | Snap & Share| *Birds*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 {: .table}
--->
+
 #### July 2026
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
@@ -139,6 +139,7 @@ th:nth-child(5), td:nth-child(5) { width: 620px; }
 | 8    | Meeting     | *Critique session with MPA judge Roz Klefman. The theme is People*                         |                    | The club will host a critique session featuring guest judge Roz Klefman from Maryland Photography Alliance. Take advantage of this opportunity to receive professional feedback and improve your photographic art! The session is open to everyone to observe and listen. The theme is People. Please upload two photos to the flickr album. <br>**12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 | 22   | Snap & Share| *Sports and Events*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 {: .table}
+-->
 
 #### August 2026
 
@@ -152,7 +153,7 @@ th:nth-child(5), td:nth-child(5) { width: 620px; }
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
 |------|-------------|------------------------------------------------|---------------------------|-------|
-| 9    | Meeting     | *TBD*                         | *Geneviève de Messières*                   | TBD <br>**12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 9    | Meeting     | *RAW vs JPG with Nancy Rosenbaum*                         | *Geneviève de Messières*                   | TBD <br>**12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 | 23   | Snap & Share| *“What is this”*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
 {: .table}
 <br>
