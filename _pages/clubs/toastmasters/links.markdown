@@ -1,24 +1,19 @@
 ---
-layout: club-with-nav
-name: "Useful Links"
+name: Useful Toastmasters Links
 title: Useful Toastmasters Links
-categories: goddard
-parent-club: Goddard Toastmasters
-thumbnail: toastmasters/GSFC_Toastmasters.jpg
+layout: club-with-nav
 
 anchors:
-  - { text: "<strong>Back to Club Home Page</strong>", anchor: "/clubs/toastmasters/" }
+  - { text: Back to Club Page, anchor: "/clubs/toastmasters/" }
   - { text: Toastmasters International, anchor: "#toastmasters-international" }
-  - { text: District and Area, anchor: "#district-and-area" }
+  - { text: District, anchor: "#district" }
   - { text: Find a Club, anchor: "#find-a-club" }
   - { text: Educational Resources, anchor: "#educational-resources" }
 ---
 
-## Club 3496, District 36, Area 42
+## Club 3496 • District 220
 
 # Useful Toastmasters Links
-
-*Last updated: December 4, 2025*
 
 ## Toastmasters International {#toastmasters-international}
 
@@ -27,9 +22,10 @@ anchors:
 - **[Toastmasters International](https://www.toastmasters.org/)** - Official website
 - **[Find a Club](https://www.toastmasters.org/find-a-club)** - Search for clubs worldwide
 - **[Membership Application](https://www.toastmasters.org/resources/membership-application)** - Download membership forms
-- **[Pathways Learning Experience](https://www.toastmasters.org/pathways-overview)** - Current educational program
-- **[The Toastmaster Magazine](https://www.toastmasters.org/magazine)** - Monthly publication
-- **[Club Central](https://www.toastmasters.org/membership/club-central)** - Member portal and club resources
+- **[Pathways Learning Experience](https://www.toastmasters.org/pathways-overview)** - Learn about the educational program
+- **[The Toastmaster Magazine](https://www.toastmasters.org/magazine)** - Articles, tips, and the latest Toastmasters news
+- **[Leadership Central](https://www.toastmasters.org/membership/leadership)** - Leadership resources, reports, and support for Toastmasters officers
+
 
 ### Contact Toastmasters International
 
@@ -37,17 +33,10 @@ anchors:
 - **Address:** 9127 S. Jamaica St., Suite 400, Englewood, CO 80112
 - **Email:** [info@toastmasters.org](mailto:info@toastmasters.org)
 
-## District and Area {#district-and-area}
+## District 220 {#district}
 
-### District 36 (Goddard's District)
-
-- **[District 36 Website](https://district36.org/)** - Official District 36 website
-- **[District 36 Facebook](https://www.facebook.com/District36Toastmasters/)** - District 36 social media
-
-### Other Nearby Districts
-
-- **[District 27](https://www.d27tm.org/)** - Northern Virginia
-- **[District 18](https://www.d18toastmasters.org/)** - Parts of MD, DE, and PA
+- **[District 220 Website](https://www.district220.org/)** – Official district website
+- **[District 220 Facebook](https://www.facebook.com/District220Toastmasters/)** – District social media
 
 ## Find a Club {#find-a-club}
 
@@ -59,24 +48,15 @@ anchors:
 
 Many clubs in the Washington, D.C. metropolitan area welcome visitors. Use the official club finder above to locate clubs near you, or contact:
 
-- **District 36 Clubs** - [Find clubs in District 36](https://district36.org/clubs/)
-- **District 27 Clubs** - [Find clubs in District 27](https://www.d27tm.org/clubs/)
-- **District 18 Clubs** - [Find clubs in District 18](https://www.d18toastmasters.org/clubs/)
+- **[Find a District 220 Club](https://www.district220.org/)** – Find Toastmasters clubs throughout the Washington, D.C., Maryland, and Northern Virginia region.
 
 ### Other NASA Toastmasters Clubs
 
-- **[NASA Langley Toastmasters](https://www.nasa.gov/langley/)** - Contact Langley Research Center for club information
+- **[NASA Toastmasters](https://www.toastmasters.org/Find-a-Club/00000034-nasa-toastmasters-club)** - Contact NASA HQ for club information
 
 ## Educational Resources {#educational-resources}
 
-### Pathways Program
-
-- **[Pathways Overview](https://www.toastmasters.org/pathways-overview)** - Learn about the educational program
-- **[Pathways Base Camp](https://www.toastmasters.org/pathways-overview/pathways)** - Access your learning materials
-- **[The Icebreaker Speech](https://www.toastmasters.org/websiteApps/Pathways/IceBreaker/tm100101/resources/8101-ice-breaker.pdf)** - Your first speech project
-
-### Learning Resources
-
+- **[The Icebreaker Speech](https://www.toastmasters.org/pathways-overview/ice-breaker)** - Your first speech project
 - **[Toastmasters Resource Library](https://www.toastmasters.org/resources)** - Educational materials and resources
 - **[Speech Evaluations](https://www.toastmasters.org/resources/speech-evaluations)** - Learn how to give effective evaluations
 - **[Meeting Roles](https://www.toastmasters.org/resources/meeting-roles)** - Understand different meeting roles
@@ -90,27 +70,22 @@ Many clubs in the Washington, D.C. metropolitan area welcome visitors. Use the o
 
 ### Social Media
 
-- **[Toastmasters International Facebook](https://www.facebook.com/Toastmasters)**
-- **[Toastmasters International Twitter](https://twitter.com/Toastmasters)**
+- **[Toastmasters International Facebook](https://www.facebook.com/ToastmastersInternationalOfficialFanPage/)**
+- **[Toastmasters International X (formerly Twitter)](https://twitter.com/Toastmasters)**
 - **[Toastmasters International LinkedIn](https://www.linkedin.com/company/toastmasters-international)**
 - **[Toastmasters International YouTube](https://www.youtube.com/user/Toastmasters)**
-
-### News and Updates
-
-- **[Toastmasters Blog](https://www.toastmasters.org/magazine/articles)** - Articles and tips
-- **[Toastmasters News](https://www.toastmasters.org/news)** - Latest news and announcements
+- **[Toastmasters International TikTok](https://www.tiktok.com/@toastmastersofficial)**
 
 ### Help and Support
 
 - **[Frequently Asked Questions](https://www.toastmasters.org/footer/faq)** - Common questions answered
-- **[Contact Support](https://www.toastmasters.org/contact)** - Get help from Toastmasters International
+- **[Contact Toastmasters International](https://www.toastmasters.org/footer/contact-us)** - Get help from Toastmasters International
 
 ---
 
 *For the most current links and information, visit [Toastmasters International](https://www.toastmasters.org/) or contact our [club officers](/clubs/toastmasters/#club-officers).*
 
-*Source: Updated December 2025 for NASA Communities site.*
-
+*Maintained for the NASA Communities Goddard Toastmasters website. Links last verified August 2026.*
 
 
 
