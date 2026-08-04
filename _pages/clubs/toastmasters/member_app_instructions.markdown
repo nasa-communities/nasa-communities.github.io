@@ -138,7 +138,7 @@ You'll also:
 - Be added to the club email distribution list
 - Receive meeting agendas and announcements
 - Be assigned a mentor (when available)
-- Begin participating in meeting roles, Table Topics®, and prepared speeches
+- Begin participating in meeting roles, Table Topics, and prepared speeches
 
 Remember—there is no pressure to speak immediately. Participate at your own pace while becoming familiar with the meeting format.
 
@@ -148,9 +148,9 @@ Remember—there is no pressure to speak immediately. Participate at your own pa
 
 For questions about membership, please contact:
 
-- **Vice President Membership** – [Club Officers](/clubs/toastmasters/#club-officers)
-- **Treasurer** – [Club Officers](/clubs/toastmasters/#club-officers)
-- **Any Club Officer** – [Club Officers](/clubs/toastmasters/#club-officers)
+- **Vice President Membership**
+- **Treasurer** 
+- **Or Any Club Officer**
 
 ### Club Email
 
