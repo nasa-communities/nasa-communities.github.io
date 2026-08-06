@@ -2,6 +2,7 @@
 name: Useful Toastmasters Links
 title: Useful Toastmasters Links
 layout: club-with-nav
+thumbnail: toastmasters/GSFC_Toastmasters.jpg
 
 anchors:
   - { text: Back to Club Page, anchor: "/clubs/toastmasters/" }
