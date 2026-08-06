@@ -14,7 +14,7 @@ anchors:
   - { text: After You Join, anchor: "#after-you-join" }
 ---
 
-## Club 3496, District 36, Area 42
+## Club 3496 • District 220
 
 # How to Join Goddard Toastmasters
 
