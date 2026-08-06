@@ -1,7 +1,9 @@
 ---
+layout: club-with-nav
 name: Useful Toastmasters Links
 title: Useful Toastmasters Links
-layout: club-with-nav
+categories: goddard
+parent-club: Goddard Toastmasters
 thumbnail: toastmasters/GSFC_Toastmasters.jpg
 
 anchors:
