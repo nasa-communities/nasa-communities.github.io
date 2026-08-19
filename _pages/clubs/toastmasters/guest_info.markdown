@@ -13,7 +13,7 @@ anchors:
   - { text: Alternatives for Visitors, anchor: "#alternatives-for-visitors" }
 ---
 
-## Club 3496, District 36, Area 42
+## Club 3496 • District 220
 
 # Guest Information for Goddard Toastmasters
 
