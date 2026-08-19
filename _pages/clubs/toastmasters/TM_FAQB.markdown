@@ -17,7 +17,7 @@ anchors:
   - { text: Contact Information, anchor: "#contact-information" }
 ---
 
-## Club 3496, District 36, Area 42
+## Club 3496 • District 220
 
 # Frequently Asked Questions
 
