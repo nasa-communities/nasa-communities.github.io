@@ -66,7 +66,7 @@ anchors:
 
 ### Meeting Presentations
 
-- [Computational photography by Scott Hull](https://youtu.be/KWMzOPMCCNg?si=r7YnKVkbxiJjbd49) (Scott Hull, August 12, 2026; [Slides](https://drive.google.com/file/d/16eojj-TH9oDUm2ixjfTuhYKvbQUjbhJM/view?usp=sharing)
+- [Computational photography by Scott Hull](https://youtu.be/KWMzOPMCCNg?si=r7YnKVkbxiJjbd49) (Scott Hull, August 12, 2026; [Slides](https://drive.google.com/file/d/16eojj-TH9oDUm2ixjfTuhYKvbQUjbhJM/view?usp=sharing))
 - [Time-lapse Photography](https://youtu.be/UMF_uDP7nWY) (Karen Smale, June 10, 2026; [Slides](https://drive.google.com/file/d/10gDHPh8p_iRUR8U8odBFpeeR3cQfZY3Q/view?usp=sharing))
 - Matt Felperin on Bird Photography (Matt Felperin, May 13, 2026. Video sent to club members)
 - Travel Photography with David Hobby (David Hobby, April 8, 2026. Video presentation and slides sent to members)
