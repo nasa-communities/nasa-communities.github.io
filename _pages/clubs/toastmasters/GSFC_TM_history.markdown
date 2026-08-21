@@ -8,6 +8,7 @@ thumbnail: toastmasters/GSFC_Toastmasters.jpg
 
 anchors:
   - { text: "<strong>Back to Club Home Page</strong>", anchor: "/clubs/toastmasters/" }
+  - { text: "Former Officers", anchor: "/clubs/toastmasters/former_officers/" }
 ---
 
 ## Celebrating Over 50 Years of Goddard Toastmasters
@@ -73,6 +74,8 @@ The table below combines the legacy Goddard Toastmasters history list with offic
 | 1992 \* | Carol Bleile&nbsp;&nbsp; | 2012-2013 | Esther Woodward&nbsp;&nbsp; | | |
 
 \* Jan. 1-June 30
+
+For a more complete record of recent club leadership, see our [Former Officers](/clubs/toastmasters/former_officers/) page.
 
 Compiled by:  
 [Regina J. Cody](mailto:regina.cody@gsfc.nasa.gov)  
