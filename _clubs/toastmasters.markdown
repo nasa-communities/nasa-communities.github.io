@@ -25,6 +25,7 @@ anchors:
   - { text: Frequently Asked Questions, anchor: "/clubs/toastmasters/TM_FAQB/" }
   - { text: Useful Links, anchor: "/clubs/toastmasters/links/" }
   - { text: Brief History, anchor: "/clubs/toastmasters/GSFC_TM_history/" }
+  - { text: Former Officers, anchor: "/clubs/toastmasters/former_officers/" }
   # - { text: Resources & Files (TBA)", anchor: "/clubs/toastmasters/resources/" }
   # - { text: Legacy Archive (TBA)", anchor: "/clubs/toastmasters/archive/" }
 
@@ -122,6 +123,7 @@ For more abbreviations, see the [Toastmasters Education Awards Key](https://ccdn
 - [How to Join Goddard Toastmasters](/clubs/toastmasters/how_to_join/) - Step-by-step membership instructions
 - [Guest Information](/clubs/toastmasters/guest_info/) - What to expect at meetings and center access details
 - [Brief History](/clubs/toastmasters/GSFC_TM_history/) - Club history and past presidents
+- [Former Officers](/clubs/toastmasters/former_officers/) - Past Goddard Toastmasters club officers
 - [Frequently Asked Questions](/clubs/toastmasters/TM_FAQB/) - Comprehensive Toastmasters FAQ
 - [Useful Links](/clubs/toastmasters/links/) - Toastmasters International, District, and nearby clubs
 
