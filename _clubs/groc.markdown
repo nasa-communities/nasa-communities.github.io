@@ -83,11 +83,11 @@ Since the center closed the fitness center, we meet at B34, which has 6 showers/
 
 ## Campus Maps/Routes
 
-### Grump The Whale
+### Grumpy The Whale
 
 6 Mile route starting from either the gym (red mark) or B34 (purple star)
 
-
+* [GPX](/clubs/groc/Grumpy_Whale.gpx)
 
 <img width="1151" height="603" alt="Grumpy_Whale" src="https://github.com/user-attachments/assets/c861bed9-19ca-4861-9abf-f18ba15d6d18" />
 
