@@ -17,6 +17,7 @@ contact-email: tom.winkert@nasa.gov, james.e.leake@nasa.gov
 anchors:
   - { text: Upcoming Events, anchor: "#upcoming-events" }
   - { text: GSFC Running Club, anchor: "#gsfc-running-club" }
+  - { text: Campus Maps, anchor: "#gsfc-campus-maps" }
   - { text: Race Results, anchor: "#race-results" }
   - { text: Photos, anchor: "#photos" }
   - { text: 2 Mile Fun Run, anchor: "#2-mile-fun-run" }
@@ -78,10 +79,9 @@ Join us during the day on your personal time for a social run around the campus.
 
 Since the center closed the fitness center, we meet at B34, which has 6 showers/changing rooms. See [Center Showers](#Center Showers) for locations of other shower facilities on campus.
 
-### Maps
+---
 
-We'll add some maps of typical runs on GSFC campus.
-
+## Campus Maps
 
 
 ---
