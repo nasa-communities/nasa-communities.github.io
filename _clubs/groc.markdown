@@ -17,7 +17,7 @@ contact-email: tom.winkert@nasa.gov, james.e.leake@nasa.gov
 anchors:
   - { text: Upcoming Events, anchor: "#upcoming-events" }
   - { text: GSFC Running Club, anchor: "#gsfc-running-club" }
-  - { text: Campus Maps/Routes, anchor: "#gsfc-campus-maps" }
+  - { text: Campus Maps and Routes, anchor: "#campus-maps-and-routes" }
   - { text: Race Results, anchor: "#race-results" }
   - { text: Photos, anchor: "#photos" }
   - { text: 2 Mile Fun Run, anchor: "#2-mile-fun-run" }
@@ -81,7 +81,7 @@ Since the center closed the fitness center, we meet at B34, which has 6 showers/
 
 ---
 
-## Campus Maps/Routes
+## Campus Maps and Routes
 
 ### Grumpy The Whale
 
