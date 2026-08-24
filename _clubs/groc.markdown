@@ -89,9 +89,8 @@ Since the center closed the fitness center, we meet at B34, which has 6 showers/
 
 * [GPX](/clubs/groc/Grumpy_Whale.gpx)
 
-<img width="1151" height="603" alt="Grumpy_Whale" src="https://github.com/user-attachments/assets/c861bed9-19ca-4861-9abf-f18ba15d6d18" />
 
-
+<a href="/images/groc/Grumpy_Whale.png"><img src="/images/groc/Grumpy_Whale.png" alt="2-Mile Map" width="500"></a>
 
 ---
 
