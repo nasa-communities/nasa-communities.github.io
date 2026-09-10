@@ -53,7 +53,7 @@ The race starts and finishes in front of the Goddard Child Development Center.  
 
 Course and team details can be found [here](#2-mile-fun-run).
 
-Register at TBD
+Register at [runsignup](https://runsignup.com/Race/MD/Greenbelt/NASAGoddard2Miler)
 
 VOLUNTEERS NEEDED! Email [james.e.leake@nasa.gov](mailto:james.e.leake@nasa.gov) to volunteer, it's easy!
 
