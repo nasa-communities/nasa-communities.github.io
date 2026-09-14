@@ -29,6 +29,7 @@ anchors:
 
 #### Recent Meeting Announcement Slides
 
+- [2026 September 9](https://docs.google.com/presentation/d/12aYTXnKNCU5ezro-fYMBPXm5lLm5Po_P/edit?usp=sharing&ouid=100563789903182733599&rtpof=true&sd=true)
 - [2026 June 10](https://drive.google.com/file/d/1FQz0GaSVQ-ZavYLXoJ1EGSJ_M0cOTLYP/view?usp=sharing)
 - [2026 May 13](https://drive.google.com/file/d/1Jo1I5CBH_irFQwkIP2iw5gEH1SbQP0TU/view?usp=sharing)
 - [2026 April 8](https://drive.google.com/file/d/1hbgOwfPjq7p5VOBvoMK92u9lEUIYPa0b/view?usp=sharing)
