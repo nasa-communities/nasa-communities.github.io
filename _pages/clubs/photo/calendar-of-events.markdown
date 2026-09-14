@@ -64,38 +64,38 @@ th:nth-child(5), td:nth-child(5) { width: 620px; }
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
 |------|-------------|------------------------------------------------|---------------------------|-------|
-| 10   | Meeting     | **Unleash your creativity (Lori Lankford)**   | **TBD**                   | Lori Lankford brings a refreshing approach to photography, making it fun, simple, and creative. She has a passion for teaching and mentoring photographers at all levels to develop their unique style and vision. Her personal English garden, transformed from bare dirt into a thriving floral paradise over the past three years, serves as both a creative workspace and a source of inspiration for her photography. [Visit Lori's Website](https://lorilankford.com/)<br/>**12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
-| 24   | Snap & Share| **High Key Photography**                       |                           | High key photography is a style characterized by bright, well-lit images with minimal shadows and dark tones. This technique uses predominantly white or light tones throughout the composition, creating an image that appears bright, airy, and often optimistic or uplifting. [Check this link for examples](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffstoppers.com%2Feducation%2Fcloser-look-high-key-and-low-key-photography-547770&data=05%7C02%7Cgenevieve.demessieres%40nasa.gov%7C964fb38506a14383b51a08ddd9cda7d0%7C7005d45845be48ae8140d43da96dd17b%7C0%7C0%7C638906199794341008%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=8Phfk%2FfyIk9kQEMJbhoS8N7VtoNIBUi3ZjoyyTxhOKk%3D&reserved=0)<br/>**12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 10   | Meeting     | **Unleash your creativity (Lori Lankford)**   | **TBD**                   | Lori Lankford brings a refreshing approach to photography, making it fun, simple, and creative. She has a passion for teaching and mentoring photographers at all levels to develop their unique style and vision. Her personal English garden, transformed from bare dirt into a thriving floral paradise over the past three years, serves as both a creative workspace and a source of inspiration for her photography. [Visit Lori's Website](https://lorilankford.com/)<br/>**12-1pm<br/>Hybrid: 5/C212 & Microsoft Teams (link sent to club members)** |
+| 24   | Snap & Share| **High Key Photography**                       |                           | High key photography is a style characterized by bright, well-lit images with minimal shadows and dark tones. This technique uses predominantly white or light tones throughout the composition, creating an image that appears bright, airy, and often optimistic or uplifting. [Check this link for examples](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffstoppers.com%2Feducation%2Fcloser-look-high-key-and-low-key-photography-547770&data=05%7C02%7Cgenevieve.demessieres%40nasa.gov%7C964fb38506a14383b51a08ddd9cda7d0%7C7005d45845be48ae8140d43da96dd17b%7C0%7C0%7C638906199794341008%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=8Phfk%2FfyIk9kQEMJbhoS8N7VtoNIBUi3ZjoyyTxhOKk%3D&reserved=0)<br/>**12-1pm<br/>Hybrid: 5/C212 & Microsoft Teams (link sent to club members)** |
 
 #### October 2025
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
 |------|-------------|------------------------------------------------|---------------------------|-------|
-| 8    | Meeting     | **TBD<br/>Elections**                         | **TBD**                   | Photo Club will have its elections<br/>**12:00am-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
-| 22   | Snap & Share| **Low Key Photography**                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 8    | Meeting     | **TBD<br/>Elections**                         | **TBD**                   | Photo Club will have its elections<br/>**12:00am-1pm<br/>Hybrid: 5/C212 & Microsoft Teams (link sent to club members)** |
+| 22   | Snap & Share| **Low Key Photography**                        |                           | **12-1pm<br/>Hybrid: 5/C212 & Microsoft Teams (link sent to club members)** |
 {: .table}
 
 #### December 2025
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
 |------|-------------|------------------------------------------------|---------------------------|-------|
-| 10    | Meeting     | *Gadgets (everyone)*                         | *Karen Smale*                   | **12:00am-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 10    | Meeting     | *Gadgets (everyone)*                         | *Karen Smale*                   | **12:00am-1pm<br/>Hybrid: 5/C212 & Microsoft Teams (link sent to club members)** |
 {: .table}
 
 #### January 2026
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
 |------|-------------|------------------------------------------------|---------------------------|-------|
-| 14    | Meeting     | *Renting Equipment - Emily Beckman*                         | *Bill Dusterwald*                   | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
-| 28   | Snap & Share| *Fire*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 14    | Meeting     | *Renting Equipment - Emily Beckman*                         | *Bill Dusterwald*                   | **12-1pm<br/>Hybrid: 5/C212 & Microsoft Teams (link sent to club members)** |
+| 28   | Snap & Share| *Fire*                        |                           | **12-1pm<br/>Hybrid: 5/C212 & Microsoft Teams (link sent to club members)** |
 {: .table}
 
 #### February 2026
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
 |------|-------------|------------------------------------------------|---------------------------|-------|
-| 11    | Meeting     | *Club Equipment and Purchases (club officers)*                         | *Lizie Cohen*                   | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
-| 25   | Snap & Share| *Yellow*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 11    | Meeting     | *Club Equipment and Purchases (club officers)*                         | *Lizie Cohen*                   | **12-1pm<br/>Hybrid: 5/C212 & Microsoft Teams (link sent to club members)** |
+| 25   | Snap & Share| *Yellow*                        |                           | **12-1pm<br/>Hybrid: 5/C212 & Microsoft Teams (link sent to club members)** |
 | 1 - 28   | Event| BINGO game                        |                           | *Rules sent to club members* |
 {: .table}
 
@@ -103,41 +103,41 @@ th:nth-child(5), td:nth-child(5) { width: 620px; }
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
 |------|-------------|------------------------------------------------|---------------------------|-------|
-| 11    | Meeting     | *BINGO Game Recap - Bill Dusterwald*                         | *Raghu Tumkur*                   | Bill Dusterwald will go over the BINGO game entries, reviewing the submitted photos and offering his feedback along the way.<br>**12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
-| 25   | Snap & Share| *Urban*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 11    | Meeting     | *BINGO Game Recap - Bill Dusterwald*                         | *Raghu Tumkur*                   | Bill Dusterwald will go over the BINGO game entries, reviewing the submitted photos and offering his feedback along the way.<br>**12-1pm<br/>Hybrid: 5/C212 & Microsoft Teams (link sent to club members)** |
+| 25   | Snap & Share| *Urban*                        |                           | **12-1pm<br/>Hybrid: 5/C212 & Microsoft Teams (link sent to club members)** |
 {: .table}
 
 #### April 2026
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
 |------|-------------|------------------------------------------------|---------------------------|-------|
-| 8    | Meeting     | *Travel Photography with David Hobby*                         | *Steve Fantasia*                   | David Hobby is an American photographer and founder of the influential Strobist.com lighting blog. He is best known for teaching practical, accessible lighting techniques—especially off-camera flash—focusing more on skill and creativity than on gear. At its peak, Strobist reached over 300,000 monthly readers in 175 countries and was named one of Time magazine’s “25 Best Blogs of 2010.<br>**12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
-| 22   | Snap & Share| *Paths*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 8    | Meeting     | *Travel Photography with David Hobby*                         | *Steve Fantasia*                   | David Hobby is an American photographer and founder of the influential Strobist.com lighting blog. He is best known for teaching practical, accessible lighting techniques—especially off-camera flash—focusing more on skill and creativity than on gear. At its peak, Strobist reached over 300,000 monthly readers in 175 countries and was named one of Time magazine’s “25 Best Blogs of 2010.<br>**12-1pm<br/>Hybrid: 5/C212 & Microsoft Teams (link sent to club members)** |
+| 22   | Snap & Share| *Paths*                        |                           | **12-1pm<br/>Hybrid: 5/C212 & Microsoft Teams (link sent to club members)** |
 {: .table}
 
 #### May 2026
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
 |------|-------------|------------------------------------------------|---------------------------|-------|
-| 13    | Meeting     | *Bird Photography with Matt Felperin*                         | *Emily Beckman*                   | **Matt Felperin** is a DC-area native, raised in Takoma Park, Maryland, and currently serves as the Roving Naturalist with NOVA Parks. His passion for nature began early—exploring Sligo Creek in search of salamanders and crayfish—and has grown into a lifelong commitment to environmental education and conservation. Matt has extensive experience working across the Chesapeake Bay watershed and credits his time working with naturalist Greg Kearns for sparking his deep appreciation for birds. In his role with NOVA Parks, he leads engaging programs such as bird walks and kayak tours, helping people connect with the natural world. An accomplished wildlife photographer, Matt uses his imagery as a powerful tool to inspire others and foster a deeper connection to nature. He also teaches birding and wildlife photography workshops, sharing his knowledge with students both locally and beyond. Visit [Matt’s webpage](https://mfelperinphoto.wixsite.com/home/about) <br>**12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 13    | Meeting     | *Bird Photography with Matt Felperin*                         | *Emily Beckman*                   | **Matt Felperin** is a DC-area native, raised in Takoma Park, Maryland, and currently serves as the Roving Naturalist with NOVA Parks. His passion for nature began early—exploring Sligo Creek in search of salamanders and crayfish—and has grown into a lifelong commitment to environmental education and conservation. Matt has extensive experience working across the Chesapeake Bay watershed and credits his time working with naturalist Greg Kearns for sparking his deep appreciation for birds. In his role with NOVA Parks, he leads engaging programs such as bird walks and kayak tours, helping people connect with the natural world. An accomplished wildlife photographer, Matt uses his imagery as a powerful tool to inspire others and foster a deeper connection to nature. He also teaches birding and wildlife photography workshops, sharing his knowledge with students both locally and beyond. Visit [Matt’s webpage](https://mfelperinphoto.wixsite.com/home/about) <br>**12-1pm<br/>Hybrid: 5/C212 & Microsoft Teams (link sent to club members)** |
 | 20   | Picnic|              Annual Photoclub Picnic          |                           | **12-1pm<br/>Pavillion near GCDC** |
-| 27   | Snap & Share| *Flowing water*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 27   | Snap & Share| *Flowing water*                        |                           | **12-1pm<br/>Hybrid: 5/C212 & Microsoft Teams (link sent to club members)** |
 {: .table}
 
 #### June 2026
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
 |------|-------------|------------------------------------------------|---------------------------|-------|
-| 10    | Meeting     | *Timelapses with Karen Smale*                         | *Eliot Malumuth*                   | TBD <br>**12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
-| 24   | Snap & Share| *Birds*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 10    | Meeting     | *Timelapses with Karen Smale*                         | *Eliot Malumuth*                   | TBD <br>**12-1pm<br/>Hybrid: 5/C212 & Microsoft Teams (link sent to club members)** |
+| 24   | Snap & Share| *Birds*                        |                           | **12-1pm<br/>Hybrid: 5/C212 & Microsoft Teams (link sent to club members)** |
 {: .table}
 
 #### July 2026
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
 |------|-------------|------------------------------------------------|---------------------------|-------|
-| 8    | Meeting     | *Critique session with MPA judge Roz Klefman. The theme is People*                         |                    | The club will host a critique session featuring guest judge Roz Klefman from Maryland Photography Alliance. Take advantage of this opportunity to receive professional feedback and improve your photographic art! The session is open to everyone to observe and listen. The theme is People. Please upload two photos to the flickr album. <br>**12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
-| 22   | Snap & Share| *Sports and Events*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 8    | Meeting     | *Critique session with MPA judge Roz Klefman. The theme is People*                         |                    | The club will host a critique session featuring guest judge Roz Klefman from Maryland Photography Alliance. Take advantage of this opportunity to receive professional feedback and improve your photographic art! The session is open to everyone to observe and listen. The theme is People. Please upload two photos to the flickr album. <br>**12-1pm<br/>Hybrid: 5/C212 & Microsoft Teams (link sent to club members)** |
+| 22   | Snap & Share| *Sports and Events*                        |                           | **12-1pm<br/>Hybrid: 5/C212 & Microsoft Teams (link sent to club members)** |
 {: .table}
 -->
 
@@ -145,24 +145,24 @@ th:nth-child(5), td:nth-child(5) { width: 620px; }
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
 |------|-------------|------------------------------------------------|---------------------------|-------|
-| 12    | Meeting     | *Computational photography by Scott Hull*                         | *Christa Harmon*                   | TBD <br>**12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
-| 26   | Snap & Share| *People at work*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 12    | Meeting     | *Computational photography by Scott Hull*                         | *Quadry Chance*                   | TBD <br>**12-1pm<br/>Hybrid: 5/C212 & Microsoft Teams (link sent to club members)** |
+| 26   | Snap & Share| *People at work*                        |                           | **12-1pm<br/>Hybrid: 5/C212 & Microsoft Teams (link sent to club members)** |
 {: .table}
 
 #### September 2026
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
 |------|-------------|------------------------------------------------|---------------------------|-------|
-| 9    | Meeting     | *RAW vs JPG with Nancy Rosenbaum*                         | *Geneviève de Messières*                   | TBD <br>**12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
-| 23   | Snap & Share| *“What is this”*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 9    | Meeting     | *RAW vs JPG with Nancy Rosenbaum*                         | *Christa Harmon*                   | TBD <br>**12-1pm<br/>Hybrid: 5/C212 & Microsoft Teams (link sent to club members)** |
+| 23   | Snap & Share| *“What is this”*                        |                           | **12-1pm<br/>Hybrid: 5/C212 & Microsoft Teams (link sent to club members)** |
 {: .table}
 
 #### October 2026
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
 |------|-------------|------------------------------------------------|---------------------------|-------|
-| 14    | Meeting     | *TBD<br/>Elections*                         | **TBD**                   | Photo Club will have its elections<br/>**12:00am-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
-| 28   | Snap & Share| *Travel*                        |                           | **12-1pm<br/>Hybrid: 23/S402 & Microsoft Teams (link sent to club members)** |
+| 14    | Meeting     | *Club discussion on camera shopping<br/>Elections*                         | *N/A*                   | Photo Club will a discussion on camera shopping and will have its elections<br/>**12:00am-1pm<br/>Hybrid: 5/C212 & Microsoft Teams (link sent to club members)** |
+| 28   | Snap & Share| *Travel*                        |                           | **12-1pm<br/>Hybrid: 5/C212 & Microsoft Teams (link sent to club members)** |
 {: .table}
 
 <br>
@@ -211,11 +211,14 @@ th:nth-child(2), td:nth-child(2) {
 
 #### Recent Past Events (2026)
 
+- September 9 - Meeting: RAW vs JPG with Nancy Rosenbaum; featured Christa Harmon
+- August 26 - Snap & Share: People at work
+- August 12 - Meeting: Computational photography by Scott Hull; featured Quadry Chance
 - July 22 - Snap & Share: Sports and Events
 - July 8 - Photo Critique Session with MPA judge Roz Klefman. Topic: People
 - June 27 - Snap & Share: Flowing water
 - June 20 - Event: Annual Photo Club Picnic
-- June 13 - Bird Photography with Matt Felperin; featured Emily Beckman
+- June 13 - Meeting: Bird Photography with Matt Felperin; featured Emily Beckman
 - May 4  - Class: Photo 101: Introduction to Digital photography (Scott Hull)
 - Apr 22 - Snap & Share: Urban
 - Apr 8 -  Meeting: Travel Photography with David Hobby; featured: Steve Fantasia
