@@ -66,6 +66,7 @@ anchors:
 
 ### Meeting Presentations
 
+- RAW vs JPEG by Nancy Rosenbaum (video coming soon) (Nancy Rosenbaum, September 9, 2026; [Slides](https://drive.google.com/file/d/1AXtVjVLLR0raNs3GO4uM3D4YOD6f3hlw/view?usp=sharing))
 - [Computational photography by Scott Hull](https://youtu.be/KWMzOPMCCNg?si=r7YnKVkbxiJjbd49) (Scott Hull, August 12, 2026; [Slides](https://drive.google.com/file/d/16eojj-TH9oDUm2ixjfTuhYKvbQUjbhJM/view?usp=sharing))
 - [Time-lapse Photography](https://youtu.be/UMF_uDP7nWY) (Karen Smale, June 10, 2026; [Slides](https://drive.google.com/file/d/10gDHPh8p_iRUR8U8odBFpeeR3cQfZY3Q/view?usp=sharing))
 - Matt Felperin on Bird Photography (Matt Felperin, May 13, 2026. Video sent to club members)
