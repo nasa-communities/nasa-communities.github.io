@@ -43,84 +43,95 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 <!--- #### February 25, 2026 - Snap & Share
 
   **Topic:** Yellow<br>
-  (12-1pm, Hybrid: B. 23/S402 and Teams)
+  (12-1pm, Hybrid: B. 5/C212 and Teams)
 
 - #### March 11, 2026 - Meeting
 
   **Topic:** BINGO recap - Bill Dusterwald<br>
   **Featured Photographer:** Raghu Tumkur <br>
-  (12-1pm, Hybrid: B. 23/S402 and Teams)
+  (12-1pm, Hybrid: B. 5/C212 and Teams)
 
 - #### March 25, 2026 - Snap & Share
 
   **Topic:** Urban<br>
-  (12-1pm, Hybrid: B. 23/S402 and Teams)
+  (12-1pm, Hybrid: B. 5/C212 and Teams)
 
 - #### April 8, 2026 - Meeting
 
   **Topic:** Travel photography with David Hobby<br>
   **Featured Photographer:** Steve Fantasia <br>
-  (12-1pm, Hybrid: B. 23/S402 and Teams)
+  (12-1pm, Hybrid: B. 5/C212 and Teams)
 
 - #### April 22, 2026 - Snap & Share
 
   **Topic:** Paths<br>
-  (12-1pm, Hybrid: B. 23/S402 and Teams)
+  (12-1pm, Hybrid: B. 5/C212 and Teams)
   
 - #### May 13, 2026 - Meeting
 
   **Topic:** Bird Photography with Matt Felperin <br>
   **Featured Photographer:** Emily Beckman <br>
-  (12-1pm, Hybrid: B. 23/S402 and Teams)
+  (12-1pm, Hybrid: B. 5/C212 and Teams)
 
 - #### May 27, 2026 - Snap & Share
 
   **Topic:** Flowing Water<br>
-  (12-1pm, Hybrid: B. 23/S402 and Teams)
+  (12-1pm, Hybrid: B. 5/C212 and Teams)
 
 - #### June 10, 2026 - Meeting
 
   **Topic:** Timelapses with Karen Smale <br>
   **Featured Photographer:** Eliot Malumuth <br>
-  (12-1pm, Hybrid: B. 23/S402 and Teams)
+  (12-1pm, Hybrid: B. 5/C212 and Teams)
 
 - #### June 24, 2026 - Snap & Share
 
   **Topic:** Birds<br>
-  (12-1pm, Hybrid: B. 23/S402 and Teams)
+  (12-1pm, Hybrid: B. 5/C212 and Teams)
 
 - #### July 8, 2026 - Meeting
 
   **Topic:** Critique session with MPA judge Roz Klefman. Topic is People <br>
-    (12-1pm, Hybrid: B. 23/S402 and Teams)
+    (12-1pm, Hybrid: B. 5/C212 and Teams)
 
 - #### July 22, 2026 - Snap & Share
 
   Topic: **Sports and Events**<br>
-  (12-1pm, Hybrid: B. 23/S402 and Teams)
--->
+  (12-1pm, Hybrid: B. 5/C212 and Teams)
 
 - #### August 12, 2026 - Meeting
 
   Topic: **Computational photography by Scott Hull** <br>
   Featured Photographer: **Christa Harmon** <br>
-  (12-1pm, Hybrid: B. 23/S402 and Teams)
+  (12-1pm, Hybrid: B. 5/C212 and Teams)
 
 - #### August 26, 2026 - Snap & Share
 
   Topic: **People at work** <br>
-   (12-1pm, Hybrid: B. 23/S402 and Teams)
+   (12-1pm, Hybrid: B. 5/C212 and Teams)
+-->
 
 - #### September 9, 2026 - Meeting
 
   Topic: **RAW vs JPG with Nancy Rosenbaum** <br>
-  Featured Photographer: **Geneviève de Messières** <br>
-  (12-1pm, Hybrid: B. 23/S402 and Teams)
+  Featured Photographer: **Christa Harmon** <br>
+  (12-1pm, Hybrid: B. 5/C212 and Teams)
 
 - #### September 23, 2026 - Snap & Share
 
   Topic: **“What is this”** <br>
-  (12-1pm, Hybrid: B. 23/S402 and Teams)
+  (12-1pm, Hybrid: B. 5/C212 and Teams)
+
+ - #### October 14, 2026 - Meeting
+
+   Topic: **Camera Shopping Tips and Discussion** (all) and  **Elections** <br>
+   **Elections**<br>
+   (12-1pm, Hybrid: B. 5/C212 and Teams)
+
+- #### October 28, 2026 - Snap & Share
+
+  Topic: **Travel** <br>
+  (12-1pm, Hybrid: B. 5/C212 and Teams)
   
 ---
 
