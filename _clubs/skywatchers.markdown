@@ -15,10 +15,10 @@ socials:
   facebook: https://www.facebook.com/groups/2722935064390523/
 
 anchors:
-  - { text: Club Location, anchor: club_location }
-  - { text: Club Meetings, anchor: club_meetings }
-  - { text: What to Bring, anchor: what_bring }
-  - { text: Cost, anchor: club_cost }
+  - { text: Club Location, anchor: club-location }
+  - { text: Club Meetings, anchor: club-meetings }
+  - { text: What to Bring, anchor: what-bring }
+  - { text: Cost, anchor: club-cost }
 
 # - { text: Section Name, anchor: "#section-anchor" }
 #  - { text: Another Section, anchor: "#another-section" }
