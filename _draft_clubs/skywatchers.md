@@ -3,7 +3,7 @@ name: NASA Langley Skywatchers Astronomy Club
 title: NLSAC
 slogan: Keep Looking Up!
 description: The Skywatchers Club is for people interested in astronomy as a hobby. We have regularly scheduled observing sessions.
-thumbnail: club_logo.jpg
+thumbnail: skywatchers/SkywatchersLogoFix2024-1.png
 categories: langley
 
 layout: club-with-nav
