@@ -36,3 +36,6 @@ The club has several telescopes, most of which are located at the NASA observato
 
 ## Cost
 Membership dues are $20.00 per fiscal year.  An associate membership in the club, which does not require any dues payment, is available to anyone who is a temporary LaRC employee.  Observing sessions are arranged for club members at locations in the Williamsburg area that are away from city lights.
+---
+## Connect With Us
+Have questions or want to see what we're up to? **[Find us on Facebook](https://www.facebook.com/groups/2722935064390523/)** to join our community conversations and see updates on upcoming observing sessions!
