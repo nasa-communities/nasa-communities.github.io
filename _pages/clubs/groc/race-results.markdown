@@ -38,6 +38,10 @@ anchors:
   - { text: 2012 Spring, anchor: "#2012-spring" }
   - { text: 2011 Fall, anchor: "#2011-fall" }
   - { text: 2011 Spring, anchor: "#2011-spring" }
+  - { text: 2010 Fall, anchor: "#2010-fall" }
+  - { text: 2010 Spring, anchor: "#2010-spring" }
+  - { text: 2009 Fall, anchor: "#2009-fall" }
+  - { text: 2009 Spring, anchor: "#2009-spring" }
 ---
 
 Please [contact GROC](https://nasa-communities.org/clubs/groc/#contact-us) for any missing results!
