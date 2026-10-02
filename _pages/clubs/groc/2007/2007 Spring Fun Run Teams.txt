@@ -1,0 +1,181 @@
+                                                                      Page 1
+                         63rd NASA Intercenter Run
+                        Goddard Space Flight Center
+                              April 11, 2007
+
+                          Team Finishers by Time
+
+Place Num  Sex Name                     Team                           Time  
+===== ==== === ======================== ============================== ===== 
+    1  179   M Mark Wojenski            L.SAT-7 GOLDBRICK'N HOTTUBBERS 11:28 
+    2  256   M Mark Baugh               JWST FIRST LIGHT RUNNERS       11:44 
+    3  288   M Tom Winkert              JWST FIRST LIGHT RUNNERS       11:52 
+    4  231   M Thomas Johnson           JWST FIRST LIGHT RUNNERS       11:56 
+    5   70   M Ronald Bennett           SGT FRIENDS TEAM               12:06 
+    6   71   M John Gygax               SGT FRIENDS TEAM               12:19 
+    7   43   M David McComas            ISD SPEEDSTERS & WHEEZERS      12:25 
+    8  180   M Thomas Hill              L.SAT-7 GOLDBRICK'N HOTTUBBERS 12:49 
+    9  189   M David Griffiths          FOCUS ON THE FINISH            14:28 
+   10  310   M Eugene Skelton           FOCUS ON THE FINISH            14:33 
+   11  317   M John Van Arsdall         FOCUS ON THE FINISH            14:33 
+   12    6   M Bruce Butterworth        ISD SPEEDSTERS & WHEEZERS      14:34 
+   13  303   M Bill Clagett             FOCUS ON THE FINISH            14:50 
+   14  313   M Greg Waldo               FOCUS ON THE FINISH            15:14 
+   15   21   M Kevin Hawkins            ISD SPEEDSTERS & WHEEZERS      15:29 
+   16  329   M Michael Kelly            FOCUS ON THE FINISH            15:33 
+   17  111   M Tony Stocker             PPS:MEASUREMENT BASED RUNNERS  15:44 
+   18  309   M Doug Fineberg            FOCUS ON THE FINISH            15:47 
+   19  302   M Barry Bruce              FOCUS ON THE FINISH            15:49 
+   20    3   M Kirk Rhee                ISD SPEEDSTERS & WHEEZERS      15:59 
+   21  330   F Nzinga Tull              FOCUS ON THE FINISH            16:03 
+   22  324   F Kristina Bennett         FOCUS ON THE FINISH            16:37 
+   23   17   F Ingrid Albright          ISD SPEEDSTERS & WHEEZERS      16:41 
+   24  186   M Jim Basl                 FOCUS ON THE FINISH            16:44 
+   25  115   M Craig Jamieson           PPS:MEASUREMENT BASED RUNNERS  16:45 
+   26   59   M Paul Geithner            JWST FIRST LIGHT RUNNERS       16:54 
+   27  356   M Greg Martin              BASE RUNNERS                   16:58 
+   28  314   M Jackie Johnson           FOCUS ON THE FINISH            17:05 
+   29  328   M Mark Hubbard             FOCUS ON THE FINISH            17:20 
+   30  216   M Jonathan Gal-Ed          JWST FIRST LIGHT RUNNERS       17:30 
+   31  354   M Andrew Gravatt           BASE RUNNERS                   17:31 
+   32  157   M James Thieman            SGT FRIENDS TEAM               17:37 
+   33  217   M Jeff Sealover            JWST FIRST LIGHT RUNNERS       17:43 
+   34  218   M Keith Parrish            JWST FIRST LIGHT RUNNERS       17:44 
+   35  215   M Paul Cleveland           JWST FIRST LIGHT RUNNERS       17:44 
+   36  280   M Mike Lilly               SGT FRIENDS TEAM               17:51 
+   37  228   M John Durning             JWST FIRST LIGHT RUNNERS       17:56 
+   38   78   M Dave Williams            SGT FRIENDS TEAM               17:59 
+   39   79   M Jay Friedlander          SGT FRIENDS TEAM               18:00 
+   40  226   M Richard Carter           JWST FIRST LIGHT RUNNERS       18:28 
+   41  312   M Grant Schmick            FOCUS ON THE FINISH            18:30 
+   42  305   M David Simpson            FOCUS ON THE FINISH            18:37 
+   43  117   M Peter Kim                PPS:MEASUREMENT BASED RUNNERS  18:37 
+   44  338   M Larry Dell               FOCUS ON THE FINISH            18:45 
+   45  132   F Lin Tian                 SGT FRIENDS TEAM               19:05 
+   46  127   M Erich Stocker            PPS:MEASUREMENT BASED RUNNERS  19:07 
+   47  151   M Timothy Wilcox           L.SAT-7 GOLDBRICK'N HOTTUBBERS 19:15 
+   48  158   M Michael McCumber         PPS:MEASUREMENT BASED RUNNERS  19:21 
+   49  227   M Gary Mosier              JWST FIRST LIGHT RUNNERS       19:29 
+   50  300   M Anthony Cruz             FOCUS ON THE FINISH            19:32 
+   51  333   M Richard Strafella        FOCUS ON THE FINISH            19:33 
+   52  282   F Laura Rocchio            L.SAT-7 GOLDBRICK'N HOTTUBBERS 19:42 
+   53  187   M Peter Lien               FOCUS ON THE FINISH            19:50 
+   54  332   M Richard Hicks            FOCUS ON THE FINISH            19:52 
+   55  116   M Yimin Ji                 PPS:MEASUREMENT BASED RUNNERS  19:53 
+   56   44   M Robert Franzese          SGT FRIENDS TEAM               19:57 
+   57   14   M Howard Dew               ISD SPEEDSTERS & WHEEZERS      20:10 
+   58  176   M Rich Lonigro             L.SAT-7 GOLDBRICK'N HOTTUBBERS 20:13 
+   59  318   M John Wirzburger          FOCUS ON THE FINISH            20:18 
+   60  110   M Chris Cahoon             PPS:MEASUREMENT BASED RUNNERS  21:12 
+   61  423   M Mark Allen               SGT FRIENDS TEAM               21:13 
+   62   87   M John Garrett             SGT FRIENDS TEAM               21:17 
+   63   76   M Matt Yetman              SGT FRIENDS TEAM               21:19 
+   64  255   M Jeffrey Jennings         SGT FRIENDS TEAM               21:29 
+   65  367   M Robert Kilgore           SGT FRIENDS TEAM               21:30 
+   66  219   M Alan Johns               JWST FIRST LIGHT RUNNERS       21:35 
+   67  174   F Amy Wang                 BASE RUNNERS                   21:39 
+   68  281   M James Perry              SGT FRIENDS TEAM               21:40 
+   69    4   M Anren Hu                 ISD SPEEDSTERS & WHEEZERS      22:04 
+   70  113   M Robert Hamilton          PPS:MEASUREMENT BASED RUNNERS  22:10 
+   71    1   F Lisa Kane                ISD SPEEDSTERS & WHEEZERS      22:32 
+   72  315   M James Mannion            FOCUS ON THE FINISH            23:20 
+   73  183   M Keith Carey              BASE RUNNERS                   23:24 
+   74  172   M Mark Ahdoot              SGT FRIENDS TEAM               23:32 
+   75    8   F Barbara Pfarr            ISD SPEEDSTERS & WHEEZERS      23:34 
+   76  220   F Ratna Sengupta           JWST FIRST LIGHT RUNNERS       23:45 
+   77  322   F Karin Rice               FOCUS ON THE FINISH            24:16 
+   78  323   M Kevin Rice               FOCUS ON THE FINISH            24:24 
+   79  105   M Chun-Yuan Pai            SGT FRIENDS TEAM               24:26 
+   80  190   M Hugh Dowell              FOCUS ON THE FINISH            24:29 
+   81  368   M Charles Radspinner       SGT FRIENDS TEAM               25:27 
+   82  364   F Carol Fester             BASE RUNNERS                   25:27 
+   83  196   M Michael Parvis           BASE RUNNERS                   25:29 
+   84   61   M Christopher Johnson      BASE RUNNERS                   25:35 
+   85  243   F Sandra Irish             JWST FIRST LIGHT RUNNERS       25:52 
+   86  224   F Vicki Kontson            JWST FIRST LIGHT RUNNERS       26:15 
+   87  222   F Claudia Krogel           JWST FIRST LIGHT RUNNERS       26:28 
+   88  363   F Ruchi Mathur             BASE RUNNERS                   26:29 
+   89  100   F Ezinne Uzo-Okoro         ISD SPEEDSTERS & WHEEZERS      26:30 
+   90   20   F Waka Waktola             ISD SPEEDSTERS & WHEEZERS      26:30 
+   91    2   F Cathy Homens             ISD SPEEDSTERS & WHEEZERS      26:43 
+   92   25   F Renee Reynolds           ISD SPEEDSTERS & WHEEZERS      26:58 
+   93  223   F Laura Paschal            JWST FIRST LIGHT RUNNERS       27:09 
+   94  320   F Joyce Pepe               FOCUS ON THE FINISH            27:21 
+   95   12   M Kevin Edwards            ISD SPEEDSTERS & WHEEZERS      27:21 
+   96  358   F Amanda Wingo             BASE RUNNERS                   27:35 
+   97  293   M Mark Cooperstock         BASE RUNNERS                   27:35 
+   98  234   M Joel Offenberg           JWST FIRST LIGHT RUNNERS       27:44 
+   99   16   F Louise Young             ISD SPEEDSTERS & WHEEZERS      28:16 
+  100   19   F Christina Kelly          ISD SPEEDSTERS & WHEEZERS      28:17 
+  101  331   M Richard Clough           FOCUS ON THE FINISH            28:32 
+  102  254   M Larry Dunham             FOCUS ON THE FINISH            28:33 
+  103  185   M Marty McCoy              FOCUS ON THE FINISH            28:38 
+  104    9   F Susan Rad                ISD SPEEDSTERS & WHEEZERS      29:12 
+  105  202   F Kimberlyn Hall           SGT FRIENDS TEAM               29:24 
+  106  126   M James Spero              PPS:MEASUREMENT BASED RUNNERS  29:49 
+  107   53   M Chris Derkacz            SGT FRIENDS TEAM               29:52 
+  108   57   M Mohan Ram                SGT FRIENDS TEAM               30:08 
+  109  337   F Saroj Gutt               FOCUS ON THE FINISH            30:23 
+  110   63   M Marvin Newsome           BASE RUNNERS                   30:29 
+  111  161   M David Jacintho           SGT FRIENDS TEAM               30:51 
+  112  163   F Barbara Parmenter        SGT FRIENDS TEAM               30:52 
+  113  108   M Quentin Cabness          PPS:MEASUREMENT BASED RUNNERS  30:57 
+  114  295   M Jesse Whittington        SGT FRIENDS TEAM               31:22 
+  115   23   F Maureen Armbruster       ISD SPEEDSTERS & WHEEZERS      31:26 
+  116  162   M Kevin Miller             SGT FRIENDS TEAM               31:43 
+  117  159   F Diane Trakas             SGT FRIENDS TEAM               31:44 
+  118  291   F Taliha Brock             SGT FRIENDS TEAM               31:50 
+  119  311   F Gail Russell             FOCUS ON THE FINISH            31:53 
+  120  440   F Kathy Nieman             SGT FRIENDS TEAM               32:05 
+  121  441   M Jerry Schnur             SGT FRIENDS TEAM               32:09 
+  122  413   M Nick Aravidis            SGT FRIENDS TEAM               32:13 
+  123   22   M Jerry Hengeminle         ISD SPEEDSTERS & WHEEZERS      32:19 
+  124   13   M Bruce Trout              ISD SPEEDSTERS & WHEEZERS      32:19 
+  125   83   F Lisa Wilderson           SGT FRIENDS TEAM               32:30 
+  126  297   F Vicki Verbich            SGT FRIENDS TEAM               32:31 
+  127  296   F Diane Whittington        SGT FRIENDS TEAM               32:37 
+  128  112   M Charles Cosner           PPS:MEASUREMENT BASED RUNNERS  32:41 
+  129  124   M Quyen Nguyen             PPS:MEASUREMENT BASED RUNNERS  33:03 
+  130  170   F Anita Wellen             SGT FRIENDS TEAM               33:31 
+  131  171   M George Johnson           SGT FRIENDS TEAM               33:34 
+  132  233   F Pat Lawton               JWST FIRST LIGHT RUNNERS       33:38 
+  133  178   M Robert Zoller-Gritz      L.SAT-7 GOLDBRICK'N HOTTUBBERS 33:43 
+  134  283   F Diane Tinker             SGT FRIENDS TEAM               33:47 
+  135  128   M Toan Tran                PPS:MEASUREMENT BASED RUNNERS  33:48 
+  136  114   F Arhlene Hawkins          PPS:MEASUREMENT BASED RUNNERS  34:30 
+  137   85   F Kim Higgins-El           SGT FRIENDS TEAM               34:33 
+  138  248   M Rodolfo Lavaque          SGT FRIENDS TEAM               34:33 
+  139  230   M Christina Mirt           JWST FIRST LIGHT RUNNERS       34:33 
+  140  120   F Suzie Lundstrom          PPS:MEASUREMENT BASED RUNNERS  34:34 
+  141  342   F Nancy Rosenbaum          SGT FRIENDS TEAM               34:45 
+  142  107   F Carol Archambeault       PPS:MEASUREMENT BASED RUNNERS  34:49 
+  143  319   F Jong Kim                 FOCUS ON THE FINISH            34:55 
+  144  339   F Joyce Buswell            FOCUS ON THE FINISH            34:57 
+  145  340   F Gloria Goodman           FOCUS ON THE FINISH            35:20 
+  146  188   F Susan Lien               FOCUS ON THE FINISH            35:25 
+  147  326   F Linda Mitchell           FOCUS ON THE FINISH            35:43 
+  148    7   F Martha Chu               ISD SPEEDSTERS & WHEEZERS      35:43 
+  149   11   F Ann Carbin               ISD SPEEDSTERS & WHEEZERS      36:10 
+  150   30   M James Byrnes             ISD SPEEDSTERS & WHEEZERS      36:10 
+  151   62   M William Paradis          SGT FRIENDS TEAM               36:52 
+  152  406   M Robert Hesenperger       SGT FRIENDS TEAM               36:52 
+  153   67   M Chris Jorgensen          SGT FRIENDS TEAM               37:00 
+  154  250   M Nabil Afram              FOCUS ON THE FINISH            37:10 
+  155  225   M Curtis Fatig             JWST FIRST LIGHT RUNNERS       37:11 
+  156  240   F Isabella Lewis           JWST FIRST LIGHT RUNNERS       37:40 
+  157  239   F Amani Ginyard            JWST FIRST LIGHT RUNNERS       37:41 
+  158  119   F Connie Li                PPS:MEASUREMENT BASED RUNNERS  37:41 
+  159   18   M Lester Jackson           ISD SPEEDSTERS & WHEEZERS      37:42 
+  160  109   F Joyce Chou               PPS:MEASUREMENT BASED RUNNERS  37:42 
+  161  301   F Aprill Richardson-Mitche FOCUS ON THE FINISH            37:43 
+  162  341   F Barbara Scott            FOCUS ON THE FINISH            37:43 
+  163  284   M David Wolt               SGT FRIENDS TEAM               37:44 
+  164  118   M Patrick Kolbe            PPS:MEASUREMENT BASED RUNNERS  37:44 
+  165  122   M Jon Mitchell             PPS:MEASUREMENT BASED RUNNERS  37:44 
+  166  121   F Patty McCaughey          PPS:MEASUREMENT BASED RUNNERS  37:47 
+  167  131   F Charlene Taylor          PPS:MEASUREMENT BASED RUNNERS  37:48 
+  168   88   M Tom Bagg                 SGT FRIENDS TEAM               38:14 
+  169  182   F Teresa Cooper            SGT FRIENDS TEAM               39:20 
+  170  263   F Leanne Phillips          BASE RUNNERS                   39:26 
+  171   50   M Patrick Sheridan         BASE RUNNERS                   39:31 
+

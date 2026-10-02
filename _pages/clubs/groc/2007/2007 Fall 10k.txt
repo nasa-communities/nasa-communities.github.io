@@ -1,0 +1,69 @@
+"Spring '07 10-K at Greenbelt Lake, 10/10/07"										
+Rank	Bib	Name			Time	Gender	Age	Non-Counting				
+1	424	Ted Poulos		38:38	M	45	Guest				
+2	425	Mark Wojenski		39:05	M	26					
+3	415	Kevin Tesler		39:07	M	28					
+4	79	Kent McCullough		41:59	M	50					
+5	398	Jesse Leitner		42:43	M	38					
+6	413	Donald Shea		42:58	M	41					
+7	82	Gerard Neil		43:11	M	21					
+8	84	Mark Baugh		43:28	M	48					
+9	408	Gary Hinshaw		44:55	M	48					
+10	86	Jan Merka		45:04	M	34					
+11	403	Tom Nolan		45:40	M	55					
+12	401	Andrea Bennett		48:50	F	28					
+13	418	Tom Winkert		48:50	M	43					
+14	419	Peter Colarco		48:58	M	36					
+15	91	Tony Stocker		49:55	M	35					
+16	94	Craig Weikel		50:18	M	57					
+17	397	Rich Luquette		50:44	M	56					
+18	417	Timothy Oldham		51:52	M	60					
+19	420	Steve Tompkins		52:09	M	52					
+20	406	Chuck Naegali		52:53	M	58					
+21	88	Narsima Rao		54:04	M	50					
+22	83	Andrew Negri		55:07	M	54					
+23	81	Gerard Ryan		55:41	M	?					
+24	404	Avi Mandell		55:52	M	30					
+25	92	Craig Jamieson		57:00	M	47					
+26	87	Dagmar Merkova		57:07	F	37	Dependent				
+27	400	Donna Cochran		57:32	F	39					
+28	399	Timothy Pike		58:12	M	53					
+29	80	Kristina Bennett	58:20	F	25					
+30	426	Caitlin Eubank		58:23	F	25					
+31	416	Andrew Hammond		58:26	M	33	Guest				
+32	95	Rachel Osten		58:55	F	33					
+33	409	Diane Dobak		61:16	F	48					
+34	49	Robert Frederickson	62:56	M	47					
+35	431	Robert Levy		63:28	M	34					
+36	93	Matt Owens		65:02	M	32					
+37	402	Trinh DeGumbia		66:20	F	38					
+38	119	Olga Richardson		66:42	F	36	Guest				
+39	423	Mark Allen		67:05	M	48					
+40	90	Erich Stocker		68:25	M	60					
+41	421	Tomoko Adachi		68:55	F	48					
+42	97	Fernanda Zabala		70:07	F	26					
+43	85	Peter Acosta		70:53	M	47					
+44	89	Clare Imholtz		71:48	F	60	Guest				
+45	422	Rosina Iping		72:12	F	58					
+46	414	Christopher Cohoon	81:42	M	32					
+47	412	Bing Guan		87:39	F	?
+48		Mike	Ochranek	93:05	M	51
+49	430	Cathy Homens		96:14	F	53
+50	427	Louise Young		96:14	F	65
+51	428	Anne Larson		102:40	F	48
+52	429	Susan Rad		102:40	F	48
+53	405	Mary Li			104:13	F	54
+54	407	Anh La			112:08	F	38	
+55		Mary	Li		113:00	F			
+56		Bing	Guan		113:00	F	50	
+57		Sussan	Rad		116:00	F	48		
+58		Louise	Young		116:00	F	65		
+59		Maureen	Armbruster	116:00	F	49	
+				
+					
+					
+					
+			
+			
+			
+			

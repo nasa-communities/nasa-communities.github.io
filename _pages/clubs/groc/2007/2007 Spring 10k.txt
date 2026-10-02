@@ -1,0 +1,77 @@
+"Spring '07 10-K at Greenbelt Lake, 4/18/07"					
+Rank	Bib	Name			Time	Gender	Age
+1	95	Ted Poulos		38:06	M	45
+2	379	Kevin Tesler		38:30	M	28
+3	372	Tom Winkert		39:43	M	42
+4	381	Barney Lynch		41:38	M	29
+5	89	Kent McCullough		42:24	M	50
+6	383	Gary Hinshaw		43:20	M	47
+7	90	Jan Merka		43:33	M	34
+8	99	Tom Nolan		44:07	M	54
+9	97	Zoran Kahric		46:01	M	41
+10	373	Dale Allen		46:46	M	44
+11	374	Timothy Oldham		48:20	M	60
+12	376	Ken Caldwell		49:46	M	44
+13	387	Steve Tompkins		49:54	M	51
+14	369	Chuck Naegali		49:56	M	58
+15	391	Krister Nielsen		50:16	M	36
+16	380	Manuel Quijada		50:18	M	45
+17	390	Matthew Deland		50:50	M	45
+18	384	Tim Metz		51:25	M	32
+19	378	David Bonfield		51:25	M	26
+20	96	Tony Stocker		52:38	M	35
+21	389	Mike Kelly		53:28	M	52
+22	385	William Bamford		53:37	M	32
+23	382	Vincent Holmes		54:23	M	34
+24	371	Dagmar Merkova		54:39	F	36
+25	375	Rich Luquette		56:40	M	55
+26	370	Kate Ingeten		57:30	F	30
+27	92	Andrew Gravatt		58:10	M	43
+28	91	Greg Martin		58:11	M	32
+29	93	Rachel Osten		58:50	F	32
+30	94	Christian Poivey	58:52	M	46
+31	392	Craig Jamieson		58:58	M	47
+32	386	Kevin Parker		66:52	M	48
+33	394	Gunther Kletetschka	69:40	M	42
+34	388	Rosina Iping		70:08	F	57
+35	393	Mark Allen		71:42	M	48
+36	377	William Radcliffe	71:55	M	57
+37	98	Christopher Cohoon	71:56	M	31
+38		Hans Krimm              89:00 	M	46      *10K walk on center
+39		Charles Jackman        101:00	M	56    	""
+40		Gala Wind	       101:00	F 	
+41		Anne Douglass          106:00  	F	58      ""
+42		Susan Strahan          106:00  	F	48    	""
+43		James Mentall          106:00 	M	71      "" 
+44		Stephanie Stockman     106:00 	F	46      ""
+45		Stacey Frith           109:00 	F	38      ""
+46		Richard Stewart        109:00 	M	70      ""
+47		Pat Luber              109:00   F	65      ""
+	
+					
+					
+					
+					
+					
+					
+					
+			
+			
+			
+			
+			
+			
+			
+
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
