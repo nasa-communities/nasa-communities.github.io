@@ -478,8 +478,8 @@ Please [contact GROC](https://nasa-communities.org/clubs/groc/#contact-us) for r
 * [Age Graded](/clubs/groc/2011/2011 Fall Fun Run Age Graded.txt)
 * [Age Groups](/clubs/groc/2011/2011 Fall Fun Run Age Groups.txt)
 * [Men](/clubs/groc/2011/2011 Fall Fun Run Men.txt)
-* [Teams](/clubs/groc/2011/2011 Fall Fun Run Teams.txt)
 * [Women](/clubs/groc/2011/2011 Fall Fun Run Women.txt)
+* [Teams](/clubs/groc/2011/2011 Fall Fun Run Teams.txt)
 
 ### 2011 Spring
 
@@ -487,6 +487,8 @@ Please [contact GROC](https://nasa-communities.org/clubs/groc/#contact-us) for r
 * [Overall 10K Results](/clubs/groc/2011/2011 Spring 10k.txt)
 
 **Spring 2 Mile Fun Run:**
+* [Age Graded](/clubs/groc/2011/2011 Fall Fun Run Age Graded.txt)
+* [Age Groups](/clubs/groc/2011/2011 Fall Fun Run Age Groups.txt)
 * [Men](/clubs/groc/2011/2011 Spring Fun Run Men.txt)
 * [Women](/clubs/groc/2011/2011 Spring Fun Run Women.txt)
 * [Teams](/clubs/groc/2011/2011 Spring Fun Run Teams.txt)

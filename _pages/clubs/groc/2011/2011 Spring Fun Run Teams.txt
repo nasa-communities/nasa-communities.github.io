@@ -1,107 +1,176 @@
-                         67th NASA Intercenter Run
+                         71st NASA Intercenter Run
                         Goddard Space Flight Center
-                              April 29, 2009
+                              April 13th,2011
 
                                Team Results
            (The team score is the sum of the 5 placement points 
                     of the top 5 finishers of the team)
 
 
-  1.   168  SGT & FRIENDS                 
+  1.    54  POWERED BY EARTH SCIENCE      
 ========================================
-  1      1  Ashley Behrle            F   16:23 
-  2     24  Alexander Yetman         M   14:09 
-  3     46  Augusta Cangahuala       M   16:17 
-  4     47  Dave Williams            M   16:17 
-  5     50  Richard Weiss            M   16:25 
-  6   ( 52) Laurie Donnelly          F   21:04 
-  7   ( 60) Silesia Pearson          F   22:16 
-  8   ( 63) Paul Kirchman            M   18:06 
-  9   ( 68) Helen Cornejo            F   24:29 
- 10   ( 70) James Thieman            M   18:55 
- 11   ( 72) Sten Odenwald            M   18:59 
- 12   ( 74) Roger Banting            M   19:24 
- 13   ( 79) John Garrett             M   20:24 
- 14   ( 79) Penny Newsome            F   27:42 
- 15   ( 89) Mark Allen               M   21:28 
- 16   ( 90) Richard Archie           M   21:33 
- 17   ( 93) Robert Kilgore           M   21:51 
- 18   ( 94) Kimberlyn Hall           F   29:52 
- 19   ( 98) Taliha Brock             F   29:54 
- 20   (107) Tom Bagg                 M   27:45 
- 21   (109) Vicki Verbich            F   32:41 
- 22   (113) Diane Whittington        F   32:42 
+  1      5  Laura Bur                F   14:20 
+  2      9  Kent McCullough          M   12:35 
+  3     13  Spencer Disque           M   13:02 
+  4     13  Deanna Pineda            F   16:42 
+  5     14  Maksym Petrenko          M   13:05 
+  6   ( 18) Yan Zhang                F   17:30 
+  7   ( 26) Michael Bur              M   13:56 
+  8   ( 28) David Mostofi            M   14:05 
+  9   ( 28) Jong Pak                 F   18:25 
+ 10   ( 29) Robert Wolfe             M   14:07 
+ 11   ( 30) Lin Tian                 F   18:27 
+ 12   ( 37) Leibo Ding               M   14:27 
+ 13   ( 39) Xiaowen Li               F   20:00 
+ 14   ( 43) Peter Colarco            M   14:50 
+ 15   ( 47) Jong Kim                 M   15:03 
+ 16   ( 49) Joe Stassi               M   15:23 
+ 17   ( 50) George Salcedo           M   15:33 
+ 18   ( 51) Peter Ma                 M   15:36 
+ 19   ( 52) Shez Areu                F   22:45 
+ 20   ( 54) Miguel Tandazo           M   15:53 
+ 21   ( 54) Dustyn Kyawa             F   23:03 
+ 22   ( 57) Justin Gronert           M   16:07 
+ 23   ( 58) Tony Stocker             M   16:21 
+ 24   ( 61) Keith Rice               M   16:30 
+ 25   ( 61) Stephanie Grebas         F   24:52 
+ 26   ( 68) John Hord                M   16:46 
+ 27   ( 69) Craig Jamieson           M   16:49 
+ 28   ( 76) Edward Masuoka           M   17:21 
+ 29   ( 77) Timothy Huss             M   17:27 
+ 30   ( 79) Mash Nishihama           M   17:28 
+ 31   ( 83) Luis Tandazo             M   17:36 
+ 32   ( 86) Mahendra Karki           M   17:54 
+ 33   ( 87) Charles Jackman          M   18:00 
+ 34   ( 91) Pat Luber                F   30:26 
+ 35   ( 93) Mariellen Pemberton      F   30:38 
+ 36   ( 94) Hoan-Vu Tran-Ho          M   18:24 
+ 37   ( 98) Michael McCumber         M   19:18 
+ 38   (103) Brian Kamamia            M   19:55 
+ 39   (110) Robert Woodward          M   20:42 
+ 40   (113) Brij Gambhir             M   21:29 
+ 41   (116) Miguel Roman             M   21:41 
+ 42   (117) Dan Burger               M   22:00 
+ 43   (136) Sandra Washington        F   35:02 
+ 44   (137) Adrian Williams          M   25:02 
+ 45   (139) Michele Ben-Gera         F   35:12 
+ 46   (141) Rosa Kao                 F   35:12 
+ 47   (144) Jacqueline Ferguson      F   35:31 
+ 48   (146) Patty McCaughey          F   35:33 
+ 49   (150) Hassan Oudrari           M   32:33 
+ 50   (151) David Obler              M   32:38 
+ 51   (151) Penny Masuoka            F   35:56 
+ 52   (155) Balendran Velauthapillai M   33:10 
+ 53   (158) Daniel Duffy             M   34:06 
+ 54   (159) Charles Cosner           M   34:19 
+ 55   (160) Toan Tran                M   34:21 
+ 56   (162) Victor Freeman           M   35:12 
+ 57   (163) David Adamec             M   35:12 
+ 58   (164) Darryl Fountain          M   35:38 
+ 59   (167) Quyen Nguyen             M   38:26 
+ 60   (168) Patrick Kolbe            M   38:27 
 
-  2.   175  SDO                           
+  2.    62  OFF THE MESA                  
 ========================================
-  1     20  Brent Robertson          M   13:52 
-  2     22  Chris Skocik             M   13:58 
-  3     33  Craig Weikel             M   15:09 
-  4     49  Chad Salo                M   16:23 
-  5     51  Tom Winkert              M   16:28 
-  6   ( 55) Russell Harrison         M   16:54 
+  1      1  Alvin Yew                M   10:51 
+  2      1  Julie Thienel            F   13:13 
+  3      8  Melissa Vess             F   15:10 
+  4     25  Josheph Galante          M   13:49 
+  5     27  Colby Goodloe            M   13:58 
+  6   ( 35) Scott Glubke             M   14:19 
+  7   ( 74) Rich Barney              M   17:05 
+  8   ( 81) Steve Sirotzky           M   17:33 
+  9   (102) Monther Hasounch         M   19:51 
 
-  3.   229  HST FOCUS                     
+  3.   104  PAAC TEAM                     
 ========================================
-  1     13  James Cooper             M   13:25 
-  2     29  Greg Waldo               M   14:25 
-  3     42  Michael Kelly            M   16:00 
-  4     68  David Simpson            M   18:41 
-  5     77  John Wirzburger          M   19:42 
-  6   (102) Vicki Vanduyl            F   29:57 
-  7   (117) Urmi Dutta               F   32:45 
+  1     15  Carol Fester             F   16:44 
+  2     17  Ashley Behrle            F   16:58 
+  3     20  Milenka Bascope          F   17:38 
+  4     25  Joanne Santiago          F   18:15 
+  5     27  Joanna Hagerty           F   18:18 
+  6   ( 40) Trish Ryan               F   20:02 
+  7   ( 42) Erin Majerowicz          F   20:02 
+  8   ( 49) Victoria Afram           F   21:03 
+  9   ( 51) Amber Comer              F   21:11 
+ 10   ( 57) Stacey Day               F   24:21 
+ 11   ( 62) Liz Stroud               F   24:58 
+ 12   ( 64) Kimberly Moffatt         F   25:04 
+ 13   ( 67) Benjamin Cripps          M   16:43 
+ 14   ( 72) Augusta Cangahuala       M   16:55 
+ 15   ( 73) William Paradis          M   16:56 
+ 16   ( 78) Kimberlyn Hall           F   26:58 
+ 17   ( 88) Richard Weiss            M   18:01 
+ 18   ( 96) Kathy Nieman             F   30:41 
+ 19   ( 98) Barbara Parmenter        F   30:42 
+ 20   (100) James Thieman            M   19:33 
+ 21   (100) Diane Trakas             F   30:43 
+ 22   (101) John Garrett             M   19:48 
+ 23   (105) Chris MacLin             M   20:14 
+ 24   (105) Lisa Cheakalos           F   30:55 
+ 25   (106) Charles Radspinner       M   20:16 
+ 26   (109) Sten Odenwald            M   20:36 
+ 27   (113) Susan Wright             F   32:38 
+ 28   (117) Barbara Fuechsel         F   32:51 
+ 29   (122) Lisa Karmel              F   33:25 
+ 30   (123) Kevin Gregg              M   23:12 
+ 31   (125) Sara Duffy               F   34:05 
+ 32   (127) Robert Kilgore           M   23:51 
+ 33   (127) Crystal Powell           F   34:19 
+ 34   (131) Roger Banting            M   24:21 
+ 35   (132) Steve Padgett            M   24:23 
+ 36   (134) Jay Friedlander          M   24:43 
+ 37   (135) Dave Williams            M   24:44 
+ 38   (137) Stephanie Brown          F   35:03 
+ 39   (138) Justin Lewis             M   25:04 
+ 40   (141) James Mannion            M   26:15 
+ 41   (142) Nicole Raphael           F   35:28 
+ 42   (147) Terri Lynne Hynson       F   35:39 
+ 43   (148) Jasen Wyche              M   30:40 
+ 44   (149) Iris Fowler              F   35:39 
+ 45   (153) James Perry              M   32:53 
+ 46   (166) Larry Tuttle             M   38:23 
 
-  4.   243  ISD SPEEDSTERS                
+  4.   255  TEAM SED                      
 ========================================
-  1      5  David McComas            M   12:41 
-  2     11  Joel Gallun              M   13:18 
-  3     56  Renee Reynolds           F   21:32 
-  4     75  Susan Valett             F   25:26 
-  5     96  Howard Dew               M   22:44 
-  6   (103) James Byrnes             M   24:59 
-  7   (117) Bruce Savadkin           M   34:58 
-  8   (118) Kenneth Barnes           M   34:59 
+  1     18  Tom Winkert              M   13:12 
+  2     42  Charles Zogby            M   14:39 
+  3     47  Rebecca Winkert          F   20:56 
+  4     68  Robin Ripley             F   25:48 
+  5     80  Jeffrey Hosler           M   17:32 
+  6   ( 81) Louise Young             F   27:57 
+  7   (112) Maureen Armbruster       F   32:34 
+  8   (115) Anne Larson              F   32:40 
+  9   (119) Matthew Brandt           M   22:26 
+ 10   (121) Howard Dew               M   22:58 
+ 11   (122) Charles Hicks            M   23:01 
+ 12   (125) Peter Gorog              M   23:28 
+ 13   (139) Gary Crum                M   25:42 
+ 14   (145) Edger Jackson            M   27:56 
+ 15   (152) Joel Gallun              M   32:44 
 
-  5.   319  EARTH                         
+  5.   294  LANDSAT GOLDBRICKIN HOTTUBBERS
 ========================================
-  1     15  Jong Kim                 M   13:34 
-  2     53  Edward Masuoka           M   16:49 
-  3     54  Charles Jackman          M   16:52 
-  4     82  Myong-In Lee             M   20:48 
-  5    115  Angelo Bertolli          M   33:50 
+  1      6  Mark Wojenski            M   12:10 
+  2      6  Elissa Wojenski          F   14:44 
+  3     85  Theresa Arvidson         F   29:35 
+  4     93  Timothy Wilcox           M   18:22 
+  5    104  Rich Lonigro             M   19:56 
+  6   (129) Michael McClellan        M   24:03 
+  7   (147) Robert Zoller-Gritz      M   29:06 
 
-  6.   336  LANDSAT GOLDBRICKIN' HOTTUB'RS
+  6.   580  GCDC                          
 ========================================
-  1     23  Thomas Hill              M   14:07 
-  2     67  Rich Lonigro             M   18:34 
-  3     69  Timothy Wilcox           M   18:50 
-  4     83  Theresa Arvidson         F   28:40 
-  5     94  Michael McClellan        M   22:23 
-
-  7.   367  GOES-R                        
-========================================
-  1     26  Daniel Hoffman           M   14:12 
-  2     62  Robert Iacovazzi         M   17:53 
-  3     64  Richard Rivera           M   18:07 
-  4    105  Barbara Pfarr            F   31:38 
-  5    110  Wilfred Mazur            M   31:39 
-  6   (111) Gregory Mandt            M   31:39 
-
-  8.   408  PPS: MEASUREMENT BASED RUNNERS
-========================================
-  1     30  Tony Stocker             M   14:36 
-  2     65  Michael McCumber         M   18:10 
-  3     92  Yimin Ji                 M   21:44 
-  4    109  Balendran Velauthapillai M   29:26 
-  5    112  Charles Cosner           M   31:39 
-  6   (113) Craig Jamieson           M   33:20 
+  1      2  Tyler Lulich             M   11:31 
+  2    130  Catherine Bell           F   34:41 
+  3    134  Lakshini Wijeweera       F   34:53 
+  4    156  Traleece Graves          F   36:25 
+  5    158  Emma Vivar-Herrera       F   36:29 
+  6   (159) Elycia Chew              F   36:29 
+  7   (164) Jessica Woolfolk         F   39:41 
+  8   (168) Tatyana Brandinger       F   40:34 
+  9   (169) John Pedersen            M   42:22 
+ 10   (170) Leona Dickens-Adams      F   41:08 
 
 
 
-Incomplete Teams:
-
-INNOVIM                       
-         Ryan Gerard M   13:55, Paul Sweatman M   28:02
-
-FSO FANATICS                  
-         Joanne Santiago F   20:43, Chris MacLin M   20:43, Charles Radspinner M   23:03, Jasen Wyche M   26:00
