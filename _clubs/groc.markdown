@@ -101,19 +101,16 @@ Since the center closed the fitness center, we meet at B34, which has 6 showers/
 
 ### 2026
 
-**Spring 10k (05/13/26):**
-* [Overall Results](/clubs/groc/2026/2026 Spring 10K.txt) 
 
-**Spring 2 Mile Fun Run (04/29/26):**
-* [Guntime](/clubs/groc/2026/2026 Spring 2 Mile guntime.txt) 
-* [Men](/clubs/groc/2026/2026 Spring 2 Mile Men.txt) 
-* [Women](/clubs/groc/2026/2026 Spring 2 Mile Women.txt) 
-* [All Teams](/clubs/groc/2026/2026 Spring 2 Mile All Teams.txt) 
-* [Men Teams](/clubs/groc/2026/2026 Spring 2 Mile Men Teams.txt) 
-* [Women Teams](/clubs/groc/2026/2026 Spring 2 Mile Women Teams.txt) 
-* [Age Graded](/clubs/groc/2026/2026 Spring 2 Mile Age Graded.txt) 
-* [Age Groups](/clubs/groc/2026/2026 Spring 2 Mile Age Groups.txt) 
-
+**Fall 2 Mile Fun Run (09/30/26):**
+* [Guntime](/clubs/groc/2026/2026 Fall 2 Mile guntime.txt) 
+* [Men](/clubs/groc/2026/2026 Fall 2 Mile Men.txt) 
+* [Women](/clubs/groc/2026/2026 Fall 2 Mile Women.txt) 
+* [All Teams](/clubs/groc/2026/2026 Fall 2 Mile All Teams.txt) 
+* [Men Teams](/clubs/groc/2026/2026 Fall 2 Mile Men Teams.txt) 
+* [Women Teams](/clubs/groc/2026/2026 Fall 2 Mile Women Teams.txt) 
+* [Age Graded](/clubs/groc/2026/2026 Fall 2 Mile Age Graded.txt) 
+* [Age Groups](/clubs/groc/2026/2026 Fall 2 Mile Age Groups.txt) 
 
 ### Previous Race Results [NEW PAGE TO BE UPDATED]
 

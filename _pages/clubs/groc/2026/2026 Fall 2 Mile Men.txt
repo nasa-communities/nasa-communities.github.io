@@ -1,0 +1,171 @@
+                                                                      Page 1
+                   102nd NASA GSFC GROC Intracenter Run
+                        Goddard Space Flight Center
+                            September 30th,2026
+                               Male Results
+                    correction to tom.winkert@nasa.gov
+Place Num   Name                     Time    Guntime Div   Team                              
+===== ===== ======================== ======= ======= ===== ============================== 
+    1   818 Ben Griffin                11:32   11:34 M2529                                
+    2   773 Indy Lyness                11:35   11:37 M2024 DRAGONFLYERS                   
+    3  1641 Chuck Hudson               11:38   11:40 M3539 SUN SYNCHRONOUS STRIDERS       
+    4  1748 Maksym Petrenko            11:50   11:51 M4044 HELIOPHYSICS                   
+    5   691 Robert Michell             12:08   12:10 M4549 HELIOPHYSICS                   
+    6   528 Keshav Swaminathan         12:08   12:10 M3539                                
+    7   535 Whois This                 12:12   12:16 M4044                                
+    8   724 Hansen Lian                12:20   12:27 M2529                                
+    9   661 Nico Lopez                 12:34   12:36 M2529 DAY STARS                      
+   10   717 William Bamford            12:41   12:43 M5054 FAST & RELATIVE                
+   11   905 Matthew Francom            12:57   13:04 M3034 DRAGONFLYERS                   
+   12   569 Luis Rodriguez De Marcos   13:01   13:04 M4044 LIGHTSPEED522                  
+   13   794 Ryan Carney                13:15   13:18 M3539 PAAC                           
+   14   744 Matthew Blocker            13:25   13:28 M4044                                
+   15   741 Gabriel Segnatelli         13:31   13:33 M3034 SUN SYNCHRONOUS STRIDERS       
+   16   541 Andrew Yu                  13:35   13:37 M3034 SUN SYNCHRONOUS STRIDERS       
+   17  1551 Bernard Kelly              13:38   13:40 M5054 LISA                           
+   18   721 James Chervenak            13:43   13:48 M5559 ATHENERDS                      
+   19   633 Joe Skeens                 13:47   13:52 M2529                                
+   20   121 Grant Barrett              13:47   13:50 M3539                                
+   21   106 Adam Voiland               14:01   14:08 M4044 OCOMM AND GET IT               
+   22   647 Tyler Lee                  14:07   14:13 M2529 FAST & RELATIVE                
+   23  1712 Ian Carroll                14:26   14:34 M4549 KEEPING PACE                   
+   24   565 Brad Weidema               14:36   14:40 M3539 LISA                           
+   25   769 Casey McGrath              14:39   14:40 M3034 LISA                           
+   26   613 Joey Pasterski             14:39   14:45 M4044 DRAGONFLYERS                   
+   27   690 Craig Jones                14:43   14:48 M5054 LISA                           
+   28   660 Timothy Joubert            14:43   14:51 M3539 DAY STARS                      
+   29   524 Tom Nolan                  15:03   15:05 M7099                                
+   30   526 Sean McCartney             15:03   15:08 M4549                                
+   31  1714 Max Beal                   15:05   15:10 M2529 KEEPING PACE                   
+   32  1625 Lucas Snyder               15:11   15:15 M2024                                
+   33   852 Jim Whipple                15:20   15:28 M3034 BRANCH 525                     
+   34   778 Daniel Bae                 15:23   15:28 M3034 DRAGONFLYERS                   
+   35   883 Blaine Rivas               15:27   15:33 M2529 SWOFAST                        
+   36   720 Eric Johnston              15:30   15:33 M6064                                
+   37   580 Joseph Hart                15:33   15:44 M3034 LISA                           
+   38   675 Antonio Niemela            15:36   15:48 M3034 HELIOPHYSICS                   
+   39   622 Ira Thorpe                 15:38   15:47 M4549 LISA                           
+   40   532 Brodie Wallace             15:41   15:51 M3034 THE AEROSPACE CORPORATION      
+   41   908 Trevin Dear                15:46   15:46 M3539 DRAGONFLYERS                   
+   42   539 Rodrigo Ibacache           15:50   15:55 M5054                                
+   43   719 Phillip Denton             15:50   15:58 M3539                                
+   44   737 Chensheng Wu               15:53   16:05 M3539 LISA                           
+   45   783 Kenneth Christian          15:53   16:05 M3539                                
+   46   723 Benjamin Farcy             15:55   16:00 M3539                                
+   47  1576 Kevin Hong                 15:57   16:08 M3034 FASTILITIES                    
+   48  1572 Rick Carter                16:08   16:11 M5559                                
+   49   116 Stefano Beryone            16:17   16:22 M4549 CRESST                         
+   50   770 David Giles                16:18   16:23 M5054                                
+   51   515 James Marshall             16:18   16:22 M4044 535 I'D RATHER BE INTEGRATING  
+   52   682 Arya Akmal                 16:20   16:26 M5559 KEEPING PACE                   
+   53   587 Aaron Curtis               16:34   16:57 M4549 MVS                            
+   54   563 Kirk Gordon                16:42   16:50 M7099                                
+   55   504 Aseer Ahmad                16:46   16:53 M3034 SEWPER STEPPERS                
+   56   763 John Ramsey                16:46   17:08 M6569                                
+   57   944 Kyle Grello                16:52   17:06 M4044                                
+   58   518 Jeremy Werdell             17:12   17:18 M5054 KEEPING PACE                   
+   59   662 Phuc Nguyen                17:20   17:29 M4549 BRANCH 525                     
+   60   509 Austin Lanham              17:24   17:28 M4549                                
+   61   104 Justin Morris              17:29   17:31 M4549                                
+   62   520 Stephen Lebair             17:29   17:29 M3034                                
+   63   677 Kohei Yamamoto             17:32   17:37 M3034 LISA                           
+   64   523 Chamara Rajapkashe         17:33   17:49 M3539 KEEPING PACE                   
+   65   785 Alvaro Ivanoff             17:33   17:33 M5054                                
+   66   631 Sahil Handa                17:34   17:39 M2024                                
+   67   734 Charles Dickson            17:41   17:53 M5559 COLUMBUS                       
+   68   702 Miguel Hernandez           17:41   17:46 M3539                                
+   69   784 Emerson Sirk               17:50   17:57 M2529 KEEPING PACE                   
+   70   814 William Desprats           17:58   18:02 M3034 CRESST                         
+   71   740 Andrew Inglis              18:01   18:10 M4044 DAY STARS                      
+   72   768 Ju-Hung Chao               18:09   18:21 M4044 LISA                           
+   73   135 Robert Levy                18:09   18:19 M5054                                
+   74   711 Hua Jiao                   18:13   18:18 M5054 LISA                           
+   75   559 Brian Repp                 18:15   18:25 M6064 KBR                            
+   76   780 Zach McQueen               18:23   18:31 M3034                                
+   77   604 Kent McCullough            18:25   18:25 M6569                                
+   78   577 Richard Ullman             18:50   18:58 M6064 SWOFAST                        
+   79   130 Joe Miko                   18:52   19:05 M6064                                
+   80   516 Meng Gao                   18:54   19:10 M4549 KEEPING PACE                   
+   81   936 Gabriel Freedman           18:55   19:13 M3034 LISA                           
+   82   799 James Olsen                19:02   19:15 M3539                                
+   83   507 Daniel Abernathy           19:03   19:10 M4549                                
+   84   668 Brian Simpson              19:16   19:25 M4044 BRANCH 525                     
+   85   120 Jonathan Boblitt           19:21   19:42 M3539                                
+   86   791 Jack Ireland               19:21   19:31 M5559 HELIOPHYSICS                   
+   87   667 Andre Smith                19:21   19:21 M4549                                
+   88   595 Federico Sanidad           19:36   19:53 M5054 GEOFORCE                       
+   89   767 Kanghyun Baek              19:36   19:58 M4044                                
+   90   693 Frank Fried                19:39   19:49 M4044 LISA                           
+   91   786 Michal Hlinka              19:57   20:08 M4549                                
+   92   787 Jeffrey Geroso             19:57   20:08 M4044                                
+   93   676 Kenji Numata               20:02   20:13 M5054 LISA                           
+   94   754 Matt Stephens              20:05   20:14 M4044 BRANCH 525                     
+   95  1629 Michael Bosilovich         20:14   20:34 M5559 GMAO 610.1                     
+   96   823 Raymond Jones              20:20   20:20 M4549                                
+   97   639 Chigo Ngwira               20:22   20:30 M4549 HELIOPHYSICS                   
+   98   698 Kareem Branch              20:25   20:46 M4044 MVS                            
+   99   649 John Almy                  20:28   20:56 M4044 COLUMBUS                       
+  100   757 Jay Ellis                  20:39   21:00 M6569 KBR                            
+  101   762 Jeffrey Smith              20:40   20:53 M4549 DOWN WITH APPD                 
+  102   938 Manuel Quijada             21:06   21:14 M6064                                
+  103   657 Josh Handal                21:29   21:47 M3539                                
+  104   646 Michael Naylor             22:04   22:21 M4044 OMES III                       
+  105   694 Tumkur Raghuram            22:20   22:27 M6064 FAST & RELATIVE                
+  106   117 Eric Galloway              22:29   22:45 M4044                                
+  107   733 Mike Arida                 22:32   23:02 M5559 LISA                           
+  108   124 Mark Buddoo                22:47   23:12 M5559                                
+  109   798 Bruce Trout                22:51   23:38 M6569                                
+  110   753 Nicholas Collins           23:02   23:21 M5559 COLUMBUS                       
+  111   129 Adrian Southard            23:06   23:23 M4549                                
+  112   105 Hassan Oudrari             23:12   23:31 M6064 SSAI                           
+  113   103 Gary Brown                 23:18   23:27 M5559                                
+  114  1704 Scott Witschey             23:35   23:35 M2529 PEDIBYTES (690.1)              
+  115   513 Philip Hochendoner         23:42   24:05 M3539                                
+  116   148 Alexander Yevick           23:46   23:47       LISA                           
+  117   680 Mark Solomon               23:49   23:53 M6569 GMAO 610.1                     
+  118   651 Greg Gilles                24:07   24:22 M3034                                
+  119   136 Miead Nikfarjam            24:10   25:04 M4044                                
+  120  1695 James Roman                24:47   25:08 M5054 SSAI                           
+  121   761 Dimitris Vassiliadis       25:14   25:14 M6064 SWOFAST                        
+  122  1666 Samuel Kitchen-Mckinley    26:04   26:13 M4044 SSAI                           
+  123   779 Lawrence Coy               26:06   26:39 M7099 GMAO 610.1                     
+  124   765 Venku Jayanti              26:33   27:26 M6569                                
+  125   630 Michael Krainak            26:41   26:49 M6569 FAST & RELATIVE                
+  126   756 Jakob Lindo                26:57   27:03 M2529 KEEPING PACE                   
+  127   624 Addison Johnson-Green      27:06   27:19 M3034 KEEPING PACE                   
+  128   530 Perry Sebreny              27:52   28:28 M6569 KBR                            
+  129   917 Jake Lyssy                 28:57   29:15 M2024                                
+  130   808 Jay Friedlander            29:34   29:52 M6569 PEDIBYTES (690.1)              
+  131   544 Ralph Welsh Jr             29:51   29:56 M7099                                
+  132   853 Perry Gerakines            30:42   31:06 M5559                                
+  133   771 E Bell                     31:37   31:58 M6569 PEDIBYTES (690.1)              
+  134   521 Brian Hughes               34:30   34:45 M5054 FAST & RELATIVE                
+  135   699 Durgesh Rai                34:34   35:00 M4044 TPM                            
+  136  1718 John Hartnett              34:34   34:56 M4549 DOWN WITH APPD                 
+  137   600 Christopher Roberts        34:36   34:58 M4549 DOWN WITH APPD                 
+  138   738 Adam Reardon               34:49   35:19 M4044 THE AEROSPACE CORPORATION      
+  139   534 Pete Phillips              34:49   35:18 M5559 THE AEROSPACE CORPORATION      
+  140   591 Leonard Newman             35:40   36:10 M6064 MVS                            
+  141   709 John Lloyd                 35:51   36:13 M5559 MVS                            
+  142   708 Ratan Debnath              36:28   36:52 M5054                                
+  143   705 Troy Dunn                  36:43   37:19 M5054 MVS                            
+  144   525 Paul Alexander             37:08   37:36 M6569 FAST & RELATIVE                
+  145   742 Brian Smith                37:09   37:43 M3539 KBR                            
+  146   554 Corey Lyon                 38:14   38:47 M4044 OMES III                       
+  147   607 Jeff Baron                 38:16   38:47 M5559 MVS                            
+  148   749 Richard Slonaker           38:50   39:16 M6569                                
+  149   681 Timothy Beach              38:51   39:17 M5559 DOWN WITH APPD                 
+  150   597 Anthony Griffin Ii         38:53   39:13 M2529 DOWN WITH APPD                 
+  151   776 Harry White                38:54   39:13 M4549 DOWN WITH APPD                 
+  152   803 George Winkert             39:01   39:17 M6569                                
+  153   637 Brian Parrucci             39:24   40:04 M4044 MVS                            
+  154   583 Bill Thomas                39:25   40:04 M4044 MVS                            
+  155   696 Josiah Killam              39:26   40:03 M3034 MVS                            
+  156   797 Tom Hughes                 39:27   39:49 M6064 PEDIBYTES (690.1)              
+  157   589 Lance Emery                39:33   40:03 M4549 MVS                            
+  158   716 Pouria Nikou               39:35   40:05 M4044 MVS                            
+  159   147 Benjamin Yevick            40:58   41:08       LISA                           
+  160   573 Brandon Haygood            41:13   41:13 M3539 HUMAN RACE-OURCES              
+  161   745 Chris Salinas              41:36   42:03 M2529 AT MOON WALKERS                
+  162   560 Justin Clerizier           41:37   42:04 M5054 AT MOON WALKERS                
+  163   149 Rebecca Yevick             44:35   44:45       LISA                           

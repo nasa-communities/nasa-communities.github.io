@@ -1,0 +1,325 @@
+                   102nd NASA GSFC GROC Intracenter Run
+                        Goddard Space Flight Center
+                            September 30th,2026
+
+
+                         MALE AGE GROUP:  20 - 29
+Place O'All Name                     Div   Time       
+===== ===== ======================== ===== ======= 
+    1     1 Ben Griffin              M2529   11:32 
+    2     2 Indy Lyness              M2024   11:35 
+    3     8 Hansen Lian              M2529   12:20 
+    4     9 Nico Lopez               M2529   12:34 
+    5    20 Joe Skeens               M2529   13:47 
+    6    23 Tyler Lee                M2529   14:07 
+    7    32 Max Beal                 M2529   15:05 
+    8    33 Lucas Snyder             M2024   15:11 
+    9    37 Blaine Rivas             M2529   15:27 
+   10    74 Sahil Handa              M2024   17:34 
+   11    78 Emerson Sirk             M2529   17:50 
+   12   145 Scott Witschey           M2529   23:35 
+   13   166 Jakob Lindo              M2529   26:57 
+   14   173 Jake Lyssy               M2024   28:57 
+   15   224 Anthony Griffin Ii       M2529   38:53 
+   16   248 Chris Salinas            M2529   41:36 
+
+
+                        FEMALE AGE GROUP:  20 - 29
+Place O'All Name                     Div   Time       
+===== ===== ======================== ===== ======= 
+    1    34 Megan Hur                F2024   15:13 
+    2    61 Emmie Aufderheide        F2529   16:45 
+    3   104 Sarah Dangelo            F2529   19:38 
+    4   144 Arianna Dwomoh           F2024   23:34 
+    5   152 Charlotte Zehnder        F2529   24:08 
+    6   162 Sung Eun Chung           F2529   26:24 
+    7   171 Tia McCoy                F2529   28:37 
+    8   185 Sydney Roberts           F2529   34:34 
+    9   242 Katelyn Lively           F2529   40:36 
+   10   244 Alyssa Grejda            F2529   40:36 
+   11   254 Noura Ed-Dahmany         F2529   47:13 
+
+
+                         MALE AGE GROUP:  30 - 39
+Place O'All Name                     Div   Time       
+===== ===== ======================== ===== ======= 
+    1     3 Chuck Hudson             M3539   11:38 
+    2     6 Keshav Swaminathan       M3539   12:08 
+    3    11 Matthew Francom          M3034   12:57 
+    4    13 Ryan Carney              M3539   13:15 
+    5    15 Gabriel Segnatelli       M3034   13:31 
+    6    16 Andrew Yu                M3034   13:35 
+    7    21 Grant Barrett            M3539   13:47 
+    8    25 Brad Weidema             M3539   14:36 
+    9    26 Casey McGrath            M3034   14:39 
+   10    29 Timothy Joubert          M3539   14:43 
+   11    35 Jim Whipple              M3034   15:20 
+   12    36 Daniel Bae               M3034   15:23 
+   13    39 Joseph Hart              M3034   15:33 
+   14    40 Antonio Niemela          M3034   15:36 
+   15    42 Brodie Wallace           M3034   15:41 
+   16    43 Trevin Dear              M3539   15:46 
+   17    45 Phillip Denton           M3539   15:50 
+   18    46 Chensheng Wu             M3539   15:53 
+   19    47 Kenneth Christian        M3539   15:53 
+   20    48 Benjamin Farcy           M3539   15:55 
+   21    49 Kevin Hong               M3034   15:57 
+   22    62 Aseer Ahmad              M3034   16:46 
+   23    70 Stephen Lebair           M3034   17:29 
+   24    71 Kohei Yamamoto           M3034   17:32 
+   25    72 Chamara Rajapkashe       M3539   17:33 
+   26    76 Miguel Hernandez         M3539   17:41 
+   27    79 William Desprats         M3034   17:58 
+   28    87 Zach McQueen             M3034   18:23 
+   29    92 Gabriel Freedman         M3034   18:55 
+   30    93 James Olsen              M3539   19:02 
+   31    97 Jonathan Boblitt         M3539   19:21 
+   32   126 Josh Handal              M3539   21:29 
+   33   146 Philip Hochendoner       M3539   23:42 
+   34   151 Greg Gilles              M3034   24:07 
+   35   167 Addison Johnson-Green    M3034   27:06 
+   36   215 Brian Smith              M3539   37:09 
+   37   233 Josiah Killam            M3034   39:26 
+   38   247 Brandon Haygood          M3539   41:13 
+
+
+                        FEMALE AGE GROUP:  30 - 39
+Place O'All Name                     Div   Time       
+===== ===== ======================== ===== ======= 
+    1    17 Caitlin Kohli            F3539   13:36 
+    2    96 Holly Leopardi           F3539   19:17 
+    3   106 Kelly Whalen             F3034   19:39 
+    4   116 Jessi Ende               F3034   20:22 
+    5   124 Larysa Paliashchuk       F3539   21:13 
+    6   127 Jillian Sirkis           F3034   21:36 
+    7   136 Corrine Rojas            F3034   22:53 
+    8   138 Kendra Farnsworth        F3034   23:00 
+    9   142 Jennifer Gomez           F3539   23:14 
+   10   156 Jennifer Corekin         F3539   25:15 
+   11   161 Kimberly Gomez           F3539   26:06 
+   12   168 Melissa Olsen            F3539   27:10 
+   13   182 Kelly Ramos-Walker       F3034   32:37 
+   14   197 Daniele Heiny            F3539   34:58 
+   15   198 Brooke Schweiss          F3034   35:10 
+   16   201 Sehar Najeeb             F3539   35:47 
+   17   204 Alicia Jose              F3539   36:05 
+   18   216 Courtney Smith           F3539   37:09 
+   19   237 Anna Windle              F3034   39:32 
+   20   243 Octavia Millwood         F3034   40:36 
+   21   250 Ashley Barrientos        F3539   41:46 
+   22   251 Claudia Alvarez-Warren   F3539   41:47 
+
+
+                         MALE AGE GROUP:  40 - 49
+Place O'All Name                     Div   Time       
+===== ===== ======================== ===== ======= 
+    1     4 Maksym Petrenko          M4044   11:50 
+    2     5 Robert Michell           M4549   12:08 
+    3     7 Whois This               M4044   12:12 
+    4    12 Luis Rodriguez De Marcos M4044   13:01 
+    5    14 Matthew Blocker          M4044   13:25 
+    6    22 Adam Voiland             M4044   14:01 
+    7    24 Ian Carroll              M4549   14:26 
+    8    27 Joey Pasterski           M4044   14:39 
+    9    31 Sean McCartney           M4549   15:03 
+   10    41 Ira Thorpe               M4549   15:38 
+   11    52 Stefano Beryone          M4549   16:17 
+   12    54 James Marshall           M4044   16:18 
+   13    58 Aaron Curtis             M4549   16:34 
+   14    64 Kyle Grello              M4044   16:52 
+   15    67 Phuc Nguyen              M4549   17:20 
+   16    68 Austin Lanham            M4549   17:24 
+   17    69 Justin Morris            M4549   17:29 
+   18    80 Andrew Inglis            M4044   18:01 
+   19    82 Ju-Hung Chao             M4044   18:09 
+   20    91 Meng Gao                 M4549   18:54 
+   21    94 Daniel Abernathy         M4549   19:03 
+   22    95 Brian Simpson            M4044   19:16 
+   23    99 Andre Smith              M4549   19:21 
+   24   103 Kanghyun Baek            M4044   19:36 
+   25   105 Frank Fried              M4044   19:39 
+   26   108 Michal Hlinka            M4549   19:57 
+   27   109 Jeffrey Geroso           M4044   19:57 
+   28   111 Matt Stephens            M4044   20:05 
+   29   114 Raymond Jones            M4549   20:20 
+   30   115 Chigo Ngwira             M4549   20:22 
+   31   117 Kareem Branch            M4044   20:25 
+   32   119 John Almy                M4044   20:28 
+   33   121 Jeffrey Smith            M4549   20:40 
+   34   128 Michael Naylor           M4044   22:04 
+   35   131 Eric Galloway            M4044   22:29 
+   36   140 Adrian Southard          M4549   23:06 
+   37   153 Miead Nikfarjam          M4044   24:10 
+   38   159 Samuel Kitchen-Mckinley  M4044   26:04 
+   39   186 Durgesh Rai              M4044   34:34 
+   40   187 John Hartnett            M4549   34:34 
+   41   188 Christopher Roberts      M4549   34:36 
+   42   194 Adam Reardon             M4044   34:49 
+   43   218 Corey Lyon               M4044   38:14 
+   44   225 Harry White              M4549   38:54 
+   45   229 Brian Parrucci           M4044   39:24 
+   46   230 Bill Thomas              M4044   39:25 
+   47   238 Lance Emery              M4549   39:33 
+   48   239 Pouria Nikou             M4044   39:35 
+
+
+                        FEMALE AGE GROUP:  40 - 49
+Place O'All Name                     Div   Time       
+===== ===== ======================== ===== ======= 
+    1    50 Kate McGinnis            F4044   16:05 
+    2    60 Minnie Wong              F4549   16:45 
+    3    65 Natalie Ciampa           F4549   16:58 
+    4   101 Lyudmyla Ochs            F4044   19:32 
+    5   107 Nayeong Cho              F4044   19:51 
+    6   112 Jillianne Shear          F4549   20:08 
+    7   118 Jessica Almy             F4044   20:28 
+    8   122 Melissa Trainer          F4549   20:48 
+    9   133 Emily Demarco            F4044   22:46 
+   10   149 Asha Rani                F4549   23:51 
+   11   164 Paula Pruessner          F4549   26:34 
+   12   169 Li Jiang-Harrison        F4044   27:27 
+   13   176 Renee Reynolds           F4549   30:04 
+   14   177 Iesha Gathers            F4549   30:11 
+   15   178 Argelia Gonzalez         F4549   30:33 
+   16   191 Amanda Demski            F4044   34:43 
+   17   193 Elizabeth Kline          F4044   34:44 
+   18   195 Jessica Wieman           F4044   34:49 
+   19   205 Veronica Pinnicle        F4044   36:17 
+   20   208 Invalid Person           F4044   36:31 
+   21   211 Chasity Kisling          F4549   36:48 
+   22   213 Joanna Hagerty           F4044   36:55 
+   23   217 Geri Lyle                F4044   38:13 
+   24   231 Deanna Yu                F4044   39:26 
+   25   232 Laura Ingram             F4549   39:26 
+   26   235 Emily Smith              F4549   39:31 
+   27   236 Christina Schneider      F4044   39:32 
+
+
+                         MALE AGE GROUP:  50 - 59
+Place O'All Name                     Div   Time       
+===== ===== ======================== ===== ======= 
+    1    10 William Bamford          M5054   12:41 
+    2    18 Bernard Kelly            M5054   13:38 
+    3    19 James Chervenak          M5559   13:43 
+    4    28 Craig Jones              M5054   14:43 
+    5    44 Rodrigo Ibacache         M5054   15:50 
+    6    51 Rick Carter              M5559   16:08 
+    7    53 David Giles              M5054   16:18 
+    8    56 Arya Akmal               M5559   16:20 
+    9    66 Jeremy Werdell           M5054   17:12 
+   10    73 Alvaro Ivanoff           M5054   17:33 
+   11    75 Charles Dickson          M5559   17:41 
+   12    83 Robert Levy              M5054   18:09 
+   13    85 Hua Jiao                 M5054   18:13 
+   14    98 Jack Ireland             M5559   19:21 
+   15   102 Federico Sanidad         M5054   19:36 
+   16   110 Kenji Numata             M5054   20:02 
+   17   113 Michael Bosilovich       M5559   20:14 
+   18   132 Mike Arida               M5559   22:32 
+   19   134 Mark Buddoo              M5559   22:47 
+   20   139 Nicholas Collins         M5559   23:02 
+   21   143 Gary Brown               M5559   23:18 
+   22   154 James Roman              M5054   24:47 
+   23   179 Perry Gerakines          M5559   30:42 
+   24   184 Brian Hughes             M5054   34:30 
+   25   196 Pete Phillips            M5559   34:49 
+   26   202 John Lloyd               M5559   35:51 
+   27   207 Ratan Debnath            M5054   36:28 
+   28   209 Troy Dunn                M5054   36:43 
+   29   219 Jeff Baron               M5559   38:16 
+   30   222 Timothy Beach            M5559   38:51 
+   31   249 Justin Clerizier         M5054   41:37 
+
+
+                        FEMALE AGE GROUP:  50 - 59
+Place O'All Name                     Div   Time       
+===== ===== ======================== ===== ======= 
+    1    55 Lori Levine              F5054   16:19 
+    2    57 Sarah Ringerud           F5054   16:32 
+    3    77 Susanne Craig            F5054   17:44 
+    4    84 Yihua Zheng              F5054   18:09 
+    5   100 Elena Tolavova           F5054   19:29 
+    6   125 Kelly Fast               F5559   21:27 
+    7   129 Jennifer Beall           F5559   22:08 
+    8   137 Kathleen Mandt           F5054   22:54 
+    9   157 Kathleen Blackman        F5559   25:19 
+   10   158 Emily Callahan           F5054   26:02 
+   11   172 Ann Cardiff              F5054   28:57 
+   12   180 Silvia Romero            F5559   30:47 
+   13   189 Renee Dudley             F5559   34:39 
+   14   199 Lisa Godley              F5559   35:39 
+   15   212 Darlene Mayo-Seay        F5054   36:54 
+   16   226 Beverley Winkert         F5559   39:00 
+   17   241 Christine Windsor        F5559   40:25 
+
+
+                         MALE AGE GROUP:  60 - 69
+Place O'All Name                     Div   Time       
+===== ===== ======================== ===== ======= 
+    1    38 Eric Johnston            M6064   15:30 
+    2    63 John Ramsey              M6569   16:46 
+    3    86 Brian Repp               M6064   18:15 
+    4    88 Kent McCullough          M6569   18:25 
+    5    89 Richard Ullman           M6064   18:50 
+    6    90 Joe Miko                 M6064   18:52 
+    7   120 Jay Ellis                M6569   20:39 
+    8   123 Manuel Quijada           M6064   21:06 
+    9   130 Tumkur Raghuram          M6064   22:20 
+   10   135 Bruce Trout              M6569   22:51 
+   11   141 Hassan Oudrari           M6064   23:12 
+   12   148 Mark Solomon             M6569   23:49 
+   13   155 Dimitris Vassiliadis     M6064   25:14 
+   14   163 Venku Jayanti            M6569   26:33 
+   15   165 Michael Krainak          M6569   26:41 
+   16   170 Perry Sebreny            M6569   27:52 
+   17   174 Jay Friedlander          M6569   29:34 
+   18   181 E Bell                   M6569   31:37 
+   19   200 Leonard Newman           M6064   35:40 
+   20   214 Paul Alexander           M6569   37:08 
+   21   221 Richard Slonaker         M6569   38:50 
+   22   227 George Winkert           M6569   39:01 
+   23   234 Tom Hughes               M6064   39:27 
+
+
+                        FEMALE AGE GROUP:  60 - 69
+Place O'All Name                     Div   Time       
+===== ===== ======================== ===== ======= 
+    1    81 Stephanie McLaughlin     F6064   18:01 
+    2   150 Karen Scheiber           F6569   24:06 
+    3   183 Terri Lynne Hynson       F6064   34:10 
+    4   190 Tina Gentry              F6064   34:40 
+    5   192 Debbie Rivera            F6569   34:44 
+    6   203 Koni S. Traore           F6064   36:00 
+    7   206 Doris Jallice            F6569   36:28 
+    8   210 Nancy Iacona             F6064   36:44 
+    9   220 Gail Rohrbach            F6064   38:50 
+   10   223 Barbara Grofic           F6569   38:52 
+   11   228 E Corbin                 F6064   39:24 
+   12   240 Carol Williams           F6064   40:25 
+   13   246 Barbara Conoway          F6064   41:00 
+   14   253 Amy Bleich               F6064   46:40 
+
+
+                         MALE AGE GROUP:  70 - 79
+Place O'All Name                     Div   Time       
+===== ===== ======================== ===== ======= 
+    1    30 Tom Nolan                M7099   15:03 
+    2    59 Kirk Gordon              M7099   16:42 
+    3   160 Lawrence Coy             M7099   26:06 
+
+
+                        FEMALE AGE GROUP:  70 - 79
+Place O'All Name                     Div   Time       
+===== ===== ======================== ===== ======= 
+
+
+                         MALE AGE GROUP:  80 - 99
+Place O'All Name                     Div   Time       
+===== ===== ======================== ===== ======= 
+    1   175 Ralph Welsh Jr           M7099   29:51 
+
+
+                        FEMALE AGE GROUP:  80 - 99
+Place O'All Name                     Div   Time       
+===== ===== ======================== ===== ======= 
+

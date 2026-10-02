@@ -1,0 +1,99 @@
+                                                                      Page 1
+                   102nd NASA GSFC GROC Intracenter Run
+                        Goddard Space Flight Center
+                            September 30th,2026
+                              Female Results
+                    correction to tom.winkert@nasa.gov
+Place Num   Name                     Time    Guntime Div   Team                              
+===== ===== ======================== ======= ======= ===== ============================== 
+    1   775 Caitlin Kohli              13:36   13:38 F3539                                
+    2  1593 Megan Hur                  15:13   15:16 F2024 POST-BAC POSSE                 
+    3  1610 Kate McGinnis              16:05   16:17 F4044 KEEPING PACE                   
+    4  1556 Lori Levine                16:19   16:23 F5054 MEMD                           
+    5   655 Sarah Ringerud             16:32   16:36 F5054                                
+    6   586 Minnie Wong                16:45   17:04 F4549 MVS                            
+    7   645 Emmie Aufderheide          16:45   16:47 F2529 POST-BAC POSSE                 
+    8   510 Natalie Ciampa             16:58   17:04 F4549 THE AEROSPACE CORPORATION      
+    9   519 Susanne Craig              17:44   17:50 F5054 KEEPING PACE                   
+   10  1703 Stephanie McLaughlin       18:01   18:10 F6064 PEDIBYTES (690.1)              
+   11   531 Yihua Zheng                18:09   18:15 F5054 HELIOPHYSICS                   
+   12   656 Holly Leopardi             19:17   19:23 F3539 LISA                           
+   13   107 Elena Tolavova             19:29   19:42 F5054                                
+   14   774 Lyudmyla Ochs              19:32   19:48 F4044                                
+   15   664 Sarah Dangelo              19:38   19:50 F2529 535 I'D RATHER BE INTEGRATING  
+   16   751 Kelly Whalen               19:39   19:51 F3034 DAY STARS                      
+   17  1603 Nayeong Cho                19:51   20:20 F4044                                
+   18   700 Jillianne Shear            20:08   20:23 F4549 FAST & RELATIVE                
+   19   909 Jessi Ende                 20:22   20:40 F3034                                
+   20   602 Jessica Almy               20:28   20:56 F4044 COLUMBUS                       
+   21   612 Melissa Trainer            20:48   20:54 F4549 DRAGONFLYERS                   
+   22   697 Larysa Paliashchuk         21:13   21:23 F3539 PEDIBYTES (690.1)              
+   23   636 Kelly Fast                 21:27   21:47 F5559                                
+   24   562 Jillian Sirkis             21:36   21:44 F3034                                
+   25   555 Jennifer Beall             22:08   22:08 F5559                                
+   26   687 Emily Demarco              22:46   23:01 F4044 OCOMM AND GET IT               
+   27   505 Corrine Rojas              22:53   23:00 F3034 KEEPING PACE                   
+   28   608 Kathleen Mandt             22:54   23:11 F5054                                
+   29   865 Kendra Farnsworth          23:00   38:01 F3034 DRAGONFLYERS                   
+   30   859 Jennifer Gomez             23:14   23:27 F3539                                
+   31   736 Arianna Dwomoh             23:34   23:38 F2024 POST-BAC POSSE                 
+   32   722 Asha Rani                  23:51   24:04 F4549 ATHENERDS                      
+   33  1512 Karen Scheiber             24:06   24:17 F6569 HELIOPHYSICS                   
+   34   575 Charlotte Zehnder          24:08   24:22 F2529 LISA                           
+   35  1548 Jennifer Corekin           25:15   25:46 F3539 535 I'D RATHER BE INTEGRATING  
+   36   686 Kathleen Blackman          25:19   25:36 F5559 FAST & RELATIVE                
+   37   517 Emily Callahan             26:02   26:06 F5054 CRESST                         
+   38   856 Kimberly Gomez             26:06   26:19 F3539                                
+   39   752 Sung Eun Chung             26:24   26:30 F2529 SWOFAST                        
+   40  1570 Paula Pruessner            26:34   26:50 F4549 LISA                           
+   41   113 Melissa Olsen              27:10   27:22 F3539                                
+   42   102 Li Jiang-Harrison          27:27   27:27 F4044                                
+   43  1623 Tia McCoy                  28:37   28:57 F2529                                
+   44   614 Ann Cardiff                28:57   29:06 F5054 LISA                           
+   45   685 Renee Reynolds             30:04   30:20 F4549                                
+   46   684 Iesha Gathers              30:11   30:26 F4549                                
+   47   795 Argelia Gonzalez           30:33   30:33 F4549 SWOFAST                        
+   48   621 Silvia Romero              30:47   31:00 F5559 MVS                            
+   49   729 Kelly Ramos-Walker         32:37   33:07 F3034                                
+   50   125 Terri Lynne Hynson         34:10   34:51 F6064                                
+   51   746 Sydney Roberts             34:34   35:00 F2529 DOWN WITH APPD                 
+   52   790 Renee Dudley               34:39   35:08 F5559 THE AEROSPACE CORPORATION      
+   53   533 Tina Gentry                34:40   35:08 F6064 THE AEROSPACE CORPORATION      
+   54   671 Amanda Demski              34:43   35:03 F4044 GEOFORCE                       
+   55   670 Debbie Rivera              34:44   35:04 F6569 GEOFORCE                       
+   56   672 Elizabeth Kline            34:44   35:04 F4044 GEOFORCE                       
+   57   527 Jessica Wieman             34:49   35:18 F4044 THE AEROSPACE CORPORATION      
+   58   750 Daniele Heiny              34:58   34:58 F3539 SWOFAST                        
+   59   710 Brooke Schweiss            35:10   35:19 F3034 LISA                           
+   60   619 Lisa Godley                35:39   36:10 F5559 MVS                            
+   61   755 Sehar Najeeb               35:47   36:16 F3539                                
+   62   506 Koni S. Traore             36:00   36:04 F6064                                
+   63   561 Alicia Jose                36:05   36:56 F3539                                
+   64   131 Veronica Pinnicle          36:17   36:48 F4044                                
+   65   650 Doris Jallice              36:28   36:52 F6569                                
+   66  1796 Invalid Person             36:31   36:51 F4044                                
+   67   674 Nancy Iacona               36:44   37:19 F6064 MVS                            
+   68   743 Chasity Kisling            36:48   37:18 F4549 DOWN WITH APPD                 
+   69   133 Darlene Mayo-Seay          36:54   37:19 F5054                                
+   70   692 Joanna Hagerty             36:55   37:19 F4044                                
+   71   679 Courtney Smith             37:09   37:43 F3539 KBR                            
+   72   617 Geri Lyle                  38:13   38:47 F4044 OMES III                       
+   73   644 Gail Rohrbach              38:50   39:09 F6064 DOWN WITH APPD                 
+   74   640 Barbara Grofic             38:52   39:11 F6569 DOWN WITH APPD                 
+   75   813 Beverley Winkert           39:00   39:16 F5559                                
+   76   638 E Corbin                   39:24   40:03 F6064                                
+   77   579 Deanna Yu                  39:26   40:03 F4044 MVS                            
+   78   726 Laura Ingram               39:26   40:03 F4549 MVS                            
+   79   514 Emily Smith                39:31   39:43 F4549 KEEPING PACE                   
+   80   616 Christina Schneider        39:32   40:02 F4044 MVS                            
+   81   796 Anna Windle                39:32   39:44 F3034 KEEPING PACE                   
+   82   547 Carol Williams             40:25   41:01 F6064 KBR                            
+   83   727 Christine Windsor          40:25   41:01 F5559 KBR                            
+   84   540 Katelyn Lively             40:36   41:13 F2529 HUMAN RACE-OURCES              
+   85   567 Octavia Millwood           40:36   41:14 F3034 HUMAN RACE-OURCES              
+   86   772 Alyssa Grejda              40:36   41:13 F2529                                
+   87   725 Barbara Conoway            41:00   41:00 F6064 KBR                            
+   88   538 Ashley Barrientos          41:46   42:13 F3539 AT MOON WALKERS                
+   89   537 Claudia Alvarez-Warren     41:47   42:13 F3539 AT MOON WALKERS                
+   90   728 Amy Bleich                 46:40   47:06 F6064                                
+   91   788 Noura Ed-Dahmany           47:13   47:16 F2529                                

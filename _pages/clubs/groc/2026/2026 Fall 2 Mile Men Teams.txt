@@ -1,0 +1,160 @@
+                   102nd NASA GSFC GROC Intracenter Run
+                        Goddard Space Flight Center
+                            September 30th,2026
+
+                               Team Results
+      (The team score is the sum of the top 5 finishers of the team)
+
+
+  1.   107  DRAGONFLYERS                  
+========================================
+  1      2  Indy Lyness              M     11:35.0 
+  2     11  Matthew Francom          M     12:56.3 
+  3     26  Joey Pasterski           M     14:38.8 
+  4     33  Trevin Dear              M     15:14.2 
+  5     35  Daniel Bae               M     15:22.3 
+
+  2.   131  LISA                          
+========================================
+  1     17  Bernard Kelly            M     13:37.1 
+  2     24  Brad Weidema             M     14:35.7 
+  3     25  Casey McGrath            M     14:38.2 
+  4     27  Craig Jones              M     14:42.2 
+  5     38  Joseph Hart              M     15:33.0 
+  6   ( 40) Ira Thorpe               M     15:37.4 
+  7   ( 44) Chensheng Wu             M     15:52.4 
+  8   ( 64) Kohei Yamamoto           M     17:31.3 
+  9   ( 73) Ju-Hung Chao             M     18:08.9 
+ 10   ( 75) Hua Jiao                 M     18:12.6 
+ 11   ( 82) Gabriel Freedman         M     18:54.9 
+ 12   ( 90) Frank Fried              M     19:38.6 
+ 13   ( 94) Kenji Numata             M     20:01.6 
+ 14   (107) Mike Arida               M     22:31.2 
+ 15   (116) Alexander Yevick         M     23:45.7 
+ 16   (160) Benjamin Yevick          M     40:57.8 
+ 17   (163) Rebecca Yevick           M     44:34.7 
+
+  3.   231  KEEPING PACE                  
+========================================
+  1     23  Ian Carroll              M     14:25.8 
+  2     31  Max Beal                 M     15:04.3 
+  3     52  Arya Akmal               M     16:19.6 
+  4     60  Jeremy Werdell           M     17:11.2 
+  5     65  Chamara Rajapkashe       M     17:32.4 
+  6   ( 69) Emerson Sirk             M     17:49.4 
+  7   ( 81) Meng Gao                 M     18:53.2 
+  8   (126) Jakob Lindo              M     26:56.8 
+  9   (127) Addison Johnson-Green    M     27:05.2 
+
+  4.   232  HELIOPHYSICS                  
+========================================
+  1      4  Maksym Petrenko          M     11:49.1 
+  2      5  Robert Michell           M     12:07.7 
+  3     39  Antonio Niemela          M     15:35.7 
+  4     87  Jack Ireland             M     19:20.9 
+  5     97  Chigo Ngwira             M     20:21.2 
+
+  5.   396  FAST & RELATIVE               
+========================================
+  1     10  William Bamford          M     12:40.5 
+  2     22  Tyler Lee                M     14:06.2 
+  3    105  Tumkur Raghuram          M     22:19.1 
+  4    125  Michael Krainak          M     26:40.6 
+  5    134  Brian Hughes             M     34:29.1 
+  6   (144) Paul Alexander           M     37:07.8 
+
+  6.   575  MVS                           
+========================================
+  1     53  Aaron Curtis             M     16:33.9 
+  2     98  Kareem Branch            M     20:24.9 
+  3    140  Leonard Newman           M     35:39.3 
+  4    141  John Lloyd               M     35:50.7 
+  5    143  Troy Dunn                M     36:42.8 
+  6   (147) Jeff Baron               M     38:15.7 
+  7   (153) Brian Parrucci           M     39:23.7 
+  8   (154) Bill Thomas              M     39:24.2 
+  9   (155) Josiah Killam            M     39:25.6 
+ 10   (157) Lance Emery              M     39:32.1 
+ 11   (158) Pouria Nikou             M     39:35.0 
+
+  7.   673  DOWN WITH APPD                
+========================================
+  1    101  Jeffrey Smith            M     20:39.5 
+  2    136  John Hartnett            M     34:33.8 
+  3    137  Christopher Roberts      M     34:35.6 
+  4    149  Timothy Beach            M     38:50.4 
+  5    150  Anthony Griffin Ii       M     38:53.0 
+  6   (151) Harry White              M     38:53.3 
+
+
+
+Incomplete Teams:
+
+SUN SYNCHRONOUS STRIDERS      
+         Chuck Hudson M     11:37.4, Gabriel Segnatelli M     13:31.0, Andrew Yu M     13:34.9
+
+DAY STARS                     
+         Nico Lopez M     12:33.2, Timothy Joubert M     14:42.3, Andrew Inglis M     18:00.7
+
+LIGHTSPEED522                 
+         Luis Rodriguez De Marcos M     13:01.0
+
+PAAC                          
+         Ryan Carney M     13:14.9
+
+ATHENERDS                     
+         James Chervenak M     13:42.8
+
+OCOMM AND GET IT              
+         Adam Voiland M     14:00.6
+
+BRANCH 525                    
+         Jim Whipple M     15:19.1, Phuc Nguyen M     17:19.9, Brian Simpson M     19:15.8, Matt Stephens M     20:04.9
+
+SWOFAST                       
+         Blaine Rivas M     15:26.3, Richard Ullman M     18:49.7, Dimitris Vassiliadis M     24:43.0
+
+THE AEROSPACE CORPORATION     
+         Brodie Wallace M     15:40.9, Adam Reardon M     34:48.7, Pete Phillips M     34:48.8
+
+FASTILITIES                   
+         Kevin Hong M     15:56.7
+
+CRESST                        
+         Stefano Beryone M     16:17.0, William Desprats M     17:57.8
+
+535 I'D RATHER BE INTEGRATING 
+         James Marshall M     16:17.4
+
+SEWPER STEPPERS               
+         Aseer Ahmad M     16:45.8
+
+COLUMBUS                      
+         Charles Dickson M     17:40.3, John Almy M     20:27.5, Nicholas Collins M     23:01.5
+
+KBR                           
+         Brian Repp M     18:15.0, Jay Ellis M     20:38.4, Perry Sebreny M     27:51.8, Brian Smith M     37:08.1
+
+GEOFORCE                      
+         Federico Sanidad M     19:35.1
+
+GMAO 610.1                    
+         Michael Bosilovich M     20:13.5, Mark Solomon M     23:48.6, Lawrence Coy M     26:05.3
+
+OMES III                      
+         Michael Naylor M     22:03.1, Corey Lyon M     38:13.1
+
+PEDIBYTES (690.1)             
+         Scott Witschey M     23:03.6, Jay Friedlander M     29:33.9, E Bell M     31:36.5, Tom Hughes M     39:26.5
+
+SSAI                          
+         Hassan Oudrari M     23:11.9, James Roman M     24:46.3, Samuel Kitchen-Mckinley M     26:03.6
+
+TPM                           
+         Durgesh Rai M     34:33.4
+
+HUMAN RACE-OURCES             
+         Brandon Haygood M     40:41.3
+
+AT MOON WALKERS               
+         Chris Salinas M     41:35.9, Justin Clerizier M     41:36.2

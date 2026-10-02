@@ -6,6 +6,8 @@ categories: goddard
 parent-club: Running and Orienteering Club
 
 anchors:
+  - { text: 2026 Fall, anchor: "#2026-fall" }
+  - { text: 2026 Spring, anchor: "#2026-spring" }
   - { text: 2025 Fall, anchor: "#2025-fall" }
   - { text: 2025 Spring, anchor: "#2025-spring" }
   - { text: 2024 Fall, anchor: "#2024-fall" }
@@ -39,6 +41,34 @@ anchors:
 ---
 
 Please [contact GROC](https://nasa-communities.org/clubs/groc/#contact-us) for results from past years' races (back to the 1970s!).
+
+## 2026
+
+### 2026 Fall
+
+**Fall 2 Mile Fun Run (09/30/26):**
+* [Women](/clubs/groc/2026/2026 Fall 2 Mile Women.txt)
+* [Men](/clubs/groc/2026/2026 Fall 2 Mile Men.txt)
+* [Women Teams](/clubs/groc/2026/2026 Fall 2 Mile Women Teams.txt)
+* [Men Teams](/clubs/groc/2026/2026 Fall 2 Mile Men Teams.txt)
+* [Overall Teams](/clubs/groc/2026/2026 Fall 2 Mile All Teams.txt)
+* [Graded](/clubs/groc/2026/2026 Fall 2 Mile Age Graded.txt)
+* [Gun Time](/clubs/groc/2026/2026 Fall 2 Mile guntime.txt)
+
+### 2026 Spring
+
+**Spring 10K:**
+* [Overall Results](/clubs/groc/2026/2026 Spring 10K.txt)
+
+**Spring 2m Fun Run:**
+* [Women](/clubs/groc/2026/2026 Spring 2 Mile Women.txt)
+* [Men](/clubs/groc/2026/2026 Spring 2 Mile Men.txt)
+* [Women Teams](/clubs/groc/2026/2026 Spring 2 Mile Women Teams.txt)
+* [Men Teams](/clubs/groc/2026/2026 Spring 2 Mile Men Teams.txt)
+* [Overall Teams](/clubs/groc/2026/2026 Spring 2 Mile All Teams.txt)
+* [Graded](/clubs/groc/2026/2026 Spring 2 Mile Age Graded.txt)
+* [Graded](/clubs/groc/2026/2026 Spring 2 Mile Age Groups.txt)
+* [Gun Time](/clubs/groc/2026/2026 Spring 2 Mile guntime.txt)
 
 ## 2025
 
