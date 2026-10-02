@@ -1,0 +1,51 @@
+"10-Km Race at Greenbelt Lake, 5/5/2010"									
+									
+Rank	Number	Name		Time	Gender	Age				
+1	450	Ted Poulos	40:54	M	48				
+2	436	Ronald Bennett	41:09	M	51				
+3	419	John Gygax	43:21	M	46				
+4	420	Dave McComas	44:17	M	46				
+5	178	Mark Baugh	44:38	M	50				
+6	176	John Way	44:42	M	44				
+7	434	James Cooper	45:09	M	40
+8		Jan Merka	45:11	M       37
+9	449	Tom Nolan	45:26	M	57				
+10	422	Jeff Dalhoff	45:26	M	40				
+11	442	Gary Hinshaw	46.29	M	51				
+12	447	Peter Colarco	49:30	M	38				
+13	451	Dagmar Merkova	49:31	F	39				
+14	437	Jong Kim	51:15	M	42				
+15	439	Timothy Oldham	52:21	M	63				
+16	179	Tony Stocker	54:50	M	38				
+17	454	Amy Fedorchak	55:45	F	45				
+18	438	David Content	56:32	M	49				
+19	452	Theo Muench	56:43	M	31				
+20	448	Fred Huegel	56:57	M	58				
+21	453	Robert Levy	57:17	M	37				
+22	421	Keith Rice	61:33	M	42				
+23	433	Craig Weikel	62:33	M	59				
+24	444	Robert Frederickson	62:51	M	49				
+25	441	Michael McCumber	65:40	M	61				
+26	443	Diane Dobak	65:53	F	50				
+27	445	Juri Schauermann	66:26	F	36				
+28	435	Xiomara Bassett	67:33	F	45				
+29	177	Camilla Logan	68:14	F	39				
+30	175	Larry Stake	74:22	M	62				
+31	432	Chris Cohoon	79:14	M	34				
+32	446	Gene Lehr	88:36	M	71				
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									

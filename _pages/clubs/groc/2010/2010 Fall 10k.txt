@@ -1,0 +1,51 @@
+"10-Km Race at Greenbelt Lake, 10/20/2010"								
+								
+Rank	Number	Name	Time	Gender	Age			
+1	479	Ted Poulos	38:03	M	48			
+2	496	Luis Navarro	38:25	M	33			
+3	494	Tyler Lulich	39:41	M	26			
+4	307	Daniel Kelly	40:52	M	30			
+5	436	Mark Loeffler	41:08	M	30			
+6	500	Kent McCullough	41:34	M	53			
+7	485	Zoran Kahric	41:44	M	45			
+8	488	Ludovic Brucker	42:55	M	27			
+9	308	Jeff Dalhoff	43:15	M	41			
+10	499	Dave McComas	43:41	M	47			
+11	481	Jan Merka	44:13	M	37			
+12	432	Joseph Galante	45:44	M	27			
+13	424	Tony Stocker	48:22	M	38			
+14	426	Theo Muench	48:23	M	31			
+15	435	William Bamford	48:36	M	36			
+16	433	Leibo Ding	48:57	M	40			
+17	438	John Przybylek	49:00	M	30			
+18	427	Jong Kim	49:28	M	43			
+19	425	Maksym Petrenko	49:49	M	28			
+20	437	Tom Winkert	50:31	M	46			
+21	429	Michael Bur	50:32	M	45			
+22	493	Luke Winternitz	50:39	M	32			
+23	430	Laura Bur	50:48	F	30			
+24	480	Timothy Oldham	50:55	M	63			
+25	490	Meliisa Vess	51:17	F	31			
+26	495	Robert Levy	51:00	M	37			
+27	434	Edward Masuoka	53:21	M	58			
+28	306	Matt Deland	53:35	M	49			
+29	487	Linette Boisvert53:47	F	24			
+30	484	Bill Teng	53:49	M	57			
+31	309	Craig Weikel	55:08	M	60			
+32	431	Nikhil Jethava	55:36	M	29			
+33	498	Joseph Hayden	55:54	M	46			
+34	486	Rich Luquette	56:02	M	59			
+35	439	Craig Jamieson	56:23	M	50			
+36	482	William Paradis	57:06	M	47			
+37	491	John Ramsey	58:13	M	49			
+38	428	John Hord	58:46	M	42			
+39	420	Delaney Burkart	59:32	F	28
+		Diane Dobak	62:06   F       51 *"from off-site 10k or make-up race"		
+40	423	Ed Killingsworth60:20	M	41			
+41	440	Mash Nishihama	62:11	M	68			
+42	483	Jacquelyn Fiora	62:43	F	55			
+43	419	Larry Stake	62:46	M	63			
+44	492	Donna Garnett	63:01	F	55			
+45	497	Chris Cohoon	65:08	M	35			
+46	310	Mary Li		66:12	F	57			
+								
