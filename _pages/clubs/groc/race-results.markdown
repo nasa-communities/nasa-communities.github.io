@@ -46,6 +46,8 @@ anchors:
   - { text: 2008 Spring, anchor: "#2008-spring" }
   - { text: 2007 Fall, anchor: "#2007-fall" }
   - { text: 2007 Spring, anchor: "#2007-spring" }
+  - { text: 2006 Fall, anchor: "#2006-fall" }
+  - { text: 2006 Spring, anchor: "#2006-spring" }
   
 ---
 
@@ -603,7 +605,25 @@ Please [contact GROC](https://nasa-communities.org/clubs/groc/#contact-us) for a
 
 ### 2006 Fall
 
+**Fall 10k and 2k:**
+* [Overall 10K Results](/clubs/groc/2006/2006 Fall 10k.txt)
+
+**Fall 2 Mile Fun Run:**
+* [Age Groups](/clubs/groc/2006/2006 Fall Fun Run Age Groups.txt)
+* [Men](/clubs/groc/2006/2006 Fall Fun Run Men.txt)
+* [Women](/clubs/groc/2006/2006 Fall Fun Run Women.txt)
+* [Teams](/clubs/groc/2006/2006 Fall Fun Run Teams.txt)
+
 ### 2006 Spring
+
+**Spring 10k:**
+* [Overall 10K Results](/clubs/groc/2006/2006 Spring 10k.txt)
+
+**Spring 2 Mile Fun Run:**
+* [Age Groups](/clubs/groc/2006/2006 Fall Fun Run Age Groups.txt)
+* [Men](/clubs/groc/2006/2006 Spring Fun Run Men.txt)
+* [Women](/clubs/groc/2006/2006 Spring Fun Run Women.txt)
+* [Teams](/clubs/groc/2006/2006 Spring Fun Run Teams.txt)
 
 ## 2005
 

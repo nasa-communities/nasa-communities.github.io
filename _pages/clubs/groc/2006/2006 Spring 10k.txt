@@ -1,0 +1,59 @@
+"Spring '06 10-K at Greenbelt Lake, 4/19/06"							
+Rank	Number	Name	Time	Gender	Birth Date	Age	Note
+1	1	Ted Poulos	39.28	M	12/6/61	44	
+2	224	Tom Winkert	39.41	M	4/28/64	41	
+3	236	Al Mariano	41:50	M	4/19/66	40	
+4	52	Kent McCullough	42:26	M	1/12/57	49	
+5	50	Jesse Leitner	43:41	M	9/15/69	36	
+6	57	Blair Unger	43:42	M	8/20/81	24	
+7	49	Tom Nolan	44:53	M	9/10/52	53	
+8	223	Gary Hinshaw	45:02	M	4/19/59	47	
+9	235	Peter Colarco	47:37	M	6/5/71	34	
+10	230	Ian Richardson	48:44	M	12/24/56	49	
+11	226	Timothy Oldham	49:31	M	1/14/47	59	
+12	225	Krister Nielsen	50:08	M	11/15/70	35	
+13	47	Jan Merka	51:21	M	2/13/73	33	
+14	220	Daniel Redmon	52:26	M	2/26/80	26	
+15	217	Avi Mandell	52:28	M	9/17/77	28
+16	248	Matthew Deland	54:05	M	8/17/61	44
+17	51	Bo Naasz	54:13	M	4/2/77	29
+18	222	Amy Fedorchak	56:24	F	11/22/64	41
+19	227	Dagmar Merkova	56:45	F	9/10/70	35
+20	53	Christian Poivey	59:19	M	12/2/60	45
+21	218	Tony Stocker	59:45	M	2/16/72	34
+22	239	Diane Dobak	60:08	F	5/27/59	46
+23	246	Torchia Kelly	61:01	F	7/3/66	39
+24	240	Olga Richardson	61:14	F	8/31/71	34
+25	241	Christopher Cohoon	61:15	M	7/23/75	30
+26	219	Erich Stocker	62:04	M	10/28/46	59
+27	237	Douglas Collins	62:13	M	6/18/56	49
+28	54	Jeremy Richardson	64:05	M	4/6/75	31
+29	247	Suri Patel	64:49	M	10/20/51	54
+30	229	Rud Moe	65:38	M	10/6/44	61
+31	48	Larry Coy	66:35	M	2/14/52	54	
+32	232	Robert Frederickson	67:36	M	5/29/60	45	
+33	243	Cathy Marx	67:36	F	12/31/67	38	
+34	242	Dave Content	68:07	M	9/10/60	45	
+35	234	Mark Schoeberl	68:37	M	12/7/48	57	
+36	228	Mark Allen	70:52	M	1/13/59	47	
+37	245	Barbara Pfarr	70:52	F	(not filled in)	46	<-(from prev results)
+38	233	Anne Douglass	71:03	F	2/9/49	57	
+39	244	Rosina Iping	72:27	F	9/27/49	56	
+40	375	Tomoko Adachi   	73:00	F	(not filled in)	47	Walker started 30 minutes late
+41	374	Gunther Kletetschka	74:00	M	(not filled in)	41	Walker started 30 minutes late
+42	231	Jim Keat	90:35	M	4/3/32	74	
+43	?	Vilem Mikula	126:27	M	7/25/63	42	
+44	221	Malcolm Cannon	DNF	M	7/23/52	53	
+
+							
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
