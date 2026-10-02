@@ -40,7 +40,7 @@ anchors:
   - { text: 2011 Spring, anchor: "#2011-spring" }
 ---
 
-Please [contact GROC](https://nasa-communities.org/clubs/groc/#contact-us) for results from past years' races (back to the 1970s!).
+Please [contact GROC](https://nasa-communities.org/clubs/groc/#contact-us) for any missing results!
 
 ## 2026
 
