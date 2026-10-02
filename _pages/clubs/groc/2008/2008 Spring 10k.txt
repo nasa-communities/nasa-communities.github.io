@@ -1,0 +1,34 @@
+"Spring '08 10-K at Greenbelt Lake, 4/23/08"						
+Rank	Bib	Name		Time		Gender	Age	
+1	92	Ted Poulos	38:12:00	M	46	Guest
+2	73	Daniel Mueller	38:23:00	M	31	
+3	91	Mark Wojenski	38:54:00	M	26	
+4	69	Tom Winkert	40:55:00	M	43	
+5	93	Tom Nolan	46:04:00	M	55	
+6	65	Nicolas Iro	47:17:00	M	30	
+7	89	Brent Robertson	48:28:00	M	46	
+8	94	Andrea Bennett	49:03:00	F	28	
+9	70	Gerard Ryan	49:45:00	M	24	
+10	78	Tim Metz	50:01:00	M	33	
+11	87	Tim Oldham	50:22:00	M	61	
+12	76	Rich Luquette	50:34:00	M	56	
+13	95	Eric Nielsen	51:06:00	M	51	
+14	72	Tony Stocker	52:18:00	M	36	
+15	74	Melissa Vess	53:01:00	F	28	
+16	84	Narsima Rao	53:30:00	M	51	
+17	83	Tony Martino	54:21:00	M	47	
+18	71	William Bamford	56:11:00	M	33	
+19	67	Andy Negri	57:53:00	M	55	
+20	77	Dagmar Merkova	57:55:00	F	37	Dependent
+21	80	Zach Pricskoin	58:07:00	M	28	Guest
+22	82	Laura Spector	59:18:00	F	26	
+23	85	Kristy Bennett	61:40:00	F	26	
+24	66	Donald Chu	64:05:00	M	54	
+25	88	Angie Kowalewski	68:46:00	F	34	
+26	90	Matt Kowalewski	68:48:00	M	34	Dependent
+27	64	Larry Stake	72:44:00	M	60	
+28	79	Mark Allen	73:35:00	M	49	
+29	68	Mary Li	74:59:00	F	54	
+30	81	Amy Pruett	75:25:00	F	23	
+31	75	John Putman	75:29:00	M	38
+32	86	Caroline Ardolini	DNF	F	41

@@ -1,0 +1,35 @@
+"Fall '08 10-K at Greenbelt Lake, 10/15/08"												
+Rank	Bib	Name			Time		Gender	Age							
+1	297	Alvin Yew		36:57:00	M	23							
+2	196	Ted Poulos		41:47:00	M	46	Guest						
+3	92	Tom Winkert		42:07:00	M	44							
+4	49	Mark Baugh		49:06:00	M	49							
+5	91	Bob Bindschadler	51:13:00	M	58							
+6	200	Narsima Rao		52:20:00	M	51							
+7	299	Ryan Gerard		53:21:00	M								
+8	293	Douglas McGuffey	53:36:00	M	50							
+9	295	Rich Luquette		53:45:00	M	57							
+10	90	Chuck Naegeli		53:56:00	M	60							
+11	95	Timothy Oldham		54:25:00	M	61							
+12	198	Mark Deland		54:39:00	M	47							
+13	302	Manuel Quijada		54:41:00	M	46							
+14	93	Tony Stocker		55:15:00	M	36							
+15	97	Craig Jamieson		55:20:00	M	48							
+16	89	John Peil		56:14:00	M	23							
+17	99	Tony Martino		57:26:00	M	47							
+18	98	Mark Beckman		59:29:00	M	40							
+19	94	Chris Cohoon		60:22:00	M	33							
+20	294	Catherine McGuffey	60:23:00	F	47	Dependent						
+21	304	James Neal		63:59:00	M	40							
+22	296	Dave Content		64:08:00	M	48							
+23	197	Angie Kowalewski	65:11:00	F	34	Guest						
+24	199	Diane Dobak		66:07:00	F	49							
+25	298	Julia Barsi		67:52:00	F	33							
+26	300	Tomoko Adachi		78:24:00	M	49							
+27	301	Erik Clark		78:25:00	M	30							
+28	303	Kamili Jackson		91:57:00	F	34							
+29	96	Mark Allen		92:41:00	M	49							
+												
+												
+												
+												

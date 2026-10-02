@@ -1,0 +1,221 @@
+	Page	1				
+	65th	NASA	Intercenter	Run		
+	Goddard	Space	Flight	Center		
+	April	"16,"	2008			
+
+	TEAM	FINISHERS	BY	TIME		
+
+Num	Name	Sex	Time			
+====	========================	===	=======			
+
+TEAM	=	GOES-R	FUN	RUN	TEAM	
+
+	119	Steve	Bailey	M	14:12	GOES-R
+	106	David	Griffiths	M	14:41	GOES-R
+	107	Jim	Basl	M	14:42	GOES-R
+	166	Ronald	Hooker	M	15:20	GOES-R
+	167	Dereck	Robinson	M	15:44	GOES-R
+	103	Robert	Latin	M	16:30	GOES-R
+	110	Christian	Wallislit	M	16:31	GOES-R
+	102	Robert	Woodward	M	18:22	GOES-R
+	113	Hal	Bloom	M	18:22	GOES-R
+	108	Julie	McNeil	F	19:08	GOES-R
+	117	Ann	Haase	F	19:28	GOES-R
+	317	Jeremy	Wilson	M	19:52	GOES-R
+	105	Michael	Milligan	M	20:35	GOES-R
+	6	Barbara	Pfarr	F	21:24	GOES-R
+	173	Monica	Todirta	F	22:08	GOES-R
+	170	Sandler	Belizaire	M	25:53:00	GOES-R
+	174	Wilfred	Mazur	M	25:53:00	GOES-R
+	171	Kenny	Morris	M	26:53:00	GOES-R
+	111	William	Callicott	M	31:41:00	GOES-R
+	120	Lisa	Hurt	F	33:23:00	GOES-R
+	118	Tasha	Kinney	F	33:25:00	GOES-R
+	115	Calvin	Williams	M	33:27:00	GOES-R
+	104	Deborah	Harrison	F	38:26:00	GOES-R
+	116	Nicole	Solomon	F	38:35:00	GOES-R
+	121	Mark	Brumfield	M	38:35:00	GOES-R
+	175	Mary	Petruzzo	F	38:35:00	GOES-R
+	114	Gregory	Mandt	M	38:37:00	GOES-R
+	7	Mary	Bernard	F	38:40:00	GOES-R
+	8	Christopher	Morris	M	38:41:00	GOES-R
+
+Number	listed:	29				
+
+TEAM	=	HST	FOCUS	ON	THE	FINISH
+
+	265	Greg	Waldo	M	14:20	HST
+	269	Bill	Clagett	M	15:34	HST
+	261	Larry	Dunham	M	16:19	HST
+	268	Charles	Mulligan	M	17:14	HST
+	257	Jack	Sanders	M	17:36	HST
+	272	Larry	Stake	M	17:56	HST
+	263	John	Wirzburger	M	20:48	HST
+	256	Joyce	King	F	21:22	HST
+	266	Charles	Hicks	M	26:32:00	HST
+	273	Patricia	Manalanson	F	30:36:00	HST
+	264	Deneen	Lewis	F	32:08:00	HST
+	254	Diane	Day	F	34:50:00	HST
+	255	Manday	Khader	F	34:51:00	HST
+	260	Urmi	Dutta	F	38:04:00	HST
+	258	Saroj	Gutt	F	38:40:00	HST
+
+Number	listed:	15				
+
+TEAM	=	JWST	FIRST	LIGHTS	TEAM	
+
+	329	Thomas	Johnson	M	14:35	JWST
+	49	Paul	Cleveland	M	17:53	JWST
+	38	Kevin	Parker	M	20:47	JWST
+	50	Ed	Greville	M	21:24	JWST
+	47	Ratna	Sengupta	F	26:28:00	JWST
+
+Number	listed:	5				
+
+TEAM	=	L-SAT	GOLDBRICKIN'	HOT-TUBBERS		
+
+	209	Mark	Wojenski	M	11:38	L-SAT
+	204	Timothy	Wilcox	M	19:02	L-SAT
+	202	Michael	McClellan	M	22:51	L-SAT
+	203	Robert	Zoller-Gritz	M	33:17:00	L-SAT
+
+Number	listed:	4				
+
+TEAM	=	OFF	THE	MESA		
+
+	296	Scott	Glubke	M	13:59	MESA
+	289	Luke	Winternitz	M	14:20	MESA
+	294	Melissa	Vess	F	14:43	MESA
+	149	Rich	Luquette	M	14:50	MESA
+	288	Colby	Goodloe	M	14:53	MESA
+	297	Rich	Eckert	M	14:56	MESA
+	295	Rivers	Lamb	M	16:07	MESA
+	298	Sarah	MacPherson	F	16:24	MESA
+	287	Steve	Srotzky	M	16:54	MESA
+	286	Gregory	Heckler	M	17:12	MESA
+	292	Mark	Beckman	M	17:39	MESA
+	323	Apurna	Varia	M	38:49:00	MESA
+	293	Caitlin	Eubank	F	39:08:00	MESA
+	299	Alison	Gallagher-Rogers	F	39:10:00	MESA
+	285	Mark	Fiebig	M	39:11:00	MESA
+
+Number	listed:	15				
+
+TEAM	=	PAO				
+
+	231	Laura	Spector	F	17:11	PAO
+	230	Christopher	Smith	M	19:14	PAO
+	219	Tara	Clopper	F	22:19	PAO
+	220	Carmel	Conaty	F	22:24	PAO
+	229	Amy	Pruett	F	22:24	PAO
+	222	Marci	Delaney	F	23:44	PAO
+	217	Maria	Acevedo	F	23:45	PAO
+	218	Lynn	Chandler	F	32:24:00	PAO
+	349	Robert	Gutro	M	32:37:00	PAO
+	225	Rani	Gran	F	32:38:00	PAO
+	221	Leslee	Cork	F	33:39:00	PAO
+	223	Rebecca	Elliott	F	35:18:00	PAO
+	227	Susan	Hendrix	F	35:18:00	PAO
+	224	Robert	Garner	M	35:26:00	PAO
+	228	Robert	Naeye	M	35:27:00	PAO
+
+Number	listed:	15				
+
+TEAM	=	PPS	MEASUREMENT	BASED	RUNNERS	
+
+	156	Amy	Bleich	F	22:35	PPS
+	128	Yimin	Ji	M	22:48	PPS
+	60	Quyen	Nguyen	M	32:11:00	PPS
+	125	Balendran	Velauthapillai	M	32:13:00	PPS
+	126	Charles	Cosner	M	33:14:00	PPS
+	153	Quentin	Cabness	M	33:15:00	PPS
+	57	Patty	McCaughey	F	35:03:00	PPS
+	56	Tony	Stocker	M	35:04:00	PPS
+	59	Michael	McCumber	M	35:04:00	PPS
+	155	Connie	Li	F	35:05:00	PPS
+	154	Joyce	Chou	F	35:08:00	PPS
+	123	Patrick	Kolbe	M	35:18:00	PPS
+
+Number	listed:	12				
+
+TEAM	=	SDO				
+
+	210	Tom	Winkert	M	12:05	SDO
+	468	Robert	Leamon	M	12:57	SDO
+	237	Brent	Robertson	M	13:29	SDO
+	247	Kristofer	Heefner	M	15:00	SDO
+	236	Robert	Lilly	M	15:04	SDO
+	245	Andrew	Uhl	M	15:13	SDO
+	233	Chad	Salo	M	15:41	SDO
+	304	David	Robinson	M	16:42	SDO
+	234	Mike	Lilly	M	17:19	SDO
+	243	Craig	Weikel	M	18:19	SDO
+	242	Juli	Lander	F	19:18	SDO
+	250	Sarah	Mitchell	F	19:45	SDO
+	251	Brett	Allard	M	19:46	SDO
+	484	Barbara	Thompson	F	24:05:00	SDO
+	252	Alexander	Price	M	25:57:00	SDO
+	240	Marsha	Gosselin	F	29:09:00	SDO
+	235	Elizabeth	Citrin	F	29:10:00	SDO
+	244	Richard	Sticke	M	29:13:00	SDO
+	246	Dennis	Hewitt	M	29:13:00	SDO
+	239	Toni	Hegarty	F	34:32:00	SDO
+	241	Ellen	Berkeley	F	34:35:00	SDO
+	177	Stephania	Young	F	34:40:00	SDO
+	306	Donna	Warthen	F	38:47:00	SDO
+	238	Linda	Kearney	F	38:48:00	SDO
+
+Number	listed:	24				
+
+TEAM	=	SGT	FRIENDS	TEAM		
+
+	303	Andrea	Bennett	F	14:19	SGT
+	135	Dave	Williams	M	16:32	SGT
+	24	Jianhua	Chen	M	16:41	SGT
+	211	Jeffrey	Jennings	M	17:19	SGT
+	15	James	Thieman	M	17:50	SGT
+	207	Gerald	Morris	M	18:37	SGT
+	318	Michael	Calabrese	M	19:12	SGT
+	311	Darryl	Leon	M	19:38	SGT
+	33	David	Bykowski	M	19:58	SGT
+	21	Mark	Allen	M	21:01	SGT
+	274	Robert	Kilgore	M	21:14	SGT
+	29	Silesia	Pearson	F	21:36	SGT
+	41	Tony	Matthews	M	22:12	SGT
+	443	Matt	Yetman	M	22:26	SGT
+	232	Terrilynne	Hynson	F	25:09:00	SGT
+	42	Chanel	Duncan	F	26:37:00	SGT
+	450	Tom	Bagg	M	28:27:00	SGT
+	44	Tana	Bowling	F	28:35:00	SGT
+	43	Leilani	Grove	F	28:35:00	SGT
+	159	Diane	Trakas	F	29:31:00	SGT
+	196	Claudia	Krogel	F	29:49:00	SGT
+	197	Vicki	Kontson	F	29:49:00	SGT
+	193	Laura	Paschal	F	29:51:00	SGT
+	439	Mohan	Ram	M	29:52:00	SGT
+	3	Kimberlyn	Hall	F	30:22:00	SGT
+	206	Shanita	Drakeford	F	31:09:00	SGT
+	205	Renita	Springs	F	31:09:00	SGT
+	490	Joe	King	M	31:41:00	SGT
+	186	Diane	Whittington	F	32:03:00	SGT
+	182	Jesse	Whittington	M	32:04:00	SGT
+	27	Anita	Wellen	F	32:27:00	SGT
+	28	George	Johnson	M	32:28:00	SGT
+	163	Taliha	Brock	F	32:59:00	SGT
+	279	Vivek	Dwivedi	M	33:22:00	SGT
+	26	Holly	Newcomb	F	33:38:00	SGT
+	25	Angel	Butts	F	33:39:00	SGT
+	471	James	Perry	M	34:33:00	SGT
+	188	Kim	Higgins-El	F	35:22:00	SGT
+	22	Laurie	Donnelly	F	35:23:00	SGT
+	473	Dan	Paugh	M	35:23:00	SGT
+	151	Mike	Lynas	M	35:46:00	SGT
+	31	Terri	Wolfrom	F	36:08:00	SGT
+	183	Ann	Ward	F	36:59:00	SGT
+	314	Lesley	Young	F	37:05:00	SGT
+	308	Phoebe	Wescott	F	38:03:00	SGT
+	208	John	Bruce	M	38:38:00	SGT
+Number	listed:	46				
+
+
+Number	of	records:	165			
