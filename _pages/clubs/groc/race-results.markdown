@@ -507,23 +507,40 @@ Please [contact GROC](https://nasa-communities.org/clubs/groc/#contact-us) for a
 * [Women](/clubs/groc/2010/2010 Fall Fun Run Women.txt)
 * [Teams](/clubs/groc/2010/2010 Fall Fun Run Teams.txt)
 
-
 ### 2010 Spring
 
 **Spring 10k:**
 * [Overall 10K Results](/clubs/groc/2010/2010 Spring 10k.txt)
 
 **Spring 2 Mile Fun Run:**
-* [Age Groups](/clubs/groc/2011/2011 Fall Fun Run Age Groups.txt)
-* [Men](/clubs/groc/2011/2011 Spring Fun Run Men.txt)
-* [Women](/clubs/groc/2011/2011 Spring Fun Run Women.txt)
-* [Teams](/clubs/groc/2011/2011 Spring Fun Run Teams.txt)
+* [Age Groups](/clubs/groc/2010/2010 Fall Fun Run Age Groups.txt)
+* [Men](/clubs/groc/2010/2010 Spring Fun Run Men.txt)
+* [Women](/clubs/groc/2010/2010 Spring Fun Run Women.txt)
+* [Teams](/clubs/groc/2010/2010 Spring Fun Run Teams.txt)
 
 ## 2009
 
 ### 2009 Fall
 
+**Fall 10k and 2k:**
+* [Overall 10K Results](/clubs/groc/2009/2009 Fall 10k.txt)
+
+**Fall 2 Mile Fun Run:**
+* [Age Groups](/clubs/groc/2009/2009 Fall Fun Run Age Groups.txt)
+* [Men](/clubs/groc/2009/2009 Fall Fun Run Men.txt)
+* [Women](/clubs/groc/2009/2009 Fall Fun Run Women.txt)
+* [Teams](/clubs/groc/2009/2009 Fall Fun Run Teams.txt)
+
 ### 2009 Spring
+
+**Spring 10k:**
+* [Overall 10K Results](/clubs/groc/2009/2009 Spring 10k.txt)
+
+**Spring 2 Mile Fun Run:**
+* [Age Groups](/clubs/groc/2009/2009 Fall Fun Run Age Groups.txt)
+* [Men](/clubs/groc/2009/2009 Spring Fun Run Men.txt)
+* [Women](/clubs/groc/2009/2009 Spring Fun Run Women.txt)
+* [Teams](/clubs/groc/2009/2009 Spring Fun Run Teams.txt)
 
 ## 2008
 

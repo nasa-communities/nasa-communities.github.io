@@ -1,0 +1,35 @@
+"10-Km Race at Greenbelt Lake, 4/22/2009"										
+
+A cool rain kept some away but the ones who came ran
+pretty well.  The rain stopped and the temperature was
+good for a 10k (low 50s).  Mark Wojenski ran the Boston
+Marathon two days before but easily shook off any
+stiffness after the 1st lap and won in 38:20.  Care
+Salustro made her NASA 10k debut and was 1st female.
+										
+Rank	Number	Name			Time	Gender			
+1	121	Mark Wojenski		38:20	M				
+2	111	Rasmus Houborg		39:04	M				
+3	119	Tom Winkert		40:18	M					
+4	108	Kent McCullough		42:40	M				
+5	122	Ted Poulos		44:09	M					
+6	116	Tom Nolan		45:01	M					
+7	129	James Cooper		46:15	M				
+8	120	Dale Allen		48:50	M					
+9	117	Jong Kim		49:06	M					
+10	126	Tony Stocker		49:11	M					
+11	124	William Bamford		51:19	M					
+12	118	Craig Weikel		53:06	M					
+13	127	Ben Breech		53:30	M					
+14	123	Theo Muench		54:03	M					
+15	109	John Peil		54:57	M					
+16	125	Charles Southward	55:31	M					
+17	114	Ed Masuoka		56:22	M					
+18	112	Robert Wolfe		56:22	M					
+19	115	Clare Salustro		62:04	F					
+20	110	Jeffrey Pierce		62:33	M					
+21	262	Peter Barfknecht	65:04 *	M					
+22	128	Rosina Iping		66:26	F					
+23	113	Mark Allen		73:24	M					
+										
+										
