@@ -12,7 +12,7 @@ Place Num   Name                     Time    Guntime Div   Team
     4  1748 Maksym Petrenko            11:50   11:51 M4044 HELIOPHYSICS                   
     5   691 Robert Michell             12:08   12:10 M4549 HELIOPHYSICS                   
     6   528 Keshav Swaminathan         12:08   12:10 M3539                                
-    7   535 Whois This                 12:12   12:16 M4044                                
+    7   535 Ryan Fitzgibbons           12:12   12:16 M4549 OCOMM AND GET IT               
     8   724 Hansen Lian                12:20   12:27 M2529                                
     9   661 Nico Lopez                 12:34   12:36 M2529 DAY STARS                      
    10   717 William Bamford            12:41   12:43 M5054 FAST & RELATIVE                
@@ -168,4 +168,3 @@ Place Num   Name                     Time    Guntime Div   Team
   160   573 Brandon Haygood            41:13   41:13 M3539 HUMAN RACE-OURCES              
   161   745 Chris Salinas              41:36   42:03 M2529 AT MOON WALKERS                
   162   560 Justin Clerizier           41:37   42:04 M5054 AT MOON WALKERS                
-  163   149 Rebecca Yevick             44:35   44:45       LISA                           

@@ -95,5 +95,6 @@ Place Num   Name                     Time    Guntime Div   Team
    87   725 Barbara Conoway            41:00   41:00 F6064 KBR                            
    88   538 Ashley Barrientos          41:46   42:13 F3539 AT MOON WALKERS                
    89   537 Claudia Alvarez-Warren     41:47   42:13 F3539 AT MOON WALKERS                
-   90   728 Amy Bleich                 46:40   47:06 F6064                                
-   91   788 Noura Ed-Dahmany           47:13   47:16 F2529                                
+   90   149 Rebecca Yevick             44:35   44:45       LISA                           
+   91   728 Amy Bleich                 46:40   47:06 F6064                                
+   92   788 Noura Ed-Dahmany           47:13   47:16 F2529                                

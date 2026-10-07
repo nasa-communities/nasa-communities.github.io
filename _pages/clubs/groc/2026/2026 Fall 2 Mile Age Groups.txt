@@ -115,7 +115,7 @@ Place O'All Name                     Div   Time
 ===== ===== ======================== ===== ======= 
     1     4 Maksym Petrenko          M4044   11:50 
     2     5 Robert Michell           M4549   12:08 
-    3     7 Whois This               M4044   12:12 
+    3     7 Ryan Fitzgibbons         M4549   12:12 
     4    12 Luis Rodriguez De Marcos M4044   13:01 
     5    14 Matthew Blocker          M4044   13:25 
     6    22 Adam Voiland             M4044   14:01 

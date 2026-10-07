@@ -27,8 +27,16 @@
   3     40  Paula Pruessner          F     26:33.5 
   4   ( 44) Ann Cardiff              F     28:56.5 
   5   ( 59) Brooke Schweiss          F     35:09.1 
+  6   ( 90) Rebecca Yevick           F     44:34.7 
 
-  4.   114  MVS                           
+  4.   113  THE AEROSPACE CORPORATION     
+========================================
+  1      8  Natalie Ciampa           F     16:57.6 
+  2     52  Renee Dudley             F     34:39.0 
+  3     53  Tina Gentry              F     34:39.8 
+  4   ( 57) Jessica Wieman           F     34:48.7 
+
+  5.   114  MVS                           
 ========================================
   1      6  Minnie Wong              F     16:44.1 
   2     48  Silvia Romero            F     30:46.7 
@@ -38,28 +46,21 @@
   6   ( 78) Laura Ingram             F     39:25.2 
   7   ( 80) Christina Schneider      F     39:31.6 
 
-  5.   115  THE AEROSPACE CORPORATION     
-========================================
-  1      8  Natalie Ciampa           F     16:57.6 
-  2     53  Renee Dudley             F     34:39.0 
-  3     54  Tina Gentry              F     34:39.8 
-  4   ( 58) Jessica Wieman           F     34:48.7 
-
-  6.   135  SWOFAST                       
+  6.   144  SWOFAST                       
 ========================================
   1     39  Sung Eun Chung           F     26:23.7 
-  2     45  Argelia Gonzalez         F     30:01.7 
-  3     51  Daniele Heiny            F     34:26.1 
+  2     47  Argelia Gonzalez         F     30:32.7 
+  3     58  Daniele Heiny            F     34:57.1 
 
-  7.   168  GEOFORCE                      
+  7.   165  GEOFORCE                      
 ========================================
-  1     55  Amanda Demski            F     34:42.3 
-  2     56  Debbie Rivera            F     34:43.2 
-  3     57  Elizabeth Kline          F     34:43.8 
+  1     54  Amanda Demski            F     34:42.3 
+  2     55  Debbie Rivera            F     34:43.2 
+  3     56  Elizabeth Kline          F     34:43.8 
 
-  8.   193  DOWN WITH APPD                
+  8.   192  DOWN WITH APPD                
 ========================================
-  1     52  Sydney Roberts           F     34:33.2 
+  1     51  Sydney Roberts           F     34:33.2 
   2     68  Chasity Kisling          F     36:48.0 
   3     73  Gail Rohrbach            F     38:49.7 
   4   ( 74) Barbara Grofic           F     38:51.7 
@@ -69,7 +70,7 @@
   1     71  Courtney Smith           F     37:08.9 
   2     82  Carol Williams           F     40:24.3 
   3     83  Christine Windsor        F     40:24.8 
-  4   ( 84) Barbara Conoway          F     40:28.6 
+  4   ( 87) Barbara Conoway          F     40:59.6 
 
 
 

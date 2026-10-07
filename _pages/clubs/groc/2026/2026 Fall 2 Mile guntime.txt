@@ -12,7 +12,7 @@ Place Num   Name                     Guntime  Sex Div   Team
     4  1748 Maksym Petrenko          11:50.37   M M4044 HELIOPHYSICS                   
     5   691 Robert Michell           12:09.07   M M4549 HELIOPHYSICS                   
     6   528 Keshav Swaminathan       12:09.95   M M3539                                
-    7   535 Whois This               12:15.66   M M4044                                
+    7   535 Ryan Fitzgibbons         12:15.66   M M4549 OCOMM AND GET IT               
     8   724 Hansen Lian              12:26.16   M M2529                                
     9   661 Nico Lopez               12:35.79   M M2529 DAY STARS                      
    10   717 William Bamford          12:42.09   M M5054 FAST & RELATIVE                
@@ -257,6 +257,6 @@ Place Num   Name                     Guntime  Sex Div   Team
   249   560 Justin Clerizier         42:03.63   M M5054 AT MOON WALKERS                
   250   537 Claudia Alvarez-Warren   42:12.60   F F3539 AT MOON WALKERS                
   251   538 Ashley Barrientos        42:12.81   F F3539 AT MOON WALKERS                
-  252   149 Rebecca Yevick           44:44.03   M       LISA                           
+  252   149 Rebecca Yevick           44:44.03   F       LISA                           
   253   728 Amy Bleich               47:05.60   F F6064                                
   254   788 Noura Ed-Dahmany         47:15.36   F F2529                                

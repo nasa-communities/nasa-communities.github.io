@@ -17,11 +17,11 @@ Place Name                     Div   Sex Time    Agegrad
     3 William Bamford          M5054   M   12:41   73.96 
     4 Maksym Petrenko          M4044   M   11:50   73.88 
     5 Robert Michell           M4549   M   12:08   73.68 
-    6 Chuck Hudson             M3539   M   11:38   71.83 
-    7 James Chervenak          M5559   M   13:43   70.67 
-    8 Caitlin Kohli            F3539   F   13:36   70.07 
-    9 Ben Griffin              M2529   M   11:32   70.02 
-   10 Whois This               M4044   M   12:12   69.98 
+    6 Ryan Fitzgibbons         M4549   M   12:12   72.69 
+    7 Chuck Hudson             M3539   M   11:38   71.83 
+    8 James Chervenak          M5559   M   13:43   70.67 
+    9 Caitlin Kohli            F3539   F   13:36   70.07 
+   10 Ben Griffin              M2529   M   11:32   70.02 
    11 Indy Lyness              M2024   M   11:35   69.67 
    12 Bernard Kelly            M5054   M   13:38   69.40 
    13 Lori Levine              F5054   F   16:19   68.25 
@@ -44,15 +44,15 @@ Place Name                     Div   Sex Time    Agegrad
    30 Adam Voiland             M4044   M   14:01   62.32 
    31 Ian Carroll              M4549   M   14:26   61.92 
    32 Kate McGinnis            F4044   F   16:05   61.38 
-   33 Kent McCullough          M6569   M   17:54   60.92 
-   34 Arya Akmal               M5559   M   16:20   60.90 
-   35 Megan Hur                F2024   F   15:13   60.84 
-   36 Grant Barrett            M3539   M   13:47   60.59 
-   37 Andrew Yu                M3034   M   13:35   60.37 
-   38 Sean McCartney           M4549   M   15:03   60.32 
-   39 Gabriel Segnatelli       M3034   M   13:31   59.97 
-   40 Rick Carter              M5559   M   16:08   59.60 
-   41 Rodrigo Ibacache         M5054   M   15:50   59.23 
+   33 Arya Akmal               M5559   M   16:20   60.90 
+   34 Megan Hur                F2024   F   15:13   60.84 
+   35 Grant Barrett            M3539   M   13:47   60.59 
+   36 Andrew Yu                M3034   M   13:35   60.37 
+   37 Sean McCartney           M4549   M   15:03   60.32 
+   38 Gabriel Segnatelli       M3034   M   13:31   59.97 
+   39 Rick Carter              M5559   M   16:08   59.60 
+   40 Rodrigo Ibacache         M5054   M   15:50   59.23 
+   41 Kent McCullough          M6569   M   18:25   59.21 
    42 Joey Pasterski           M4044   M   14:39   59.16 
    43 Joe Skeens               M2529   M   13:47   58.64 
    44 Brad Weidema             M3539   M   14:36   58.05 
@@ -68,17 +68,17 @@ Place Name                     Div   Sex Time    Agegrad
    54 Casey McGrath            M3034   M   14:39   56.01 
    55 Brian Repp               M6064   M   18:15   55.45 
    56 Emmie Aufderheide        F2529   F   16:45   55.27 
-   57 Trevin Dear              M3539   M   15:15   55.20 
-   58 Alvaro Ivanoff           M5054   M   17:02   55.06 
-   59 Ralph Welsh Jr           M7099   M   29:51   54.79 
-   60 Richard Ullman           M6064   M   18:50   54.71 
-   61 Jeremy Werdell           M5054   M   17:12   54.54 
-   62 Jennifer Beall           F5559   F   21:37   54.32 
-   63 Joe Miko                 M6064   M   18:52   54.13 
-   64 Max Beal                 M2529   M   15:05   53.58 
-   65 Aaron Curtis             M4549   M   16:34   53.52 
-   66 Daniel Bae               M3034   M   15:23   53.33 
-   67 Lucas Snyder             M2024   M   15:11   53.18 
+   57 Ralph Welsh Jr           M7099   M   29:51   54.79 
+   58 Richard Ullman           M6064   M   18:50   54.71 
+   59 Jeremy Werdell           M5054   M   17:12   54.54 
+   60 Joe Miko                 M6064   M   18:52   54.13 
+   61 Max Beal                 M2529   M   15:05   53.58 
+   62 Aaron Curtis             M4549   M   16:34   53.52 
+   63 Alvaro Ivanoff           M5054   M   17:33   53.44 
+   64 Trevin Dear              M3539   M   15:46   53.39 
+   65 Daniel Bae               M3034   M   15:23   53.33 
+   66 Lucas Snyder             M2024   M   15:11   53.18 
+   67 Jennifer Beall           F5559   F   22:08   53.05 
    68 Kenneth Christian        M3539   M   15:53   52.97 
    69 Jim Whipple              M3034   M   15:20   52.91 
    70 Phillip Denton           M3539   M   15:50   52.75 
@@ -111,35 +111,35 @@ Place Name                     Div   Sex Time    Agegrad
    97 Federico Sanidad         M5054   M   19:36   48.26 
    98 Andrew Inglis            M4044   M   18:01   48.10 
    99 Chamara Rajapkashe       M3539   M   17:33   47.95 
-  100 Stephen Lebair           M3034   M   16:58   47.78 
-  101 Jessica Almy             F4044   F   20:28   47.76 
-  102 Kathleen Blackman        F5559   F   25:19   47.68 
-  103 Ju-Hung Chao             M4044   M   18:09   47.39 
-  104 Daniel Abernathy         M4549   M   19:03   47.30 
-  105 Kelly Whalen             F3034   F   19:39   47.22 
-  106 Sarah Dangelo            F2529   F   19:38   47.14 
-  107 Andre Smith              M4549   M   18:50   47.08 
-  108 Meng Gao                 M4549   M   18:54   46.94 
-  109 Miguel Hernandez         M3539   M   17:41   46.90 
-  110 Kohei Yamamoto           M3034   M   17:32   46.40 
-  111 Kenji Numata             M5054   M   20:02   46.05 
-  112 Jessi Ende               F3034   F   20:22   46.01 
-  113 Sahil Handa              M2024   M   17:34   45.95 
-  114 Bruce Trout              M6569   M   22:51   45.91 
+  100 Jessica Almy             F4044   F   20:28   47.76 
+  101 Kathleen Blackman        F5559   F   25:19   47.68 
+  102 Ju-Hung Chao             M4044   M   18:09   47.39 
+  103 Daniel Abernathy         M4549   M   19:03   47.30 
+  104 Kelly Whalen             F3034   F   19:39   47.22 
+  105 Sarah Dangelo            F2529   F   19:38   47.14 
+  106 Meng Gao                 M4549   M   18:54   46.94 
+  107 Miguel Hernandez         M3539   M   17:41   46.90 
+  108 Kohei Yamamoto           M3034   M   17:32   46.40 
+  109 Stephen Lebair           M3034   M   17:29   46.36 
+  110 Kenji Numata             M5054   M   20:02   46.05 
+  111 Jessi Ende               F3034   F   20:22   46.01 
+  112 Sahil Handa              M2024   M   17:34   45.95 
+  113 Bruce Trout              M6569   M   22:51   45.91 
+  114 Andre Smith              M4549   M   19:21   45.82 
   115 William Desprats         M3034   M   17:58   45.43 
   116 Tumkur Raghuram          M6064   M   22:20   45.34 
   117 Emerson Sirk             M2529   M   17:50   45.30 
   118 Mark Solomon             M6569   M   23:49   45.30 
-  119 Raymond Jones            M4549   M   19:49   45.11 
-  120 Michal Hlinka            M4549   M   19:57   44.81 
-  121 Lawrence Coy             M7099   M   26:06   44.67 
-  122 Larysa Paliashchuk       F3539   F   21:13   44.62 
-  123 Frank Fried              M4044   M   19:39   44.45 
-  124 Asha Rani                F4549   F   23:51   44.39 
-  125 Brian Simpson            M4044   M   19:16   44.31 
-  126 Chigo Ngwira             M4549   M   20:22   44.24 
-  127 Mike Arida               M5559   M   22:32   44.15 
-  128 Zach McQueen             M3034   M   18:23   44.09 
+  119 Michal Hlinka            M4549   M   19:57   44.81 
+  120 Lawrence Coy             M7099   M   26:06   44.67 
+  121 Larysa Paliashchuk       F3539   F   21:13   44.62 
+  122 Frank Fried              M4044   M   19:39   44.45 
+  123 Asha Rani                F4549   F   23:51   44.39 
+  124 Brian Simpson            M4044   M   19:16   44.31 
+  125 Chigo Ngwira             M4549   M   20:22   44.24 
+  126 Mike Arida               M5559   M   22:32   44.15 
+  127 Zach McQueen             M3034   M   18:23   44.09 
+  128 Raymond Jones            M4549   M   20:20   43.97 
   129 Hassan Oudrari           M6064   M   23:12   43.62 
   130 Kanghyun Baek            M4044   M   19:36   43.57 
   131 Jonathan Boblitt         M3539   M   19:21   43.47 
@@ -157,11 +157,11 @@ Place Name                     Div   Sex Time    Agegrad
   143 Mark Buddoo              M5559   M   22:47   42.18 
   144 John Almy                M4044   M   20:28   42.04 
   145 Debbie Rivera            F6569   F   34:44   41.05 
-  146 Dimitris Vassiliadis     M6064   M   24:43   40.94 
-  147 Corrine Rojas            F3034   F   22:53   40.78 
-  148 Jennifer Gomez           F3539   F   23:14   40.76 
-  149 Kendra Farnsworth        F3034   F   23:00   40.73 
-  150 Paula Pruessner          F4549   F   26:34   40.36 
+  146 Corrine Rojas            F3034   F   22:53   40.78 
+  147 Jennifer Gomez           F3539   F   23:14   40.76 
+  148 Kendra Farnsworth        F3034   F   23:00   40.73 
+  149 Paula Pruessner          F4549   F   26:34   40.36 
+  150 Dimitris Vassiliadis     M6064   M   25:14   40.10 
   151 Michael Krainak          M6569   M   26:41   40.05 
   152 Michael Naylor           M4044   M   22:04   39.90 
   153 Venku Jayanti            M6569   M   26:33   39.89 
@@ -179,9 +179,9 @@ Place Name                     Div   Sex Time    Agegrad
   165 Perry Sebreny            M6569   M   27:52   37.64 
   166 Kimberly Gomez           F3539   F   26:06   37.09 
   167 Tina Gentry              F6064   F   34:40   36.86 
-  168 Li Jiang-Harrison        F4044   F   26:56   36.64 
-  169 Koni S. Traore           F6064   F   36:00   36.59 
-  170 Nancy Iacona             F6064   F   36:44   36.41 
+  168 Koni S. Traore           F6064   F   36:00   36.59 
+  169 Nancy Iacona             F6064   F   36:44   36.41 
+  170 Li Jiang-Harrison        F4044   F   27:27   35.95 
   171 Miead Nikfarjam          M4044   M   24:10   35.86 
   172 Renee Reynolds           F4549   F   30:04   35.65 
   173 Barbara Grofic           F6569   F   38:52   35.51 
@@ -189,18 +189,18 @@ Place Name                     Div   Sex Time    Agegrad
   175 Jay Friedlander          M6569   M   29:34   35.48 
   176 Melissa Olsen            F3539   F   27:10   35.08 
   177 Sung Eun Chung           F2529   F   26:24   35.05 
-  178 Scott Witschey           M2529   M   23:04   34.98 
-  179 Argelia Gonzalez         F4549   F   30:02   34.83 
-  180 Renee Dudley             F5559   F   34:39   34.82 
-  181 Lisa Godley              F5559   F   35:39   34.32 
-  182 Iesha Gathers            F4549   F   30:11   34.25 
+  178 Renee Dudley             F5559   F   34:39   34.82 
+  179 Lisa Godley              F5559   F   35:39   34.32 
+  180 Iesha Gathers            F4549   F   30:11   34.25 
+  181 Argelia Gonzalez         F4549   F   30:33   34.24 
+  182 Scott Witschey           M2529   M   23:35   34.22 
   183 E Bell                   M6569   M   31:37   33.80 
   184 Samuel Kitchen-Mckinley  M4044   M   26:04   33.76 
   185 Greg Gilles              M3034   M   24:07   33.72 
   186 E Corbin                 F6064   F   39:24   33.43 
   187 Gail Rohrbach            F6064   F   38:50   32.91 
   188 Tia McCoy                F2529   F   28:37   32.34 
-  189 Barbara Conoway          F6064   F   40:29   32.04 
+  189 Barbara Conoway          F6064   F   41:00   31.64 
   190 Carol Williams           F6064   F   40:25   31.63 
   191 Darlene Mayo-Seay        F5054   F   36:54   31.38 
   192 Beverley Winkert         F5559   F   39:00   31.38 
@@ -218,51 +218,51 @@ Place Name                     Div   Sex Time    Agegrad
   204 Elizabeth Kline          F4044   F   34:44   28.13 
   205 Jessica Wieman           F4044   F   34:49   28.06 
   206 Jake Lyssy               M2024   M   28:57   27.88 
-  207 Rebecca Yevick                   M   44:35   27.73 
-  208 George Winkert           M6569   M   39:01   27.66 
-  209 John Lloyd               M5559   M   35:51   27.50 
-  210 Daniele Heiny            F3539   F   34:27   27.49 
-  211 Amy Bleich               F6064   F   46:40   27.39 
-  212 Sehar Najeeb             F3539   F   35:47   27.06 
-  213 Joanna Hagerty           F4044   F   36:55   27.04 
-  214 Richard Slonaker         M6569   M   38:50   27.01 
-  215 Brian Hughes             M5054   M   34:30   26.96 
-  216 Alicia Jose              F3539   F   36:05   26.82 
-  217 Sydney Roberts           F2529   F   34:34   26.77 
-  218 Invalid Person           F4044   F   36:31   26.76 
-  219 Brooke Schweiss          F3034   F   35:10   26.45 
-  220 John Hartnett            M4549   M   34:34   26.26 
-  221 Christopher Roberts      M4549   M   34:36   26.24 
-  222 Laura Ingram             F4549   F   39:26   26.22 
-  223 Emily Smith              F4549   F   39:31   26.16 
-  224 Benjamin Yevick                  M   40:58   25.98 
-  225 Tom Hughes               M6064   M   39:27   25.88 
-  226 Geri Lyle                F4044   F   38:13   25.82 
-  227 Jeff Baron               M5559   M   38:16   25.76 
-  228 Troy Dunn                M5054   M   36:43   25.53 
-  229 Durgesh Rai              M4044   M   34:34   25.46 
-  230 Courtney Smith           F3539   F   37:09   25.34 
-  231 Ratan Debnath            M5054   M   36:28   25.29 
-  232 Deanna Yu                F4044   F   39:26   25.03 
-  233 Christina Schneider      F4044   F   39:32   24.96 
-  234 Adam Reardon             M4044   M   34:49   24.89 
-  235 Timothy Beach            M5559   M   38:51   24.74 
-  236 Anna Windle              F3034   F   39:32   23.52 
-  237 Claudia Alvarez-Warren   F3539   F   41:47   22.98 
-  238 Octavia Millwood         F3034   F   40:36   22.82 
-  239 Harry White              M4549   M   38:54   22.80 
-  240 Alyssa Grejda            F2529   F   40:36   22.80 
-  241 Katelyn Lively           F2529   F   40:36   22.79 
-  242 Ashley Barrientos        F3539   F   41:46   22.67 
-  243 Corey Lyon               M4044   M   38:14   22.50 
-  244 Brian Smith              M3539   M   37:09   22.48 
-  245 Lance Emery              M4549   M   39:33   22.43 
-  246 Bill Thomas              M4044   M   39:25   22.33 
-  247 Pouria Nikou             M4044   M   39:35   22.23 
-  248 Justin Clerizier         M5054   M   41:37   22.17 
-  249 Brian Parrucci           M4044   M   39:24   22.16 
-  250 Brandon Haygood          M3539   M   40:42   20.82 
-  251 Anthony Griffin Ii       M2529   M   38:53   20.75 
+  207 George Winkert           M6569   M   39:01   27.66 
+  208 John Lloyd               M5559   M   35:51   27.50 
+  209 Amy Bleich               F6064   F   46:40   27.39 
+  210 Daniele Heiny            F3539   F   34:58   27.09 
+  211 Sehar Najeeb             F3539   F   35:47   27.06 
+  212 Joanna Hagerty           F4044   F   36:55   27.04 
+  213 Richard Slonaker         M6569   M   38:50   27.01 
+  214 Brian Hughes             M5054   M   34:30   26.96 
+  215 Alicia Jose              F3539   F   36:05   26.82 
+  216 Sydney Roberts           F2529   F   34:34   26.77 
+  217 Invalid Person           F4044   F   36:31   26.76 
+  218 Brooke Schweiss          F3034   F   35:10   26.45 
+  219 John Hartnett            M4549   M   34:34   26.26 
+  220 Christopher Roberts      M4549   M   34:36   26.24 
+  221 Laura Ingram             F4549   F   39:26   26.22 
+  222 Emily Smith              F4549   F   39:31   26.16 
+  223 Benjamin Yevick                  M   40:58   25.98 
+  224 Tom Hughes               M6064   M   39:27   25.88 
+  225 Geri Lyle                F4044   F   38:13   25.82 
+  226 Jeff Baron               M5559   M   38:16   25.76 
+  227 Troy Dunn                M5054   M   36:43   25.53 
+  228 Durgesh Rai              M4044   M   34:34   25.46 
+  229 Courtney Smith           F3539   F   37:09   25.34 
+  230 Ratan Debnath            M5054   M   36:28   25.29 
+  231 Deanna Yu                F4044   F   39:26   25.03 
+  232 Christina Schneider      F4044   F   39:32   24.96 
+  233 Adam Reardon             M4044   M   34:49   24.89 
+  234 Timothy Beach            M5559   M   38:51   24.74 
+  235 Anna Windle              F3034   F   39:32   23.52 
+  236 Claudia Alvarez-Warren   F3539   F   41:47   22.98 
+  237 Octavia Millwood         F3034   F   40:36   22.82 
+  238 Harry White              M4549   M   38:54   22.80 
+  239 Alyssa Grejda            F2529   F   40:36   22.80 
+  240 Katelyn Lively           F2529   F   40:36   22.79 
+  241 Ashley Barrientos        F3539   F   41:46   22.67 
+  242 Corey Lyon               M4044   M   38:14   22.50 
+  243 Brian Smith              M3539   M   37:09   22.48 
+  244 Lance Emery              M4549   M   39:33   22.43 
+  245 Bill Thomas              M4044   M   39:25   22.33 
+  246 Pouria Nikou             M4044   M   39:35   22.23 
+  247 Justin Clerizier         M5054   M   41:37   22.17 
+  248 Brian Parrucci           M4044   M   39:24   22.16 
+  249 Rebecca Yevick                   F   44:35   20.75 
+  250 Anthony Griffin Ii       M2529   M   38:53   20.75 
+  251 Brandon Haygood          M3539   M   41:13   20.56 
   252 Josiah Killam            M3034   M   39:26   20.56 
   253 Noura Ed-Dahmany         F2529   F   47:13   19.59 
   254 Chris Salinas            M2529   M   41:36   19.39 
