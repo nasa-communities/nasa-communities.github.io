@@ -101,6 +101,8 @@ Since the center closed the fitness center, we meet at B34, which has 6 showers/
 
 ### 2026
 
+**Fall 10K (10/07/26):**
+* [Overall](/clubs/groc/2026/2026 Fall 10K.txt)
 
 **Fall 2 Mile Fun Run (09/30/26):**
 * [Guntime](/clubs/groc/2026/2026 Fall 2 Mile guntime.txt) 
