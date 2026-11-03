@@ -139,7 +139,6 @@ th:nth-child(5), td:nth-child(5) { width: 620px; }
 | 8    | Meeting     | *Critique session with MPA judge Roz Klefman. The theme is People*                         |                    | The club will host a critique session featuring guest judge Roz Klefman from Maryland Photography Alliance. Take advantage of this opportunity to receive professional feedback and improve your photographic art! The session is open to everyone to observe and listen. The theme is People. Please upload two photos to the flickr album. <br>**12-1pm<br/>Hybrid: B. 36/C202 & Microsoft Teams (link sent to club members)** |
 | 22   | Snap & Share| *Sports and Events*                        |                           | **12-1pm<br/>Hybrid: B. 36/C202 & Microsoft Teams (link sent to club members)** |
 {: .table}
--->
 
 #### August 2026
 
@@ -164,7 +163,23 @@ th:nth-child(5), td:nth-child(5) { width: 620px; }
 | 14    | Meeting     | *Club discussion on camera shopping<br/>Elections*                         | *N/A*                   | Photo Club will a discussion on camera shopping and will have its elections<br/>**12:00am-1pm<br/>Hybrid: B. 36/C202 & Microsoft Teams (link sent to club members)** |
 | 28   | Snap & Share| *Travel*                        |                           | **12-1pm<br/>Hybrid: B. 36/C202 & Microsoft Teams (link sent to club members)** |
 {: .table}
+-->
 
+#### November 2026
+
+| Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
+|------|-------------|------------------------------------------------|---------------------------|-------|
+| 12    | Meeting     | *Restoring Old photographs using Photoshop Elements by Emily Beckman*                         | *TBD*                   | Restoring Old photographs using Photoshop Elements by Emily Beckman<br/>**12:00am-1pm<br/>Hybrid: B. 36/C202 & Microsoft Teams (link sent to club members)** |
+| 28   | Snap & Share| *N/A*                        |                           | **No meeting - Happy thanksgiving!** |
+{: .table}
+
+#### December 2026
+
+| Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
+|------|-------------|------------------------------------------------|---------------------------|-------|
+| 9    | Meeting     | *Club discussion on gadgets*                         | *N/A*                   | Photo Club will have a discussion on photography gadgets <br/>**12:00am-1pm<br/>Hybrid: B. 36/C202 & Microsoft Teams (link sent to club members)** |
+| 23   | Snap & Share| *N/A*                        |                           | **No meeting - Happy Holidays!** |
+{: .table}
 <br>
 
 ### Snap and Share Topics 2026
