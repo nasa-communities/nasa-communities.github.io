@@ -109,7 +109,7 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 
   Topic: **People at work** <br>
    (12-1pm, Hybrid: B. 36/C202 and Teams)
--->
+
 
 - #### September 9, 2026 - Meeting
 
@@ -132,7 +132,19 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 
   Topic: **Travel** <br>
   (12-1pm, Hybrid: B. 36/C202 and Teams)
-  
+-->  
+- #### November 12, 2026 - Meeting
+
+  Topic: **Restoring Old photographs using Photoshop Elements** by Emily Beckman <br>
+  Featured Photographer: **TBD** <br>
+  (12-1pm, Hybrid: B. 36/C202 and Teams)
+
+ - #### December 9, 2026 - Meeting
+
+   Topic: **Gadgets** (all) <br>
+   Featured Photographer: **Rodney Coleman** <br>
+   (12-1pm, Hybrid: B. 36/C202 and Teams)
+
 ---
 
 ## Featured Photos
