@@ -169,8 +169,8 @@ th:nth-child(5), td:nth-child(5) { width: 620px; }
 
 | Date | Type        | Topic<br/>(Speaker/Leader)                     | Featured<br/>Photographer | Notes |
 |------|-------------|------------------------------------------------|---------------------------|-------|
-| 12    | Meeting     | *Restoring Old photographs using Photoshop Elements by Emily Beckman*                         | *TBD*                   | Restoring Old photographs using Photoshop Elements by Emily Beckman<br/>**12:00am-1pm<br/>Hybrid: B. 36/C202 & Microsoft Teams (link sent to club members)** |
-| 28   | Snap & Share| *N/A*                        |                           | **No meeting - Happy thanksgiving!** |
+| 12    | Meeting     | *How to maintain your camera with Arian Taliverdi from District Camera*                         | *Bill Dusterwald*                   | Arian Taliverdi from District Camera shares his expert advice on how to properly maintain and care for your camera and equipment<br/>**12:00am-1pm<br/>Hybrid: B. 36/C202 & Microsoft Teams (link sent to club members)** |
+| 28   | Snap & Share| *N/A*                        |                           | **No meeting - Happy Thanksgiving!** |
 {: .table}
 
 #### December 2026
