@@ -135,8 +135,8 @@ The Goddard Photo Club is a member of the [![Maryland Photography Alliance](/ima
 -->  
 - #### November 12, 2026 - Meeting
 
-  Topic: **Restoring Old photographs using Photoshop Elements** by Emily Beckman <br>
-  Featured Photographer: **TBD** <br>
+  Topic: **How to maintain your camera** by Arian Taliverdi from District Camera <br>
+  Featured Photographer: **Bill Dusterwald** <br>
   (12-1pm, Hybrid: B. 36/C202 and Teams)
 
  - #### December 9, 2026 - Meeting
