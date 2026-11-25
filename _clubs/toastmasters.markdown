@@ -71,22 +71,12 @@ Goddard Toastmasters meets on the **second and fourth Wednesdays** of each month
 - [Sample Agenda - 2nd Wednesday of the month](https://drive.google.com/file/d/1lQUFqdQ5srtEbFRLh776I_qgZ1bWFCe1/view?usp=drive_link)
 - [Sample Agenda - 4th Wednesday of the month](https://drive.google.com/file/d/1BL9-tgULyIqQ9XRY-nhBFHZKSjdECM03/view?usp=sharing)
 
-### Upcoming 2026 meeting dates:
+### Upcoming 2027 meeting dates:
 
-- June 10 — Hybrid in B33, Room A116
-- June 24 — Club officer elections
-- July 8
-- July 22
-- August 12
-- August 26
-- September 9
-- September 23
-- October 14
-- October 28
-- November 11
-- November 25
-- December 9
-- December 23
+- January 13 (2nd Wednesday of the month)
+
+**Remaining 2027 meeting dates: TBD.** We will discuss potential changes to our regular meeting day during the January 13 meeting. The schedule will be updated accordingly.
+
 
 We occasionally hold **hybrid meetings** that are both virtual (**Teams**) and on-site (**GSFC Building 33**).  
 Please check **Dateline Goddard** (internal to GSFC employees) for the current location or contact our VP Education or VP Membership for details. **Visitors are always welcome, including interns and summer students!**
