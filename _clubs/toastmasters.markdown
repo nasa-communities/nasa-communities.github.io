@@ -49,6 +49,14 @@ Goddard Toastmasters is open to Goddard employees, contractors, interns, and gue
 - Develop strong listening skills  
 
 <div style="text-align: center; margin: 1.5rem 0;">
+  <img src="/images/toastmasters/2026-11-25_Meeting.png"
+       alt="Goddard Toastmasters virtual Thanksgiving meeting"
+       style="max-width: 600px; width: 100%; height: auto;">
+  <p><em>Goddard Toastmasters Thanksgiving Edition — November 25, 2026.
+  Celebrating gratitude, communication, and fellowship at our virtual club meeting.</em></p>
+</div>
+
+<div style="text-align: center; margin: 1.5rem 0;">
   <img src="/images/toastmasters/goddard_toastmasters_holiday_potluck_meeting_20241211_131340.jpg" 
        alt="Goddard Toastmasters holiday potluck meeting" 
        style="max-width: 600px; width: 100%; height: auto;">
